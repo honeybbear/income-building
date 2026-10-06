@@ -1,0 +1,155 @@
+{
+  "fetched_at": "2026-10-06T15:51:48Z",
+  "sources": [
+    "Reddit r/personalfinance + r/financialindependence (public JSON)",
+    "Google News RSS (personal finance searches)"
+  ],
+  "topics": [
+    {
+      "keyword": "money",
+      "mentions": 7
+    },
+    {
+      "keyword": "budgeting",
+      "mentions": 6
+    },
+    {
+      "keyword": "tips",
+      "mentions": 6
+    },
+    {
+      "keyword": "financial",
+      "mentions": 5
+    },
+    {
+      "keyword": "here",
+      "mentions": 5
+    },
+    {
+      "keyword": "save",
+      "mentions": 5
+    },
+    {
+      "keyword": "costs",
+      "mentions": 3
+    },
+    {
+      "keyword": "budget",
+      "mentions": 3
+    },
+    {
+      "keyword": "tax",
+      "mentions": 2
+    },
+    {
+      "keyword": "post",
+      "mentions": 2
+    },
+    {
+      "keyword": "cnbc",
+      "mentions": 2
+    },
+    {
+      "keyword": "keep",
+      "mentions": 2
+    }
+  ],
+  "questions": [],
+  "discussion_highlights": [],
+  "news": [
+    {
+      "title": "Don't treat your personal finances like the government is treating your tax dollars - Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZkpySU9IZ2lyajhBOGluYnE3YnNIVGx3WEtnLVgwR0xXNjh2OVp5Skhyb3RFY1h6ZWhVRFNXeU1HOTRabXZWLW5ZbnQwQ0NVMlJLLXdLamlHd1VyV3RFelNFdnpYSFl2U2o3bE5HM3h1ai1MRlNFODVhUmM5Zi04OE01a3BJR3ZKT2tWS3VSRFRwVmJaUlVOWjVDSEhrbmRWWHZ4a0h3?oc=5",
+      "published": "Tue, 06 Oct 2026 10:06:42 GMT",
+      "source": "Financial Post"
+    },
+    {
+      "title": "More than 20 million Medicare beneficiaries may get one-time $90 payment — here's who qualifies - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNjgxYkpIX2NabjB1aGhFMHFJQzNCUkZKZi04NHQ1LUFDMGQzUVNXZ005ODVrek5Rb2tiT2dOZFprdG9iMFNYaXFPQ2FiOTF4Nk1sdENMeWRlSjU4bWU4MWRxTVBTVV9YOVJxalRsVGNrcGlwQnJvNkZZekF1eHpJbTRJMNIBiAFBVV95cUxQVUViMVo2LTI5NENTVmI5X3hLdENoWXdFUlQzWEd4RFd4Y3hBQUx1NHNkREZVMDd5R0dGNFdsZUFjNVBseUlEZkNxc1Q3Z0FBTGdVbjNUaG9iT3d4RE1yRFRuZHpKV2Z4c3pUTFp0S29KZ1VLdDVRbUlvcm9xdVZTQjVTV0xrS21p?oc=5",
+      "published": "Mon, 05 Oct 2026 15:44:54 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Caregiving is hard. These are the hidden financial costs. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQUxsRGR6TDRPd0lMWDAyUEhvclViZUFDcW5MeFN2UE1hcExLS2JlX3FuUXdQTjRvVkptak1OYUFkMUp1ZkNrVGc0dFlyd2pNTm5IUkFiaUtGRWY1STZYdFVzWE9heGtoT2ZjbGpZeWJ5UkVtZUkzVU5ZZUxSLXFfZUtqYXFELTJkdGQtN2c0WndiYUVTM01wQ19YMUFvODVYUGZkMXpR?oc=5",
+      "published": "Tue, 06 Oct 2026 14:33:09 GMT",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "Five Things I Learned in Hiring a Financial Adviser - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcDFMNXNza2hzak1HNGNLcUc2OGNNZ0FNdWJmU01VU29Oc0labnJIY1ZTVjU1Z3BCODh6STN4a0tkeXdUcU1adzY5cGx2VUJtRjFSOGQ3U2xLUTRQM0ZWNGpYb2RMeEZGYnhHUjF4bWdadmZqMGZ4OGs0ZF9mYjczYw?oc=5",
+      "published": "Sat, 03 Oct 2026 14:00:00 GMT",
+      "source": "WSJ"
+    },
+    {
+      "title": "How do I keep checks from being stolen in the mail? - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWTFnQmwyaTVBLU1CZmJQZUl4dkMzRC11dDcyc2hCdUVQZFZQNmlBejRFbmtBbVdGelRUNE5fSk1zbGF5V0pDSjZhMWFmc3E0STI0aVlycUhIMVVEUm5OS1hBSDhUUmxGbVhOLXh2YzdtQ2dNLTZYbFlVTFI2c2d4bE9sS2JvZlVsajM5YUNEcVROcXpFUkdHT3ZEbG8?oc=5",
+      "published": "Sun, 04 Oct 2026 10:00:00 GMT",
+      "source": "Los Angeles Times"
+    },
+    {
+      "title": "The $111,000 Tax Move: How to Turn Unwanted RMDs Into Intentional Charitable Giving - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzN4a2NNaHY3NmUyaHVzVkNhZkpKb3V2TnpEQ3JvRDQzLTRvSzAtc2x6VnNxWm1iNWdWNGJNOWVxWEE5ZFg4bmFLR3lXb0tTSEIyazAxOFowVzlrRjJXbkttSVZWd0FjRzRTVk53bFU3Q0ljU2ZnTVl0djNPczdUWVVsbV9XTHg4SE00OC15dTdha25OeVlOLVlmRHVfVVlLOEp4VjNJT082a0JFd2RfU2d1dGotTFJwSUhB?oc=5",
+      "published": "Tue, 06 Oct 2026 09:03:00 GMT",
+      "source": "thestreet.com"
+    },
+    {
+      "title": "The Second Year of Retirement Is When the Budget Breaks. The Retirees Who Made It Through Say Why - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTHZ0MUJ6WldSd1lnbTFwU0owQ1MxSVFiWXlxdUwxVVpGSVlid0d0ZmZiTVZmdXpiUUtqenQwOFBWUHprWWJmcW1MRFFqbEV2UDVkaVgxYk1PcmVzZl9nRktrNEpvUjdVb2Y2ZHRXYjdES1dlaThmYmZyVkJEX0gwVFZUOFJ3eGx4WEFaZFBlOHBkOE05SU5yZGUyYWxETmVJVkpyY1lQMHUyS0MwOE5LQ210clJDUzZ3Q19lNTBhT3Jra1VQVWZSdklqNF9Eb1BiOTdSWnlmZXIydFJ2Z0NwZw?oc=5",
+      "published": "Mon, 05 Oct 2026 20:44:00 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Americans say inflation has put the FIRE movement out of reach - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaGtxbE03ZllDb0VubHJ2ZTFBUWsyTkVsYU9WaVNTQ2VPdG95M1F4eURMbUFRUTJiemJYelVUTFZhTE5fRnpKc3YtRHBtczdqZ0lOVEF2VVBWdDhRQy1vRm1GckJJSDRoUzA0NWFjRThLN3RxU1NDbTZHY1FNQmxVRUVYMXFjVU1xeVd6cEhJbXUxWWRGQk0yM2Z5UWtoX2pNUi1wZWszUDVxbFVSOTBEVEY3Y2Q3VWdYeXlISDJ2MGdTVms?oc=5",
+      "published": "Sat, 03 Oct 2026 20:57:00 GMT",
+      "source": "USA Today"
+    },
+    {
+      "title": "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZXBYNURENmFVaGV4YmZ0TE9DaUlNczRGbWVrVzFybXBWTzVma0dQcmM1Tm5mU283X2JiRHphNHFoSWtXYmp0TjdoMVFzdUpEem5jZ3BVX0NuX3E4bVBZb0xzdlhUbTYwU1dFYURqQlpMenRvSmhoS0Y2RFNNRzlNUTIzVmdYMUE3WkFuOUg2VDdqZ0NObmc3Wk9zNHZqenMwbXFoM2tjZmRVSy0yZnJobTZvZDd0RmdvOXVrWkU0Q0tKU1J0S21BenhaS01kR2tzUG1sWXBSZkVpNllJOXZR?oc=5",
+      "published": "Thu, 01 Oct 2026 09:27:01 GMT",
+      "source": "The Mesa Press"
+    },
+    {
+      "title": "How to Make a Budget: A Step-By-Step Guide - nerdwallet.com",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1meUZyZ3lmaFMtN1QzVWpjbkNBMVkySWpqeXI4TlRlb0lxS0RJNUNjNFlPR2ljZGw1YUJmT3ZnU3p1SmhxQlhMU0NZdm1Ba3l1TkZvT1pFR0xrOE1lU0s0Ykx2amg?oc=5",
+      "published": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "source": "nerdwallet.com"
+    },
+    {
+      "title": "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does. - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZENLNjFXWnRpQjRHdjdBa1VhU1VnenRGTlhNdmxFRldvX3QzR3llbzN3NE5NZnhFMm9tSGJocWcxZndMRjhqcWZQeHVaYVR2SmZzakF6Z0c5VS1VRF9FNWhGRFQyY2EtQkVjWGJ0QmxQUV9qQ05ta090b1JyckVlV1ZZR1ZDVjVQeGU4M3RpUDZZMWhqX0hsSFNxN1RZQ0M5Rm01R0dSV2JieldDcS1kQ0c2SnF4WnVmTVg5LWVTSUxobFg4MURJX050Y3FQZXNhMkhB?oc=5",
+      "published": "Sat, 19 Sep 2026 07:00:00 GMT",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
+      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
+      "source": "Instacart"
+    },
+    {
+      "title": "Fall Financial Reset: 5 Budgeting Tips to Promote Fiscal Health - Star Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0FSWjlxTlJYUnNwbk9DQ2Q5Y3ZtZE11dTM4RFhwcWI1WWtTclBGVjhicWJXQ1BIekN2bFZPcTYtUmdqRlJ0WTFRdmRXVzdUV3BxeGxLcWxyODBOR2JfaTJZWEpSaFR3eXNSN0VDR21TNUN1SkJLNUpjNy0tNThDb3l1SlN2VXRyaUpDRmNtdEM2SHN4bEJsbGN2U1YtNWJNc3c?oc=5",
+      "published": "Thu, 17 Sep 2026 15:07:32 GMT",
+      "source": "Star Tribune"
+    },
+    {
+      "title": "Experts give budgeting tips for long-term care costs - KIRO 7 News Seattle",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcFU2cTUxNGxsbWpYQzRzbFUxazVUb0c2a0lvVmh5TDZ1d0Y2U0xodTlfRnZROHVlNUVPQ2tDMDdRTmpUQ196T1VyTmwxYXNieTZoRFZnWDB3dzYyM0JCX1A3NmFCX1dSc3Y4bTB3azg4U1h3aW1udjJ5UGRRWkxrTmtYWWlCNzNTVXJJYlZYNkZLTnFRM3lzMmtyZHRyaHpTVDgzT3B1Q1lCd2FsNEdOMlpOMTd0aGlFWGJj?oc=5",
+      "published": "Thu, 17 Sep 2026 19:34:30 GMT",
+      "source": "KIRO 7 News Seattle"
+    },
+    {
+      "title": "Expert provides budgeting tips to keep your money on track - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNemVmYXp6VC1iSUtEUDFwNGlnRFQ5MnlmaTY5VzJBc3o0UVVhbkdfMHRZSXdpVWZrOVpuTWxxQ3hqT3o2X3dmQm5qcWR0TTN6Tm5WZmdLX0FyVjJ6UXctbVh0MFFlTTdPeC11cll4U2FSclRWVmlGQUZYckRxSmF4Ulg0VVdrejc3VDduR3BMMXU1SGdvamgzQi1Xdl84S3hUVjhRWllyN0g4Ym14VC1uQm5QOWRVd3BtNU1IUkVhdnFjVkRuWkl0aEtsNA?oc=5",
+      "published": "Sun, 20 Sep 2026 18:01:00 GMT",
+      "source": "WFAA"
+    }
+  ],
+  "errors": [
+    "reddit r/personalfinance: HTTP Error 403: Blocked",
+    "reddit r/financialindependence: HTTP Error 403: Blocked"
+  ]
+}

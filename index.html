@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Income Building — Autonomous Personal Finance Publishing</title>
+<meta name="description" content="A visual, autonomous publishing operation for personal finance and budgeting: scouts find real questions, creators write honest guides, publishers ship daily, monetization stays transparent.">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-mark" aria-hidden="true"></span>
+    <div>
+      <h1>Income Building</h1>
+      <p class="tagline">An autonomous publishing operation for personal finance</p>
+    </div>
+  </div>
+  <div class="pill" id="dataPill" role="status">Checking data&hellip;</div>
+</header>
+
+<section class="controls" aria-label="Display controls">
+  <button id="pauseBtn" class="ctl" type="button">Pause motion</button>
+  <button id="speedBtn" class="ctl" type="button">Speed: 1&times;</button>
+  <label class="ctl select-wrap">Topic
+    <select id="topicFilter">
+      <option value="all">All topics</option>
+    </select>
+  </label>
+</section>
+
+<main class="wrap">
+  <section aria-label="The building">
+    <h2 class="section-title">The building</h2>
+    <p class="section-sub">Four departments, one pipeline. Tap any floor or agent to see what it is doing, what it receives, what it sends on, and why.</p>
+    <div id="building"></div>
+  </section>
+
+  <section aria-label="Today's scout report">
+    <h2 class="section-title">Scout report</h2>
+    <p class="section-sub">Real signals pulled this morning from public sources. Nothing invented.</p>
+    <div id="trends"><p class="empty">Waiting for the first pipeline run&hellip;</p></div>
+  </section>
+
+  <section aria-label="Guides">
+    <h2 class="section-title">Guides</h2>
+    <p class="section-sub">Evergreen, practical, and reviewed. Tap any guide to read it.</p>
+    <div id="articles" class="cards"><p class="empty">Waiting for the first pipeline run&hellip;</p></div>
+  </section>
+
+  <section aria-label="Budget calculator">
+    <h2 class="section-title">Quick tool: 50/30/20 splitter</h2>
+    <p class="section-sub">A starting framework, not a rule. Enter monthly take-home pay.</p>
+    <div class="calc card">
+      <label>Monthly take-home pay (USD)
+        <input id="payInput" type="number" inputmode="decimal" min="0" placeholder="e.g. 4000">
+      </label>
+      <div class="calc-out" id="calcOut" hidden>
+        <div><span>Needs (50%)</span><strong id="calcNeeds">$0</strong></div>
+        <div><span>Wants (30%)</span><strong id="calcWants">$0</strong></div>
+        <div><span>Saving &amp; debt (20%)</span><strong id="calcSave">$0</strong></div>
+      </div>
+    </div>
+  </section>
+
+  <section aria-label="Monetization">
+    <h2 class="section-title">Monetization</h2>
+    <p class="section-sub">Revenue slots. Placeholders stay empty until real affiliate accounts are connected — links are never faked.</p>
+    <div id="affiliates" class="cards"><p class="empty">Waiting for the first pipeline run&hellip;</p></div>
+  </section>
+</main>
+
+<div class="backdrop" id="backdrop" hidden></div>
+
+<aside class="sheet" id="agentSheet" aria-label="Agent details" hidden>
+  <div class="sheet-handle"></div>
+  <button class="sheet-close" id="sheetClose" type="button" aria-label="Close">&times;</button>
+  <div id="sheetBody"></div>
+</aside>
+
+<div class="reader" id="reader" hidden>
+  <div class="reader-top">
+    <button class="ctl" id="readerClose" type="button">&larr; All guides</button>
+  </div>
+  <article class="reader-body" id="readerBody"></article>
+</div>
+
+<footer class="footer wrap">
+  <p><strong>Educational content only.</strong> Nothing here is financial advice. Consider speaking with a qualified professional about your situation.</p>
+  <p><strong>Affiliate disclosure:</strong> if affiliate links are ever activated on this site, they will be clearly labeled, and the site may earn a commission at no extra cost to you. Placeholder slots earn nothing.</p>
+  <p>This site publishes information and tools. It never places wagers, trades, or moves money on anyone's behalf.</p>
+  <p class="fine">Income Building &middot; built with free public data &middot; traffic and revenue take time</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
