@@ -24,6 +24,11 @@ jobs:
       - name: Scout trends
         run: python3 scout.py
 
+      - name: Draft from briefs (optional AI)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python3 draft.py
+
       - name: Build articles data
         run: python3 build.py
 
@@ -31,6 +36,6 @@ jobs:
         run: |
           git config user.name "content-bot"
           git config user.email "content-bot@users.noreply.github.com"
-          git add data/articles.json data/trends.json
+          git add data/articles.json data/trends.json data/briefs.json data/drafts.json
           git diff --cached --quiet || git commit -m "Daily pipeline: $(date -u +%Y-%m-%d)"
           git push

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Monthly Budget Planner — Income Building</title>
+<meta name="description" content="A free, printable monthly budget planner. Fill in income and expenses; totals compute automatically. Print it or save the CSV.">
+<style>
+  :root { --ink: #1a1a1a; --muted: #666; --line: #ddd; --accent: #0f7a4d; }
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+         color: var(--ink); margin: 0; padding: 24px 16px; max-width: 760px; margin-inline: auto;
+         background: #fafafa; }
+  h1 { font-size: 26px; margin: 0 0 4px; }
+  .sub { color: var(--muted); margin: 0 0 20px; font-size: 14px; }
+  .month-row { display: flex; gap: 12px; margin-bottom: 20px; }
+  .month-row label { flex: 1; font-size: 13px; color: var(--muted); }
+  .month-row input { width: 100%; padding: 8px; font-size: 16px; margin-top: 4px;
+                     border: 1px solid var(--line); border-radius: 8px; }
+  table { width: 100%; border-collapse: collapse; margin: 0 0 20px; background: #fff;
+          border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+  caption { text-align: left; font-weight: 700; padding: 12px; font-size: 17px;
+            background: #f0f0f0; }
+  th, td { padding: 8px 10px; border-top: 1px solid var(--line); text-align: left; font-size: 14px; }
+  th { color: var(--muted); font-weight: 600; font-size: 12px; text-transform: uppercase; }
+  td input { width: 100%; border: none; font-size: 14px; padding: 6px 2px; background: transparent; }
+  td input:focus { outline: 2px solid var(--accent); border-radius: 4px; }
+  .total-row td { font-weight: 700; background: #f7faf8; }
+  .result { background: #fff; border: 1px solid var(--line); border-radius: 12px;
+            padding: 16px; margin-bottom: 20px; }
+  .result div { display: flex; justify-content: space-between; padding: 6px 0; font-size: 16px; }
+  .result .big { font-size: 20px; font-weight: 800; color: var(--accent); }
+  .actions { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 24px; }
+  .btn { appearance: none; border: 1px solid var(--line); background: #fff; border-radius: 10px;
+         padding: 12px 18px; font-size: 15px; cursor: pointer; text-decoration: none; color: var(--ink); }
+  .btn.primary { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 700; }
+  .fine { font-size: 12px; color: var(--muted); }
+  @media print {
+    body { background: #fff; padding: 0; }
+    .actions, .fine.noprint { display: none; }
+    td input { border-bottom: 1px dotted #999; }
+  }
+</style>
+</head>
+<body>
+<h1>Monthly Budget Planner</h1>
+<p class="sub">Free worksheet from Income Building. Type your numbers — totals update live. Print it for the fridge, or grab the CSV.</p>
+
+<div class="month-row">
+  <label>Month <input id="month" type="month"></label>
+  <label>Take-home pay goal (USD) <input id="goal" type="number" min="0" placeholder="e.g. 4000"></label>
+</div>
+
+<table id="incomeTbl">
+  <caption>Income</caption>
+  <thead><tr><th>Source</th><th>Planned</th><th>Actual</th></tr></thead>
+  <tbody>
+    <tr><td><input value="Paycheck" aria-label="Income source"></td><td><input class="p" type="number" min="0" aria-label="Planned"></td><td><input class="a" type="number" min="0" aria-label="Actual"></td></tr>
+    <tr><td><input value="Side income" aria-label="Income source"></td><td><input class="p" type="number" min="0" aria-label="Planned"></td><td><input class="a" type="number" min="0" aria-label="Actual"></td></tr>
+    <tr><td><input value="Other" aria-label="Income source"></td><td><input class="p" type="number" min="0" aria-label="Planned"></td><td><input class="a" type="number" min="0" aria-label="Actual"></td></tr>
+    <tr class="total-row"><td>Total income</td><td id="incP">$0</td><td id="incA">$0</td></tr>
+  </tbody>
+</table>
+
+<table id="expTbl">
+  <caption>Expenses</caption>
+  <thead><tr><th>Category</th><th>Planned</th><th>Actual</th></tr></thead>
+  <tbody>
+    <tr><td><input value="Housing (rent/mortgage)" aria-label="Expense category"></td><td><input class="p" type="number" min="0" aria-label="Planned"></td><td><input class="a" type="number" min="0" aria-label="Actual"></td></tr>
+    <tr><td><input value="Groceries" aria-label="Expense category"></td><td><input class="p" type="number" min="0" aria-label="Planned"></td><td><input class="a" type="number" min="0" aria-label="Actual"></td></tr>
+    <tr><td><input value="Transport" aria-label="Expense category"></td><td><input class="p" type="number" min="0" aria-label="Planned"></td><td><input class="a" type="number" min="0" aria-label="Actual"></td></tr>
+    <tr><td><input value="Utilities &amp; phone" aria-label="Expense category"></td><td><input class="p" type="number" min="0" aria-label="Planned"></td><td><input class="a" type="number" min="0" aria-label="Actual"></td></tr>
+    <tr><td><input value="Debt payments" aria-label="Expense category"></td><td><input class="p" type="number" min="0" aria-label="Planned"></td><td><input class="a" type="number" min="0" aria-label="Actual"></td></tr>
+    <tr><td><input value="Subscriptions" aria-label="Expense category"></td><td><input class="p" type="number" min="0" aria-label="Planned"></td><td><input class="a" type="number" min="0" aria-label="Actual"></td></tr>
+    <tr><td><input value="Fun money" aria-label="Expense category"></td><td><input class="p" type="number" min="0" aria-label="Planned"></td><td><input class="a" type="number" min="0" aria-label="Actual"></td></tr>
+    <tr><td><input value="Other" aria-label="Expense category"></td><td><input class="p" type="number" min="0" aria-label="Planned"></td><td><input class="a" type="number" min="0" aria-label="Actual"></td></tr>
+    <tr class="total-row"><td>Total expenses</td><td id="expP">$0</td><td id="expA">$0</td></tr>
+  </tbody>
+</table>
+
+<div class="result" aria-live="polite">
+  <div><span>Left over (planned)</span><strong id="leftP">$0</strong></div>
+  <div><span>Left over (actual)</span><strong id="leftA" class="big">$0</strong></div>
+</div>
+
+<div class="actions">
+  <button class="btn primary" type="button" onclick="window.print()">Print planner</button>
+  <a class="btn" href="budget-planner.csv" download>Download CSV template</a>
+  <a class="btn" href="../../">← Income Building</a>
+</div>
+
+<p class="fine noprint">Educational tool, not financial advice. Your numbers stay in your browser — nothing is uploaded anywhere.</p>
+
+<script>
+(function () {
+  "use strict";
+  function sum(tbl, cls) {
+    let t = 0;
+    tbl.querySelectorAll("input." + cls).forEach(function (i) {
+      t += parseFloat(i.value) || 0;
+    });
+    return t;
+  }
+  function fmt(n) { return "$" + Math.round(n).toLocaleString(); }
+  function recalc() {
+    const ip = sum(document.getElementById("incomeTbl"), "p");
+    const ia = sum(document.getElementById("incomeTbl"), "a");
+    const ep = sum(document.getElementById("expTbl"), "p");
+    const ea = sum(document.getElementById("expTbl"), "a");
+    document.getElementById("incP").textContent = fmt(ip);
+    document.getElementById("incA").textContent = fmt(ia);
+    document.getElementById("expP").textContent = fmt(ep);
+    document.getElementById("expA").textContent = fmt(ea);
+    document.getElementById("leftP").textContent = fmt(ip - ep);
+    const leftA = document.getElementById("leftA");
+    leftA.textContent = fmt(ia - ea);
+    leftA.style.color = (ia - ea) < 0 ? "#b3261e" : "";
+  }
+  document.querySelectorAll("input[type=number]").forEach(function (i) {
+    i.addEventListener("input", recalc);
+  });
+  recalc();
+})();
+</script>
+</body>
+</html>

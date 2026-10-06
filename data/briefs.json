@@ -1,0 +1,130 @@
+{
+  "generated_at": "2026-10-06T16:06:43Z",
+  "mode": "briefs-only",
+  "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
+  "briefs": [
+    {
+      "id": "t-0",
+      "kind": "trending-topic",
+      "headline_options": [
+        "Financial, explained in plain English",
+        "What you should actually know about financial",
+        "Financial: the honest beginner's guide"
+      ],
+      "angle": "Evergreen explainer on a topic people are actively reading about.",
+      "outline": [
+        "What financial means in plain English",
+        "Why it matters for your budget",
+        "What the current discussion is saying",
+        "Common mistakes",
+        "Sensible next steps"
+      ],
+      "key_points": [
+        "Don't treat your personal finances like the government is treating your tax dollars - Financial Post (Financial Post)",
+        "The Human Touch Still Matters: How to Use (and Not Use) AI for Smarter Financial Planning - Kiplinger (Kiplinger)",
+        "Caregiving is hard. These are the hidden financial costs. - The Washington Post (The Washington Post)",
+        "Five Things I Learned in Hiring a Financial Adviser - WSJ (WSJ)"
+      ],
+      "sources": [
+        {
+          "title": "Don't treat your personal finances like the government is treating your tax dollars - Financial Post",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZkpySU9IZ2lyajhBOGluYnE3YnNIVGx3WEtnLVgwR0xXNjh2OVp5Skhyb3RFY1h6ZWhVRFNXeU1HOTRabXZWLW5ZbnQwQ0NVMlJLLXdLamlHd1VyV3RFelNFdnpYSFl2U2o3bE5HM3h1ai1MRlNFODVhUmM5Zi04OE01a3BJR3ZKT2tWS3VSRFRwVmJaUlVOWjVDSEhrbmRWWHZ4a0h3?oc=5",
+          "source": "Financial Post"
+        },
+        {
+          "title": "The Human Touch Still Matters: How to Use (and Not Use) AI for Smarter Financial Planning - Kiplinger",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0VnR1hHUGJpYy1vU3Z4N20xSFlsVkJSdlQ3YWo4VEc0U1hWMFR3Sy1qdi1LVFQ0M1hrbDFINHN3WWh3Q2hnbi1lbF9ySmtOR0owVWNOUXlWYk1KdDlUelZRek9aNmRvUnZkdTF5UGpVMGFYM1NPeDhKWXNIekZuQmx5cnM0ZnQxU2pHanpLaTdFVEV1YWc?oc=5",
+          "source": "Kiplinger"
+        },
+        {
+          "title": "Caregiving is hard. These are the hidden financial costs. - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQUxsRGR6TDRPd0lMWDAyUEhvclViZUFDcW5MeFN2UE1hcExLS2JlX3FuUXdQTjRvVkptak1OYUFkMUp1ZkNrVGc0dFlyd2pNTm5IUkFiaUtGRWY1STZYdFVzWE9heGtoT2ZjbGpZeWJ5UkVtZUkzVU5ZZUxSLXFfZUtqYXFELTJkdGQtN2c0WndiYUVTM01wQ19YMUFvODVYUGZkMXpR?oc=5",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "Five Things I Learned in Hiring a Financial Adviser - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcDFMNXNza2hzak1HNGNLcUc2OGNNZ0FNdWJmU01VU29Oc0labnJIY1ZTVjU1Z3BCODh6STN4a0tkeXdUcU1adzY5cGx2VUJtRjFSOGQ3U2xLUTRQM0ZWNGpYb2RMeEZGYnhHUjF4bWdadmZqMGZ4OGs0ZF9mYjczYw?oc=5",
+          "source": "WSJ"
+        }
+      ]
+    },
+    {
+      "id": "t-1",
+      "kind": "trending-topic",
+      "headline_options": [
+        "Money, explained in plain English",
+        "What you should actually know about money",
+        "Money: the honest beginner's guide"
+      ],
+      "angle": "Evergreen explainer on a topic people are actively reading about.",
+      "outline": [
+        "What money means in plain English",
+        "Why it matters for your budget",
+        "What the current discussion is saying",
+        "Common mistakes",
+        "Sensible next steps"
+      ],
+      "key_points": [
+        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)",
+        "Expert provides budgeting tips to keep your money on track - WFAA (WFAA)"
+      ],
+      "sources": [
+        {
+          "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
+          "source": "Instacart"
+        },
+        {
+          "title": "Expert provides budgeting tips to keep your money on track - WFAA",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNemVmYXp6VC1iSUtEUDFwNGlnRFQ5MnlmaTY5VzJBc3o0UVVhbkdfMHRZSXdpVWZrOVpuTWxxQ3hqT3o2X3dmQm5qcWR0TTN6Tm5WZmdLX0FyVjJ6UXctbVh0MFFlTTdPeC11cll4U2FSclRWVmlGQUZYckRxSmF4Ulg0VVdrejc3VDduR3BMMXU1SGdvamgzQi1Xdl84S3hUVjhRWllyN0g4Ym14VC1uQm5QOWRVd3BtNU1IUkVhdnFjVkRuWkl0aEtsNA?oc=5",
+          "source": "WFAA"
+        }
+      ]
+    },
+    {
+      "id": "t-2",
+      "kind": "trending-topic",
+      "headline_options": [
+        "Budgeting, explained in plain English",
+        "What you should actually know about budgeting",
+        "Budgeting: the honest beginner's guide"
+      ],
+      "angle": "Evergreen explainer on a topic people are actively reading about.",
+      "outline": [
+        "What budgeting means in plain English",
+        "Why it matters for your budget",
+        "What the current discussion is saying",
+        "Common mistakes",
+        "Sensible next steps"
+      ],
+      "key_points": [
+        "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press (The Mesa Press)",
+        "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does. - MarketWatch (MarketWatch)",
+        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)",
+        "Fall Financial Reset: 5 Budgeting Tips to Promote Fiscal Health - Star Tribune (Star Tribune)"
+      ],
+      "sources": [
+        {
+          "title": "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZXBYNURENmFVaGV4YmZ0TE9DaUlNczRGbWVrVzFybXBWTzVma0dQcmM1Tm5mU283X2JiRHphNHFoSWtXYmp0TjdoMVFzdUpEem5jZ3BVX0NuX3E4bVBZb0xzdlhUbTYwU1dFYURqQlpMenRvSmhoS0Y2RFNNRzlNUTIzVmdYMUE3WkFuOUg2VDdqZ0NObmc3Wk9zNHZqenMwbXFoM2tjZmRVSy0yZnJobTZvZDd0RmdvOXVrWkU0Q0tKU1J0S21BenhaS01kR2tzUG1sWXBSZkVpNllJOXZR?oc=5",
+          "source": "The Mesa Press"
+        },
+        {
+          "title": "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does. - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZENLNjFXWnRpQjRHdjdBa1VhU1VnenRGTlhNdmxFRldvX3QzR3llbzN3NE5NZnhFMm9tSGJocWcxZndMRjhqcWZQeHVaYVR2SmZzakF6Z0c5VS1VRF9FNWhGRFQyY2EtQkVjWGJ0QmxQUV9qQ05ta090b1JyckVlV1ZZR1ZDVjVQeGU4M3RpUDZZMWhqX0hsSFNxN1RZQ0M5Rm01R0dSV2JieldDcS1kQ0c2SnF4WnVmTVg5LWVTSUxobFg4MURJX050Y3FQZXNhMkhB?oc=5",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
+          "source": "Instacart"
+        },
+        {
+          "title": "Fall Financial Reset: 5 Budgeting Tips to Promote Fiscal Health - Star Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0FSWjlxTlJYUnNwbk9DQ2Q5Y3ZtZE11dTM4RFhwcWI1WWtTclBGVjhicWJXQ1BIekN2bFZPcTYtUmdqRlJ0WTFRdmRXVzdUV3BxeGxLcWxyODBOR2JfaTJZWEpSaFR3eXNSN0VDR21TNUN1SkJLNUpjNy0tNThDb3l1SlN2VXRyaUpDRmNtdEM2SHN4bEJsbGN2U1YtNWJNc3c?oc=5",
+          "source": "Star Tribune"
+        }
+      ]
+    }
+  ]
+}

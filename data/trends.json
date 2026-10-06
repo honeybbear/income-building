@@ -1,10 +1,16 @@
 {
-  "fetched_at": "2026-10-06T15:55:06Z",
+  "fetched_at": "2026-10-06T16:04:34Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
-    "Google News RSS (personal finance searches)"
+    "Google News RSS (personal finance searches)",
+    "Hacker News top stories, finance-filtered (public Firebase API)",
+    "Google Trends US daily trending searches, finance-filtered (RSS)"
   ],
   "topics": [
+    {
+      "keyword": "financial",
+      "mentions": 7
+    },
     {
       "keyword": "money",
       "mentions": 7
@@ -16,10 +22,6 @@
     {
       "keyword": "tips",
       "mentions": 6
-    },
-    {
-      "keyword": "financial",
-      "mentions": 5
     },
     {
       "keyword": "here",
@@ -46,16 +48,24 @@
       "mentions": 2
     },
     {
-      "keyword": "cnbc",
+      "keyword": "use",
       "mentions": 2
     },
     {
-      "keyword": "com",
+      "keyword": "time",
       "mentions": 2
     }
   ],
   "questions": [],
-  "discussion_highlights": [],
+  "discussion_highlights": [
+    {
+      "title": "JetBrains reported a net financial loss first time in its tracked history",
+      "source": "Hacker News",
+      "url": "https://www.helgilibrary.com/companies/jetbrains",
+      "score": 375,
+      "comments": 383
+    }
+  ],
   "news": [
     {
       "title": "Don't treat your personal finances like the government is treating your tax dollars - Financial Post",
@@ -64,10 +74,16 @@
       "source": "Financial Post"
     },
     {
-      "title": "More than 20 million Medicare beneficiaries may get one-time $90 payment — here's who qualifies - cnbc.com",
+      "title": "The Human Touch Still Matters: How to Use (and Not Use) AI for Smarter Financial Planning - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0VnR1hHUGJpYy1vU3Z4N20xSFlsVkJSdlQ3YWo4VEc0U1hWMFR3Sy1qdi1LVFQ0M1hrbDFINHN3WWh3Q2hnbi1lbF9ySmtOR0owVWNOUXlWYk1KdDlUelZRek9aNmRvUnZkdTF5UGpVMGFYM1NPeDhKWXNIekZuQmx5cnM0ZnQxU2pHanpLaTdFVEV1YWc?oc=5",
+      "published": "Sat, 03 Oct 2026 10:00:00 GMT",
+      "source": "Kiplinger"
+    },
+    {
+      "title": "More than 20 million Medicare beneficiaries may get one-time $90 payment — here's who qualifies - CNBC",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNjgxYkpIX2NabjB1aGhFMHFJQzNCUkZKZi04NHQ1LUFDMGQzUVNXZ005ODVrek5Rb2tiT2dOZFprdG9iMFNYaXFPQ2FiOTF4Nk1sdENMeWRlSjU4bWU4MWRxTVBTVV9YOVJxalRsVGNrcGlwQnJvNkZZekF1eHpJbTRJMNIBiAFBVV95cUxQVUViMVo2LTI5NENTVmI5X3hLdENoWXdFUlQzWEd4RFd4Y3hBQUx1NHNkREZVMDd5R0dGNFdsZUFjNVBseUlEZkNxc1Q3Z0FBTGdVbjNUaG9iT3d4RE1yRFRuZHpKV2Z4c3pUTFp0S29KZ1VLdDVRbUlvcm9xdVZTQjVTV0xrS21p?oc=5",
       "published": "Mon, 05 Oct 2026 15:44:54 GMT",
-      "source": "cnbc.com"
+      "source": "CNBC"
     },
     {
       "title": "Caregiving is hard. These are the hidden financial costs. - The Washington Post",
@@ -100,22 +116,16 @@
       "source": "24/7 Wall St."
     },
     {
-      "title": "Americans say inflation has put the FIRE movement out of reach - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaGtxbE03ZllDb0VubHJ2ZTFBUWsyTkVsYU9WaVNTQ2VPdG95M1F4eURMbUFRUTJiemJYelVUTFZhTE5fRnpKc3YtRHBtczdqZ0lOVEF2VVBWdDhRQy1vRm1GckJJSDRoUzA0NWFjRThLN3RxU1NDbTZHY1FNQmxVRUVYMXFjVU1xeVd6cEhJbXUxWWRGQk0yM2Z5UWtoX2pNUi1wZWszUDVxbFVSOTBEVEY3Y2Q3VWdYeXlISDJ2MGdTVms?oc=5",
-      "published": "Sat, 03 Oct 2026 20:57:00 GMT",
-      "source": "USA Today"
+      "title": "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZXBYNURENmFVaGV4YmZ0TE9DaUlNczRGbWVrVzFybXBWTzVma0dQcmM1Tm5mU283X2JiRHphNHFoSWtXYmp0TjdoMVFzdUpEem5jZ3BVX0NuX3E4bVBZb0xzdlhUbTYwU1dFYURqQlpMenRvSmhoS0Y2RFNNRzlNUTIzVmdYMUE3WkFuOUg2VDdqZ0NObmc3Wk9zNHZqenMwbXFoM2tjZmRVSy0yZnJobTZvZDd0RmdvOXVrWkU0Q0tKU1J0S21BenhaS01kR2tzUG1sWXBSZkVpNllJOXZR?oc=5",
+      "published": "Thu, 01 Oct 2026 09:27:01 GMT",
+      "source": "The Mesa Press"
     },
     {
       "title": "How to Make a Budget: A Step-By-Step Guide - NerdWallet",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1meUZyZ3lmaFMtN1QzVWpjbkNBMVkySWpqeXI4TlRlb0lxS0RJNUNjNFlPR2ljZGw1YUJmT3ZnU3p1SmhxQlhMU0NZdm1Ba3l1TkZvT1pFR0xrOE1lU0s0Ykx2amg?oc=5",
       "published": "Thu, 17 Sep 2026 07:00:00 GMT",
       "source": "NerdWallet"
-    },
-    {
-      "title": "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZXBYNURENmFVaGV4YmZ0TE9DaUlNczRGbWVrVzFybXBWTzVma0dQcmM1Tm5mU283X2JiRHphNHFoSWtXYmp0TjdoMVFzdUpEem5jZ3BVX0NuX3E4bVBZb0xzdlhUbTYwU1dFYURqQlpMenRvSmhoS0Y2RFNNRzlNUTIzVmdYMUE3WkFuOUg2VDdqZ0NObmc3Wk9zNHZqenMwbXFoM2tjZmRVSy0yZnJobTZvZDd0RmdvOXVrWkU0Q0tKU1J0S21BenhaS01kR2tzUG1sWXBSZkVpNllJOXZR?oc=5",
-      "published": "Thu, 01 Oct 2026 09:27:01 GMT",
-      "source": "The Mesa Press"
     },
     {
       "title": "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does. - MarketWatch",
@@ -148,6 +158,16 @@
       "source": "WFAA"
     }
   ],
+  "hn_stories": [
+    {
+      "title": "JetBrains reported a net financial loss first time in its tracked history",
+      "url": "https://www.helgilibrary.com/companies/jetbrains",
+      "score": 375,
+      "comments": 383,
+      "source": "Hacker News"
+    }
+  ],
+  "trending_searches": [],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",
     "reddit r/financialindependence: HTTP Error 403: Blocked"
