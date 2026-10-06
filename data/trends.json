@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-06T16:04:34Z",
+  "fetched_at": "2026-10-06T16:09:45Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -7,10 +7,6 @@
     "Google Trends US daily trending searches, finance-filtered (RSS)"
   ],
   "topics": [
-    {
-      "keyword": "financial",
-      "mentions": 7
-    },
     {
       "keyword": "money",
       "mentions": 7
@@ -28,6 +24,10 @@
       "mentions": 5
     },
     {
+      "keyword": "financial",
+      "mentions": 5
+    },
+    {
       "keyword": "save",
       "mentions": 5
     },
@@ -36,23 +36,23 @@
       "mentions": 3
     },
     {
+      "keyword": "today",
+      "mentions": 3
+    },
+    {
       "keyword": "budget",
       "mentions": 3
     },
     {
-      "keyword": "tax",
-      "mentions": 2
-    },
-    {
-      "keyword": "post",
-      "mentions": 2
-    },
-    {
-      "keyword": "use",
-      "mentions": 2
-    },
-    {
       "keyword": "time",
+      "mentions": 2
+    },
+    {
+      "keyword": "cnbc",
+      "mentions": 2
+    },
+    {
+      "keyword": "com",
       "mentions": 2
     }
   ],
@@ -62,23 +62,11 @@
       "title": "JetBrains reported a net financial loss first time in its tracked history",
       "source": "Hacker News",
       "url": "https://www.helgilibrary.com/companies/jetbrains",
-      "score": 375,
-      "comments": 383
+      "score": 381,
+      "comments": 390
     }
   ],
   "news": [
-    {
-      "title": "Don't treat your personal finances like the government is treating your tax dollars - Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZkpySU9IZ2lyajhBOGluYnE3YnNIVGx3WEtnLVgwR0xXNjh2OVp5Skhyb3RFY1h6ZWhVRFNXeU1HOTRabXZWLW5ZbnQwQ0NVMlJLLXdLamlHd1VyV3RFelNFdnpYSFl2U2o3bE5HM3h1ai1MRlNFODVhUmM5Zi04OE01a3BJR3ZKT2tWS3VSRFRwVmJaUlVOWjVDSEhrbmRWWHZ4a0h3?oc=5",
-      "published": "Tue, 06 Oct 2026 10:06:42 GMT",
-      "source": "Financial Post"
-    },
-    {
-      "title": "The Human Touch Still Matters: How to Use (and Not Use) AI for Smarter Financial Planning - Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0VnR1hHUGJpYy1vU3Z4N20xSFlsVkJSdlQ3YWo4VEc0U1hWMFR3Sy1qdi1LVFQ0M1hrbDFINHN3WWh3Q2hnbi1lbF9ySmtOR0owVWNOUXlWYk1KdDlUelZRek9aNmRvUnZkdTF5UGpVMGFYM1NPeDhKWXNIekZuQmx5cnM0ZnQxU2pHanpLaTdFVEV1YWc?oc=5",
-      "published": "Sat, 03 Oct 2026 10:00:00 GMT",
-      "source": "Kiplinger"
-    },
     {
       "title": "More than 20 million Medicare beneficiaries may get one-time $90 payment — here's who qualifies - CNBC",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNjgxYkpIX2NabjB1aGhFMHFJQzNCUkZKZi04NHQ1LUFDMGQzUVNXZ005ODVrek5Rb2tiT2dOZFprdG9iMFNYaXFPQ2FiOTF4Nk1sdENMeWRlSjU4bWU4MWRxTVBTVV9YOVJxalRsVGNrcGlwQnJvNkZZekF1eHpJbTRJMNIBiAFBVV95cUxQVUViMVo2LTI5NENTVmI5X3hLdENoWXdFUlQzWEd4RFd4Y3hBQUx1NHNkREZVMDd5R0dGNFdsZUFjNVBseUlEZkNxc1Q3Z0FBTGdVbjNUaG9iT3d4RE1yRFRuZHpKV2Z4c3pUTFp0S29KZ1VLdDVRbUlvcm9xdVZTQjVTV0xrS21p?oc=5",
@@ -88,14 +76,20 @@
     {
       "title": "Caregiving is hard. These are the hidden financial costs. - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQUxsRGR6TDRPd0lMWDAyUEhvclViZUFDcW5MeFN2UE1hcExLS2JlX3FuUXdQTjRvVkptak1OYUFkMUp1ZkNrVGc0dFlyd2pNTm5IUkFiaUtGRWY1STZYdFVzWE9heGtoT2ZjbGpZeWJ5UkVtZUkzVU5ZZUxSLXFfZUtqYXFELTJkdGQtN2c0WndiYUVTM01wQ19YMUFvODVYUGZkMXpR?oc=5",
-      "published": "Tue, 06 Oct 2026 14:33:09 GMT",
+      "published": "Tue, 06 Oct 2026 16:03:09 GMT",
       "source": "The Washington Post"
     },
     {
-      "title": "Five Things I Learned in Hiring a Financial Adviser - WSJ",
+      "title": "Five Things I Learned in Hiring a Financial Adviser - wsj.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcDFMNXNza2hzak1HNGNLcUc2OGNNZ0FNdWJmU01VU29Oc0labnJIY1ZTVjU1Z3BCODh6STN4a0tkeXdUcU1adzY5cGx2VUJtRjFSOGQ3U2xLUTRQM0ZWNGpYb2RMeEZGYnhHUjF4bWdadmZqMGZ4OGs0ZF9mYjczYw?oc=5",
       "published": "Sat, 03 Oct 2026 14:00:00 GMT",
-      "source": "WSJ"
+      "source": "wsj.com"
+    },
+    {
+      "title": "Best CD rates today, Tuesday, October 6, 2026: Lock in up to 4.50% APY - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQU90YTZ3c0dEZWYxRjQ5Y3BrVGwxbU9fODBISGt4RHY0WEdNNnBrTUFndzN3SUV3OXlEdXFhcFN2R3hDOWVMRUpaU0ZlZE8tM0FyWTJWUGpVdGpZNjhremdnQS0xdHBpblBvS0cxT2tBN3JRbV9DOG5Pb0ZQbmd2Sjg1ZDI5LS1DZEM3VjFtUWRCVjlwTU43UnpEeUtpNm1mZFRGeHkzc2tKTmdTb2Y4bHYzWHhMMXhwcjlhZjR1dTRSYzB5czJiZGRfQ1pWXzY3NVktWg?oc=5",
+      "published": "Tue, 06 Oct 2026 10:00:00 GMT",
+      "source": "Yahoo Finance"
     },
     {
       "title": "How do I keep checks from being stolen in the mail? - Los Angeles Times",
@@ -114,6 +108,12 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTHZ0MUJ6WldSd1lnbTFwU0owQ1MxSVFiWXlxdUwxVVpGSVlid0d0ZmZiTVZmdXpiUUtqenQwOFBWUHprWWJmcW1MRFFqbEV2UDVkaVgxYk1PcmVzZl9nRktrNEpvUjdVb2Y2ZHRXYjdES1dlaThmYmZyVkJEX0gwVFZUOFJ3eGx4WEFaZFBlOHBkOE05SU5yZGUyYWxETmVJVkpyY1lQMHUyS0MwOE5LQ210clJDUzZ3Q19lNTBhT3Jra1VQVWZSdklqNF9Eb1BiOTdSWnlmZXIydFJ2Z0NwZw?oc=5",
       "published": "Mon, 05 Oct 2026 20:44:00 GMT",
       "source": "24/7 Wall St."
+    },
+    {
+      "title": "Americans say inflation has put the FIRE movement out of reach - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaGtxbE03ZllDb0VubHJ2ZTFBUWsyTkVsYU9WaVNTQ2VPdG95M1F4eURMbUFRUTJiemJYelVUTFZhTE5fRnpKc3YtRHBtczdqZ0lOVEF2VVBWdDhRQy1vRm1GckJJSDRoUzA0NWFjRThLN3RxU1NDbTZHY1FNQmxVRUVYMXFjVU1xeVd6cEhJbXUxWWRGQk0yM2Z5UWtoX2pNUi1wZWszUDVxbFVSOTBEVEY3Y2Q3VWdYeXlISDJ2MGdTVms?oc=5",
+      "published": "Sat, 03 Oct 2026 20:57:00 GMT",
+      "source": "USA Today"
     },
     {
       "title": "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press",
@@ -162,8 +162,8 @@
     {
       "title": "JetBrains reported a net financial loss first time in its tracked history",
       "url": "https://www.helgilibrary.com/companies/jetbrains",
-      "score": 375,
-      "comments": 383,
+      "score": 381,
+      "comments": 390,
       "source": "Hacker News"
     }
   ],
