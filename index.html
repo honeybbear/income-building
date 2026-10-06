@@ -80,6 +80,34 @@
     <p class="section-sub">Revenue slots. Placeholders stay empty until real affiliate accounts are connected — links are never faked.</p>
     <div id="affiliates" class="cards"><p class="empty">Waiting for the first pipeline run&hellip;</p></div>
   </section>
+
+  <section aria-label="Simulation Lab">
+    <h2 class="section-title">Simulation Lab</h2>
+    <p class="section-sub">A fake-money proving run of this business plan: real site data in, clearly-labeled projections out.</p>
+    <div class="sim-banner" role="note"><strong>SIMULATION — fake money.</strong> These are projections from <em>your</em> assumptions, not real earnings. Change the assumptions and watch the math change.</div>
+    <div class="card sim-panel">
+      <h3>Assumptions <span class="tag">yours to change</span></h3>
+      <div class="sim-grid">
+        <label>Starting monthly visitors<input id="aVisitors" type="number" min="0" step="10"></label>
+        <label>Monthly visitor growth %<input id="aGrowth" type="number" min="0" max="200" step="1"></label>
+        <label>Affiliate click-through %<input id="aCtr" type="number" min="0" max="100" step="0.5"></label>
+        <label>Click &rarr; purchase %<input id="aConv" type="number" min="0" max="100" step="0.5"></label>
+        <label>Avg order value (USD)<input id="aAov" type="number" min="0" step="1"></label>
+        <label>Commission %<input id="aCommission" type="number" min="0" max="100" step="0.5"></label>
+        <label>Planner price (USD)<input id="aPrice" type="number" min="0" step="1"></label>
+        <label>Planner conversion %<input id="aPlannerConv" type="number" min="0" max="100" step="0.5"></label>
+        <label>Months to simulate<input id="aMonths" type="number" min="1" max="36" step="1"></label>
+      </div>
+      <button id="runSimBtn" class="ctl sim-run" type="button">Run simulation</button>
+      <p class="reality"><strong>Reality check:</strong> months 1&ndash;3 typically earn ~$0 while traffic builds — this model shows that if you set growth honestly. Traffic is split across articles by topic: articles matching this morning&rsquo;s trending topics get 3&times; weight. <span id="simDataNote">Loading real data&hellip;</span></p>
+    </div>
+    <div id="simResults" hidden>
+      <div class="sim-stats" id="simSummary"></div>
+      <canvas id="simChart" height="220" aria-label="Projected monthly fake-revenue chart"></canvas>
+      <h3 class="sim-h3">Where the money would come from <span class="tag">fake</span></h3>
+      <div id="simTableWrap"><table class="sim-table" id="simTable"></table></div>
+    </div>
+  </section>
 </main>
 
 <div class="backdrop" id="backdrop" hidden></div>

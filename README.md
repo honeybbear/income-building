@@ -23,6 +23,22 @@ Tap any floor or agent on the page to see its current task, what it receives fro
 - **`.github/workflows/daily.yml`**: runs all three scripts on a cron schedule plus manual trigger, commits changed `data/*.json` back.
 - **The site** (`index.html` + `app.js`) renders everything from `data/`: articles, trends, briefs/drafts, products, and affiliate slots. If data files are missing it says so honestly instead of faking content.
 
+## Simulation Lab (fake money, real data)
+
+The site's **Simulation Lab** section runs a 12-month fake-money proving run of this business plan: real site data in (the live article count, this morning's trending topics), clearly-labeled projections out. It exists to test the *math* — whether the funnel arithmetic can work at all — not to predict earnings.
+
+**How it computes (all client-side, all transparent):**
+- Traffic: starting monthly visitors, compounded monthly by the growth rate. Each month's visitors are split across articles weighted by topic: articles whose topics match currently-trending scout keywords get 3× weight; others get 1×. The Creator is assumed to keep publishing ~4 guides/month from the brief queue, so the roster grows each month.
+- Affiliate stream (per article): `visitors × click-through × conversion × avg order value × commission`.
+- Product stream (site-wide): `visitors × planner conversion × planner price`.
+- All 9 inputs are editable in the panel; changing them re-runs the math instantly.
+
+**Defaults** (in `data/assumptions.json`): 500 starting monthly visitors, 15% monthly growth, 2% click-through, 3% conversion, $45 average order, 4% commission, $9 planner, 1% planner conversion, 12 months.
+
+**On the 4% commission:** that's typical public Amazon Associates-style rates for most categories — a conservative middle of their published tiers. Verify for your actual program and adjust the input; the model doesn't care.
+
+**Honesty rules:** projections are never presented as earnings (every label says "fake"); the assumptions panel always sits next to the results; the "reality check" line notes months 1–3 typically earn ~$0 while traffic builds — which the model shows if you set growth honestly.
+
 ## Optional AI drafting (2-minute setup)
 
 1. Go to [Google AI Studio](https://aistudio.google.com/) and sign in (free tier, no card).

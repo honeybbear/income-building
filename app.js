@@ -353,17 +353,199 @@ function renderPill(d) {
   pill.classList.add("live");
 }
 
+/* ---------------- simulation lab (fake money, real data) ---------------- */
+/* Pure math: real articles + real trending topics in, fake-money projections out.
+   Traffic model: monthly visitors split across articles, weighted by whether
+   the article's topics match currently-trending scout keywords (trending = 3x).
+   The Creator is assumed to keep publishing ~4 guides/month from the brief queue.
+   Affiliate: visitors x ctr x conversion x AOV x commission, per article.
+   Product: site-wide visitors x planner conversion x planner price. */
+const SIM_DEFAULTS = {
+  start_monthly_visitors: 500, monthly_growth_pct: 15, ctr_pct: 2.0,
+  conversion_pct: 3.0, avg_order_value_usd: 45, commission_pct: 4.0,
+  planner_price_usd: 9, planner_conversion_pct: 1.0, months: 12,
+};
+const SIM_NEW_PER_MONTH = 4;
+let simTrends = null;
+let simAnim = null;
+
+function trendingKeywords(trends) {
+  return (trends?.topics || []).map((t) => String(t.keyword || "").toLowerCase()).filter(Boolean);
+}
+function articleIsTrending(topics, kwList) {
+  return (topics || []).some((tp) => {
+    const tl = String(tp).toLowerCase();
+    return kwList.some((k) => k.includes(tl) || tl.includes(k));
+  });
+}
+function runSimulation(A, articles, trends) {
+  const kw = trendingKeywords(trends);
+  const roster = (articles || []).map((a) => ({
+    label: a.title, trending: articleIsTrending(a.topics, kw),
+  }));
+  const months = [];
+  const perArticleTotal = new Map();
+  let cumulative = 0;
+  for (let m = 1; m <= A.months; m++) {
+    for (let i = 0; i < SIM_NEW_PER_MONTH; i++) {
+      roster.push({ label: "New guides · month " + m + " (4)", trending: true });
+    }
+    const visitors = A.start_monthly_visitors * Math.pow(1 + A.monthly_growth_pct / 100, m - 1);
+    const weights = roster.map((r) => (r.trending ? 3 : 1));
+    const wSum = weights.reduce((a, b) => a + b, 0) || 1;
+    let aff = 0;
+    roster.forEach((r, i) => {
+      const v = (visitors * weights[i]) / wSum;
+      const rev = v * (A.ctr_pct / 100) * (A.conversion_pct / 100) * A.avg_order_value_usd * (A.commission_pct / 100);
+      aff += rev;
+      perArticleTotal.set(r.label, (perArticleTotal.get(r.label) || 0) + rev);
+    });
+    const planner = visitors * (A.planner_conversion_pct / 100) * A.planner_price_usd;
+    const total = aff + planner;
+    cumulative += total;
+    months.push({ month: m, visitors, articles: roster.length, affiliate: aff, planner, total, cumulative });
+  }
+  return { months, perArticleTotal, total: cumulative };
+}
+function fmtMoney(v) {
+  return "$" + Number(v).toLocaleString(undefined, { maximumFractionDigits: v < 10 ? 2 : 0 });
+}
+function simAssumptions() {
+  const num = (id, fb) => {
+    const v = parseFloat($("#" + id).value);
+    return Number.isFinite(v) && v >= 0 ? v : fb;
+  };
+  return {
+    start_monthly_visitors: num("aVisitors", SIM_DEFAULTS.start_monthly_visitors),
+    monthly_growth_pct: num("aGrowth", SIM_DEFAULTS.monthly_growth_pct),
+    ctr_pct: num("aCtr", SIM_DEFAULTS.ctr_pct),
+    conversion_pct: num("aConv", SIM_DEFAULTS.conversion_pct),
+    avg_order_value_usd: num("aAov", SIM_DEFAULTS.avg_order_value_usd),
+    commission_pct: num("aCommission", SIM_DEFAULTS.commission_pct),
+    planner_price_usd: num("aPrice", SIM_DEFAULTS.planner_price_usd),
+    planner_conversion_pct: num("aPlannerConv", SIM_DEFAULTS.planner_conversion_pct),
+    months: Math.max(1, Math.min(36, Math.round(num("aMonths", SIM_DEFAULTS.months)))),
+  };
+}
+function fillSimInputs(A) {
+  $("#aVisitors").value = A.start_monthly_visitors;
+  $("#aGrowth").value = A.monthly_growth_pct;
+  $("#aCtr").value = A.ctr_pct;
+  $("#aConv").value = A.conversion_pct;
+  $("#aAov").value = A.avg_order_value_usd;
+  $("#aCommission").value = A.commission_pct;
+  $("#aPrice").value = A.planner_price_usd;
+  $("#aPlannerConv").value = A.planner_conversion_pct;
+  $("#aMonths").value = A.months;
+}
+function drawSimChart(months, upto) {
+  const cv = $("#simChart");
+  const dpr = window.devicePixelRatio || 1;
+  const W = cv.clientWidth || 320;
+  const H = 220;
+  cv.width = W * dpr;
+  cv.height = H * dpr;
+  const ctx = cv.getContext("2d");
+  ctx.scale(dpr, dpr);
+  ctx.clearRect(0, 0, W, H);
+  const n = months.length;
+  const maxV = Math.max(...months.map((m) => m.total), 1);
+  const padL = 46, padB = 22, padT = 12;
+  const innerH = H - padT - padB;
+  const cw = (W - padL - 10) / n;
+  const bw = Math.max(4, Math.min(26, cw * 0.62));
+  ctx.font = "10px sans-serif";
+  for (let g = 0; g <= 4; g++) {
+    const y = padT + (innerH * g) / 4;
+    ctx.strokeStyle = "rgba(255,255,255,.08)";
+    ctx.beginPath(); ctx.moveTo(padL, y); ctx.lineTo(W - 10, y); ctx.stroke();
+    ctx.fillStyle = "#9aa7b8";
+    ctx.fillText(fmtMoney((maxV * (4 - g)) / 4), 4, y + 3);
+  }
+  const show = upto == null ? n : Math.min(upto, n);
+  for (let i = 0; i < show; i++) {
+    const m = months[i];
+    const x = padL + cw * i + (cw - bw) / 2;
+    const yBase = H - padB;
+    const hAff = (innerH * m.affiliate) / maxV;
+    const hPl = (innerH * m.planner) / maxV;
+    ctx.fillStyle = "#4ade80";
+    ctx.fillRect(x, yBase - hAff, bw, Math.max(hAff, hAff > 0 ? 1 : 0));
+    ctx.fillStyle = "#fbbf24";
+    ctx.fillRect(x, yBase - hAff - hPl, bw, Math.max(hPl, hPl > 0 ? 1 : 0));
+    ctx.fillStyle = "#9aa7b8";
+    if (n <= 18 || i % 2 === 0) ctx.fillText("M" + m.month, x, H - 8);
+  }
+  ctx.fillStyle = "#4ade80"; ctx.fillRect(padL, 4, 10, 10);
+  ctx.fillStyle = "#9aa7b8"; ctx.fillText("Affiliate", padL + 14, 13);
+  ctx.fillStyle = "#fbbf24"; ctx.fillRect(padL + 70, 4, 10, 10);
+  ctx.fillStyle = "#9aa7b8"; ctx.fillText("Planner", padL + 84, 13);
+}
+function renderSimResults(res) {
+  const last = res.months[res.months.length - 1];
+  const stat = (k, v) => `<div class="sim-stat"><span>${esc(k)}</span><strong>${esc(v)}</strong></div>`;
+  $("#simSummary").innerHTML =
+    stat("Projected total (fake)", fmtMoney(res.total)) +
+    stat("Final-month run rate (fake)", fmtMoney(last.total) + "/mo") +
+    stat("Guides by month " + last.month, String(last.articles));
+  const rows = [...res.perArticleTotal.entries()]
+    .map(([label, rev]) => ({ label, rev }))
+    .sort((a, b) => b.rev - a.rev);
+  $("#simTable").innerHTML =
+    `<thead><tr><th>Article / cohort</th><th style="text-align:right">Projected affiliate (fake)</th></tr></thead><tbody>` +
+    rows.map((r) => `<tr><td>${esc(r.label)}</td><td class="num">${fmtMoney(r.rev)}</td></tr>`).join("") +
+    `</tbody>`;
+}
+function runSimNow(animated) {
+  clearInterval(simAnim);
+  simAnim = null;
+  const A = simAssumptions();
+  const res = runSimulation(A, allArticles, simTrends);
+  renderSimResults(res);
+  $("#simResults").hidden = false;
+  const n = res.months.length;
+  if (animated) {
+    let i = 0;
+    drawSimChart(res.months, 0);
+    simAnim = setInterval(() => {
+      i++;
+      drawSimChart(res.months, i);
+      if (i >= n) { clearInterval(simAnim); simAnim = null; }
+    }, 140);
+    $("#simResults").scrollIntoView({ behavior: "smooth", block: "start" });
+  } else {
+    drawSimChart(res.months);
+  }
+}
+function initSim(d) {
+  simTrends = d.trends;
+  const A = Object.assign({}, SIM_DEFAULTS, d.assumptions || {});
+  fillSimInputs(A);
+  const nT = d.trends?.topics?.length ?? 0;
+  $("#simDataNote").textContent =
+    `Real inputs right now: ${allArticles.length} live guides and ${nT} trending topics from the latest scout run.`;
+  $("#runSimBtn").addEventListener("click", () => runSimNow(true));
+  ["aVisitors", "aGrowth", "aCtr", "aConv", "aAov", "aCommission", "aPrice", "aPlannerConv", "aMonths"]
+    .forEach((id) => $("#" + id).addEventListener("change", () => {
+      if (!$("#simResults").hidden) runSimNow(false);
+    }));
+  window.addEventListener("resize", () => {
+    if (!$("#simResults").hidden) runSimNow(false);
+  });
+}
+
 /* ---------------- init ---------------- */
 (async function init() {
-  const [articles, trends, affiliates, products, briefs, drafts] = await Promise.all([
+  const [articles, trends, affiliates, products, briefs, drafts, assumptions] = await Promise.all([
     loadJSON("data/articles.json"),
     loadJSON("data/trends.json"),
     loadJSON("data/affiliates.json"),
     loadJSON("data/products.json"),
     loadJSON("data/briefs.json"),
     loadJSON("data/drafts.json"),
+    loadJSON("data/assumptions.json"),
   ]);
-  const d = { articles, trends, affiliates, products, briefs, drafts };
+  const d = { articles, trends, affiliates, products, briefs, drafts, assumptions };
   allArticles = articles?.articles ?? [];
   allSlots = affiliates?.slots ?? [];
 
@@ -383,6 +565,7 @@ function renderPill(d) {
   renderAffiliates(affiliates);
   renderProducts(products);
   renderBriefs(briefs, drafts);
+  initSim(d);
 
   /* controls */
   $("#pauseBtn").addEventListener("click", () => {
