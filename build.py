@@ -25,6 +25,7 @@ TOPICS = {
     "beginner-investing-index-funds": ["investing"],
     "cut-subscriptions-bills": ["saving", "budgeting"],
     "second-income-stream": ["income", "getting started"],
+    "mortgage-rates-rising-playbook": ["debt", "budgeting"],
 }
 
 
