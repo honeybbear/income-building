@@ -1,88 +1,10 @@
 {
-  "generated_at": "2026-10-06T16:09:45Z",
+  "generated_at": "2026-10-07T12:30:52Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
     {
       "id": "t-0",
-      "kind": "trending-topic",
-      "headline_options": [
-        "Money, explained in plain English",
-        "What you should actually know about money",
-        "Money: the honest beginner's guide"
-      ],
-      "angle": "Evergreen explainer on a topic people are actively reading about.",
-      "outline": [
-        "What money means in plain English",
-        "Why it matters for your budget",
-        "What the current discussion is saying",
-        "Common mistakes",
-        "Sensible next steps"
-      ],
-      "key_points": [
-        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)",
-        "Expert provides budgeting tips to keep your money on track - WFAA (WFAA)"
-      ],
-      "sources": [
-        {
-          "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
-          "source": "Instacart"
-        },
-        {
-          "title": "Expert provides budgeting tips to keep your money on track - WFAA",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNemVmYXp6VC1iSUtEUDFwNGlnRFQ5MnlmaTY5VzJBc3o0UVVhbkdfMHRZSXdpVWZrOVpuTWxxQ3hqT3o2X3dmQm5qcWR0TTN6Tm5WZmdLX0FyVjJ6UXctbVh0MFFlTTdPeC11cll4U2FSclRWVmlGQUZYckRxSmF4Ulg0VVdrejc3VDduR3BMMXU1SGdvamgzQi1Xdl84S3hUVjhRWllyN0g4Ym14VC1uQm5QOWRVd3BtNU1IUkVhdnFjVkRuWkl0aEtsNA?oc=5",
-          "source": "WFAA"
-        }
-      ]
-    },
-    {
-      "id": "t-1",
-      "kind": "trending-topic",
-      "headline_options": [
-        "Budgeting, explained in plain English",
-        "What you should actually know about budgeting",
-        "Budgeting: the honest beginner's guide"
-      ],
-      "angle": "Evergreen explainer on a topic people are actively reading about.",
-      "outline": [
-        "What budgeting means in plain English",
-        "Why it matters for your budget",
-        "What the current discussion is saying",
-        "Common mistakes",
-        "Sensible next steps"
-      ],
-      "key_points": [
-        "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press (The Mesa Press)",
-        "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does. - MarketWatch (MarketWatch)",
-        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)",
-        "Fall Financial Reset: 5 Budgeting Tips to Promote Fiscal Health - Star Tribune (Star Tribune)"
-      ],
-      "sources": [
-        {
-          "title": "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZXBYNURENmFVaGV4YmZ0TE9DaUlNczRGbWVrVzFybXBWTzVma0dQcmM1Tm5mU283X2JiRHphNHFoSWtXYmp0TjdoMVFzdUpEem5jZ3BVX0NuX3E4bVBZb0xzdlhUbTYwU1dFYURqQlpMenRvSmhoS0Y2RFNNRzlNUTIzVmdYMUE3WkFuOUg2VDdqZ0NObmc3Wk9zNHZqenMwbXFoM2tjZmRVSy0yZnJobTZvZDd0RmdvOXVrWkU0Q0tKU1J0S21BenhaS01kR2tzUG1sWXBSZkVpNllJOXZR?oc=5",
-          "source": "The Mesa Press"
-        },
-        {
-          "title": "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does. - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZENLNjFXWnRpQjRHdjdBa1VhU1VnenRGTlhNdmxFRldvX3QzR3llbzN3NE5NZnhFMm9tSGJocWcxZndMRjhqcWZQeHVaYVR2SmZzakF6Z0c5VS1VRF9FNWhGRFQyY2EtQkVjWGJ0QmxQUV9qQ05ta090b1JyckVlV1ZZR1ZDVjVQeGU4M3RpUDZZMWhqX0hsSFNxN1RZQ0M5Rm01R0dSV2JieldDcS1kQ0c2SnF4WnVmTVg5LWVTSUxobFg4MURJX050Y3FQZXNhMkhB?oc=5",
-          "source": "MarketWatch"
-        },
-        {
-          "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
-          "source": "Instacart"
-        },
-        {
-          "title": "Fall Financial Reset: 5 Budgeting Tips to Promote Fiscal Health - Star Tribune",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0FSWjlxTlJYUnNwbk9DQ2Q5Y3ZtZE11dTM4RFhwcWI1WWtTclBGVjhicWJXQ1BIekN2bFZPcTYtUmdqRlJ0WTFRdmRXVzdUV3BxeGxLcWxyODBOR2JfaTJZWEpSaFR3eXNSN0VDR21TNUN1SkJLNUpjNy0tNThDb3l1SlN2VXRyaUpDRmNtdEM2SHN4bEJsbGN2U1YtNWJNc3c?oc=5",
-          "source": "Star Tribune"
-        }
-      ]
-    },
-    {
-      "id": "t-2",
       "kind": "trending-topic",
       "headline_options": [
         "Tips, explained in plain English",
@@ -123,6 +45,84 @@
           "title": "Experts give budgeting tips for long-term care costs - KIRO 7 News Seattle",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcFU2cTUxNGxsbWpYQzRzbFUxazVUb0c2a0lvVmh5TDZ1d0Y2U0xodTlfRnZROHVlNUVPQ2tDMDdRTmpUQ196T1VyTmwxYXNieTZoRFZnWDB3dzYyM0JCX1A3NmFCX1dSc3Y4bTB3azg4U1h3aW1udjJ5UGRRWkxrTmtYWWlCNzNTVXJJYlZYNkZLTnFRM3lzMmtyZHRyaHpTVDgzT3B1Q1lCd2FsNEdOMlpOMTd0aGlFWGJj?oc=5",
           "source": "KIRO 7 News Seattle"
+        }
+      ]
+    },
+    {
+      "id": "t-1",
+      "kind": "trending-topic",
+      "headline_options": [
+        "Money, explained in plain English",
+        "What you should actually know about money",
+        "Money: the honest beginner's guide"
+      ],
+      "angle": "Evergreen explainer on a topic people are actively reading about.",
+      "outline": [
+        "What money means in plain English",
+        "Why it matters for your budget",
+        "What the current discussion is saying",
+        "Common mistakes",
+        "Sensible next steps"
+      ],
+      "key_points": [
+        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)",
+        "Expert provides budgeting tips to keep your money on track - WFAA (WFAA)"
+      ],
+      "sources": [
+        {
+          "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
+          "source": "Instacart"
+        },
+        {
+          "title": "Expert provides budgeting tips to keep your money on track - WFAA",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNemVmYXp6VC1iSUtEUDFwNGlnRFQ5MnlmaTY5VzJBc3o0UVVhbkdfMHRZSXdpVWZrOVpuTWxxQ3hqT3o2X3dmQm5qcWR0TTN6Tm5WZmdLX0FyVjJ6UXctbVh0MFFlTTdPeC11cll4U2FSclRWVmlGQUZYckRxSmF4Ulg0VVdrejc3VDduR3BMMXU1SGdvamgzQi1Xdl84S3hUVjhRWllyN0g4Ym14VC1uQm5QOWRVd3BtNU1IUkVhdnFjVkRuWkl0aEtsNA?oc=5",
+          "source": "WFAA"
+        }
+      ]
+    },
+    {
+      "id": "t-2",
+      "kind": "trending-topic",
+      "headline_options": [
+        "Budgeting, explained in plain English",
+        "What you should actually know about budgeting",
+        "Budgeting: the honest beginner's guide"
+      ],
+      "angle": "Evergreen explainer on a topic people are actively reading about.",
+      "outline": [
+        "What budgeting means in plain English",
+        "Why it matters for your budget",
+        "What the current discussion is saying",
+        "Common mistakes",
+        "Sensible next steps"
+      ],
+      "key_points": [
+        "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press (The Mesa Press)",
+        "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does. - MarketWatch (MarketWatch)",
+        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)",
+        "Fall Financial Reset: 5 Budgeting Tips to Promote Fiscal Health - Star Tribune (Star Tribune)"
+      ],
+      "sources": [
+        {
+          "title": "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZXBYNURENmFVaGV4YmZ0TE9DaUlNczRGbWVrVzFybXBWTzVma0dQcmM1Tm5mU283X2JiRHphNHFoSWtXYmp0TjdoMVFzdUpEem5jZ3BVX0NuX3E4bVBZb0xzdlhUbTYwU1dFYURqQlpMenRvSmhoS0Y2RFNNRzlNUTIzVmdYMUE3WkFuOUg2VDdqZ0NObmc3Wk9zNHZqenMwbXFoM2tjZmRVSy0yZnJobTZvZDd0RmdvOXVrWkU0Q0tKU1J0S21BenhaS01kR2tzUG1sWXBSZkVpNllJOXZR?oc=5",
+          "source": "The Mesa Press"
+        },
+        {
+          "title": "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does. - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZENLNjFXWnRpQjRHdjdBa1VhU1VnenRGTlhNdmxFRldvX3QzR3llbzN3NE5NZnhFMm9tSGJocWcxZndMRjhqcWZQeHVaYVR2SmZzakF6Z0c5VS1VRF9FNWhGRFQyY2EtQkVjWGJ0QmxQUV9qQ05ta090b1JyckVlV1ZZR1ZDVjVQeGU4M3RpUDZZMWhqX0hsSFNxN1RZQ0M5Rm01R0dSV2JieldDcS1kQ0c2SnF4WnVmTVg5LWVTSUxobFg4MURJX050Y3FQZXNhMkhB?oc=5",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
+          "source": "Instacart"
+        },
+        {
+          "title": "Fall Financial Reset: 5 Budgeting Tips to Promote Fiscal Health - Star Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0FSWjlxTlJYUnNwbk9DQ2Q5Y3ZtZE11dTM4RFhwcWI1WWtTclBGVjhicWJXQ1BIekN2bFZPcTYtUmdqRlJ0WTFRdmRXVzdUV3BxeGxLcWxyODBOR2JfaTJZWEpSaFR3eXNSN0VDR21TNUN1SkJLNUpjNy0tNThDb3l1SlN2VXRyaUpDRmNtdEM2SHN4bEJsbGN2U1YtNWJNc3c?oc=5",
+          "source": "Star Tribune"
         }
       ]
     }

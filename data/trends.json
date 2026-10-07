@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-06T16:09:45Z",
+  "fetched_at": "2026-10-07T12:30:52Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -8,31 +8,27 @@
   ],
   "topics": [
     {
+      "keyword": "tips",
+      "mentions": 8
+    },
+    {
       "keyword": "money",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "budgeting",
-      "mentions": 6
-    },
-    {
-      "keyword": "tips",
-      "mentions": 6
-    },
-    {
-      "keyword": "here",
-      "mentions": 5
+      "mentions": 7
     },
     {
       "keyword": "financial",
       "mentions": 5
     },
     {
-      "keyword": "save",
+      "keyword": "rates",
       "mentions": 5
     },
     {
-      "keyword": "costs",
+      "keyword": "kiplinger",
       "mentions": 3
     },
     {
@@ -40,80 +36,76 @@
       "mentions": 3
     },
     {
-      "keyword": "budget",
+      "keyword": "save",
       "mentions": 3
     },
     {
-      "keyword": "time",
+      "keyword": "news",
+      "mentions": 3
+    },
+    {
+      "keyword": "saving",
+      "mentions": 3
+    },
+    {
+      "keyword": "mortgage",
       "mentions": 2
     },
     {
-      "keyword": "cnbc",
-      "mentions": 2
-    },
-    {
-      "keyword": "com",
+      "keyword": "now",
       "mentions": 2
     }
   ],
   "questions": [],
-  "discussion_highlights": [
-    {
-      "title": "JetBrains reported a net financial loss first time in its tracked history",
-      "source": "Hacker News",
-      "url": "https://www.helgilibrary.com/companies/jetbrains",
-      "score": 381,
-      "comments": 390
-    }
-  ],
+  "discussion_highlights": [],
   "news": [
     {
-      "title": "More than 20 million Medicare beneficiaries may get one-time $90 payment — here's who qualifies - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNjgxYkpIX2NabjB1aGhFMHFJQzNCUkZKZi04NHQ1LUFDMGQzUVNXZ005ODVrek5Rb2tiT2dOZFprdG9iMFNYaXFPQ2FiOTF4Nk1sdENMeWRlSjU4bWU4MWRxTVBTVV9YOVJxalRsVGNrcGlwQnJvNkZZekF1eHpJbTRJMNIBiAFBVV95cUxQVUViMVo2LTI5NENTVmI5X3hLdENoWXdFUlQzWEd4RFd4Y3hBQUx1NHNkREZVMDd5R0dGNFdsZUFjNVBseUlEZkNxc1Q3Z0FBTGdVbjNUaG9iT3d4RE1yRFRuZHpKV2Z4c3pUTFp0S29KZ1VLdDVRbUlvcm9xdVZTQjVTV0xrS21p?oc=5",
-      "published": "Mon, 05 Oct 2026 15:44:54 GMT",
-      "source": "CNBC"
+      "title": "Don't treat your personal finances like the government is treating your tax dollars - Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZkpySU9IZ2lyajhBOGluYnE3YnNIVGx3WEtnLVgwR0xXNjh2OVp5Skhyb3RFY1h6ZWhVRFNXeU1HOTRabXZWLW5ZbnQwQ0NVMlJLLXdLamlHd1VyV3RFelNFdnpYSFl2U2o3bE5HM3h1ai1MRlNFODVhUmM5Zi04OE01a3BJR3ZKT2tWS3VSRFRwVmJaUlVOWjVDSEhrbmRWWHZ4a0h3?oc=5",
+      "published": "Tue, 06 Oct 2026 10:06:42 GMT",
+      "source": "Financial Post"
     },
     {
-      "title": "Caregiving is hard. These are the hidden financial costs. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQUxsRGR6TDRPd0lMWDAyUEhvclViZUFDcW5MeFN2UE1hcExLS2JlX3FuUXdQTjRvVkptak1OYUFkMUp1ZkNrVGc0dFlyd2pNTm5IUkFiaUtGRWY1STZYdFVzWE9heGtoT2ZjbGpZeWJ5UkVtZUkzVU5ZZUxSLXFfZUtqYXFELTJkdGQtN2c0WndiYUVTM01wQ19YMUFvODVYUGZkMXpR?oc=5",
-      "published": "Tue, 06 Oct 2026 16:03:09 GMT",
-      "source": "The Washington Post"
+      "title": "Mortgage Rates Are Rising: What Homeowners Should Do Now - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWFJ1TjNNUUNPN0J6NXVYZEZ0S3NFaGhxLVpHV29iNDMxZnR5VDA4Rjc4RUpxQTY1Szkxa1Y2UjlmTm5YZGxZb2hIU2lUU1pfZFpJN2MyRXNTX25BakpjR3FRdzhWTUkyWlJHbGd5OFZ4QXRyQi0zNVl2UjJOb1ZWdlZkRld5QkQ1a3czRWZQSXNyRXktOFpvVENzcmpLLTQ?oc=5",
+      "published": "Wed, 07 Oct 2026 12:15:00 GMT",
+      "source": "Kiplinger"
     },
     {
-      "title": "Five Things I Learned in Hiring a Financial Adviser - wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcDFMNXNza2hzak1HNGNLcUc2OGNNZ0FNdWJmU01VU29Oc0labnJIY1ZTVjU1Z3BCODh6STN4a0tkeXdUcU1adzY5cGx2VUJtRjFSOGQ3U2xLUTRQM0ZWNGpYb2RMeEZGYnhHUjF4bWdadmZqMGZ4OGs0ZF9mYjczYw?oc=5",
-      "published": "Sat, 03 Oct 2026 14:00:00 GMT",
-      "source": "wsj.com"
+      "title": "Today's High-Yield Savings Rates for October 7, 2026: Up to 5.00% - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmpFamttc3dVdVNMbEIxb096N3BxOVlDNHdoRWVTdUdCc213TVVvZmkzYzlObk9udWxDQUhhZGRxcGItQlBlZWZVcURNeUhlbWJYTTF1V1FUSGxTT2gwckttSXo3eFNnRHFkdzdMSUEtaW1jR2tReGdRSTBTNzJ5R251T0VISXYydjB5dkZzd3dmdzNNSWd0aw?oc=5",
+      "published": "Wed, 07 Oct 2026 09:00:00 GMT",
+      "source": "WSJ"
     },
     {
-      "title": "Best CD rates today, Tuesday, October 6, 2026: Lock in up to 4.50% APY - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQU90YTZ3c0dEZWYxRjQ5Y3BrVGwxbU9fODBISGt4RHY0WEdNNnBrTUFndzN3SUV3OXlEdXFhcFN2R3hDOWVMRUpaU0ZlZE8tM0FyWTJWUGpVdGpZNjhremdnQS0xdHBpblBvS0cxT2tBN3JRbV9DOG5Pb0ZQbmd2Sjg1ZDI5LS1DZEM3VjFtUWRCVjlwTU43UnpEeUtpNm1mZFRGeHkzc2tKTmdTb2Y4bHYzWHhMMXhwcjlhZjR1dTRSYzB5czJiZGRfQ1pWXzY3NVktWg?oc=5",
-      "published": "Tue, 06 Oct 2026 10:00:00 GMT",
+      "title": "Mortgage and refinance interest rates today, Wednesday, October 7, 2026: Purchase rates falling as more expect the Fed to hold rates steady - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPM3g1Q0RqRnItWWpqalhwbEVfNFdQdDJWbnVJM0JkUFNkNDV1TlNNYWdiMVdwancyMkV1MXNBTDRnUDhlZjlMMUlUTzNKMm1mR2NMUFRSM0hLbG1zRElWRUtONm80bnNnUWR5R0VpTGRrZEJzLVhrV1pvV0hZQVB2cWlPOUwyT200NWVCZi1kYnJCZGt4OVhmemU0XzBCVDd1RGNVR1Y5SnZsNktJak9KTExoTldCQ3RkT2gwei1yV2tMNlpRX203dERZa0FaMUhxM1dsOGVTTXU3NHFLX3B2NVRQWEZfS0N6ZzhITFR2R1l2UnRmd1dIVmhDbVZFaTVzNzdRX29CVEpCM3R2cmpkWkJyUllid3lTSlRZUVRxckNyZmZ5b1JSRklRWUdiQlZ6eVlNUTJR?oc=5",
+      "published": "Wed, 07 Oct 2026 10:00:00 GMT",
       "source": "Yahoo Finance"
     },
     {
-      "title": "How do I keep checks from being stolen in the mail? - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWTFnQmwyaTVBLU1CZmJQZUl4dkMzRC11dDcyc2hCdUVQZFZQNmlBejRFbmtBbVdGelRUNE5fSk1zbGF5V0pDSjZhMWFmc3E0STI0aVlycUhIMVVEUm5OS1hBSDhUUmxGbVhOLXh2YzdtQ2dNLTZYbFlVTFI2c2d4bE9sS2JvZlVsajM5YUNEcVROcXpFUkdHT3ZEbG8?oc=5",
-      "published": "Sun, 04 Oct 2026 10:00:00 GMT",
-      "source": "Los Angeles Times"
+      "title": "What Does $100K in an 18-Month Jumbo CD Actually Earn? - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2NBVEd1OU9oUDhVcFlJbXg4X1ZaZ3AtUnhRWHk3NnY0RFJkbTdndFFwZG1XWnppN0pOWVd4N1kzUklCMC1INDg2U3RyQnAtMlVOTFRxOTZZUWhWa2Z3Q2FOSi1LLU1IU2pJWGFIOGNwYjM2NlhCUmVPWG1WV3NkYWhHWVBrYndVRmFpTU5MRGRIdGc?oc=5",
+      "published": "Wed, 07 Oct 2026 12:15:00 GMT",
+      "source": "Kiplinger"
     },
     {
-      "title": "The $111,000 Tax Move: How to Turn Unwanted RMDs Into Intentional Charitable Giving - thestreet.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzN4a2NNaHY3NmUyaHVzVkNhZkpKb3V2TnpEQ3JvRDQzLTRvSzAtc2x6VnNxWm1iNWdWNGJNOWVxWEE5ZFg4bmFLR3lXb0tTSEIyazAxOFowVzlrRjJXbkttSVZWd0FjRzRTVk53bFU3Q0ljU2ZnTVl0djNPczdUWVVsbV9XTHg4SE00OC15dTdha25OeVlOLVlmRHVfVVlLOEp4VjNJT082a0JFd2RfU2d1dGotTFJwSUhB?oc=5",
-      "published": "Tue, 06 Oct 2026 09:03:00 GMT",
-      "source": "thestreet.com"
+      "title": "Forget the Fear of AI Replacing Workers: Here Is How It Could Spark the Next Era of Jobs and Innovation - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYV9KTzRhWkZkdENoLTNlQXhOV0xlREpzWlZVb2lzdTZ3Y0hLWGpydDBEbG9MQTRtMF9ZYjJFamE1VWJabUZDQ19saGtZTDFjTW1IY2VEU2hXSnVLS2piLUFxTnFWR19iX1ZuUWJ1TVlZRWVTUFJJWEx0dEw3dXZYSDJB?oc=5",
+      "published": "Wed, 07 Oct 2026 10:00:00 GMT",
+      "source": "Kiplinger"
     },
     {
-      "title": "The Second Year of Retirement Is When the Budget Breaks. The Retirees Who Made It Through Say Why - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTHZ0MUJ6WldSd1lnbTFwU0owQ1MxSVFiWXlxdUwxVVpGSVlid0d0ZmZiTVZmdXpiUUtqenQwOFBWUHprWWJmcW1MRFFqbEV2UDVkaVgxYk1PcmVzZl9nRktrNEpvUjdVb2Y2ZHRXYjdES1dlaThmYmZyVkJEX0gwVFZUOFJ3eGx4WEFaZFBlOHBkOE05SU5yZGUyYWxETmVJVkpyY1lQMHUyS0MwOE5LQ210clJDUzZ3Q19lNTBhT3Jra1VQVWZSdklqNF9Eb1BiOTdSWnlmZXIydFJ2Z0NwZw?oc=5",
-      "published": "Mon, 05 Oct 2026 20:44:00 GMT",
-      "source": "24/7 Wall St."
+      "title": "Five Things I Learned in Hiring a Financial Adviser - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcDFMNXNza2hzak1HNGNLcUc2OGNNZ0FNdWJmU01VU29Oc0labnJIY1ZTVjU1Z3BCODh6STN4a0tkeXdUcU1adzY5cGx2VUJtRjFSOGQ3U2xLUTRQM0ZWNGpYb2RMeEZGYnhHUjF4bWdadmZqMGZ4OGs0ZF9mYjczYw?oc=5",
+      "published": "Sat, 03 Oct 2026 14:00:00 GMT",
+      "source": "WSJ"
     },
     {
-      "title": "Americans say inflation has put the FIRE movement out of reach - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaGtxbE03ZllDb0VubHJ2ZTFBUWsyTkVsYU9WaVNTQ2VPdG95M1F4eURMbUFRUTJiemJYelVUTFZhTE5fRnpKc3YtRHBtczdqZ0lOVEF2VVBWdDhRQy1vRm1GckJJSDRoUzA0NWFjRThLN3RxU1NDbTZHY1FNQmxVRUVYMXFjVU1xeVd6cEhJbXUxWWRGQk0yM2Z5UWtoX2pNUi1wZWszUDVxbFVSOTBEVEY3Y2Q3VWdYeXlISDJ2MGdTVms?oc=5",
-      "published": "Sat, 03 Oct 2026 20:57:00 GMT",
-      "source": "USA Today"
+      "title": "Car buyers are stretching loans to afford payments — it's a 'potential warning light,' analyst says - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGYzVXVOTE9lZm9UZEhaVldpRzlxZDdNeXB4RG9aMm1wRUxYTlhDTlE1bW9oVUlUYlB1VktzU1VJR01pLXgxRTdCb2duR0xOZmNYU2JCSUF6alAtZHFFZTFqdEhuZ1lyVE5seW0zMFAtdW9fZFBBYWtMOUMzSXBjUHpyNGtGb3NNYlBUNG5XVWhYMzRVaWdyM2lwZVJ5dENpQWJXSdIBqgFBVV95cUxNeXAtWXFhTTEwNU8zUnBDM3dPZkVtRUdwelFfN19EcXdYaXFjd2hJaGJvemVHX3R2a3BPWDlYcHhfNXpnZGlLMlh3RDFCMUJITGVJUDVEdnJsZmk3ZDVWMWFqSHVkZHZxR2RTSmlIVHktRVplOXFPZV9RcndTSWtkUmlqbnp6VXNnTElxRUtXTkN1Vkxwdmt3aEd5aGNkdUgtZFNqYVJCMTBBQQ?oc=5",
+      "published": "Tue, 06 Oct 2026 12:15:01 GMT",
+      "source": "CNBC"
     },
     {
       "title": "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press",
@@ -158,15 +150,7 @@
       "source": "WFAA"
     }
   ],
-  "hn_stories": [
-    {
-      "title": "JetBrains reported a net financial loss first time in its tracked history",
-      "url": "https://www.helgilibrary.com/companies/jetbrains",
-      "score": 381,
-      "comments": 390,
-      "source": "Hacker News"
-    }
-  ],
+  "hn_stories": [],
   "trending_searches": [],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",
