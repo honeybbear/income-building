@@ -24,7 +24,7 @@ The benefit phases out as income rises, ending entirely at $35,500 (single), $53
 
 Beyond income, you must also:
 
-- Be at least 18 years old by the end of the tax year
+- Be at least 18 by the end of the tax year
 - Not be enrolled as a full-time student
 - Not be claimed as a dependent on someone else's return
 - Be a U.S. resident for tax purposes
@@ -33,7 +33,7 @@ Qualifying contributions include money put into a 401(k) or similar workplace pl
 
 ## Why the IRS is writing to you now
 
-The IRS is sending CP321J notices to people who claimed the Saver's Credit on their 2025 tax return, or whose 2025 income put them in the range where the new match *might* apply. The letter is informational — two things to know about it:
+The IRS is sending CP321J notices to people who claimed the Saver's Credit on their 2025 tax return, or whose 2025 income falls in the range where the new match *might* apply.
 
 1. **Getting the letter doesn't guarantee you'll qualify.** Your eligibility is decided by your 2027 income, age, filing status, and contributions — not by whether you got a notice.
 2. **You don't need to do anything with the letter in 2026.** There's no form to file, no phone call to make, no fee to pay.
@@ -44,7 +44,7 @@ Be skeptical of anyone who contacts you *about* this program and asks for person
 
 **If you're in the income range, the strategy is simple: save first, the match follows.** The match only rewards money you actually contribute. Contribute $2,000 to a qualifying account in 2027 and the government adds up to $1,000 on top — an instant 50% return on top of any investment growth. Contribute nothing and you get nothing.
 
-**If you don't have a workplace plan, an IRA counts.** Open a traditional or Roth IRA at any major brokerage — it takes minutes and usually has no minimum. This is the simplest path for gig workers, freelancers, and anyone whose employer doesn't offer a 401(k). The Treasury is also building a dedicated low-cost IRA portal (TrumpIRA.gov) aimed at workers without employer plans, with a target launch around January 2027.
+**If you don't have a workplace plan, an IRA counts.** Open a traditional or Roth IRA at any major brokerage — it takes minutes and usually has no minimum. This is the simplest path for gig workers, freelancers, and anyone whose employer doesn't offer a 401(k).
 
 **Start the habit in 2026.** The match doesn't apply to 2026 contributions, but building the savings habit now means you'll be contributing when 2027 arrives. Even $100 a month into an IRA would earn a $600 match at the full 50% rate.
 
