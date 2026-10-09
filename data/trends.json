@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-08T12:40:47Z",
+  "fetched_at": "2026-10-09T12:27:51Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -8,23 +8,43 @@
   ],
   "topics": [
     {
-      "keyword": "tips",
-      "mentions": 7
-    },
-    {
       "keyword": "money",
-      "mentions": 7
+      "mentions": 9
     },
     {
-      "keyword": "budgeting",
+      "keyword": "tips",
       "mentions": 6
     },
     {
+      "keyword": "news",
+      "mentions": 5
+    },
+    {
+      "keyword": "budgeting",
+      "mentions": 5
+    },
+    {
+      "keyword": "retirement",
+      "mentions": 4
+    },
+    {
+      "keyword": "here",
+      "mentions": 4
+    },
+    {
       "keyword": "financial",
+      "mentions": 4
+    },
+    {
+      "keyword": "saving",
+      "mentions": 4
+    },
+    {
+      "keyword": "savings",
       "mentions": 3
     },
     {
-      "keyword": "costs",
+      "keyword": "seniors",
       "mentions": 3
     },
     {
@@ -32,27 +52,7 @@
       "mentions": 3
     },
     {
-      "keyword": "best",
-      "mentions": 2
-    },
-    {
-      "keyword": "yahoo",
-      "mentions": 2
-    },
-    {
-      "keyword": "finance",
-      "mentions": 2
-    },
-    {
-      "keyword": "rates",
-      "mentions": 2
-    },
-    {
-      "keyword": "expert",
-      "mentions": 2
-    },
-    {
-      "keyword": "tough",
+      "keyword": "top",
       "mentions": 2
     }
   ],
@@ -60,22 +60,40 @@
   "discussion_highlights": [],
   "news": [
     {
-      "title": "Trump Account vs. 529 plan: Which is best for your child's future? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVEg5THpnQU5fUGJpTUIxczcwQjBFakpISnBpOWRkMHFKNjJIRGo0Vk9OZ05VZFdid2k1RHBRNWppYncwZHNvLXg0SlZneTJrZUlXeHhzV1hEZ0ZVeElvWGxRbjA3d0M3N3NHeUN5cTVYMF9JS295MmNUYUFicl9nX1IyaHV1S0g1SHdyYklYa1pBV21WUTdONWx0WmRhMWdiaTVV?oc=5",
-      "published": "Wed, 07 Oct 2026 21:32:22 GMT",
+      "title": "Retirement Savings Challenges for 55- to 64-Year-Olds: Factors That Shape Your Final Working Years - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZF84SnFZZ1JsWFFzX05ZbFRSV2k3djlGeGpuaFItc0NES0tSWWVxSlpZRE0xNFp5YVpfU0VXY3RMbE1SNXIyUDlGSWFZaTd5UTJCR21VY3hXcUR0aXg5YTV5Yl9CWDNTN3MwR05BV2N4a19QWXdEcTFzb1VmYkROYWJlWnpNYTBmbEduM0VUNmJ6RERRVzRwbFc1bm1nQ0lvZ2k3STJReFlEZ2lqNlk2UlF4cjZBMVVXSEFHbzE4ZmJDeFY0MkppaFNaOVJQN2c?oc=5",
+      "published": "Fri, 09 Oct 2026 09:45:00 GMT",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Top CD rates today, Oct. 9, 2026: Lock in up to up to 5.20% - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oVTQxV2JNRjd5XzFDb2Z3U0tJRy11UVItcHc3M25fOFlkVlBzZmFBbFFsLUhpTlVSblpLZGZHOFlmdDE1M3BjNlZCM2t4RURDSU9ualY2SjM?oc=5",
+      "published": "Fri, 09 Oct 2026 10:01:00 GMT",
+      "source": "Fortune"
+    },
+    {
+      "title": "IRS issues notices for a $1,000 retirement match. Here's who qualifies. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZmJKVTQ2RklCcFFmXzh2RDFsQ0hJMGo5MGtDZEJXa0lIdE5BZld4S09JaDhEU3VZSjU1NWpuYlF0QUZIdDZqQVN5NFlVU1V3cVF5WWQ5bGgxd2xJSVVZM1l0YkxheHpnMmczODhlbXZZVnlhc0RoMkgtX0U2emNDWVVET04xcW9TZERSYXJ0T3JtczFneXlrQVpyN05fS09uTDcxX2xSWVNlUDVQaU1xTzhpSkxmNmppZm9aNkdteGpnMGY4S215MUdLWFRfcXR1bm1xR3hzRThQUQ?oc=5",
+      "published": "Thu, 08 Oct 2026 14:28:39 GMT",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Best CD rates today, Thursday, October 8, 2026: Lock in up to 4.50% APY - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRXRPZHdMZlV0ZlRPbDdScVFtMndJb3F2RDNoQi0xSjgtLWZEUl9KbG1LakVaY3djaDh0Y1hDa1pPd2ppZGVlMHdtQW1XQTByZjdpWlBtSDNJYVk3MS1Kd0J2TVZSdjNXbDFzN3NIVHJzV0NhbDBFTzcwN1g0SWltaEJoMmFxNFNlZHVyUmIxUzdLbmtxVzFNNG9MdVRyN2l0Q0lPbGNDSm9EUUZGT3lNSWFvUFlfd0JxVzFhWFpBOFBiR2hxa28yQzJzTmRsTjhqSFlLZmpn?oc=5",
-      "published": "Thu, 08 Oct 2026 10:00:00 GMT",
-      "source": "Yahoo Finance"
+      "title": "Student loan forgiveness is a ticking tax bomb again, study warns - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON2NsOFBNaVBfdG1vc3R1MGFoSzV1UnVjYW5mMGdMSExUX1JZOG4xbkstSUl4WThqdmJHeHJJNXhuSTBMWHZGdndzUHBjVDRrRXdETUtwZ3kyckRZOWtXc3RVdV9YckN2dlY3VVAtRjlTZ1dtbGxoSENETHQzRGNjTWJZQkhDa05BbGUtTTg2VFFETC1tMW5hNlZTZzlZSUFFYmd3Y0RfMnpkS3ctazVLWjMycVdBanFIUHllUDRn?oc=5",
+      "published": "Fri, 09 Oct 2026 09:06:00 GMT",
+      "source": "USA Today"
     },
     {
-      "title": "Americans grow more pessimistic about their finances, New York Fed finds — expert warns of ‘tough choices’ ahead - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObTBLc0VPWmM4ZjFDem56RUV6YnBvYkZhWXpMeDY4eTZaU0k0TjdDSVFJZEV6MEthdmRjNVpxR3lnOFdnd2U0QWpMM2w5bW92OEUyZkt4cnNrQmJPcVl2UjBreEN4ck9PTmJfWnY3RlM1WTRDWFk1OERvOWNmbjBxUTlPRdIBiAFBVV95cUxOOWtlTkF5RmhEejh2UU9zRTYwZnd0TnBQc2psZzJQUEFyaEt3MjM0N3ZJVmlwck82YVgwUlZ0djlBWllsWENaVG1hRDR0QTJpZlgzNWJkZlZQT09HQi1xdVhpSzNBSy1RNVEzSGpTS0dKSUp6T0NvSVlGX0VzZzR6QjRZQXVRalJS?oc=5",
-      "published": "Wed, 07 Oct 2026 18:24:12 GMT",
-      "source": "CNBC"
+      "title": "Financial therapist shares how to set boundaries around money - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUEF4TEdSVC1UY19tbGkxZi00ZE9EdFFsWnB0NWg1bHFPOC13RHB0Ui03OW91dUpqay14d2ltUTFFcDdoUmxYQ2t2N1NQcGRJc3h0MXdad0xlcTdxa25tbGs5emhwV0tKbzFDSGxmaUdwaEl0MzBrcHE1ZTh0SU1hSFlldEpuM1prOXg5TVNoMlhHV0VfdVdDb2ZrcEZRUdIBowFBVV95cUxNZzNSVEFPOFZNNXRKSVRxZ2dqelFpazFwMmV6TVE5LWI2MDhuNGIzZWw4aDZBMmZLTWxjYWx5X2lxemRHRHZvZm44NXpBTmRnWXpiY29UdGJ1R0VRdU9KNHAtbElHV3lLajROc0tMUmFCSm1VRENSRXJqZUlGNW1KYWtHdjJNeS1XMnpjdjZiN2JFU3N2cDdSUmNxSHFzdWxPMU5R?oc=5",
+      "published": "Thu, 08 Oct 2026 16:20:04 GMT",
+      "source": "ABC News - Breaking News, Latest News and Videos"
+    },
+    {
+      "title": "Will you get Trump's $90 Medicare boost? See who's eligible - Detroit Free Press",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdkhNc3ktTVZuN21DWGZGTnJ3UlNaQUd5RGVyYVBhWTBqaW5ueDZlMHlKNXA3SEptcGtaUnVIRkZScVA5TElZc3BtSjgxMk1oYkxscE5aODFaSlNteTVZVU5RNnFKOTB3S2pMX3J4cGNBbUZ4c2VFSEJmYVhOOEJHb0p4XzQ4XzRIN1hHWktuc1d1SXoxeE5pNkxGOWZPdFE3aDFZVnhab1JDLXJLaWZZSHBRWFlrUzhsRkdwREZ1MA?oc=5",
+      "published": "Wed, 07 Oct 2026 15:35:00 GMT",
+      "source": "Detroit Free Press"
     },
     {
       "title": "Caregiving is hard. These are the hidden financial costs. - The Washington Post",
@@ -84,33 +102,21 @@
       "source": "The Washington Post"
     },
     {
-      "title": "How Much Income Puts You in the Top 1% in Each State: See What It Takes to Qualify - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSmk3WmJCcUVMZWhJWVlwTnM5aHNJamZJcVphZVZydHBEQ3I0TDJvanBfRUpEeFJ6aUVBQ3NzN3llYXdJbWh0cy1Xa2VTY2dsYlA4NzhrdUV4aUtEWFhOYko0ZHJmYzdUUV9HNVhkd1AxVkRrWVR0MkFfblVWNlBFa1pZS3N3WTBtX3FDeWRmSTN5OFNpekJmY3BGcVcybE9sM2xVdGZoX3ExVkhjUGtmR2JkZWdUcEpwckE?oc=5",
-      "published": "Wed, 07 Oct 2026 10:35:00 GMT",
-      "source": "Investopedia"
-    },
-    {
-      "title": "How Families Can Beat 7% Mortgage Rates and Lower Their Tax Bills - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWnZDREkzMnFLdWkxdGZQNjVGUFVDWHlYbEo3WFZ0ZlU3aWZkYzM1SkhyOWFlQk1KMjU2a0lkbElzcnRfc3pqeTZSMnBzUE56VUNjek1XX08zQzVXVEJRVjczZHE3QlVPWGxLdy15R2tVSkU1S09hNnA4Tmd1dDNpWlNfVmNOOHpXR0N0aUYyN3RucnZwUGpCaThPOGNaSUUzOUd4UTZ0d2FISF9HOGgtY2w1QlpXekk?oc=5",
-      "published": "Thu, 08 Oct 2026 09:30:00 GMT",
+      "title": "If You’re Rushing to Lock In a Mortgage Rate, Here’s What You Need to Know - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmaFB1V056NUVGVlU2V2RBcVVwY0lNa0Q4QVVwZzBDamlCbnFBdVExaFRjTi1aSUMwc2Z4Uk1WanVwdFdGWWxWd01fNlFDdXlkdWUzR0NwTVRNbXEtNFpMc1RhcllSTk5NY1ozdnBOOFJHUQ?oc=5",
+      "published": "Fri, 09 Oct 2026 09:30:00 GMT",
       "source": "WSJ"
     },
     {
-      "title": "The pros and cons of opting out of your workplace pension - The Week",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWmppaldleUZSemdmOGRFWWU2OUhna0IyNDFuREFxTjQ3R090VHdUNXVCWUVFbXlQMlZjN2tWNEZQSl8xN2dSOVBuaXNIdWpEbUk0aTZSRlFMem8xcHdQdnYxaFBUcFl4c0hacGNHY0NJSDlnYk9Pakl1eng2Mlc0VDZkc2VTdGk4REJ3cHZiVE9sUzljYm5KOTBB?oc=5",
-      "published": "Thu, 08 Oct 2026 08:55:25 GMT",
-      "source": "The Week"
+      "title": "By seniors, for seniors: Tips and resources for stretching a shrinking food budget - Signal Cleveland",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUNMUXBpck9IdUtYa1hlNEpiTTU3SXdOTmJ0M2Y3T1pSLXE2UzZldFJ4MWJ3YUM2NlpLM2hrTzh6amdHZEpvUXQxZ2ZzUGpmLWx2RFNhVFdWV2VGMUdzOEVHdDVZOFhJSHkzWURhR1V0NGV6a0pOcnJaMmlsdl92eVRXTG95VEpaYWZLWWlGcVAwUjNGazNxdWtkaHk2WFB3a3V3VEN3?oc=5",
+      "published": "Thu, 08 Oct 2026 04:04:00 GMT",
+      "source": "Signal Cleveland"
     },
     {
-      "title": "SSA COLA 2027 Update: Release date, latest changes and everything to know before it's announced - MARCA",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUGNMeW9vZk5oekxCSVczR3dYT2ZqeV9FdXFrWFZnTF9pMDFqQ09jWlZkMUVtZE5DbC1oR0JVV0NKVEFTUFFBR21hMVpLZUMtT3RUXy1KNkNWQm9ZeWhZMVh1dkJQMnRFUW9BNmNET3pTazQxQjkyVmVrNWJZR2hFVUhJLTEyWTVQUzA4SmdhLTZlRTIwelcxVXFLZVNSS0w5YjZtTFFvX1VhdklKMjhMME8tdVpyWEJsQS1UWlpPNTNmTmw4YmY0emlaRXQwMGxKVHZOZHBrbWFRNHMxZ053ZUtTdV94SDE1V0xvbDdHQXUyOHpvRjc2WTF6SzRud9IB_gFBVV95cUxPa2F3ZkExb1A2Uk5vMkg3RWNYY0pZTHNDQlJzc21Ibi1NYTRPZ2tnQnhLdmNDRHNBWXJGUC13ekJrMVFOSTJUX0RpR09ONUNDQTFtUzVHX2hRYmtyaXRnWTFtUzJud3dycmZ0OGhZRnVjaUdVYXJHdFRha1VJc3VYa0pyb0xXX3BRX2hkQ19mWGxoc1BrRGxlREp4TnBMMDdNX09oRGhPcG5GOXV0TDk0MDZjZnVsdU5xdElUMVRTS0s5cEhuNFNGdFpyR0JZNEZYRnZ6eEdfcHJVQVY5SkFuQzBnczl0SjhuTVFwdjlWRklKeFVKWVlfSXJwUUJMdw?oc=5",
-      "published": "Thu, 08 Oct 2026 11:22:59 GMT",
-      "source": "MARCA"
-    },
-    {
-      "title": "How to Make a Budget: A Step-By-Step Guide - NerdWallet",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1meUZyZ3lmaFMtN1QzVWpjbkNBMVkySWpqeXI4TlRlb0lxS0RJNUNjNFlPR2ljZGw1YUJmT3ZnU3p1SmhxQlhMU0NZdm1Ba3l1TkZvT1pFR0xrOE1lU0s0Ykx2amg?oc=5",
-      "published": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "title": "How to Pay Off Debt: Top Strategies for 2026 - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FcEtUTjUxdUs2UU1GZmpJMHJ5N1dYeTcySFdvaFA1eVQ5TFZIdi1LdE5ocWI4VXdEZ2t2UV8yNHFINlYtT3Q5akZwdXA3M2VWSHYwUEZQTEE1MzRXYzJZSDFLNkNkalQyRGVnbQ?oc=5",
+      "published": "Tue, 06 Oct 2026 07:00:00 GMT",
       "source": "NerdWallet"
     },
     {
@@ -120,38 +126,37 @@
       "source": "The Mesa Press"
     },
     {
+      "title": "Tailgating on a budget: Phoenix deli expert shares money-saving tips for game day - ABC15 Arizona",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUgxU0NVSFVkMGZhbkhoNEZXQTNUSFlsMG81cmF3U1dEdVlyZmgyenp1anVsTm5hV3ZIcXRDcmZ1SmtyZTJHX29sZV9pclllVlZuX0VqeWdwcmFpcTJnWHRZdHJHNEstQ210U2pRa3FwSXlQWHEwRXBjVDVBZ19RNV9QT2NBbWhDQXY1UU1FTEV5NFRsQmJxQWVVUmV1UTB5Y3ZlOEd4U1VNRDVNVXEtdjNlRnFpZk1E?oc=5",
+      "published": "Thu, 08 Oct 2026 12:55:00 GMT",
+      "source": "ABC15 Arizona"
+    },
+    {
+      "title": "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does. - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZENLNjFXWnRpQjRHdjdBa1VhU1VnenRGTlhNdmxFRldvX3QzR3llbzN3NE5NZnhFMm9tSGJocWcxZndMRjhqcWZQeHVaYVR2SmZzakF6Z0c5VS1VRF9FNWhGRFQyY2EtQkVjWGJ0QmxQUV9qQ05ta090b1JyckVlV1ZZR1ZDVjVQeGU4M3RpUDZZMWhqX0hsSFNxN1RZQ0M5Rm01R0dSV2JieldDcS1kQ0c2SnF4WnVmTVg5LWVTSUxobFg4MURJX050Y3FQZXNhMkhB?oc=5",
+      "published": "Sat, 19 Sep 2026 07:00:00 GMT",
+      "source": "MarketWatch"
+    },
+    {
       "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
       "published": "Mon, 28 Sep 2026 07:00:00 GMT",
       "source": "Instacart"
     },
     {
-      "title": "Fall Financial Reset: 5 Budgeting Tips to Promote Fiscal Health - Star Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0FSWjlxTlJYUnNwbk9DQ2Q5Y3ZtZE11dTM4RFhwcWI1WWtTclBGVjhicWJXQ1BIekN2bFZPcTYtUmdqRlJ0WTFRdmRXVzdUV3BxeGxLcWxyODBOR2JfaTJZWEpSaFR3eXNSN0VDR21TNUN1SkJLNUpjNy0tNThDb3l1SlN2VXRyaUpDRmNtdEM2SHN4bEJsbGN2U1YtNWJNc3c?oc=5",
-      "published": "Thu, 17 Sep 2026 15:07:32 GMT",
-      "source": "Star Tribune"
-    },
-    {
       "title": "Experts give budgeting tips for long-term care costs - KIRO 7 News Seattle",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcFU2cTUxNGxsbWpYQzRzbFUxazVUb0c2a0lvVmh5TDZ1d0Y2U0xodTlfRnZROHVlNUVPQ2tDMDdRTmpUQ196T1VyTmwxYXNieTZoRFZnWDB3dzYyM0JCX1A3NmFCX1dSc3Y4bTB3azg4U1h3aW1udjJ5UGRRWkxrTmtYWWlCNzNTVXJJYlZYNkZLTnFRM3lzMmtyZHRyaHpTVDgzT3B1Q1lCd2FsNEdOMlpOMTd0aGlFWGJj?oc=5",
       "published": "Thu, 17 Sep 2026 19:34:30 GMT",
       "source": "KIRO 7 News Seattle"
-    },
-    {
-      "title": "Gemini Can Now Connect to Google Wallet to Offer Spending Insights, Budgeting Tips - PCMag",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaGU2N2FObTl2R1VscDRvTVgwb2JtUjF3bGVXSjFTU0hBbGtSVGFGMzVyUWJBR2ZmbEVHSmVmS3VVQ29EYUxscGpxZ3RTWGNNNTlwam1SeWQ0ZWNpX0pGLWlSVm1kUGtET09KWnIzcDRmNFNEZndGTXVYRV8wRVE2SE0telVaNnhSVFFfdkZxbGhfc1JESUN4MkJFNWFVOVl4YlM1eTNR?oc=5",
-      "published": "Tue, 29 Sep 2026 14:14:06 GMT",
-      "source": "PCMag"
-    },
-    {
-      "title": "Expert provides budgeting tips to keep your money on track - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNemVmYXp6VC1iSUtEUDFwNGlnRFQ5MnlmaTY5VzJBc3o0UVVhbkdfMHRZSXdpVWZrOVpuTWxxQ3hqT3o2X3dmQm5qcWR0TTN6Tm5WZmdLX0FyVjJ6UXctbVh0MFFlTTdPeC11cll4U2FSclRWVmlGQUZYckRxSmF4Ulg0VVdrejc3VDduR3BMMXU1SGdvamgzQi1Xdl84S3hUVjhRWllyN0g4Ym14VC1uQm5QOWRVd3BtNU1IUkVhdnFjVkRuWkl0aEtsNA?oc=5",
-      "published": "Sun, 20 Sep 2026 07:00:00 GMT",
-      "source": "WFAA"
     }
   ],
   "hn_stories": [],
-  "trending_searches": [],
+  "trending_searches": [
+    {
+      "term": "dal stock",
+      "source": "Google Trends US"
+    }
+  ],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",
     "reddit r/financialindependence: HTTP Error 403: Blocked"

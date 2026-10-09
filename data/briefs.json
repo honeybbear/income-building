@@ -1,55 +1,10 @@
 {
-  "generated_at": "2026-10-08T12:40:47Z",
+  "generated_at": "2026-10-09T12:27:51Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
     {
       "id": "t-0",
-      "kind": "trending-topic",
-      "headline_options": [
-        "Tips, explained in plain English",
-        "What you should actually know about tips",
-        "Tips: the honest beginner's guide"
-      ],
-      "angle": "Evergreen explainer on a topic people are actively reading about.",
-      "outline": [
-        "What tips means in plain English",
-        "Why it matters for your budget",
-        "What the current discussion is saying",
-        "Common mistakes",
-        "Sensible next steps"
-      ],
-      "key_points": [
-        "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press (The Mesa Press)",
-        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)",
-        "Fall Financial Reset: 5 Budgeting Tips to Promote Fiscal Health - Star Tribune (Star Tribune)",
-        "Experts give budgeting tips for long-term care costs - KIRO 7 News Seattle (KIRO 7 News Seattle)"
-      ],
-      "sources": [
-        {
-          "title": "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZXBYNURENmFVaGV4YmZ0TE9DaUlNczRGbWVrVzFybXBWTzVma0dQcmM1Tm5mU283X2JiRHphNHFoSWtXYmp0TjdoMVFzdUpEem5jZ3BVX0NuX3E4bVBZb0xzdlhUbTYwU1dFYURqQlpMenRvSmhoS0Y2RFNNRzlNUTIzVmdYMUE3WkFuOUg2VDdqZ0NObmc3Wk9zNHZqenMwbXFoM2tjZmRVSy0yZnJobTZvZDd0RmdvOXVrWkU0Q0tKU1J0S21BenhaS01kR2tzUG1sWXBSZkVpNllJOXZR?oc=5",
-          "source": "The Mesa Press"
-        },
-        {
-          "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
-          "source": "Instacart"
-        },
-        {
-          "title": "Fall Financial Reset: 5 Budgeting Tips to Promote Fiscal Health - Star Tribune",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0FSWjlxTlJYUnNwbk9DQ2Q5Y3ZtZE11dTM4RFhwcWI1WWtTclBGVjhicWJXQ1BIekN2bFZPcTYtUmdqRlJ0WTFRdmRXVzdUV3BxeGxLcWxyODBOR2JfaTJZWEpSaFR3eXNSN0VDR21TNUN1SkJLNUpjNy0tNThDb3l1SlN2VXRyaUpDRmNtdEM2SHN4bEJsbGN2U1YtNWJNc3c?oc=5",
-          "source": "Star Tribune"
-        },
-        {
-          "title": "Experts give budgeting tips for long-term care costs - KIRO 7 News Seattle",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcFU2cTUxNGxsbWpYQzRzbFUxazVUb0c2a0lvVmh5TDZ1d0Y2U0xodTlfRnZROHVlNUVPQ2tDMDdRTmpUQ196T1VyTmwxYXNieTZoRFZnWDB3dzYyM0JCX1A3NmFCX1dSc3Y4bTB3azg4U1h3aW1udjJ5UGRRWkxrTmtYWWlCNzNTVXJJYlZYNkZLTnFRM3lzMmtyZHRyaHpTVDgzT3B1Q1lCd2FsNEdOMlpOMTd0aGlFWGJj?oc=5",
-          "source": "KIRO 7 News Seattle"
-        }
-      ]
-    },
-    {
-      "id": "t-1",
       "kind": "trending-topic",
       "headline_options": [
         "Money, explained in plain English",
@@ -65,19 +20,70 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)",
-        "Expert provides budgeting tips to keep your money on track - WFAA (WFAA)"
+        "Financial therapist shares how to set boundaries around money - ABC News - Breaking News, Latest News and Videos (ABC News - Breaking News, Latest News and Videos)",
+        "Tailgating on a budget: Phoenix deli expert shares money-saving tips for game day - ABC15 Arizona (ABC15 Arizona)",
+        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)"
       ],
       "sources": [
+        {
+          "title": "Financial therapist shares how to set boundaries around money - ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUEF4TEdSVC1UY19tbGkxZi00ZE9EdFFsWnB0NWg1bHFPOC13RHB0Ui03OW91dUpqay14d2ltUTFFcDdoUmxYQ2t2N1NQcGRJc3h0MXdad0xlcTdxa25tbGs5emhwV0tKbzFDSGxmaUdwaEl0MzBrcHE1ZTh0SU1hSFlldEpuM1prOXg5TVNoMlhHV0VfdVdDb2ZrcEZRUdIBowFBVV95cUxNZzNSVEFPOFZNNXRKSVRxZ2dqelFpazFwMmV6TVE5LWI2MDhuNGIzZWw4aDZBMmZLTWxjYWx5X2lxemRHRHZvZm44NXpBTmRnWXpiY29UdGJ1R0VRdU9KNHAtbElHV3lLajROc0tMUmFCSm1VRENSRXJqZUlGNW1KYWtHdjJNeS1XMnpjdjZiN2JFU3N2cDdSUmNxSHFzdWxPMU5R?oc=5",
+          "source": "ABC News - Breaking News, Latest News and Videos"
+        },
+        {
+          "title": "Tailgating on a budget: Phoenix deli expert shares money-saving tips for game day - ABC15 Arizona",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUgxU0NVSFVkMGZhbkhoNEZXQTNUSFlsMG81cmF3U1dEdVlyZmgyenp1anVsTm5hV3ZIcXRDcmZ1SmtyZTJHX29sZV9pclllVlZuX0VqeWdwcmFpcTJnWHRZdHJHNEstQ210U2pRa3FwSXlQWHEwRXBjVDVBZ19RNV9QT2NBbWhDQXY1UU1FTEV5NFRsQmJxQWVVUmV1UTB5Y3ZlOEd4U1VNRDVNVXEtdjNlRnFpZk1E?oc=5",
+          "source": "ABC15 Arizona"
+        },
         {
           "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
           "source": "Instacart"
+        }
+      ]
+    },
+    {
+      "id": "t-1",
+      "kind": "trending-topic",
+      "headline_options": [
+        "Tips, explained in plain English",
+        "What you should actually know about tips",
+        "Tips: the honest beginner's guide"
+      ],
+      "angle": "Evergreen explainer on a topic people are actively reading about.",
+      "outline": [
+        "What tips means in plain English",
+        "Why it matters for your budget",
+        "What the current discussion is saying",
+        "Common mistakes",
+        "Sensible next steps"
+      ],
+      "key_points": [
+        "By seniors, for seniors: Tips and resources for stretching a shrinking food budget - Signal Cleveland (Signal Cleveland)",
+        "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press (The Mesa Press)",
+        "Tailgating on a budget: Phoenix deli expert shares money-saving tips for game day - ABC15 Arizona (ABC15 Arizona)",
+        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)"
+      ],
+      "sources": [
+        {
+          "title": "By seniors, for seniors: Tips and resources for stretching a shrinking food budget - Signal Cleveland",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUNMUXBpck9IdUtYa1hlNEpiTTU3SXdOTmJ0M2Y3T1pSLXE2UzZldFJ4MWJ3YUM2NlpLM2hrTzh6amdHZEpvUXQxZ2ZzUGpmLWx2RFNhVFdWV2VGMUdzOEVHdDVZOFhJSHkzWURhR1V0NGV6a0pOcnJaMmlsdl92eVRXTG95VEpaYWZLWWlGcVAwUjNGazNxdWtkaHk2WFB3a3V3VEN3?oc=5",
+          "source": "Signal Cleveland"
         },
         {
-          "title": "Expert provides budgeting tips to keep your money on track - WFAA",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNemVmYXp6VC1iSUtEUDFwNGlnRFQ5MnlmaTY5VzJBc3o0UVVhbkdfMHRZSXdpVWZrOVpuTWxxQ3hqT3o2X3dmQm5qcWR0TTN6Tm5WZmdLX0FyVjJ6UXctbVh0MFFlTTdPeC11cll4U2FSclRWVmlGQUZYckRxSmF4Ulg0VVdrejc3VDduR3BMMXU1SGdvamgzQi1Xdl84S3hUVjhRWllyN0g4Ym14VC1uQm5QOWRVd3BtNU1IUkVhdnFjVkRuWkl0aEtsNA?oc=5",
-          "source": "WFAA"
+          "title": "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZXBYNURENmFVaGV4YmZ0TE9DaUlNczRGbWVrVzFybXBWTzVma0dQcmM1Tm5mU283X2JiRHphNHFoSWtXYmp0TjdoMVFzdUpEem5jZ3BVX0NuX3E4bVBZb0xzdlhUbTYwU1dFYURqQlpMenRvSmhoS0Y2RFNNRzlNUTIzVmdYMUE3WkFuOUg2VDdqZ0NObmc3Wk9zNHZqenMwbXFoM2tjZmRVSy0yZnJobTZvZDd0RmdvOXVrWkU0Q0tKU1J0S21BenhaS01kR2tzUG1sWXBSZkVpNllJOXZR?oc=5",
+          "source": "The Mesa Press"
+        },
+        {
+          "title": "Tailgating on a budget: Phoenix deli expert shares money-saving tips for game day - ABC15 Arizona",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUgxU0NVSFVkMGZhbkhoNEZXQTNUSFlsMG81cmF3U1dEdVlyZmgyenp1anVsTm5hV3ZIcXRDcmZ1SmtyZTJHX29sZV9pclllVlZuX0VqeWdwcmFpcTJnWHRZdHJHNEstQ210U2pRa3FwSXlQWHEwRXBjVDVBZ19RNV9QT2NBbWhDQXY1UU1FTEV5NFRsQmJxQWVVUmV1UTB5Y3ZlOEd4U1VNRDVNVXEtdjNlRnFpZk1E?oc=5",
+          "source": "ABC15 Arizona"
+        },
+        {
+          "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
+          "source": "Instacart"
         }
       ]
     },
@@ -85,39 +91,27 @@
       "id": "t-2",
       "kind": "trending-topic",
       "headline_options": [
-        "Budgeting, explained in plain English",
-        "What you should actually know about budgeting",
-        "Budgeting: the honest beginner's guide"
+        "News, explained in plain English",
+        "What you should actually know about news",
+        "News: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What budgeting means in plain English",
+        "What news means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press (The Mesa Press)",
-        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)",
-        "Fall Financial Reset: 5 Budgeting Tips to Promote Fiscal Health - Star Tribune (Star Tribune)",
+        "Financial therapist shares how to set boundaries around money - ABC News - Breaking News, Latest News and Videos (ABC News - Breaking News, Latest News and Videos)",
         "Experts give budgeting tips for long-term care costs - KIRO 7 News Seattle (KIRO 7 News Seattle)"
       ],
       "sources": [
         {
-          "title": "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZXBYNURENmFVaGV4YmZ0TE9DaUlNczRGbWVrVzFybXBWTzVma0dQcmM1Tm5mU283X2JiRHphNHFoSWtXYmp0TjdoMVFzdUpEem5jZ3BVX0NuX3E4bVBZb0xzdlhUbTYwU1dFYURqQlpMenRvSmhoS0Y2RFNNRzlNUTIzVmdYMUE3WkFuOUg2VDdqZ0NObmc3Wk9zNHZqenMwbXFoM2tjZmRVSy0yZnJobTZvZDd0RmdvOXVrWkU0Q0tKU1J0S21BenhaS01kR2tzUG1sWXBSZkVpNllJOXZR?oc=5",
-          "source": "The Mesa Press"
-        },
-        {
-          "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
-          "source": "Instacart"
-        },
-        {
-          "title": "Fall Financial Reset: 5 Budgeting Tips to Promote Fiscal Health - Star Tribune",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0FSWjlxTlJYUnNwbk9DQ2Q5Y3ZtZE11dTM4RFhwcWI1WWtTclBGVjhicWJXQ1BIekN2bFZPcTYtUmdqRlJ0WTFRdmRXVzdUV3BxeGxLcWxyODBOR2JfaTJZWEpSaFR3eXNSN0VDR21TNUN1SkJLNUpjNy0tNThDb3l1SlN2VXRyaUpDRmNtdEM2SHN4bEJsbGN2U1YtNWJNc3c?oc=5",
-          "source": "Star Tribune"
+          "title": "Financial therapist shares how to set boundaries around money - ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUEF4TEdSVC1UY19tbGkxZi00ZE9EdFFsWnB0NWg1bHFPOC13RHB0Ui03OW91dUpqay14d2ltUTFFcDdoUmxYQ2t2N1NQcGRJc3h0MXdad0xlcTdxa25tbGs5emhwV0tKbzFDSGxmaUdwaEl0MzBrcHE1ZTh0SU1hSFlldEpuM1prOXg5TVNoMlhHV0VfdVdDb2ZrcEZRUdIBowFBVV95cUxNZzNSVEFPOFZNNXRKSVRxZ2dqelFpazFwMmV6TVE5LWI2MDhuNGIzZWw4aDZBMmZLTWxjYWx5X2lxemRHRHZvZm44NXpBTmRnWXpiY29UdGJ1R0VRdU9KNHAtbElHV3lLajROc0tMUmFCSm1VRENSRXJqZUlGNW1KYWtHdjJNeS1XMnpjdjZiN2JFU3N2cDdSUmNxSHFzdWxPMU5R?oc=5",
+          "source": "ABC News - Breaking News, Latest News and Videos"
         },
         {
           "title": "Experts give budgeting tips for long-term care costs - KIRO 7 News Seattle",
