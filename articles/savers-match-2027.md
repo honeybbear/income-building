@@ -46,7 +46,7 @@ Be skeptical of anyone who contacts you *about* this program and asks for person
 
 **If you don't have a workplace plan, an IRA counts.** Open a traditional or Roth IRA at any major brokerage — it takes minutes and usually has no minimum. This is the simplest path for gig workers, freelancers, and anyone whose employer doesn't offer a 401(k). The Treasury is also building a dedicated low-cost IRA portal (TrumpIRA.gov) aimed at workers without employer plans, with a target launch around January 2027.
 
-**Start the habit in 2026.** The match doesn't apply to 2026 contributions, but building the savings habit now means you'll actually be contributing when 2027 arrives. Even $100 a month into an IRA — $1,200 for the year — would earn a $600 match at the full 50% rate.
+**Start the habit in 2026.** The match doesn't apply to 2026 contributions, but building the savings habit now means you'll be contributing when 2027 arrives. Even $100 a month into an IRA would earn a $600 match at the full 50% rate.
 
 **You'll claim it on your 2027 return.** The IRS is creating a new form, Form 8880-A, for the 2027 tax return (filed in 2028). Keep records of your 2027 contributions, and make sure your tax preparer or tax software knows to look for the match.
 
