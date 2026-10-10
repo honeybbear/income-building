@@ -27,6 +27,7 @@ TOPICS = {
     "second-income-stream": ["income", "getting started"],
     "mortgage-rates-rising-playbook": ["debt", "budgeting"],
     "trump-account-vs-529": ["investing", "family"],
+    "holiday-spending-playbook": ["saving", "budgeting"],
 }
 
 
