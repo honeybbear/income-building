@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T12:27:51Z",
+  "generated_at": "2026-10-10T11:46:48Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -21,8 +21,8 @@
       ],
       "key_points": [
         "Financial therapist shares how to set boundaries around money - ABC News - Breaking News, Latest News and Videos (ABC News - Breaking News, Latest News and Videos)",
-        "Tailgating on a budget: Phoenix deli expert shares money-saving tips for game day - ABC15 Arizona (ABC15 Arizona)",
-        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)"
+        "Money Is Getting More Complicated — and We Need to Talk About It - NerdWallet (NerdWallet)",
+        "Tailgating on a budget: Phoenix deli expert shares money-saving tips for game day - ABC15 Arizona (ABC15 Arizona)"
       ],
       "sources": [
         {
@@ -31,14 +31,14 @@
           "source": "ABC News - Breaking News, Latest News and Videos"
         },
         {
+          "title": "Money Is Getting More Complicated — and We Need to Talk About It - NerdWallet",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnV3J1cHdSUmEtRkZ4TEo2SGd1Y0hoM2JHQmR0WUlMMjdlY0ROalVFSVE5Z3VsSDVMTHI5WTNaVzJYY0FQQUg5MGN0a1ZuV3YybldvQ29oem96SmJEZGpSZXdBaEpnaGctVGtQenh3ekpBZU81VXc?oc=5",
+          "source": "NerdWallet"
+        },
+        {
           "title": "Tailgating on a budget: Phoenix deli expert shares money-saving tips for game day - ABC15 Arizona",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUgxU0NVSFVkMGZhbkhoNEZXQTNUSFlsMG81cmF3U1dEdVlyZmgyenp1anVsTm5hV3ZIcXRDcmZ1SmtyZTJHX29sZV9pclllVlZuX0VqeWdwcmFpcTJnWHRZdHJHNEstQ210U2pRa3FwSXlQWHEwRXBjVDVBZ19RNV9QT2NBbWhDQXY1UU1FTEV5NFRsQmJxQWVVUmV1UTB5Y3ZlOEd4U1VNRDVNVXEtdjNlRnFpZk1E?oc=5",
           "source": "ABC15 Arizona"
-        },
-        {
-          "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
-          "source": "Instacart"
         }
       ]
     },
@@ -59,12 +59,22 @@
         "Sensible next steps"
       ],
       "key_points": [
+        "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily (OU Daily)",
+        "Holiday Spending 101: Expert Tips for Saving on Gifts, Travel, More - TODAY.com (TODAY.com)",
         "By seniors, for seniors: Tips and resources for stretching a shrinking food budget - Signal Cleveland (Signal Cleveland)",
-        "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press (The Mesa Press)",
-        "Tailgating on a budget: Phoenix deli expert shares money-saving tips for game day - ABC15 Arizona (ABC15 Arizona)",
-        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)"
+        "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press (The Mesa Press)"
       ],
       "sources": [
+        {
+          "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUZzTmdGWDQ3cGREaFdOcEhQdjlKblNzSzcwc3JMaUtqWUdRSkh4S3BBVC1uSlQtdmdEaFVtc3hBNnktU002VnRuMHhfSDMyREF2ZTFwWmZ0ajZrVVVYcUR5ZHBKcmtHRjZQYTAzOG5iVG1NcXJJWHZ4UWo5eW1xWnBES1RrazZrQnFMcXlLb2otN3lnTlFZUFUyNHdfV243QlRTMlhYZXV3OUlwT3ZJT1VVejV5VmdTalBCalNNNA?oc=5",
+          "source": "OU Daily"
+        },
+        {
+          "title": "Holiday Spending 101: Expert Tips for Saving on Gifts, Travel, More - TODAY.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkhrOGRfaTBmYzdqVGhhWUxNNFhVd1JDeUhPSVlMY19hUlYtX2lCOTc5ejVLenkyYjVKUDRyQU5SZWVBVG1Ea0QxX21sZkZCOGhSZXR6U3JxQ3JuUFFWT0RSSEZJdS1yOVQ1V0pxZ1BsTUpnYnFiSXFtOFRnNTg4Sg?oc=5",
+          "source": "TODAY.com"
+        },
         {
           "title": "By seniors, for seniors: Tips and resources for stretching a shrinking food budget - Signal Cleveland",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUNMUXBpck9IdUtYa1hlNEpiTTU3SXdOTmJ0M2Y3T1pSLXE2UzZldFJ4MWJ3YUM2NlpLM2hrTzh6amdHZEpvUXQxZ2ZzUGpmLWx2RFNhVFdWV2VGMUdzOEVHdDVZOFhJSHkzWURhR1V0NGV6a0pOcnJaMmlsdl92eVRXTG95VEpaYWZLWWlGcVAwUjNGazNxdWtkaHk2WFB3a3V3VEN3?oc=5",
@@ -74,16 +84,6 @@
           "title": "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZXBYNURENmFVaGV4YmZ0TE9DaUlNczRGbWVrVzFybXBWTzVma0dQcmM1Tm5mU283X2JiRHphNHFoSWtXYmp0TjdoMVFzdUpEem5jZ3BVX0NuX3E4bVBZb0xzdlhUbTYwU1dFYURqQlpMenRvSmhoS0Y2RFNNRzlNUTIzVmdYMUE3WkFuOUg2VDdqZ0NObmc3Wk9zNHZqenMwbXFoM2tjZmRVSy0yZnJobTZvZDd0RmdvOXVrWkU0Q0tKU1J0S21BenhaS01kR2tzUG1sWXBSZkVpNllJOXZR?oc=5",
           "source": "The Mesa Press"
-        },
-        {
-          "title": "Tailgating on a budget: Phoenix deli expert shares money-saving tips for game day - ABC15 Arizona",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUgxU0NVSFVkMGZhbkhoNEZXQTNUSFlsMG81cmF3U1dEdVlyZmgyenp1anVsTm5hV3ZIcXRDcmZ1SmtyZTJHX29sZV9pclllVlZuX0VqeWdwcmFpcTJnWHRZdHJHNEstQ210U2pRa3FwSXlQWHEwRXBjVDVBZ19RNV9QT2NBbWhDQXY1UU1FTEV5NFRsQmJxQWVVUmV1UTB5Y3ZlOEd4U1VNRDVNVXEtdjNlRnFpZk1E?oc=5",
-          "source": "ABC15 Arizona"
-        },
-        {
-          "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
-          "source": "Instacart"
         }
       ]
     },
@@ -105,7 +105,8 @@
       ],
       "key_points": [
         "Financial therapist shares how to set boundaries around money - ABC News - Breaking News, Latest News and Videos (ABC News - Breaking News, Latest News and Videos)",
-        "Experts give budgeting tips for long-term care costs - KIRO 7 News Seattle (KIRO 7 News Seattle)"
+        "‘Disastrous News for Borrowers’: What 6% Mortgage Rates Mean for You - Morningstar (Morningstar)",
+        "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily (OU Daily)"
       ],
       "sources": [
         {
@@ -114,9 +115,14 @@
           "source": "ABC News - Breaking News, Latest News and Videos"
         },
         {
-          "title": "Experts give budgeting tips for long-term care costs - KIRO 7 News Seattle",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcFU2cTUxNGxsbWpYQzRzbFUxazVUb0c2a0lvVmh5TDZ1d0Y2U0xodTlfRnZROHVlNUVPQ2tDMDdRTmpUQ196T1VyTmwxYXNieTZoRFZnWDB3dzYyM0JCX1A3NmFCX1dSc3Y4bTB3azg4U1h3aW1udjJ5UGRRWkxrTmtYWWlCNzNTVXJJYlZYNkZLTnFRM3lzMmtyZHRyaHpTVDgzT3B1Q1lCd2FsNEdOMlpOMTd0aGlFWGJj?oc=5",
-          "source": "KIRO 7 News Seattle"
+          "title": "‘Disastrous News for Borrowers’: What 6% Mortgage Rates Mean for You - Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOGxLd0F5ZHBlUDRCcVdvVGVza09ndkk2VVF1eXNLVW8zVlJTR2VvZ256NDFuOV9tSUJEN2FfWUVfanhGRGlaX1lDWkRUNkJyQzVDanJkZGlwR05INUFBWmJSMlk3YUZ1cTVTQ3hSaXZnclp2NnJPZ2JQRFl3VTJrLXd2ZnptLUduV2s1a2VKNWdyQm1obUNBT2FYSmgtdjVxT1g3Umk1cndURVNsU0pz?oc=5",
+          "source": "Morningstar"
+        },
+        {
+          "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUZzTmdGWDQ3cGREaFdOcEhQdjlKblNzSzcwc3JMaUtqWUdRSkh4S3BBVC1uSlQtdmdEaFVtc3hBNnktU002VnRuMHhfSDMyREF2ZTFwWmZ0ajZrVVVYcUR5ZHBKcmtHRjZQYTAzOG5iVG1NcXJJWHZ4UWo5eW1xWnBES1RrazZrQnFMcXlLb2otN3lnTlFZUFUyNHdfV243QlRTMlhYZXV3OUlwT3ZJT1VVejV5VmdTalBCalNNNA?oc=5",
+          "source": "OU Daily"
         }
       ]
     }

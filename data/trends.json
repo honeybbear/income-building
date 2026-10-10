@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-09T12:27:51Z",
+  "fetched_at": "2026-10-10T11:46:48Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -9,7 +9,7 @@
   "topics": [
     {
       "keyword": "money",
-      "mentions": 9
+      "mentions": 11
     },
     {
       "keyword": "tips",
@@ -20,27 +20,23 @@
       "mentions": 5
     },
     {
-      "keyword": "budgeting",
+      "keyword": "saving",
       "mentions": 5
     },
     {
+      "keyword": "much",
+      "mentions": 4
+    },
+    {
+      "keyword": "budgeting",
+      "mentions": 4
+    },
+    {
+      "keyword": "save",
+      "mentions": 4
+    },
+    {
       "keyword": "retirement",
-      "mentions": 4
-    },
-    {
-      "keyword": "here",
-      "mentions": 4
-    },
-    {
-      "keyword": "financial",
-      "mentions": 4
-    },
-    {
-      "keyword": "saving",
-      "mentions": 4
-    },
-    {
-      "keyword": "savings",
       "mentions": 3
     },
     {
@@ -48,11 +44,15 @@
       "mentions": 3
     },
     {
-      "keyword": "save",
-      "mentions": 3
+      "keyword": "financial",
+      "mentions": 2
     },
     {
-      "keyword": "top",
+      "keyword": "shares",
+      "mentions": 2
+    },
+    {
+      "keyword": "abc",
       "mentions": 2
     }
   ],
@@ -60,16 +60,16 @@
   "discussion_highlights": [],
   "news": [
     {
-      "title": "Retirement Savings Challenges for 55- to 64-Year-Olds: Factors That Shape Your Final Working Years - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZF84SnFZZ1JsWFFzX05ZbFRSV2k3djlGeGpuaFItc0NES0tSWWVxSlpZRE0xNFp5YVpfU0VXY3RMbE1SNXIyUDlGSWFZaTd5UTJCR21VY3hXcUR0aXg5YTV5Yl9CWDNTN3MwR05BV2N4a19QWXdEcTFzb1VmYkROYWJlWnpNYTBmbEduM0VUNmJ6RERRVzRwbFc1bm1nQ0lvZ2k3STJReFlEZ2lqNlk2UlF4cjZBMVVXSEFHbzE4ZmJDeFY0MkppaFNaOVJQN2c?oc=5",
-      "published": "Fri, 09 Oct 2026 09:45:00 GMT",
-      "source": "Investopedia"
+      "title": "Financial therapist shares how to set boundaries around money - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUEF4TEdSVC1UY19tbGkxZi00ZE9EdFFsWnB0NWg1bHFPOC13RHB0Ui03OW91dUpqay14d2ltUTFFcDdoUmxYQ2t2N1NQcGRJc3h0MXdad0xlcTdxa25tbGs5emhwV0tKbzFDSGxmaUdwaEl0MzBrcHE1ZTh0SU1hSFlldEpuM1prOXg5TVNoMlhHV0VfdVdDb2ZrcEZRUdIBowFBVV95cUxNZzNSVEFPOFZNNXRKSVRxZ2dqelFpazFwMmV6TVE5LWI2MDhuNGIzZWw4aDZBMmZLTWxjYWx5X2lxemRHRHZvZm44NXpBTmRnWXpiY29UdGJ1R0VRdU9KNHAtbElHV3lLajROc0tMUmFCSm1VRENSRXJqZUlGNW1KYWtHdjJNeS1XMnpjdjZiN2JFU3N2cDdSUmNxSHFzdWxPMU5R?oc=5",
+      "published": "Thu, 08 Oct 2026 16:20:04 GMT",
+      "source": "ABC News - Breaking News, Latest News and Videos"
     },
     {
-      "title": "Top CD rates today, Oct. 9, 2026: Lock in up to up to 5.20% - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oVTQxV2JNRjd5XzFDb2Z3U0tJRy11UVItcHc3M25fOFlkVlBzZmFBbFFsLUhpTlVSblpLZGZHOFlmdDE1M3BjNlZCM2t4RURDSU9ualY2SjM?oc=5",
-      "published": "Fri, 09 Oct 2026 10:01:00 GMT",
-      "source": "Fortune"
+      "title": "‘Disastrous News for Borrowers’: What 6% Mortgage Rates Mean for You - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOGxLd0F5ZHBlUDRCcVdvVGVza09ndkk2VVF1eXNLVW8zVlJTR2VvZ256NDFuOV9tSUJEN2FfWUVfanhGRGlaX1lDWkRUNkJyQzVDanJkZGlwR05INUFBWmJSMlk3YUZ1cTVTQ3hSaXZnclp2NnJPZ2JQRFl3VTJrLXd2ZnptLUduV2s1a2VKNWdyQm1obUNBT2FYSmgtdjVxT1g3Umk1cndURVNsU0pz?oc=5",
+      "published": "Fri, 09 Oct 2026 11:11:08 GMT",
+      "source": "Morningstar"
     },
     {
       "title": "IRS issues notices for a $1,000 retirement match. Here's who qualifies. - Yahoo Finance",
@@ -78,16 +78,22 @@
       "source": "Yahoo Finance"
     },
     {
-      "title": "Student loan forgiveness is a ticking tax bomb again, study warns - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON2NsOFBNaVBfdG1vc3R1MGFoSzV1UnVjYW5mMGdMSExUX1JZOG4xbkstSUl4WThqdmJHeHJJNXhuSTBMWHZGdndzUHBjVDRrRXdETUtwZ3kyckRZOWtXc3RVdV9YckN2dlY3VVAtRjlTZ1dtbGxoSENETHQzRGNjTWJZQkhDa05BbGUtTTg2VFFETC1tMW5hNlZTZzlZSUFFYmd3Y0RfMnpkS3ctazVLWjMycVdBanFIUHllUDRn?oc=5",
-      "published": "Fri, 09 Oct 2026 09:06:00 GMT",
+      "title": "Half of workers fear they will never fully retire - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbGZSdzBxeFEyNklPd0xpWlRSWUlPMWt2dExia05RcnZfVHJ4UWdCUkRmd1RVS1pBLVk1REcxOFExQUhJZnVGRE1wS1NacFBPaDVUd3BRR2dXdzRmRnV4ajl2SWVqbVRiT3FBdUpWTmdUY05WN214dlNfcnZ3WDAtM1dRY2FRY3hxN24yRXREWWE3S1Zpal9JekNHSDFrLUZsQzJObWpTNVBkZi1HcWJ4bXVfclg4TDJUV3c?oc=5",
+      "published": "Sat, 10 Oct 2026 09:04:17 GMT",
       "source": "USA Today"
     },
     {
-      "title": "Financial therapist shares how to set boundaries around money - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUEF4TEdSVC1UY19tbGkxZi00ZE9EdFFsWnB0NWg1bHFPOC13RHB0Ui03OW91dUpqay14d2ltUTFFcDdoUmxYQ2t2N1NQcGRJc3h0MXdad0xlcTdxa25tbGs5emhwV0tKbzFDSGxmaUdwaEl0MzBrcHE1ZTh0SU1hSFlldEpuM1prOXg5TVNoMlhHV0VfdVdDb2ZrcEZRUdIBowFBVV95cUxNZzNSVEFPOFZNNXRKSVRxZ2dqelFpazFwMmV6TVE5LWI2MDhuNGIzZWw4aDZBMmZLTWxjYWx5X2lxemRHRHZvZm44NXpBTmRnWXpiY29UdGJ1R0VRdU9KNHAtbElHV3lLajROc0tMUmFCSm1VRENSRXJqZUlGNW1KYWtHdjJNeS1XMnpjdjZiN2JFU3N2cDdSUmNxSHFzdWxPMU5R?oc=5",
-      "published": "Thu, 08 Oct 2026 16:20:04 GMT",
-      "source": "ABC News - Breaking News, Latest News and Videos"
+      "title": "How much are Disability Benefits increasing with the last COLA 2027 projection? - MARCA",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVk5rbnNhdXdiMS1aUDRoNzNKUjUycVA0NEYwOEdWMW5yZnJNSkpqbDNUZVZsLWZRazlOS21GVDZyQTN2QnlmUzRZTEpZQUtFcGxDdE5OeG9VRldwNFV1OVozR1c3NV9VQWJVNGFNV195UDRtYUlRY014ZzBzTkxKX240Vnh6RW5uN3Z1NUp3dVh5VVN5WGs5dUt0cUZ4TFlpVlFuREtfZGthLVZTNjIwbjRINE1XV3IwajBRM1gyUTZncmdRRU5wX1BUVnRUUFEzRjhwVFdLWUhVWGZxLWZSSnNPR3lBZVNURFHSAeoBQVVfeXFMTWU5b1pjUlhFX0tKRWpUdGlMZjhzRDdxVjVDZXgtaV9leGc0WnJ2aldQTXNxUUEyanlOcGc5enZPUUFOa3RtLWY1eTV2ZW9MSFZUV2syZHBXbkxhMXBzYXdhdWhzdDVpNEJ6SUZ1T2pzVDRvZUx2NVRmS0R5N2x4OEowRzd0OGcwcWJ0WHgxbThjOHNualR1SGg1cmF5VnFmNlRnV2ZlTHhPdjJWOGQ5MWMtanMxYnZXZXhHc0x6Nk8zX3R2aXJhNnZSX1RrZE84LWY1V0lYQWc1bTZBVERnYWt5MGN5SC0xRzZ3?oc=5",
+      "published": "Sat, 10 Oct 2026 11:00:55 GMT",
+      "source": "MARCA"
+    },
+    {
+      "title": "Money Is Getting More Complicated — and We Need to Talk About It - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnV3J1cHdSUmEtRkZ4TEo2SGd1Y0hoM2JHQmR0WUlMMjdlY0ROalVFSVE5Z3VsSDVMTHI5WTNaVzJYY0FQQUg5MGN0a1ZuV3YybldvQ29oem96SmJEZGpSZXdBaEpnaGctVGtQenh3ekpBZU81VXc?oc=5",
+      "published": "Fri, 09 Oct 2026 16:24:48 GMT",
+      "source": "NerdWallet"
     },
     {
       "title": "Will you get Trump's $90 Medicare boost? See who's eligible - Detroit Free Press",
@@ -96,16 +102,22 @@
       "source": "Detroit Free Press"
     },
     {
-      "title": "Caregiving is hard. These are the hidden financial costs. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQUxsRGR6TDRPd0lMWDAyUEhvclViZUFDcW5MeFN2UE1hcExLS2JlX3FuUXdQTjRvVkptak1OYUFkMUp1ZkNrVGc0dFlyd2pNTm5IUkFiaUtGRWY1STZYdFVzWE9heGtoT2ZjbGpZeWJ5UkVtZUkzVU5ZZUxSLXFfZUtqYXFELTJkdGQtN2c0WndiYUVTM01wQ19YMUFvODVYUGZkMXpR?oc=5",
-      "published": "Tue, 06 Oct 2026 17:00:01 GMT",
-      "source": "The Washington Post"
+      "title": "How Much Income Puts You in the Top 1% in Each State: See What It Takes to Qualify - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSmk3WmJCcUVMZWhJWVlwTnM5aHNJamZJcVphZVZydHBEQ3I0TDJvanBfRUpEeFJ6aUVBQ3NzN3llYXdJbWh0cy1Xa2VTY2dsYlA4NzhrdUV4aUtEWFhOYko0ZHJmYzdUUV9HNVhkd1AxVkRrWVR0MkFfblVWNlBFa1pZS3N3WTBtX3FDeWRmSTN5OFNpekJmY3BGcVcybE9sM2xVdGZoX3ExVkhjUGtmR2JkZWdUcEpwckE?oc=5",
+      "published": "Wed, 07 Oct 2026 10:35:00 GMT",
+      "source": "Investopedia"
     },
     {
-      "title": "If You’re Rushing to Lock In a Mortgage Rate, Here’s What You Need to Know - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmaFB1V056NUVGVlU2V2RBcVVwY0lNa0Q4QVVwZzBDamlCbnFBdVExaFRjTi1aSUMwc2Z4Uk1WanVwdFdGWWxWd01fNlFDdXlkdWUzR0NwTVRNbXEtNFpMc1RhcllSTk5NY1ozdnBOOFJHUQ?oc=5",
-      "published": "Fri, 09 Oct 2026 09:30:00 GMT",
-      "source": "WSJ"
+      "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUZzTmdGWDQ3cGREaFdOcEhQdjlKblNzSzcwc3JMaUtqWUdRSkh4S3BBVC1uSlQtdmdEaFVtc3hBNnktU002VnRuMHhfSDMyREF2ZTFwWmZ0ajZrVVVYcUR5ZHBKcmtHRjZQYTAzOG5iVG1NcXJJWHZ4UWo5eW1xWnBES1RrazZrQnFMcXlLb2otN3lnTlFZUFUyNHdfV243QlRTMlhYZXV3OUlwT3ZJT1VVejV5VmdTalBCalNNNA?oc=5",
+      "published": "Fri, 09 Oct 2026 14:14:16 GMT",
+      "source": "OU Daily"
+    },
+    {
+      "title": "Holiday Spending 101: Expert Tips for Saving on Gifts, Travel, More - TODAY.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkhrOGRfaTBmYzdqVGhhWUxNNFhVd1JDeUhPSVlMY19hUlYtX2lCOTc5ejVLenkyYjVKUDRyQU5SZWVBVG1Ea0QxX21sZkZCOGhSZXR6U3JxQ3JuUFFWT0RSSEZJdS1yOVQ1V0pxZ1BsTUpnYnFiSXFtOFRnNTg4Sg?oc=5",
+      "published": "Fri, 09 Oct 2026 15:54:53 GMT",
+      "source": "TODAY.com"
     },
     {
       "title": "By seniors, for seniors: Tips and resources for stretching a shrinking food budget - Signal Cleveland",
@@ -126,37 +138,20 @@
       "source": "The Mesa Press"
     },
     {
-      "title": "Tailgating on a budget: Phoenix deli expert shares money-saving tips for game day - ABC15 Arizona",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUgxU0NVSFVkMGZhbkhoNEZXQTNUSFlsMG81cmF3U1dEdVlyZmgyenp1anVsTm5hV3ZIcXRDcmZ1SmtyZTJHX29sZV9pclllVlZuX0VqeWdwcmFpcTJnWHRZdHJHNEstQ210U2pRa3FwSXlQWHEwRXBjVDVBZ19RNV9QT2NBbWhDQXY1UU1FTEV5NFRsQmJxQWVVUmV1UTB5Y3ZlOEd4U1VNRDVNVXEtdjNlRnFpZk1E?oc=5",
-      "published": "Thu, 08 Oct 2026 12:55:00 GMT",
-      "source": "ABC15 Arizona"
-    },
-    {
       "title": "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does. - MarketWatch",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZENLNjFXWnRpQjRHdjdBa1VhU1VnenRGTlhNdmxFRldvX3QzR3llbzN3NE5NZnhFMm9tSGJocWcxZndMRjhqcWZQeHVaYVR2SmZzakF6Z0c5VS1VRF9FNWhGRFQyY2EtQkVjWGJ0QmxQUV9qQ05ta090b1JyckVlV1ZZR1ZDVjVQeGU4M3RpUDZZMWhqX0hsSFNxN1RZQ0M5Rm01R0dSV2JieldDcS1kQ0c2SnF4WnVmTVg5LWVTSUxobFg4MURJX050Y3FQZXNhMkhB?oc=5",
       "published": "Sat, 19 Sep 2026 07:00:00 GMT",
       "source": "MarketWatch"
     },
     {
-      "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
-      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
-      "source": "Instacart"
-    },
-    {
-      "title": "Experts give budgeting tips for long-term care costs - KIRO 7 News Seattle",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcFU2cTUxNGxsbWpYQzRzbFUxazVUb0c2a0lvVmh5TDZ1d0Y2U0xodTlfRnZROHVlNUVPQ2tDMDdRTmpUQ196T1VyTmwxYXNieTZoRFZnWDB3dzYyM0JCX1A3NmFCX1dSc3Y4bTB3azg4U1h3aW1udjJ5UGRRWkxrTmtYWWlCNzNTVXJJYlZYNkZLTnFRM3lzMmtyZHRyaHpTVDgzT3B1Q1lCd2FsNEdOMlpOMTd0aGlFWGJj?oc=5",
-      "published": "Thu, 17 Sep 2026 19:34:30 GMT",
-      "source": "KIRO 7 News Seattle"
+      "title": "Tailgating on a budget: Phoenix deli expert shares money-saving tips for game day - ABC15 Arizona",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUgxU0NVSFVkMGZhbkhoNEZXQTNUSFlsMG81cmF3U1dEdVlyZmgyenp1anVsTm5hV3ZIcXRDcmZ1SmtyZTJHX29sZV9pclllVlZuX0VqeWdwcmFpcTJnWHRZdHJHNEstQ210U2pRa3FwSXlQWHEwRXBjVDVBZ19RNV9QT2NBbWhDQXY1UU1FTEV5NFRsQmJxQWVVUmV1UTB5Y3ZlOEd4U1VNRDVNVXEtdjNlRnFpZk1E?oc=5",
+      "published": "Thu, 08 Oct 2026 12:55:00 GMT",
+      "source": "ABC15 Arizona"
     }
   ],
   "hn_stories": [],
-  "trending_searches": [
-    {
-      "term": "dal stock",
-      "source": "Google Trends US"
-    }
-  ],
+  "trending_searches": [],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",
     "reddit r/financialindependence: HTTP Error 403: Blocked"
