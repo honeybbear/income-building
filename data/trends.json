@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-10T11:46:48Z",
+  "fetched_at": "2026-10-11T11:58:50Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -9,26 +9,22 @@
   "topics": [
     {
       "keyword": "money",
-      "mentions": 11
+      "mentions": 8
     },
     {
       "keyword": "tips",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "news",
       "mentions": 5
     },
     {
-      "keyword": "saving",
-      "mentions": 5
-    },
-    {
-      "keyword": "much",
+      "keyword": "budgeting",
       "mentions": 4
     },
     {
-      "keyword": "budgeting",
+      "keyword": "saving",
       "mentions": 4
     },
     {
@@ -36,7 +32,15 @@
       "mentions": 4
     },
     {
-      "keyword": "retirement",
+      "keyword": "financial",
+      "mentions": 3
+    },
+    {
+      "keyword": "rates",
+      "mentions": 3
+    },
+    {
+      "keyword": "much",
       "mentions": 3
     },
     {
@@ -44,21 +48,29 @@
       "mentions": 3
     },
     {
-      "keyword": "financial",
-      "mentions": 2
+      "keyword": "help",
+      "mentions": 3
     },
     {
-      "keyword": "shares",
-      "mentions": 2
-    },
-    {
-      "keyword": "abc",
+      "keyword": "americans",
       "mentions": 2
     }
   ],
   "questions": [],
   "discussion_highlights": [],
   "news": [
+    {
+      "title": "Wealthy Americans are rethinking a 401k rule you probably follow - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR0xBNDNEbzVKQXQ1WUxHYW9oVEpvaDU0SjhZcGlVMmVJemw3anl4Rl9YSTBiSVh3UC1STk4wcUdpSngwYUcxdGZZWDRpRzlmZV9zcG1BS21mZ2xkdVYweXNnMzRXbXNBMFFjVGpVdU5pVHpxQXdndWktdnViNGEyN28wN1N0QmYyTlhyb1l2RnBxYnJHeE9pekJ4bHA1bkZRcDRVT1o3WWYtWGs?oc=5",
+      "published": "Sat, 10 Oct 2026 22:03:00 GMT",
+      "source": "TheStreet"
+    },
+    {
+      "title": "10 Things Gen Xers Should Stop Spending On Now - AARP",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XMllEdjNHLTJDdy1lWG1xa3ctTHlBTUV6blZiUWRERl9YaWFFMnBIX0NLZWdsMk5IU2N0cThaaWR6YzJtNFJHdEFEc05xOXNGWVdTNkYxUU1PbzlycFI1UFZia1VDY1VGWEZBU0tGM3AzQQ?oc=5",
+      "published": "Fri, 09 Oct 2026 12:48:40 GMT",
+      "source": "AARP"
+    },
     {
       "title": "Financial therapist shares how to set boundaries around money - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUEF4TEdSVC1UY19tbGkxZi00ZE9EdFFsWnB0NWg1bHFPOC13RHB0Ui03OW91dUpqay14d2ltUTFFcDdoUmxYQ2t2N1NQcGRJc3h0MXdad0xlcTdxa25tbGs5emhwV0tKbzFDSGxmaUdwaEl0MzBrcHE1ZTh0SU1hSFlldEpuM1prOXg5TVNoMlhHV0VfdVdDb2ZrcEZRUdIBowFBVV95cUxNZzNSVEFPOFZNNXRKSVRxZ2dqelFpazFwMmV6TVE5LWI2MDhuNGIzZWw4aDZBMmZLTWxjYWx5X2lxemRHRHZvZm44NXpBTmRnWXpiY29UdGJ1R0VRdU9KNHAtbElHV3lLajROc0tMUmFCSm1VRENSRXJqZUlGNW1KYWtHdjJNeS1XMnpjdjZiN2JFU3N2cDdSUmNxSHFzdWxPMU5R?oc=5",
@@ -72,40 +84,28 @@
       "source": "Morningstar"
     },
     {
-      "title": "IRS issues notices for a $1,000 retirement match. Here's who qualifies. - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZmJKVTQ2RklCcFFmXzh2RDFsQ0hJMGo5MGtDZEJXa0lIdE5BZld4S09JaDhEU3VZSjU1NWpuYlF0QUZIdDZqQVN5NFlVU1V3cVF5WWQ5bGgxd2xJSVVZM1l0YkxheHpnMmczODhlbXZZVnlhc0RoMkgtX0U2emNDWVVET04xcW9TZERSYXJ0T3JtczFneXlrQVpyN05fS09uTDcxX2xSWVNlUDVQaU1xTzhpSkxmNmppZm9aNkdteGpnMGY4S215MUdLWFRfcXR1bm1xR3hzRThQUQ?oc=5",
-      "published": "Thu, 08 Oct 2026 14:28:39 GMT",
-      "source": "Yahoo Finance"
+      "title": "California’s richest pensioners revealed as fat cats raking in $400K for doing nothing - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS3BxMUgzQmt3MEpRcVdfVE12ZmtMOTBWVktiajA1ajYzV3hBZ24zMVRYMy1hdTlJdy1GVloybU1vc1pldUdqLWRENEZKdW9IcXlDVjBjdlY2UnQ3UjQtR3lYUzR1UjVPTXp6aFdhbnRFMkVfcEpmRDY0ZVZlNVpZQm5UR1FJQjlQTnFWNFhVVVBjWW5qWENiYjdoeV9SUjJKbGUwdVEyUkIxcmVK?oc=5",
+      "published": "Sun, 11 Oct 2026 01:58:00 GMT",
+      "source": "New York Post"
     },
     {
-      "title": "Half of workers fear they will never fully retire - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbGZSdzBxeFEyNklPd0xpWlRSWUlPMWt2dExia05RcnZfVHJ4UWdCUkRmd1RVS1pBLVk1REcxOFExQUhJZnVGRE1wS1NacFBPaDVUd3BRR2dXdzRmRnV4ajl2SWVqbVRiT3FBdUpWTmdUY05WN214dlNfcnZ3WDAtM1dRY2FRY3hxN24yRXREWWE3S1Zpal9JekNHSDFrLUZsQzJObWpTNVBkZi1HcWJ4bXVfclg4TDJUV3c?oc=5",
-      "published": "Sat, 10 Oct 2026 09:04:17 GMT",
-      "source": "USA Today"
+      "title": "A Married Couple Will Be Able to Hand Each Child and Grandchild $38,000 in 2026 Without Filing a Single Gift-Tax Form. With Eleven Recipients, That's $418,000 a Year Leaving the Estate - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOVG5ROVpwUm9qN3M1T3I5dkIxSnVfbjFjYVFvSkhobFk4cnFHNks3Yl9BVXl0V3NNOGlTczBjWkpEN3BlcHdleDVKV2hwVzZTNWpKbTlJdFVjNFgzQklTd2ZILWNWSlMzbHJxXzBYVFo1VDhoaGpVRFROUXhMZWpZWEEzZFBFdVB0dE8yOUQ3ZHVfX096dWc2Z0tMRTJYb2Fod3ZPeGZhTENkejhEbDlhaHBKWm01Q3g2OElpM3d1TEZkeGdEZGZsMUIxWmNZOUpPeG1xQ0RSQ1IzMEpRSU9weHY0RGFrZmp2X1JNWGlxM1lZTmljT3dWV0FEQk5oaWloWm14bXpQaVJDNzJ0YlNvMnhiQzlVaTM5NHRRZmFXVXV3YmVzY2tiVVdtU1hmMmxIanRGcV9jaTRxSi1jNUxUck5EVVZ6WF84UGZBaw?oc=5",
+      "published": "Fri, 09 Oct 2026 09:52:00 GMT",
+      "source": "24/7 Wall St."
     },
     {
-      "title": "How much are Disability Benefits increasing with the last COLA 2027 projection? - MARCA",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVk5rbnNhdXdiMS1aUDRoNzNKUjUycVA0NEYwOEdWMW5yZnJNSkpqbDNUZVZsLWZRazlOS21GVDZyQTN2QnlmUzRZTEpZQUtFcGxDdE5OeG9VRldwNFV1OVozR1c3NV9VQWJVNGFNV195UDRtYUlRY014ZzBzTkxKX240Vnh6RW5uN3Z1NUp3dVh5VVN5WGs5dUt0cUZ4TFlpVlFuREtfZGthLVZTNjIwbjRINE1XV3IwajBRM1gyUTZncmdRRU5wX1BUVnRUUFEzRjhwVFdLWUhVWGZxLWZSSnNPR3lBZVNURFHSAeoBQVVfeXFMTWU5b1pjUlhFX0tKRWpUdGlMZjhzRDdxVjVDZXgtaV9leGc0WnJ2aldQTXNxUUEyanlOcGc5enZPUUFOa3RtLWY1eTV2ZW9MSFZUV2syZHBXbkxhMXBzYXdhdWhzdDVpNEJ6SUZ1T2pzVDRvZUx2NVRmS0R5N2x4OEowRzd0OGcwcWJ0WHgxbThjOHNualR1SGg1cmF5VnFmNlRnV2ZlTHhPdjJWOGQ5MWMtanMxYnZXZXhHc0x6Nk8zX3R2aXJhNnZSX1RrZE84LWY1V0lYQWc1bTZBVERnYWt5MGN5SC0xRzZ3?oc=5",
-      "published": "Sat, 10 Oct 2026 11:00:55 GMT",
+      "title": "How much is the Social Security Income increasing with the latest COLA projection for 2027? - MARCA",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWURVV1c2cFpyMTMzRHU0ZG1ocUFtX2hheTRuU2NMLXRQX1VMZGFEUzRqbXF6R0p4dUNjTVkzUU5yYll6dlpJcFBqZXplQUVfa1d2aFBSV2ZEck1EdHoxWExlejFFVnhqdm1SQl9jTnFkUEdwejhVMnA3RDBleXk2RG9jeGlWbDQtS25WR19ZTGdYeFoxLTU2dHlTSWU1Z0NRR2VUSjRRdHN5WmVDLVBpMUdhTjFFbEdkVUdwTHJ4N3dkZ2xxdDNZLTBLeWlyb054QkJROS1GQ2dYUUtnTXRCenlmWnlUR1FzREl1akhwekZobW1xX1lpTU930gH6AUFVX3lxTE10OHdsTXlMdVNmenE0NGNzaXRXYWFEOXhBNkUyZ2o4UnBKMkhhVUM3Rm8tSm45TFluc0FMZTFEalV1VVJRVGNWMzJyeE5qRE4ydFJzTVExUFVtWTRGLVhOYUJWeXZiRHQ0MWJ1YWFmYVJsS2dkV2M3SVpxWUxjaTZKRUkxeVZ3SE1HVTA5RjdzbUN5RjJrNEs4MW5BNHV6OFBDVnZmT0tqdWloXzJvX2tOZzFQdGlLY2dfS2tmTDNQcjFfNkc5cS1vMGoybVBmRWppY2xzTEZ2Skprb3RDQXFQNXA5OFY1WDFtVHpQZVBqUUdqOFkyaHBFcFE?oc=5",
+      "published": "Sun, 11 Oct 2026 11:35:31 GMT",
       "source": "MARCA"
     },
     {
-      "title": "Money Is Getting More Complicated — and We Need to Talk About It - NerdWallet",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnV3J1cHdSUmEtRkZ4TEo2SGd1Y0hoM2JHQmR0WUlMMjdlY0ROalVFSVE5Z3VsSDVMTHI5WTNaVzJYY0FQQUg5MGN0a1ZuV3YybldvQ29oem96SmJEZGpSZXdBaEpnaGctVGtQenh3ekpBZU81VXc?oc=5",
-      "published": "Fri, 09 Oct 2026 16:24:48 GMT",
-      "source": "NerdWallet"
-    },
-    {
-      "title": "Will you get Trump's $90 Medicare boost? See who's eligible - Detroit Free Press",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdkhNc3ktTVZuN21DWGZGTnJ3UlNaQUd5RGVyYVBhWTBqaW5ueDZlMHlKNXA3SEptcGtaUnVIRkZScVA5TElZc3BtSjgxMk1oYkxscE5aODFaSlNteTVZVU5RNnFKOTB3S2pMX3J4cGNBbUZ4c2VFSEJmYVhOOEJHb0p4XzQ4XzRIN1hHWktuc1d1SXoxeE5pNkxGOWZPdFE3aDFZVnhab1JDLXJLaWZZSHBRWFlrUzhsRkdwREZ1MA?oc=5",
-      "published": "Wed, 07 Oct 2026 15:35:00 GMT",
-      "source": "Detroit Free Press"
-    },
-    {
-      "title": "How Much Income Puts You in the Top 1% in Each State: See What It Takes to Qualify - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSmk3WmJCcUVMZWhJWVlwTnM5aHNJamZJcVphZVZydHBEQ3I0TDJvanBfRUpEeFJ6aUVBQ3NzN3llYXdJbWh0cy1Xa2VTY2dsYlA4NzhrdUV4aUtEWFhOYko0ZHJmYzdUUV9HNVhkd1AxVkRrWVR0MkFfblVWNlBFa1pZS3N3WTBtX3FDeWRmSTN5OFNpekJmY3BGcVcybE9sM2xVdGZoX3ExVkhjUGtmR2JkZWdUcEpwckE?oc=5",
-      "published": "Wed, 07 Oct 2026 10:35:00 GMT",
-      "source": "Investopedia"
+      "title": "Mortgage and refinance interest rates today, Sunday, October 11, 2026: Fixed rates higher than last week; ARMs fell - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNbHlaYjZpVXVnaVR2ZGRjTHRYTEdTZzM5blc4d1N3bFlhREEzU2tkeFpVOU4zNFNzVDVoaG1LM1ladWdWM0NnbkFPNzAzSDNQX2w3Zml4bDZMZkJfM3Fka2t6RFZucXRCcV9pQWtCcU5lUVlicjNoYXZoUWRScFNCSzEzQ1doUC1CR0UxbGRJWm1GaFEwM1dnTXJneFZSOTZGS2swLVYzWE9VUzRyRTJ2TnZ5NE9sb0FvMlFqeDdqczhlSnpUa0RlaU5jRDBfVjhNck1jTkt2MFBjd3ZXZVlvakhOUnpDZzhiY3kwSE4tUU04am9pUXcwQ0w5R1llNHNhb01Rc1Q2dDF3S2E0OWFZaHVxREE?oc=5",
+      "published": "Sun, 11 Oct 2026 10:00:00 GMT",
+      "source": "Yahoo Finance"
     },
     {
       "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
@@ -138,16 +138,16 @@
       "source": "The Mesa Press"
     },
     {
+      "title": "Holiday Budgeting Tips For Busy Families With Vibe Credit Union - LittleGuide Detroit",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSU15eE1mMmtQTjNaalVLa3R3OUlmWEE4eG5FMkN1dGF2Q0dBMTdRaGNJZ19NTnJ4ZklVdlFzUG40ZURHMDV1dTVNbXlJWGJnbkFRSjJWSUNPbXhqeGxVaFBkdWRFWHlUOVR2dnduWXc3UndwRkpzMGtQVFV5bkxacE5BX3ppQkstSjA5aDRxNXNXamhsU0dsMEpjNA?oc=5",
+      "published": "Tue, 29 Sep 2026 00:23:50 GMT",
+      "source": "LittleGuide Detroit"
+    },
+    {
       "title": "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does. - MarketWatch",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZENLNjFXWnRpQjRHdjdBa1VhU1VnenRGTlhNdmxFRldvX3QzR3llbzN3NE5NZnhFMm9tSGJocWcxZndMRjhqcWZQeHVaYVR2SmZzakF6Z0c5VS1VRF9FNWhGRFQyY2EtQkVjWGJ0QmxQUV9qQ05ta090b1JyckVlV1ZZR1ZDVjVQeGU4M3RpUDZZMWhqX0hsSFNxN1RZQ0M5Rm01R0dSV2JieldDcS1kQ0c2SnF4WnVmTVg5LWVTSUxobFg4MURJX050Y3FQZXNhMkhB?oc=5",
       "published": "Sat, 19 Sep 2026 07:00:00 GMT",
       "source": "MarketWatch"
-    },
-    {
-      "title": "Tailgating on a budget: Phoenix deli expert shares money-saving tips for game day - ABC15 Arizona",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUgxU0NVSFVkMGZhbkhoNEZXQTNUSFlsMG81cmF3U1dEdVlyZmgyenp1anVsTm5hV3ZIcXRDcmZ1SmtyZTJHX29sZV9pclllVlZuX0VqeWdwcmFpcTJnWHRZdHJHNEstQ210U2pRa3FwSXlQWHEwRXBjVDVBZ19RNV9QT2NBbWhDQXY1UU1FTEV5NFRsQmJxQWVVUmV1UTB5Y3ZlOEd4U1VNRDVNVXEtdjNlRnFpZk1E?oc=5",
-      "published": "Thu, 08 Oct 2026 12:55:00 GMT",
-      "source": "ABC15 Arizona"
     }
   ],
   "hn_stories": [],

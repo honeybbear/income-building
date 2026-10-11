@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T11:46:48Z",
+  "generated_at": "2026-10-11T11:58:50Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -20,25 +20,13 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "Financial therapist shares how to set boundaries around money - ABC News - Breaking News, Latest News and Videos (ABC News - Breaking News, Latest News and Videos)",
-        "Money Is Getting More Complicated — and We Need to Talk About It - NerdWallet (NerdWallet)",
-        "Tailgating on a budget: Phoenix deli expert shares money-saving tips for game day - ABC15 Arizona (ABC15 Arizona)"
+        "Financial therapist shares how to set boundaries around money - ABC News - Breaking News, Latest News and Videos (ABC News - Breaking News, Latest News and Videos)"
       ],
       "sources": [
         {
           "title": "Financial therapist shares how to set boundaries around money - ABC News - Breaking News, Latest News and Videos",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUEF4TEdSVC1UY19tbGkxZi00ZE9EdFFsWnB0NWg1bHFPOC13RHB0Ui03OW91dUpqay14d2ltUTFFcDdoUmxYQ2t2N1NQcGRJc3h0MXdad0xlcTdxa25tbGs5emhwV0tKbzFDSGxmaUdwaEl0MzBrcHE1ZTh0SU1hSFlldEpuM1prOXg5TVNoMlhHV0VfdVdDb2ZrcEZRUdIBowFBVV95cUxNZzNSVEFPOFZNNXRKSVRxZ2dqelFpazFwMmV6TVE5LWI2MDhuNGIzZWw4aDZBMmZLTWxjYWx5X2lxemRHRHZvZm44NXpBTmRnWXpiY29UdGJ1R0VRdU9KNHAtbElHV3lLajROc0tMUmFCSm1VRENSRXJqZUlGNW1KYWtHdjJNeS1XMnpjdjZiN2JFU3N2cDdSUmNxSHFzdWxPMU5R?oc=5",
           "source": "ABC News - Breaking News, Latest News and Videos"
-        },
-        {
-          "title": "Money Is Getting More Complicated — and We Need to Talk About It - NerdWallet",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnV3J1cHdSUmEtRkZ4TEo2SGd1Y0hoM2JHQmR0WUlMMjdlY0ROalVFSVE5Z3VsSDVMTHI5WTNaVzJYY0FQQUg5MGN0a1ZuV3YybldvQ29oem96SmJEZGpSZXdBaEpnaGctVGtQenh3ekpBZU81VXc?oc=5",
-          "source": "NerdWallet"
-        },
-        {
-          "title": "Tailgating on a budget: Phoenix deli expert shares money-saving tips for game day - ABC15 Arizona",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUgxU0NVSFVkMGZhbkhoNEZXQTNUSFlsMG81cmF3U1dEdVlyZmgyenp1anVsTm5hV3ZIcXRDcmZ1SmtyZTJHX29sZV9pclllVlZuX0VqeWdwcmFpcTJnWHRZdHJHNEstQ210U2pRa3FwSXlQWHEwRXBjVDVBZ19RNV9QT2NBbWhDQXY1UU1FTEV5NFRsQmJxQWVVUmV1UTB5Y3ZlOEd4U1VNRDVNVXEtdjNlRnFpZk1E?oc=5",
-          "source": "ABC15 Arizona"
         }
       ]
     },
