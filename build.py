@@ -28,6 +28,7 @@ TOPICS = {
     "mortgage-rates-rising-playbook": ["debt", "budgeting"],
     "trump-account-vs-529": ["investing", "family"],
     "holiday-spending-playbook": ["saving", "budgeting"],
+    "gift-tax-exclusion-2026": ["taxes", "family"],
 }
 
 
