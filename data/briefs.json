@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T11:58:50Z",
+  "generated_at": "2026-10-12T14:12:41Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -20,18 +20,63 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "Financial therapist shares how to set boundaries around money - ABC News - Breaking News, Latest News and Videos (ABC News - Breaking News, Latest News and Videos)"
+        "How One 40-Year-Old Spent a Life in Money - Bloomberg.com (Bloomberg.com)",
+        "What Happens When You Hit $250K Invested? Three Big Things Start To Change And 'Your Money Really Starts - Benzinga (Benzinga)"
       ],
       "sources": [
         {
-          "title": "Financial therapist shares how to set boundaries around money - ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUEF4TEdSVC1UY19tbGkxZi00ZE9EdFFsWnB0NWg1bHFPOC13RHB0Ui03OW91dUpqay14d2ltUTFFcDdoUmxYQ2t2N1NQcGRJc3h0MXdad0xlcTdxa25tbGs5emhwV0tKbzFDSGxmaUdwaEl0MzBrcHE1ZTh0SU1hSFlldEpuM1prOXg5TVNoMlhHV0VfdVdDb2ZrcEZRUdIBowFBVV95cUxNZzNSVEFPOFZNNXRKSVRxZ2dqelFpazFwMmV6TVE5LWI2MDhuNGIzZWw4aDZBMmZLTWxjYWx5X2lxemRHRHZvZm44NXpBTmRnWXpiY29UdGJ1R0VRdU9KNHAtbElHV3lLajROc0tMUmFCSm1VRENSRXJqZUlGNW1KYWtHdjJNeS1XMnpjdjZiN2JFU3N2cDdSUmNxSHFzdWxPMU5R?oc=5",
-          "source": "ABC News - Breaking News, Latest News and Videos"
+          "title": "How One 40-Year-Old Spent a Life in Money - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObmpuWm5qQmRsUXoyQlBLbkdsN3lGRG9BT1kycnBtT19qNlBlbnM5ckZYeWlBVWFsNGpWWFhrZldUd1VhTFA0bXYxSVpIV2p5Y1JRVXF2NVpDSXlEU1VnMU82MnY3OWs4YkdEZzd1V2RXQjRXTGM0MlBaWktUWjI1V0ZOSkdoR3FTWjhZak91QkxDQkJFajJxaFJrdk8xRDdzb3YwaVd3WEx0c25ITl9DSThNX1JfTU1USm1rd1FzQ2N1akM4QWc?oc=5",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "What Happens When You Hit $250K Invested? Three Big Things Start To Change And 'Your Money Really Starts - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNSEFENl8ydTdlU05TclR5ZWFOSFVmQk9SYkFfUC1TQlA4U1RGN1ZLbUxIVGVpcDM1cFdRQnlvcWgwLUNzTHN0ZGt5MTdRWmRPTGI1UWM1WkREdFJ1LWVBa3QwYThDZjJjMlRiRFByUDRmUTg4Z0N2WUExdl9vRU5yUXdMNmJXVXFDa1NqUHdEX002V2pESHdRRDlSVFpJTGJqQndBelh0Q3VsbW5nSHgxMHg3aVdSMFVva3FrU3h6ZHNZWlM0SXctcjY3dkUwcXgzNVZCY2dBZUR0SHRrZVVobnR6cUpOVnFSUHNsX1FWYWRZZzBaUTdDeUQ2blpjWTNiRjVWb3VyWXZmMHFkV0p4Ym9B?oc=5",
+          "source": "Benzinga"
         }
       ]
     },
     {
       "id": "t-1",
+      "kind": "trending-topic",
+      "headline_options": [
+        "Rates, explained in plain English",
+        "What you should actually know about rates",
+        "Rates: the honest beginner's guide"
+      ],
+      "angle": "Evergreen explainer on a topic people are actively reading about.",
+      "outline": [
+        "What rates means in plain English",
+        "Why it matters for your budget",
+        "What the current discussion is saying",
+        "Common mistakes",
+        "Sensible next steps"
+      ],
+      "key_points": [
+        "‘Disastrous News for Borrowers’: What 6% Mortgage Rates Mean for You - Morningstar (Morningstar)",
+        "Today's High-Yield Savings Rates for October 12, 2026: Up to 5.00% - WSJ (WSJ)",
+        "Mortgage and refinance interest rates today, Monday, October 12, 2026: Fixed refi rates remain lower than purchase rates - Yahoo Finance (Yahoo Finance)"
+      ],
+      "sources": [
+        {
+          "title": "‘Disastrous News for Borrowers’: What 6% Mortgage Rates Mean for You - Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOGxLd0F5ZHBlUDRCcVdvVGVza09ndkk2VVF1eXNLVW8zVlJTR2VvZ256NDFuOV9tSUJEN2FfWUVfanhGRGlaX1lDWkRUNkJyQzVDanJkZGlwR05INUFBWmJSMlk3YUZ1cTVTQ3hSaXZnclp2NnJPZ2JQRFl3VTJrLXd2ZnptLUduV2s1a2VKNWdyQm1obUNBT2FYSmgtdjVxT1g3Umk1cndURVNsU0pz?oc=5",
+          "source": "Morningstar"
+        },
+        {
+          "title": "Today's High-Yield Savings Rates for October 12, 2026: Up to 5.00% - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVWdwUFM3YkVNZnVDWGE0SExYODFlaXZZbFpoSnZnYnZSUEQtMHUxUVp4dzBJOFFCRjBKOFlhVTdITjU0V09RRENiaU9oWDJKYm11R202aWJheGZjZTRreE5lYUIzNElGNUhHYkpob1FJVHBVc1F2RTFrSXd1ZjN6aDlDTW4yQXd5SlVmTG1Jbm1mWnphT1Q2TTJn?oc=5",
+          "source": "WSJ"
+        },
+        {
+          "title": "Mortgage and refinance interest rates today, Monday, October 12, 2026: Fixed refi rates remain lower than purchase rates - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOTndscm5BUlVHLXIxODJaa2oxOXBDRmo4VF96eXozc2ptT1BWVTV6M09fQTluSmVlaXctMWtOQm5vdHR4UjJ4V0laWk5jYkxwOVNkZF9SeTFKb1Z6WV9tUWFMM1NfSEV2a1p6azFFczFFM2hueUY5T1hCSTdWdkkteGFzRzNzZU5OYWlMYnlxWWgwRWpIRVRoNm53eW9TLU1ySWJOT3RJWVVzQVFSdTltR2xSVXhEaUxLNENfTlNPZms4X1ltMUJTTElweFhCTm9qaElkdHBDM2R1TjROVEduQ3cxYzh3a21BWHMwLWVqWGN6dzZaNDFmSmR2czA5cmVTUWpYbFZNVWN4V1ZzdFh2UVJab05xMV9LVWcwXw?oc=5",
+          "source": "Yahoo Finance"
+        }
+      ]
+    },
+    {
+      "id": "t-2",
       "kind": "trending-topic",
       "headline_options": [
         "Tips, explained in plain English",
@@ -50,7 +95,7 @@
         "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily (OU Daily)",
         "Holiday Spending 101: Expert Tips for Saving on Gifts, Travel, More - TODAY.com (TODAY.com)",
         "By seniors, for seniors: Tips and resources for stretching a shrinking food budget - Signal Cleveland (Signal Cleveland)",
-        "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press (The Mesa Press)"
+        "Holiday Budgeting Tips For Busy Families With Vibe Credit Union - LittleGuide Detroit (LittleGuide Detroit)"
       ],
       "sources": [
         {
@@ -69,48 +114,9 @@
           "source": "Signal Cleveland"
         },
         {
-          "title": "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZXBYNURENmFVaGV4YmZ0TE9DaUlNczRGbWVrVzFybXBWTzVma0dQcmM1Tm5mU283X2JiRHphNHFoSWtXYmp0TjdoMVFzdUpEem5jZ3BVX0NuX3E4bVBZb0xzdlhUbTYwU1dFYURqQlpMenRvSmhoS0Y2RFNNRzlNUTIzVmdYMUE3WkFuOUg2VDdqZ0NObmc3Wk9zNHZqenMwbXFoM2tjZmRVSy0yZnJobTZvZDd0RmdvOXVrWkU0Q0tKU1J0S21BenhaS01kR2tzUG1sWXBSZkVpNllJOXZR?oc=5",
-          "source": "The Mesa Press"
-        }
-      ]
-    },
-    {
-      "id": "t-2",
-      "kind": "trending-topic",
-      "headline_options": [
-        "News, explained in plain English",
-        "What you should actually know about news",
-        "News: the honest beginner's guide"
-      ],
-      "angle": "Evergreen explainer on a topic people are actively reading about.",
-      "outline": [
-        "What news means in plain English",
-        "Why it matters for your budget",
-        "What the current discussion is saying",
-        "Common mistakes",
-        "Sensible next steps"
-      ],
-      "key_points": [
-        "Financial therapist shares how to set boundaries around money - ABC News - Breaking News, Latest News and Videos (ABC News - Breaking News, Latest News and Videos)",
-        "‘Disastrous News for Borrowers’: What 6% Mortgage Rates Mean for You - Morningstar (Morningstar)",
-        "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily (OU Daily)"
-      ],
-      "sources": [
-        {
-          "title": "Financial therapist shares how to set boundaries around money - ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUEF4TEdSVC1UY19tbGkxZi00ZE9EdFFsWnB0NWg1bHFPOC13RHB0Ui03OW91dUpqay14d2ltUTFFcDdoUmxYQ2t2N1NQcGRJc3h0MXdad0xlcTdxa25tbGs5emhwV0tKbzFDSGxmaUdwaEl0MzBrcHE1ZTh0SU1hSFlldEpuM1prOXg5TVNoMlhHV0VfdVdDb2ZrcEZRUdIBowFBVV95cUxNZzNSVEFPOFZNNXRKSVRxZ2dqelFpazFwMmV6TVE5LWI2MDhuNGIzZWw4aDZBMmZLTWxjYWx5X2lxemRHRHZvZm44NXpBTmRnWXpiY29UdGJ1R0VRdU9KNHAtbElHV3lLajROc0tMUmFCSm1VRENSRXJqZUlGNW1KYWtHdjJNeS1XMnpjdjZiN2JFU3N2cDdSUmNxSHFzdWxPMU5R?oc=5",
-          "source": "ABC News - Breaking News, Latest News and Videos"
-        },
-        {
-          "title": "‘Disastrous News for Borrowers’: What 6% Mortgage Rates Mean for You - Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOGxLd0F5ZHBlUDRCcVdvVGVza09ndkk2VVF1eXNLVW8zVlJTR2VvZ256NDFuOV9tSUJEN2FfWUVfanhGRGlaX1lDWkRUNkJyQzVDanJkZGlwR05INUFBWmJSMlk3YUZ1cTVTQ3hSaXZnclp2NnJPZ2JQRFl3VTJrLXd2ZnptLUduV2s1a2VKNWdyQm1obUNBT2FYSmgtdjVxT1g3Umk1cndURVNsU0pz?oc=5",
-          "source": "Morningstar"
-        },
-        {
-          "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUZzTmdGWDQ3cGREaFdOcEhQdjlKblNzSzcwc3JMaUtqWUdRSkh4S3BBVC1uSlQtdmdEaFVtc3hBNnktU002VnRuMHhfSDMyREF2ZTFwWmZ0ajZrVVVYcUR5ZHBKcmtHRjZQYTAzOG5iVG1NcXJJWHZ4UWo5eW1xWnBES1RrazZrQnFMcXlLb2otN3lnTlFZUFUyNHdfV243QlRTMlhYZXV3OUlwT3ZJT1VVejV5VmdTalBCalNNNA?oc=5",
-          "source": "OU Daily"
+          "title": "Holiday Budgeting Tips For Busy Families With Vibe Credit Union - LittleGuide Detroit",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSU15eE1mMmtQTjNaalVLa3R3OUlmWEE4eG5FMkN1dGF2Q0dBMTdRaGNJZ19NTnJ4ZklVdlFzUG40ZURHMDV1dTVNbXlJWGJnbkFRSjJWSUNPbXhqeGxVaFBkdWRFWHlUOVR2dnduWXc3UndwRkpzMGtQVFV5bkxacE5BX3ppQkstSjA5aDRxNXNXamhsU0dsMEpjNA?oc=5",
+          "source": "LittleGuide Detroit"
         }
       ]
     }

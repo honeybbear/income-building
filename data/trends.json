@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-11T11:58:50Z",
+  "fetched_at": "2026-10-12T14:12:41Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -12,35 +12,35 @@
       "mentions": 8
     },
     {
-      "keyword": "tips",
-      "mentions": 7
+      "keyword": "rates",
+      "mentions": 5
     },
     {
-      "keyword": "news",
+      "keyword": "tips",
       "mentions": 5
+    },
+    {
+      "keyword": "save",
+      "mentions": 5
+    },
+    {
+      "keyword": "stock",
+      "mentions": 5
+    },
+    {
+      "keyword": "financial",
+      "mentions": 4
     },
     {
       "keyword": "budgeting",
       "mentions": 4
     },
     {
-      "keyword": "saving",
-      "mentions": 4
-    },
-    {
-      "keyword": "save",
-      "mentions": 4
-    },
-    {
-      "keyword": "financial",
+      "keyword": "today",
       "mentions": 3
     },
     {
-      "keyword": "rates",
-      "mentions": 3
-    },
-    {
-      "keyword": "much",
+      "keyword": "com",
       "mentions": 3
     },
     {
@@ -48,34 +48,36 @@
       "mentions": 3
     },
     {
-      "keyword": "help",
+      "keyword": "step",
       "mentions": 3
     },
     {
-      "keyword": "americans",
+      "keyword": "plan",
       "mentions": 2
     }
   ],
   "questions": [],
-  "discussion_highlights": [],
+  "discussion_highlights": [
+    {
+      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+      "source": "Hacker News",
+      "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+      "score": 441,
+      "comments": 139
+    }
+  ],
   "news": [
     {
-      "title": "Wealthy Americans are rethinking a 401k rule you probably follow - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR0xBNDNEbzVKQXQ1WUxHYW9oVEpvaDU0SjhZcGlVMmVJemw3anl4Rl9YSTBiSVh3UC1STk4wcUdpSngwYUcxdGZZWDRpRzlmZV9zcG1BS21mZ2xkdVYweXNnMzRXbXNBMFFjVGpVdU5pVHpxQXdndWktdnViNGEyN28wN1N0QmYyTlhyb1l2RnBxYnJHeE9pekJ4bHA1bkZRcDRVT1o3WWYtWGs?oc=5",
-      "published": "Sat, 10 Oct 2026 22:03:00 GMT",
-      "source": "TheStreet"
+      "title": "Health insurance open enrollment: Use this 'algorithm' to pick a plan, financial advisor says - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yeEZVUnVlcTJEZlMwY2NsN0VaWE1samhyNFY3MGVqaFh5QzdCcHFpN0x2R0o3NFlTc083cHRzRm1nR3B5ZkZyaHd0YU1XTk9ZUGZCZjh5Y2gxdEtkQzlyN0IyMThkWEx3UTBsV1Z3cnZaYmY1Y1B5dNIBfkFVX3lxTFBXQXJaa1B1eVg0S2RZeS1QMTlPNVQxS05WQnhEWWh0eU1ZWHBmT0R6VnRzQWhfTlZwT0llczBBaWN3aFJDWVRRSUhEZzdrUkNPOXY4VXFFRW1nNkx1ckpmbVMxckJ6c0FFa0hDdVdqYnJJMkFHejZMOXdFeklXUQ?oc=5",
+      "published": "Mon, 12 Oct 2026 12:15:01 GMT",
+      "source": "CNBC"
     },
     {
-      "title": "10 Things Gen Xers Should Stop Spending On Now - AARP",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XMllEdjNHLTJDdy1lWG1xa3ctTHlBTUV6blZiUWRERl9YaWFFMnBIX0NLZWdsMk5IU2N0cThaaWR6YzJtNFJHdEFEc05xOXNGWVdTNkYxUU1PbzlycFI1UFZia1VDY1VGWEZBU0tGM3AzQQ?oc=5",
-      "published": "Fri, 09 Oct 2026 12:48:40 GMT",
-      "source": "AARP"
-    },
-    {
-      "title": "Financial therapist shares how to set boundaries around money - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUEF4TEdSVC1UY19tbGkxZi00ZE9EdFFsWnB0NWg1bHFPOC13RHB0Ui03OW91dUpqay14d2ltUTFFcDdoUmxYQ2t2N1NQcGRJc3h0MXdad0xlcTdxa25tbGs5emhwV0tKbzFDSGxmaUdwaEl0MzBrcHE1ZTh0SU1hSFlldEpuM1prOXg5TVNoMlhHV0VfdVdDb2ZrcEZRUdIBowFBVV95cUxNZzNSVEFPOFZNNXRKSVRxZ2dqelFpazFwMmV6TVE5LWI2MDhuNGIzZWw4aDZBMmZLTWxjYWx5X2lxemRHRHZvZm44NXpBTmRnWXpiY29UdGJ1R0VRdU9KNHAtbElHV3lLajROc0tMUmFCSm1VRENSRXJqZUlGNW1KYWtHdjJNeS1XMnpjdjZiN2JFU3N2cDdSUmNxSHFzdWxPMU5R?oc=5",
-      "published": "Thu, 08 Oct 2026 16:20:04 GMT",
-      "source": "ABC News - Breaking News, Latest News and Videos"
+      "title": "Cost-of-living adjustment to be revealed in days. What forecasters say - Detroit Free Press",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbjdrTndWa3dLWkFQejRZZmxKcjFNT1I5djZPR0hld3N6Nk5vdl9ZNVd4N1FFampoS3daVVlFanNMU2dGUmJiVHFsSl9xVmdTeFd0M1d2ejNYeEN0Z296V25GeHJIcHVaTnoxV2dOd0drSFpsRm14YV9leXdoX0xGcXdBQlBsTm92ZE5kX0FOdVVGaE92LXBqVUZSQnhrSmlISTRWV2s0cF9kLV91dURvclBzWTBOcC1HNXJ3ZlRzcW0zVUpWZjlsblpLbGNHQ0pjUmdvQTUtd2UxY3NITzJ3UXdLbmVGWXY2OHhOakxRTnBTd3hf?oc=5",
+      "published": "Mon, 12 Oct 2026 13:28:00 GMT",
+      "source": "Detroit Free Press"
     },
     {
       "title": "‘Disastrous News for Borrowers’: What 6% Mortgage Rates Mean for You - Morningstar",
@@ -84,28 +86,34 @@
       "source": "Morningstar"
     },
     {
-      "title": "California’s richest pensioners revealed as fat cats raking in $400K for doing nothing - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS3BxMUgzQmt3MEpRcVdfVE12ZmtMOTBWVktiajA1ajYzV3hBZ24zMVRYMy1hdTlJdy1GVloybU1vc1pldUdqLWRENEZKdW9IcXlDVjBjdlY2UnQ3UjQtR3lYUzR1UjVPTXp6aFdhbnRFMkVfcEpmRDY0ZVZlNVpZQm5UR1FJQjlQTnFWNFhVVVBjWW5qWENiYjdoeV9SUjJKbGUwdVEyUkIxcmVK?oc=5",
-      "published": "Sun, 11 Oct 2026 01:58:00 GMT",
-      "source": "New York Post"
+      "title": "Today's High-Yield Savings Rates for October 12, 2026: Up to 5.00% - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVWdwUFM3YkVNZnVDWGE0SExYODFlaXZZbFpoSnZnYnZSUEQtMHUxUVp4dzBJOFFCRjBKOFlhVTdITjU0V09RRENiaU9oWDJKYm11R202aWJheGZjZTRreE5lYUIzNElGNUhHYkpob1FJVHBVc1F2RTFrSXd1ZjN6aDlDTW4yQXd5SlVmTG1Jbm1mWnphT1Q2TTJn?oc=5",
+      "published": "Mon, 12 Oct 2026 09:00:00 GMT",
+      "source": "WSJ"
     },
     {
-      "title": "A Married Couple Will Be Able to Hand Each Child and Grandchild $38,000 in 2026 Without Filing a Single Gift-Tax Form. With Eleven Recipients, That's $418,000 a Year Leaving the Estate - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOVG5ROVpwUm9qN3M1T3I5dkIxSnVfbjFjYVFvSkhobFk4cnFHNks3Yl9BVXl0V3NNOGlTczBjWkpEN3BlcHdleDVKV2hwVzZTNWpKbTlJdFVjNFgzQklTd2ZILWNWSlMzbHJxXzBYVFo1VDhoaGpVRFROUXhMZWpZWEEzZFBFdVB0dE8yOUQ3ZHVfX096dWc2Z0tMRTJYb2Fod3ZPeGZhTENkejhEbDlhaHBKWm01Q3g2OElpM3d1TEZkeGdEZGZsMUIxWmNZOUpPeG1xQ0RSQ1IzMEpRSU9weHY0RGFrZmp2X1JNWGlxM1lZTmljT3dWV0FEQk5oaWloWm14bXpQaVJDNzJ0YlNvMnhiQzlVaTM5NHRRZmFXVXV3YmVzY2tiVVdtU1hmMmxIanRGcV9jaTRxSi1jNUxUck5EVVZ6WF84UGZBaw?oc=5",
-      "published": "Fri, 09 Oct 2026 09:52:00 GMT",
-      "source": "24/7 Wall St."
+      "title": "How One 40-Year-Old Spent a Life in Money - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObmpuWm5qQmRsUXoyQlBLbkdsN3lGRG9BT1kycnBtT19qNlBlbnM5ckZYeWlBVWFsNGpWWFhrZldUd1VhTFA0bXYxSVpIV2p5Y1JRVXF2NVpDSXlEU1VnMU82MnY3OWs4YkdEZzd1V2RXQjRXTGM0MlBaWktUWjI1V0ZOSkdoR3FTWjhZak91QkxDQkJFajJxaFJrdk8xRDdzb3YwaVd3WEx0c25ITl9DSThNX1JfTU1USm1rd1FzQ2N1akM4QWc?oc=5",
+      "published": "Sat, 10 Oct 2026 12:00:01 GMT",
+      "source": "Bloomberg.com"
     },
     {
-      "title": "How much is the Social Security Income increasing with the latest COLA projection for 2027? - MARCA",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWURVV1c2cFpyMTMzRHU0ZG1ocUFtX2hheTRuU2NMLXRQX1VMZGFEUzRqbXF6R0p4dUNjTVkzUU5yYll6dlpJcFBqZXplQUVfa1d2aFBSV2ZEck1EdHoxWExlejFFVnhqdm1SQl9jTnFkUEdwejhVMnA3RDBleXk2RG9jeGlWbDQtS25WR19ZTGdYeFoxLTU2dHlTSWU1Z0NRR2VUSjRRdHN5WmVDLVBpMUdhTjFFbEdkVUdwTHJ4N3dkZ2xxdDNZLTBLeWlyb054QkJROS1GQ2dYUUtnTXRCenlmWnlUR1FzREl1akhwekZobW1xX1lpTU930gH6AUFVX3lxTE10OHdsTXlMdVNmenE0NGNzaXRXYWFEOXhBNkUyZ2o4UnBKMkhhVUM3Rm8tSm45TFluc0FMZTFEalV1VVJRVGNWMzJyeE5qRE4ydFJzTVExUFVtWTRGLVhOYUJWeXZiRHQ0MWJ1YWFmYVJsS2dkV2M3SVpxWUxjaTZKRUkxeVZ3SE1HVTA5RjdzbUN5RjJrNEs4MW5BNHV6OFBDVnZmT0tqdWloXzJvX2tOZzFQdGlLY2dfS2tmTDNQcjFfNkc5cS1vMGoybVBmRWppY2xzTEZ2Skprb3RDQXFQNXA5OFY1WDFtVHpQZVBqUUdqOFkyaHBFcFE?oc=5",
-      "published": "Sun, 11 Oct 2026 11:35:31 GMT",
-      "source": "MARCA"
+      "title": "10 Things Gen Xers Should Stop Spending On Now - AARP",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XMllEdjNHLTJDdy1lWG1xa3ctTHlBTUV6blZiUWRERl9YaWFFMnBIX0NLZWdsMk5IU2N0cThaaWR6YzJtNFJHdEFEc05xOXNGWVdTNkYxUU1PbzlycFI1UFZia1VDY1VGWEZBU0tGM3AzQQ?oc=5",
+      "published": "Fri, 09 Oct 2026 12:48:40 GMT",
+      "source": "AARP"
     },
     {
-      "title": "Mortgage and refinance interest rates today, Sunday, October 11, 2026: Fixed rates higher than last week; ARMs fell - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNbHlaYjZpVXVnaVR2ZGRjTHRYTEdTZzM5blc4d1N3bFlhREEzU2tkeFpVOU4zNFNzVDVoaG1LM1ladWdWM0NnbkFPNzAzSDNQX2w3Zml4bDZMZkJfM3Fka2t6RFZucXRCcV9pQWtCcU5lUVlicjNoYXZoUWRScFNCSzEzQ1doUC1CR0UxbGRJWm1GaFEwM1dnTXJneFZSOTZGS2swLVYzWE9VUzRyRTJ2TnZ5NE9sb0FvMlFqeDdqczhlSnpUa0RlaU5jRDBfVjhNck1jTkt2MFBjd3ZXZVlvakhOUnpDZzhiY3kwSE4tUU04am9pUXcwQ0w5R1llNHNhb01Rc1Q2dDF3S2E0OWFZaHVxREE?oc=5",
-      "published": "Sun, 11 Oct 2026 10:00:00 GMT",
+      "title": "Mortgage and refinance interest rates today, Monday, October 12, 2026: Fixed refi rates remain lower than purchase rates - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOTndscm5BUlVHLXIxODJaa2oxOXBDRmo4VF96eXozc2ptT1BWVTV6M09fQTluSmVlaXctMWtOQm5vdHR4UjJ4V0laWk5jYkxwOVNkZF9SeTFKb1Z6WV9tUWFMM1NfSEV2a1p6azFFczFFM2hueUY5T1hCSTdWdkkteGFzRzNzZU5OYWlMYnlxWWgwRWpIRVRoNm53eW9TLU1ySWJOT3RJWVVzQVFSdTltR2xSVXhEaUxLNENfTlNPZms4X1ltMUJTTElweFhCTm9qaElkdHBDM2R1TjROVEduQ3cxYzh3a21BWHMwLWVqWGN6dzZaNDFmSmR2czA5cmVTUWpYbFZNVWN4V1ZzdFh2UVJab05xMV9LVWcwXw?oc=5",
+      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
       "source": "Yahoo Finance"
+    },
+    {
+      "title": "What Happens When You Hit $250K Invested? Three Big Things Start To Change And 'Your Money Really Starts - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNSEFENl8ydTdlU05TclR5ZWFOSFVmQk9SYkFfUC1TQlA4U1RGN1ZLbUxIVGVpcDM1cFdRQnlvcWgwLUNzTHN0ZGt5MTdRWmRPTGI1UWM1WkREdFJ1LWVBa3QwYThDZjJjMlRiRFByUDRmUTg4Z0N2WUExdl9vRU5yUXdMNmJXVXFDa1NqUHdEX002V2pESHdRRDlSVFpJTGJqQndBelh0Q3VsbW5nSHgxMHg3aVdSMFVva3FrU3h6ZHNZWlM0SXctcjY3dkUwcXgzNVZCY2dBZUR0SHRrZVVobnR6cUpOVnFSUHNsX1FWYWRZZzBaUTdDeUQ2blpjWTNiRjVWb3VyWXZmMHFkV0p4Ym9B?oc=5",
+      "published": "Mon, 12 Oct 2026 14:00:13 GMT",
+      "source": "Benzinga"
     },
     {
       "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
@@ -126,16 +134,16 @@
       "source": "Signal Cleveland"
     },
     {
-      "title": "How to Pay Off Debt: Top Strategies for 2026 - NerdWallet",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FcEtUTjUxdUs2UU1GZmpJMHJ5N1dYeTcySFdvaFA1eVQ5TFZIdi1LdE5ocWI4VXdEZ2t2UV8yNHFINlYtT3Q5akZwdXA3M2VWSHYwUEZQTEE1MzRXYzJZSDFLNkNkalQyRGVnbQ?oc=5",
-      "published": "Tue, 06 Oct 2026 07:00:00 GMT",
+      "title": "How to Make a Budget: A Step-By-Step Guide - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1meUZyZ3lmaFMtN1QzVWpjbkNBMVkySWpqeXI4TlRlb0lxS0RJNUNjNFlPR2ljZGw1YUJmT3ZnU3p1SmhxQlhMU0NZdm1Ba3l1TkZvT1pFR0xrOE1lU0s0Ykx2amg?oc=5",
+      "published": "Thu, 17 Sep 2026 07:00:00 GMT",
       "source": "NerdWallet"
     },
     {
-      "title": "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZXBYNURENmFVaGV4YmZ0TE9DaUlNczRGbWVrVzFybXBWTzVma0dQcmM1Tm5mU283X2JiRHphNHFoSWtXYmp0TjdoMVFzdUpEem5jZ3BVX0NuX3E4bVBZb0xzdlhUbTYwU1dFYURqQlpMenRvSmhoS0Y2RFNNRzlNUTIzVmdYMUE3WkFuOUg2VDdqZ0NObmc3Wk9zNHZqenMwbXFoM2tjZmRVSy0yZnJobTZvZDd0RmdvOXVrWkU0Q0tKU1J0S21BenhaS01kR2tzUG1sWXBSZkVpNllJOXZR?oc=5",
-      "published": "Thu, 01 Oct 2026 09:27:01 GMT",
-      "source": "The Mesa Press"
+      "title": "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does. - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZENLNjFXWnRpQjRHdjdBa1VhU1VnenRGTlhNdmxFRldvX3QzR3llbzN3NE5NZnhFMm9tSGJocWcxZndMRjhqcWZQeHVaYVR2SmZzakF6Z0c5VS1VRF9FNWhGRFQyY2EtQkVjWGJ0QmxQUV9qQ05ta090b1JyckVlV1ZZR1ZDVjVQeGU4M3RpUDZZMWhqX0hsSFNxN1RZQ0M5Rm01R0dSV2JieldDcS1kQ0c2SnF4WnVmTVg5LWVTSUxobFg4MURJX050Y3FQZXNhMkhB?oc=5",
+      "published": "Sat, 19 Sep 2026 07:00:00 GMT",
+      "source": "MarketWatch"
     },
     {
       "title": "Holiday Budgeting Tips For Busy Families With Vibe Credit Union - LittleGuide Detroit",
@@ -144,14 +152,43 @@
       "source": "LittleGuide Detroit"
     },
     {
-      "title": "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does. - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZENLNjFXWnRpQjRHdjdBa1VhU1VnenRGTlhNdmxFRldvX3QzR3llbzN3NE5NZnhFMm9tSGJocWcxZndMRjhqcWZQeHVaYVR2SmZzakF6Z0c5VS1VRF9FNWhGRFQyY2EtQkVjWGJ0QmxQUV9qQ05ta090b1JyckVlV1ZZR1ZDVjVQeGU4M3RpUDZZMWhqX0hsSFNxN1RZQ0M5Rm01R0dSV2JieldDcS1kQ0c2SnF4WnVmTVg5LWVTSUxobFg4MURJX050Y3FQZXNhMkhB?oc=5",
-      "published": "Sat, 19 Sep 2026 07:00:00 GMT",
-      "source": "MarketWatch"
+      "title": "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZXBYNURENmFVaGV4YmZ0TE9DaUlNczRGbWVrVzFybXBWTzVma0dQcmM1Tm5mU283X2JiRHphNHFoSWtXYmp0TjdoMVFzdUpEem5jZ3BVX0NuX3E4bVBZb0xzdlhUbTYwU1dFYURqQlpMenRvSmhoS0Y2RFNNRzlNUTIzVmdYMUE3WkFuOUg2VDdqZ0NObmc3Wk9zNHZqenMwbXFoM2tjZmRVSy0yZnJobTZvZDd0RmdvOXVrWkU0Q0tKU1J0S21BenhaS01kR2tzUG1sWXBSZkVpNllJOXZR?oc=5",
+      "published": "Thu, 01 Oct 2026 09:27:01 GMT",
+      "source": "The Mesa Press"
     }
   ],
-  "hn_stories": [],
-  "trending_searches": [],
+  "hn_stories": [
+    {
+      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+      "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+      "score": 441,
+      "comments": 139,
+      "source": "Hacker News"
+    }
+  ],
+  "trending_searches": [
+    {
+      "term": "micron stock price",
+      "source": "Google Trends US"
+    },
+    {
+      "term": "apple stock price",
+      "source": "Google Trends US"
+    },
+    {
+      "term": "uber stock",
+      "source": "Google Trends US"
+    },
+    {
+      "term": "sandisk stock",
+      "source": "Google Trends US"
+    },
+    {
+      "term": "googl stock",
+      "source": "Google Trends US"
+    }
+  ],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",
     "reddit r/financialindependence: HTTP Error 403: Blocked"
