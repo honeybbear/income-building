@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T14:12:41Z",
+  "generated_at": "2026-10-13T13:23:25Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -20,63 +20,24 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "How One 40-Year-Old Spent a Life in Money - Bloomberg.com (Bloomberg.com)",
-        "What Happens When You Hit $250K Invested? Three Big Things Start To Change And 'Your Money Really Starts - Benzinga (Benzinga)"
+        "Surviving the Emotional Toll of Bankruptcy | Personal Finance - U.S. News - Money (U.S. News - Money)",
+        "How One 40-Year-Old Spent a Life in Money - Bloomberg.com (Bloomberg.com)"
       ],
       "sources": [
+        {
+          "title": "Surviving the Emotional Toll of Bankruptcy | Personal Finance - U.S. News - Money",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWFFtVXl6OWgzX3pZVFIyNjhHLW1DMFQtRDNVMmdVNzY1cjRwaGtZNzZNdVFSejRuVHBJMHBaRWRYRnZDbTBURW5yR3RmVUZ5UmNTSldRS2ZnTzVIei03TnBPWmlSQkNYNXljVkFWZlJNMTU2UVhWTlVBUVZUQ3M1UW91dFBPRXhXeG8yQ0N4UFFlVDhUZ3REZWhaVTNkcUd4?oc=5",
+          "source": "U.S. News - Money"
+        },
         {
           "title": "How One 40-Year-Old Spent a Life in Money - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObmpuWm5qQmRsUXoyQlBLbkdsN3lGRG9BT1kycnBtT19qNlBlbnM5ckZYeWlBVWFsNGpWWFhrZldUd1VhTFA0bXYxSVpIV2p5Y1JRVXF2NVpDSXlEU1VnMU82MnY3OWs4YkdEZzd1V2RXQjRXTGM0MlBaWktUWjI1V0ZOSkdoR3FTWjhZak91QkxDQkJFajJxaFJrdk8xRDdzb3YwaVd3WEx0c25ITl9DSThNX1JfTU1USm1rd1FzQ2N1akM4QWc?oc=5",
           "source": "Bloomberg.com"
-        },
-        {
-          "title": "What Happens When You Hit $250K Invested? Three Big Things Start To Change And 'Your Money Really Starts - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNSEFENl8ydTdlU05TclR5ZWFOSFVmQk9SYkFfUC1TQlA4U1RGN1ZLbUxIVGVpcDM1cFdRQnlvcWgwLUNzTHN0ZGt5MTdRWmRPTGI1UWM1WkREdFJ1LWVBa3QwYThDZjJjMlRiRFByUDRmUTg4Z0N2WUExdl9vRU5yUXdMNmJXVXFDa1NqUHdEX002V2pESHdRRDlSVFpJTGJqQndBelh0Q3VsbW5nSHgxMHg3aVdSMFVva3FrU3h6ZHNZWlM0SXctcjY3dkUwcXgzNVZCY2dBZUR0SHRrZVVobnR6cUpOVnFSUHNsX1FWYWRZZzBaUTdDeUQ2blpjWTNiRjVWb3VyWXZmMHFkV0p4Ym9B?oc=5",
-          "source": "Benzinga"
         }
       ]
     },
     {
       "id": "t-1",
-      "kind": "trending-topic",
-      "headline_options": [
-        "Rates, explained in plain English",
-        "What you should actually know about rates",
-        "Rates: the honest beginner's guide"
-      ],
-      "angle": "Evergreen explainer on a topic people are actively reading about.",
-      "outline": [
-        "What rates means in plain English",
-        "Why it matters for your budget",
-        "What the current discussion is saying",
-        "Common mistakes",
-        "Sensible next steps"
-      ],
-      "key_points": [
-        "‘Disastrous News for Borrowers’: What 6% Mortgage Rates Mean for You - Morningstar (Morningstar)",
-        "Today's High-Yield Savings Rates for October 12, 2026: Up to 5.00% - WSJ (WSJ)",
-        "Mortgage and refinance interest rates today, Monday, October 12, 2026: Fixed refi rates remain lower than purchase rates - Yahoo Finance (Yahoo Finance)"
-      ],
-      "sources": [
-        {
-          "title": "‘Disastrous News for Borrowers’: What 6% Mortgage Rates Mean for You - Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOGxLd0F5ZHBlUDRCcVdvVGVza09ndkk2VVF1eXNLVW8zVlJTR2VvZ256NDFuOV9tSUJEN2FfWUVfanhGRGlaX1lDWkRUNkJyQzVDanJkZGlwR05INUFBWmJSMlk3YUZ1cTVTQ3hSaXZnclp2NnJPZ2JQRFl3VTJrLXd2ZnptLUduV2s1a2VKNWdyQm1obUNBT2FYSmgtdjVxT1g3Umk1cndURVNsU0pz?oc=5",
-          "source": "Morningstar"
-        },
-        {
-          "title": "Today's High-Yield Savings Rates for October 12, 2026: Up to 5.00% - WSJ",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVWdwUFM3YkVNZnVDWGE0SExYODFlaXZZbFpoSnZnYnZSUEQtMHUxUVp4dzBJOFFCRjBKOFlhVTdITjU0V09RRENiaU9oWDJKYm11R202aWJheGZjZTRreE5lYUIzNElGNUhHYkpob1FJVHBVc1F2RTFrSXd1ZjN6aDlDTW4yQXd5SlVmTG1Jbm1mWnphT1Q2TTJn?oc=5",
-          "source": "WSJ"
-        },
-        {
-          "title": "Mortgage and refinance interest rates today, Monday, October 12, 2026: Fixed refi rates remain lower than purchase rates - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOTndscm5BUlVHLXIxODJaa2oxOXBDRmo4VF96eXozc2ptT1BWVTV6M09fQTluSmVlaXctMWtOQm5vdHR4UjJ4V0laWk5jYkxwOVNkZF9SeTFKb1Z6WV9tUWFMM1NfSEV2a1p6azFFczFFM2hueUY5T1hCSTdWdkkteGFzRzNzZU5OYWlMYnlxWWgwRWpIRVRoNm53eW9TLU1ySWJOT3RJWVVzQVFSdTltR2xSVXhEaUxLNENfTlNPZms4X1ltMUJTTElweFhCTm9qaElkdHBDM2R1TjROVEduQ3cxYzh3a21BWHMwLWVqWGN6dzZaNDFmSmR2czA5cmVTUWpYbFZNVWN4V1ZzdFh2UVJab05xMV9LVWcwXw?oc=5",
-          "source": "Yahoo Finance"
-        }
-      ]
-    },
-    {
-      "id": "t-2",
       "kind": "trending-topic",
       "headline_options": [
         "Tips, explained in plain English",
@@ -94,8 +55,8 @@
       "key_points": [
         "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily (OU Daily)",
         "Holiday Spending 101: Expert Tips for Saving on Gifts, Travel, More - TODAY.com (TODAY.com)",
-        "By seniors, for seniors: Tips and resources for stretching a shrinking food budget - Signal Cleveland (Signal Cleveland)",
-        "Holiday Budgeting Tips For Busy Families With Vibe Credit Union - LittleGuide Detroit (LittleGuide Detroit)"
+        "Student loan running dry? Here are seven budgeting tips to survive the rest of October - The Tab (The Tab)",
+        "By seniors, for seniors: Tips and resources for stretching a shrinking food budget - Signal Cleveland (Signal Cleveland)"
       ],
       "sources": [
         {
@@ -109,9 +70,54 @@
           "source": "TODAY.com"
         },
         {
+          "title": "Student loan running dry? Here are seven budgeting tips to survive the rest of October - The Tab",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTHJMbXljazJKdS1CdG1PaFlCajdSRnhMY3hkZXVtUG5faHk0dE9Wek9WWmFJdF9iNERJaW9wbmlkbHpnWXFvbGNSSmJOeExNVVlOWGd3VGMyVlBFRnJOM0N2ZWxiUVFTWHlDTTZ5M3NPRWlLQzRkUjJITlRYRm95VVdyU09PREtZdENMS0lGZUlxel9IdUtNVWJVT29weEc3UEdaVHdZeVBQMk9Y?oc=5",
+          "source": "The Tab"
+        },
+        {
           "title": "By seniors, for seniors: Tips and resources for stretching a shrinking food budget - Signal Cleveland",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUNMUXBpck9IdUtYa1hlNEpiTTU3SXdOTmJ0M2Y3T1pSLXE2UzZldFJ4MWJ3YUM2NlpLM2hrTzh6amdHZEpvUXQxZ2ZzUGpmLWx2RFNhVFdWV2VGMUdzOEVHdDVZOFhJSHkzWURhR1V0NGV6a0pOcnJaMmlsdl92eVRXTG95VEpaYWZLWWlGcVAwUjNGazNxdWtkaHk2WFB3a3V3VEN3?oc=5",
           "source": "Signal Cleveland"
+        }
+      ]
+    },
+    {
+      "id": "t-2",
+      "kind": "trending-topic",
+      "headline_options": [
+        "Budgeting, explained in plain English",
+        "What you should actually know about budgeting",
+        "Budgeting: the honest beginner's guide"
+      ],
+      "angle": "Evergreen explainer on a topic people are actively reading about.",
+      "outline": [
+        "What budgeting means in plain English",
+        "Why it matters for your budget",
+        "What the current discussion is saying",
+        "Common mistakes",
+        "Sensible next steps"
+      ],
+      "key_points": [
+        "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily (OU Daily)",
+        "Student loan running dry? Here are seven budgeting tips to survive the rest of October - The Tab (The Tab)",
+        "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press (The Mesa Press)",
+        "Holiday Budgeting Tips For Busy Families With Vibe Credit Union - LittleGuide Detroit (LittleGuide Detroit)"
+      ],
+      "sources": [
+        {
+          "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUZzTmdGWDQ3cGREaFdOcEhQdjlKblNzSzcwc3JMaUtqWUdRSkh4S3BBVC1uSlQtdmdEaFVtc3hBNnktU002VnRuMHhfSDMyREF2ZTFwWmZ0ajZrVVVYcUR5ZHBKcmtHRjZQYTAzOG5iVG1NcXJJWHZ4UWo5eW1xWnBES1RrazZrQnFMcXlLb2otN3lnTlFZUFUyNHdfV243QlRTMlhYZXV3OUlwT3ZJT1VVejV5VmdTalBCalNNNA?oc=5",
+          "source": "OU Daily"
+        },
+        {
+          "title": "Student loan running dry? Here are seven budgeting tips to survive the rest of October - The Tab",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTHJMbXljazJKdS1CdG1PaFlCajdSRnhMY3hkZXVtUG5faHk0dE9Wek9WWmFJdF9iNERJaW9wbmlkbHpnWXFvbGNSSmJOeExNVVlOWGd3VGMyVlBFRnJOM0N2ZWxiUVFTWHlDTTZ5M3NPRWlLQzRkUjJITlRYRm95VVdyU09PREtZdENMS0lGZUlxel9IdUtNVWJVT29weEc3UEdaVHdZeVBQMk9Y?oc=5",
+          "source": "The Tab"
+        },
+        {
+          "title": "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZXBYNURENmFVaGV4YmZ0TE9DaUlNczRGbWVrVzFybXBWTzVma0dQcmM1Tm5mU283X2JiRHphNHFoSWtXYmp0TjdoMVFzdUpEem5jZ3BVX0NuX3E4bVBZb0xzdlhUbTYwU1dFYURqQlpMenRvSmhoS0Y2RFNNRzlNUTIzVmdYMUE3WkFuOUg2VDdqZ0NObmc3Wk9zNHZqenMwbXFoM2tjZmRVSy0yZnJobTZvZDd0RmdvOXVrWkU0Q0tKU1J0S21BenhaS01kR2tzUG1sWXBSZkVpNllJOXZR?oc=5",
+          "source": "The Mesa Press"
         },
         {
           "title": "Holiday Budgeting Tips For Busy Families With Vibe Credit Union - LittleGuide Detroit",
