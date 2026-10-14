@@ -1,43 +1,10 @@
 {
-  "generated_at": "2026-10-13T13:23:25Z",
+  "generated_at": "2026-10-14T11:01:58Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
     {
       "id": "t-0",
-      "kind": "trending-topic",
-      "headline_options": [
-        "Money, explained in plain English",
-        "What you should actually know about money",
-        "Money: the honest beginner's guide"
-      ],
-      "angle": "Evergreen explainer on a topic people are actively reading about.",
-      "outline": [
-        "What money means in plain English",
-        "Why it matters for your budget",
-        "What the current discussion is saying",
-        "Common mistakes",
-        "Sensible next steps"
-      ],
-      "key_points": [
-        "Surviving the Emotional Toll of Bankruptcy | Personal Finance - U.S. News - Money (U.S. News - Money)",
-        "How One 40-Year-Old Spent a Life in Money - Bloomberg.com (Bloomberg.com)"
-      ],
-      "sources": [
-        {
-          "title": "Surviving the Emotional Toll of Bankruptcy | Personal Finance - U.S. News - Money",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWFFtVXl6OWgzX3pZVFIyNjhHLW1DMFQtRDNVMmdVNzY1cjRwaGtZNzZNdVFSejRuVHBJMHBaRWRYRnZDbTBURW5yR3RmVUZ5UmNTSldRS2ZnTzVIei03TnBPWmlSQkNYNXljVkFWZlJNMTU2UVhWTlVBUVZUQ3M1UW91dFBPRXhXeG8yQ0N4UFFlVDhUZ3REZWhaVTNkcUd4?oc=5",
-          "source": "U.S. News - Money"
-        },
-        {
-          "title": "How One 40-Year-Old Spent a Life in Money - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObmpuWm5qQmRsUXoyQlBLbkdsN3lGRG9BT1kycnBtT19qNlBlbnM5ckZYeWlBVWFsNGpWWFhrZldUd1VhTFA0bXYxSVpIV2p5Y1JRVXF2NVpDSXlEU1VnMU82MnY3OWs4YkdEZzd1V2RXQjRXTGM0MlBaWktUWjI1V0ZOSkdoR3FTWjhZak91QkxDQkJFajJxaFJrdk8xRDdzb3YwaVd3WEx0c25ITl9DSThNX1JfTU1USm1rd1FzQ2N1akM4QWc?oc=5",
-          "source": "Bloomberg.com"
-        }
-      ]
-    },
-    {
-      "id": "t-1",
       "kind": "trending-topic",
       "headline_options": [
         "Tips, explained in plain English",
@@ -54,15 +21,20 @@
       ],
       "key_points": [
         "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily (OU Daily)",
+        "Dedicated Financial Shares Fall Budgeting and Year-End Tax Planning Tips - CoastTV (CoastTV)",
         "Holiday Spending 101: Expert Tips for Saving on Gifts, Travel, More - TODAY.com (TODAY.com)",
-        "Student loan running dry? Here are seven budgeting tips to survive the rest of October - The Tab (The Tab)",
-        "By seniors, for seniors: Tips and resources for stretching a shrinking food budget - Signal Cleveland (Signal Cleveland)"
+        "Student loan running dry? Here are seven budgeting tips to survive the rest of October - The Tab (The Tab)"
       ],
       "sources": [
         {
           "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUZzTmdGWDQ3cGREaFdOcEhQdjlKblNzSzcwc3JMaUtqWUdRSkh4S3BBVC1uSlQtdmdEaFVtc3hBNnktU002VnRuMHhfSDMyREF2ZTFwWmZ0ajZrVVVYcUR5ZHBKcmtHRjZQYTAzOG5iVG1NcXJJWHZ4UWo5eW1xWnBES1RrazZrQnFMcXlLb2otN3lnTlFZUFUyNHdfV243QlRTMlhYZXV3OUlwT3ZJT1VVejV5VmdTalBCalNNNA?oc=5",
           "source": "OU Daily"
+        },
+        {
+          "title": "Dedicated Financial Shares Fall Budgeting and Year-End Tax Planning Tips - CoastTV",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLVU2YldXUUtLbnRvYzlHT2N0QWtORl9qSWtVTFZFRnQ2NjZoQVUzX2llR3FvbnBjMExwX1NoeWM2REtjSU54RE94cHNhamhSTk9iWGZMUnBoX2N4aEFJTXlkWWlKMlpibUNJSlpHMC1zVzlHaTBzWWdBYkMwR1lueHc1RHhuTllMbmlHTVNzWFBLUndvVWhXWjJWMDk0MnJaQ1dHU25uYV9pdW54dnVMdTdfbXNXb0NUS3dHSEY0Q1dWcFppTW0wYUUxWUJxQk9paFlCekJuS3RqU28t?oc=5",
+          "source": "CoastTV"
         },
         {
           "title": "Holiday Spending 101: Expert Tips for Saving on Gifts, Travel, More - TODAY.com",
@@ -73,16 +45,11 @@
           "title": "Student loan running dry? Here are seven budgeting tips to survive the rest of October - The Tab",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTHJMbXljazJKdS1CdG1PaFlCajdSRnhMY3hkZXVtUG5faHk0dE9Wek9WWmFJdF9iNERJaW9wbmlkbHpnWXFvbGNSSmJOeExNVVlOWGd3VGMyVlBFRnJOM0N2ZWxiUVFTWHlDTTZ5M3NPRWlLQzRkUjJITlRYRm95VVdyU09PREtZdENMS0lGZUlxel9IdUtNVWJVT29weEc3UEdaVHdZeVBQMk9Y?oc=5",
           "source": "The Tab"
-        },
-        {
-          "title": "By seniors, for seniors: Tips and resources for stretching a shrinking food budget - Signal Cleveland",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUNMUXBpck9IdUtYa1hlNEpiTTU3SXdOTmJ0M2Y3T1pSLXE2UzZldFJ4MWJ3YUM2NlpLM2hrTzh6amdHZEpvUXQxZ2ZzUGpmLWx2RFNhVFdWV2VGMUdzOEVHdDVZOFhJSHkzWURhR1V0NGV6a0pOcnJaMmlsdl92eVRXTG95VEpaYWZLWWlGcVAwUjNGazNxdWtkaHk2WFB3a3V3VEN3?oc=5",
-          "source": "Signal Cleveland"
         }
       ]
     },
     {
-      "id": "t-2",
+      "id": "t-1",
       "kind": "trending-topic",
       "headline_options": [
         "Budgeting, explained in plain English",
@@ -99,15 +66,20 @@
       ],
       "key_points": [
         "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily (OU Daily)",
+        "Dedicated Financial Shares Fall Budgeting and Year-End Tax Planning Tips - CoastTV (CoastTV)",
         "Student loan running dry? Here are seven budgeting tips to survive the rest of October - The Tab (The Tab)",
-        "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press (The Mesa Press)",
-        "Holiday Budgeting Tips For Busy Families With Vibe Credit Union - LittleGuide Detroit (LittleGuide Detroit)"
+        "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press (The Mesa Press)"
       ],
       "sources": [
         {
           "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUZzTmdGWDQ3cGREaFdOcEhQdjlKblNzSzcwc3JMaUtqWUdRSkh4S3BBVC1uSlQtdmdEaFVtc3hBNnktU002VnRuMHhfSDMyREF2ZTFwWmZ0ajZrVVVYcUR5ZHBKcmtHRjZQYTAzOG5iVG1NcXJJWHZ4UWo5eW1xWnBES1RrazZrQnFMcXlLb2otN3lnTlFZUFUyNHdfV243QlRTMlhYZXV3OUlwT3ZJT1VVejV5VmdTalBCalNNNA?oc=5",
           "source": "OU Daily"
+        },
+        {
+          "title": "Dedicated Financial Shares Fall Budgeting and Year-End Tax Planning Tips - CoastTV",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLVU2YldXUUtLbnRvYzlHT2N0QWtORl9qSWtVTFZFRnQ2NjZoQVUzX2llR3FvbnBjMExwX1NoeWM2REtjSU54RE94cHNhamhSTk9iWGZMUnBoX2N4aEFJTXlkWWlKMlpibUNJSlpHMC1zVzlHaTBzWWdBYkMwR1lueHc1RHhuTllMbmlHTVNzWFBLUndvVWhXWjJWMDk0MnJaQ1dHU25uYV9pdW54dnVMdTdfbXNXb0NUS3dHSEY0Q1dWcFppTW0wYUUxWUJxQk9paFlCekJuS3RqU28t?oc=5",
+          "source": "CoastTV"
         },
         {
           "title": "Student loan running dry? Here are seven budgeting tips to survive the rest of October - The Tab",
@@ -118,11 +90,33 @@
           "title": "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZXBYNURENmFVaGV4YmZ0TE9DaUlNczRGbWVrVzFybXBWTzVma0dQcmM1Tm5mU283X2JiRHphNHFoSWtXYmp0TjdoMVFzdUpEem5jZ3BVX0NuX3E4bVBZb0xzdlhUbTYwU1dFYURqQlpMenRvSmhoS0Y2RFNNRzlNUTIzVmdYMUE3WkFuOUg2VDdqZ0NObmc3Wk9zNHZqenMwbXFoM2tjZmRVSy0yZnJobTZvZDd0RmdvOXVrWkU0Q0tKU1J0S21BenhaS01kR2tzUG1sWXBSZkVpNllJOXZR?oc=5",
           "source": "The Mesa Press"
-        },
+        }
+      ]
+    },
+    {
+      "id": "t-2",
+      "kind": "trending-topic",
+      "headline_options": [
+        "Saving, explained in plain English",
+        "What you should actually know about saving",
+        "Saving: the honest beginner's guide"
+      ],
+      "angle": "Evergreen explainer on a topic people are actively reading about.",
+      "outline": [
+        "What saving means in plain English",
+        "Why it matters for your budget",
+        "What the current discussion is saying",
+        "Common mistakes",
+        "Sensible next steps"
+      ],
+      "key_points": [
+        "Holiday Spending 101: Expert Tips for Saving on Gifts, Travel, More - TODAY.com (TODAY.com)"
+      ],
+      "sources": [
         {
-          "title": "Holiday Budgeting Tips For Busy Families With Vibe Credit Union - LittleGuide Detroit",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSU15eE1mMmtQTjNaalVLa3R3OUlmWEE4eG5FMkN1dGF2Q0dBMTdRaGNJZ19NTnJ4ZklVdlFzUG40ZURHMDV1dTVNbXlJWGJnbkFRSjJWSUNPbXhqeGxVaFBkdWRFWHlUOVR2dnduWXc3UndwRkpzMGtQVFV5bkxacE5BX3ppQkstSjA5aDRxNXNXamhsU0dsMEpjNA?oc=5",
-          "source": "LittleGuide Detroit"
+          "title": "Holiday Spending 101: Expert Tips for Saving on Gifts, Travel, More - TODAY.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkhrOGRfaTBmYzdqVGhhWUxNNFhVd1JDeUhPSVlMY19hUlYtX2lCOTc5ejVLenkyYjVKUDRyQU5SZWVBVG1Ea0QxX21sZkZCOGhSZXR6U3JxQ3JuUFFWT0RSSEZJdS1yOVQ1V0pxZ1BsTUpnYnFiSXFtOFRnNTg4Sg?oc=5",
+          "source": "TODAY.com"
         }
       ]
     }

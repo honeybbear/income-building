@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-13T13:23:25Z",
+  "fetched_at": "2026-10-14T11:01:58Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -8,51 +8,51 @@
   ],
   "topics": [
     {
-      "keyword": "money",
-      "mentions": 9
+      "keyword": "tips",
+      "mentions": 8
     },
     {
-      "keyword": "tips",
-      "mentions": 7
+      "keyword": "money",
+      "mentions": 6
     },
     {
       "keyword": "budgeting",
       "mentions": 5
     },
     {
-      "keyword": "com",
+      "keyword": "saving",
       "mentions": 4
     },
     {
-      "keyword": "saving",
-      "mentions": 4
+      "keyword": "today",
+      "mentions": 3
+    },
+    {
+      "keyword": "financial",
+      "mentions": 3
+    },
+    {
+      "keyword": "rates",
+      "mentions": 3
     },
     {
       "keyword": "first",
       "mentions": 3
     },
     {
-      "keyword": "here",
-      "mentions": 3
-    },
-    {
-      "keyword": "cola",
+      "keyword": "worth",
       "mentions": 2
     },
     {
-      "keyword": "latest",
-      "mentions": 2
-    },
-    {
-      "keyword": "much",
-      "mentions": 2
-    },
-    {
-      "keyword": "benefits",
+      "keyword": "paycheck",
       "mentions": 2
     },
     {
       "keyword": "finance",
+      "mentions": 2
+    },
+    {
+      "keyword": "health",
       "mentions": 2
     }
   ],
@@ -60,58 +60,64 @@
   "discussion_highlights": [],
   "news": [
     {
+      "title": "The average 50-something is now worth $1.5 million - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMjRrOEQxRGo5alB4S0d6OTRYOXF0VmFxYlZCQ3hrYVo2RWkxTDBNcGphUWRXMHNzWUs3NDBYVFg3OEdub05TR2xldngwVURzRHFoQ0dHYTVLa29Ud2ZfdXFGWVM5ZWc1QVh1Q3A5eE01dGdXaDNxQWhUNWIwb2tXRWlCbGVscmVCb3NXZ1V2RFdidGNkeEhqTVN0VzdPVDFyOEQ3bWZmYnRYSk90UnkzZmpXMmhVVjcwTUZsRw?oc=5",
+      "published": "Wed, 14 Oct 2026 10:36:00 GMT",
+      "source": "USA Today"
+    },
+    {
+      "title": "How to build a \"Forever Paycheck\" to ease retirement concerns - 6abc Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd2RNazVheDdzSS1Ud3JLSmF1aTRwWXp5amg3Z253QV9KRTVQYWE1VkI2Sk56akxNY2FKengtZVJKa0hOUmppX1Z3Q3ZQMGVCUjZXYW5JVTNsa3JvVE1LSEM0eTdMMjIyYlFHZDFvQjA0dVFta0ZObE1jQ0dGQ2JjczN1SVNEYVdENUxn0gGQAUFVX3lxTE9Na1RzNUpKaVQ4MXJPTVE2YUFaQ05CNTQ2Y05GeDhCRGtSRGlSMnlJVWxfeW9lTnFXU19iN3ZSdlBSdXlCUG5PYndrVFNwLVh3c211ekF4ZENpZEx4MTI5OF9renpaeXNrZ3dkMWhfZnJSYmFGUjlWcnJEY3NoNVhKdzBpNFEyR09WWEx1RG9kMw?oc=5",
+      "published": "Tue, 13 Oct 2026 21:51:33 GMT",
+      "source": "6abc Philadelphia"
+    },
+    {
       "title": "Social Security COLA 2027 latest forecast: See how much your benefits could rise - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeEpEYkgxckZNZzdjc3BtUXltYUZtY2ZvZ3ZLLXo3QVZNSG1NaWItR2g1R3Z3RHF5TGU5Qk50Zkhxb1FOOS1faUd1Ri1vZDF5MjdxdVh6bVNCejVOYVF5QXhGUnJfWURJNk9Sbmd6RUFhOTZzTnVSTU9TdUNDMm5CNHJ4V1EtT093ZWE3Mkh0WFNjYlJRVFlPWXlrbUpZOWVOdm84VnlWQ2VQcnprM1hNb1pXZVRSYmJTQkpxVjJCeXFOY0xzS2I2MjFyREV2UlJMSVFvUFVDUHhBeEs3NTBGUEY0ZzVLZVB4dzE0?oc=5",
       "published": "Mon, 12 Oct 2026 14:00:14 GMT",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Why older Americans' wealth may be helping keep consumer spending strong - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHIyZHRqXzEza0haaF9HeVlfaVJvOHRfZHRveW81Wnl5QWpNRC1YX0E5QTI2Ukh1eHVobXRQRUtXejdTVXhrN3REdlFXbFZsUS1FYzFSTVI4TjlEVUt6ME9rRl9qWGEzc1NDUHU1N1VQWUgwekVRQUJ0NTNOclBDQnB5cVdwVC1nNmkxMGxzcGl6UXN0X05V0gGcAUFVX3lxTE54RlhoNWVTMmRCQjdYUjVRWlp6REllZlB2aUUyX1ZvRXFucGtlQjZhVnNxMXQ1ME5hQ3J1SGwxcEZsN20zRU5rMG9BZTJmbkhlc0tjRFlFTVdGLXNGZDhCaEVxaDkzM3piX2NfOThlWHY4aVpkSzNwREJhV2F6NVcyZDV2ckJvMmlnOUhGSzhZWUdPYzNVM1NkUU1Lcw?oc=5",
-      "published": "Mon, 12 Oct 2026 17:23:35 GMT",
+      "title": "Health insurance open enrollment: Use this 'algorithm' to pick a plan, financial advisor says - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yeEZVUnVlcTJEZlMwY2NsN0VaWE1samhyNFY3MGVqaFh5QzdCcHFpN0x2R0o3NFlTc083cHRzRm1nR3B5ZkZyaHd0YU1XTk9ZUGZCZjh5Y2gxdEtkQzlyN0IyMThkWEx3UTBsV1Z3cnZaYmY1Y1B5dNIBfkFVX3lxTFBXQXJaa1B1eVg0S2RZeS1QMTlPNVQxS05WQnhEWWh0eU1ZWHBmT0R6VnRzQWhfTlZwT0llczBBaWN3aFJDWVRRSUhEZzdrUkNPOXY4VXFFRW1nNkx1ckpmbVMxckJ6c0FFa0hDdVdqYnJJMkFHejZMOXdFeklXUQ?oc=5",
+      "published": "Mon, 12 Oct 2026 12:15:01 GMT",
       "source": "CNBC"
     },
     {
-      "title": "Cost-of-living adjustment to be revealed in days. What forecasters say - Detroit Free Press",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbjdrTndWa3dLWkFQejRZZmxKcjFNT1I5djZPR0hld3N6Nk5vdl9ZNVd4N1FFampoS3daVVlFanNMU2dGUmJiVHFsSl9xVmdTeFd0M1d2ejNYeEN0Z296V25GeHJIcHVaTnoxV2dOd0drSFpsRm14YV9leXdoX0xGcXdBQlBsTm92ZE5kX0FOdVVGaE92LXBqVUZSQnhrSmlISTRWV2s0cF9kLV91dURvclBzWTBOcC1HNXJ3ZlRzcW0zVUpWZjlsblpLbGNHQ0pjUmdvQTUtd2UxY3NITzJ3UXdLbmVGWXY2OHhOakxRTnBTd3hf?oc=5",
-      "published": "Mon, 12 Oct 2026 13:28:00 GMT",
-      "source": "Detroit Free Press"
+      "title": "Today’s CD Rates for October 14, 2026: Highest APYs Range From 4.50% to 5.25% - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORFhsWENaWG9jWlI5X2FueHpnTjBZYUhFWTFJa1RLa21PMllWajJYc0NQUTN0MU5FdWZBVVN0Q19hajY2OWwzT3JQSnItZmtoNjdReHZ0eHBGNEdpWDNrVF94Y1pPWFdGMTNYZ3dJbVVDdDdlemNfNm9lNUk2ckh2NlVSM3A?oc=5",
+      "published": "Wed, 14 Oct 2026 09:00:00 GMT",
+      "source": "WSJ"
     },
     {
-      "title": "Consumer Confidence Is Down. Does That Mean You Should Spend Less? - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYVVEQU92ck9TSlZNZXBFbGltWlJOLUlYQl9sbGt0V191bl9WWUdtTGt4Skc0OHNlNjN6NHFxRk55T3h4cmZndWVpT3A5RGwzdFZVTXpXZDI2Nm5QUlJhODJHMWxMM2dSS0RZZmROMkhPc2plcEZzSUIyNkdaeGJhTmxFc0pWMUVvcE9xRXh5RHoxX2YxLTQzM1NTWExCd01VZU1BS3luRXVtSWN0MVlmMGFidzhWNE9y?oc=5",
-      "published": "Tue, 13 Oct 2026 13:00:00 GMT",
-      "source": "Forbes"
+      "title": "A 63-Year-Old Will Load Trucks Four Hours a Night at UPS. The Paycheck Will Be About $1,800 a Month. The Union Health Plan Will Be Worth More - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxORmw4ck0yN3RrSktXRHk0ZFNKZXhUdGdpcE01ZlJtemd4T0VKaWN0bUh0UlpVUFo1akp4Q3F5VkZNRXJPTHo0NGJQRXp3ODhUTF82TTB0M3VXbC1YX2VlSEUwMjFsTGVzVlViZThEakhoQ2pMenVZVmZTNzRtZ3EwaDhzcXYzQ3dyNmxRdWtWOW9wdFJlZ2FUcUVZQy1JdTZYZVdrWE9BbTYya21xa1BxbUg0OHRDdFQ5eklzZzVzcVA1cnNOLUsyekNpZVJyWWhvWC1feDNFSFhxVTdMWHNRNGt3QzRONHhnY1ZNS2hDSDdOZTBRRmd3RThxNkFRcEZzeTBMOWE2T3B5aGxZenBSeE5ib2J6cm8?oc=5",
+      "published": "Tue, 13 Oct 2026 09:32:00 GMT",
+      "source": "24/7 Wall St."
     },
     {
-      "title": "Surviving the Emotional Toll of Bankruptcy | Personal Finance - U.S. News - Money",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWFFtVXl6OWgzX3pZVFIyNjhHLW1DMFQtRDNVMmdVNzY1cjRwaGtZNzZNdVFSejRuVHBJMHBaRWRYRnZDbTBURW5yR3RmVUZ5UmNTSldRS2ZnTzVIei03TnBPWmlSQkNYNXljVkFWZlJNMTU2UVhWTlVBUVZUQ3M1UW91dFBPRXhXeG8yQ0N4UFFlVDhUZ3REZWhaVTNkcUd4?oc=5",
-      "published": "Mon, 12 Oct 2026 16:14:18 GMT",
-      "source": "U.S. News - Money"
+      "title": "New Washington Post podcast tackles personal finance for \"real people\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHg2bHdMS1BtZlpvUnBBQTlnQUcxYkJhS0hGdVZhMmkxY0tZTENrRVBMend6U2dJUWFiaDFUbnF4VlUyQzZWaEFkWGdHTXdxYnZsUDlXMXJmUjc2X3N4V2p5Q1B2empoLWFUUjBYMm90QTJfalBrMFUtcGxZb1Z0X2xMLVh6Mm51cGtVR3lOQ21LUUpoaWdoZmVBcw?oc=5",
+      "published": "Tue, 13 Oct 2026 21:50:00 GMT",
+      "source": "CBS News"
     },
     {
-      "title": "Retiring Abroad Sounded Good — Until I Realized What I’d Be Giving Up - Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLVd3c3h3R2owWTB4cFdoa1VvbkNaLTEwMW5FeGMybzQ2TmNUM180c2p3b29wSHhvU0psU3NsazlEZ0p1OE5ZRjBpODVITHQxaHM5ZUU4c1VuUkJnNk1vNjEyVElMQXVfN1BkUU9Kc19PT0YxN2UzUkFxcTllMGpLOVFuSkdnbmJBcUphR25IUQ?oc=5",
-      "published": "Sun, 11 Oct 2026 12:00:00 GMT",
-      "source": "Kiplinger"
-    },
-    {
-      "title": "How much are VA Education benefits increasing with the 2027 COLA? What to know about with the latest projection - MARCA",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQZW5qLWFGd0ExeFI5UVVqb24zX1JuVzhQSk9XNnRUWHk0YkZ4bVIwZGo1QUxKLVlVMnpJcThrX3gzTFdvc1FmWVFBSUE4ZGZoTWxZd3FfWkZqSTYtYi05VzFJNVM1TUFWcHpfOGtvbXFSU2thcHdYaWRSbi1PTDd5MXp6dUNHMzV5anlxUndObXBvZGtjYUZMR2M3UEM4aUhGTFItTGJHdDRHS0pYUG1QVWRnN0M0MVl6NkczeGVRRXFyUlFTU2dYamh6RVpHSzRWbDAzaE1nX1lIaHpxY2RQZnpHajNKZVcyRHpaLTJweFFGU2xVT3dWam1ZOXV3c0lnRVNpY1NBRDhPbEp3OEw5ZNIBkAJBVV95cUxONnlaR1RwTmM1MlBBakpZcExqcmJHaVpuT3pqcnhaYmY5eFFrYVJKcmlGM1pKSEFGMGpvbXZNNk03NVZndWo0ZnVINURLY1ZfOUd6X3NkN1M1NlJMeVVGekE2U29neHM1RkxfOTlVVkMwRF9fYXNPc3VvZWtETGsxbGgtcGRUTXF2SnFkbFVqb0M1TjJ3YlB2WkhaaXFaX2RpdVFIVUpIWFZxc2hyOGhZX1pDUEJFY1VYMEIyNGFSd0poODBLWUNPNEZocTBSa3FoM0hzQkJYWUUyclhxZkZyM0F0ekpMYU80NmNhYlJfTFFjdU1MbXFRVnM1UjdGUkxINFNlRi1YVzJNRFVkLWhTMA?oc=5",
-      "published": "Tue, 13 Oct 2026 11:47:50 GMT",
-      "source": "MARCA"
-    },
-    {
-      "title": "How One 40-Year-Old Spent a Life in Money - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObmpuWm5qQmRsUXoyQlBLbkdsN3lGRG9BT1kycnBtT19qNlBlbnM5ckZYeWlBVWFsNGpWWFhrZldUd1VhTFA0bXYxSVpIV2p5Y1JRVXF2NVpDSXlEU1VnMU82MnY3OWs4YkdEZzd1V2RXQjRXTGM0MlBaWktUWjI1V0ZOSkdoR3FTWjhZak91QkxDQkJFajJxaFJrdk8xRDdzb3YwaVd3WEx0c25ITl9DSThNX1JfTU1USm1rd1FzQ2N1akM4QWc?oc=5",
-      "published": "Sat, 10 Oct 2026 12:00:01 GMT",
-      "source": "Bloomberg.com"
+      "title": "Current ARM mortgage rates report for Oct. 14, 2026 - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxNkxxYnRVSnV3aDVfZ3VzbmlCZGdjSjV1ak43SF9pVk1ZT2djYy04eVV5NVM1b1ZWZkFPWlpoUXh5VEs5aW1NOEZveHQ1dXlVWENpanBEcngyNGUtRjRUYnRtTHR2RWlOLTVKRGVjTGhodzNn?oc=5",
+      "published": "Wed, 14 Oct 2026 07:01:00 GMT",
+      "source": "Fortune"
     },
     {
       "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUZzTmdGWDQ3cGREaFdOcEhQdjlKblNzSzcwc3JMaUtqWUdRSkh4S3BBVC1uSlQtdmdEaFVtc3hBNnktU002VnRuMHhfSDMyREF2ZTFwWmZ0ajZrVVVYcUR5ZHBKcmtHRjZQYTAzOG5iVG1NcXJJWHZ4UWo5eW1xWnBES1RrazZrQnFMcXlLb2otN3lnTlFZUFUyNHdfV243QlRTMlhYZXV3OUlwT3ZJT1VVejV5VmdTalBCalNNNA?oc=5",
       "published": "Fri, 09 Oct 2026 14:14:16 GMT",
       "source": "OU Daily"
+    },
+    {
+      "title": "Dedicated Financial Shares Fall Budgeting and Year-End Tax Planning Tips - CoastTV",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLVU2YldXUUtLbnRvYzlHT2N0QWtORl9qSWtVTFZFRnQ2NjZoQVUzX2llR3FvbnBjMExwX1NoeWM2REtjSU54RE94cHNhamhSTk9iWGZMUnBoX2N4aEFJTXlkWWlKMlpibUNJSlpHMC1zVzlHaTBzWWdBYkMwR1lueHc1RHhuTllMbmlHTVNzWFBLUndvVWhXWjJWMDk0MnJaQ1dHU25uYV9pdW54dnVMdTdfbXNXb0NUS3dHSEY0Q1dWcFppTW0wYUUxWUJxQk9paFlCekJuS3RqU28t?oc=5",
+      "published": "Mon, 12 Oct 2026 21:00:00 GMT",
+      "source": "CoastTV"
     },
     {
       "title": "Holiday Spending 101: Expert Tips for Saving on Gifts, Travel, More - TODAY.com",
@@ -142,12 +148,6 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZXBYNURENmFVaGV4YmZ0TE9DaUlNczRGbWVrVzFybXBWTzVma0dQcmM1Tm5mU283X2JiRHphNHFoSWtXYmp0TjdoMVFzdUpEem5jZ3BVX0NuX3E4bVBZb0xzdlhUbTYwU1dFYURqQlpMenRvSmhoS0Y2RFNNRzlNUTIzVmdYMUE3WkFuOUg2VDdqZ0NObmc3Wk9zNHZqenMwbXFoM2tjZmRVSy0yZnJobTZvZDd0RmdvOXVrWkU0Q0tKU1J0S21BenhaS01kR2tzUG1sWXBSZkVpNllJOXZR?oc=5",
       "published": "Thu, 01 Oct 2026 09:27:01 GMT",
       "source": "The Mesa Press"
-    },
-    {
-      "title": "Holiday Budgeting Tips For Busy Families With Vibe Credit Union - LittleGuide Detroit",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSU15eE1mMmtQTjNaalVLa3R3OUlmWEE4eG5FMkN1dGF2Q0dBMTdRaGNJZ19NTnJ4ZklVdlFzUG40ZURHMDV1dTVNbXlJWGJnbkFRSjJWSUNPbXhqeGxVaFBkdWRFWHlUOVR2dnduWXc3UndwRkpzMGtQVFV5bkxacE5BX3ppQkstSjA5aDRxNXNXamhsU0dsMEpjNA?oc=5",
-      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
-      "source": "LittleGuide Detroit"
     }
   ],
   "hn_stories": [],
