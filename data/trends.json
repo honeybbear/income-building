@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T11:01:58Z",
+  "fetched_at": "2026-10-15T10:44:49Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -8,12 +8,12 @@
   ],
   "topics": [
     {
-      "keyword": "tips",
-      "mentions": 8
+      "keyword": "money",
+      "mentions": 10
     },
     {
-      "keyword": "money",
-      "mentions": 6
+      "keyword": "tips",
+      "mentions": 9
     },
     {
       "keyword": "budgeting",
@@ -21,6 +21,14 @@
     },
     {
       "keyword": "saving",
+      "mentions": 5
+    },
+    {
+      "keyword": "save",
+      "mentions": 5
+    },
+    {
+      "keyword": "here",
       "mentions": 4
     },
     {
@@ -28,31 +36,23 @@
       "mentions": 3
     },
     {
-      "keyword": "financial",
+      "keyword": "more",
       "mentions": 3
+    },
+    {
+      "keyword": "news",
+      "mentions": 3
+    },
+    {
+      "keyword": "current",
+      "mentions": 2
+    },
+    {
+      "keyword": "mortgage",
+      "mentions": 2
     },
     {
       "keyword": "rates",
-      "mentions": 3
-    },
-    {
-      "keyword": "first",
-      "mentions": 3
-    },
-    {
-      "keyword": "worth",
-      "mentions": 2
-    },
-    {
-      "keyword": "paycheck",
-      "mentions": 2
-    },
-    {
-      "keyword": "finance",
-      "mentions": 2
-    },
-    {
-      "keyword": "health",
       "mentions": 2
     }
   ],
@@ -60,52 +60,52 @@
   "discussion_highlights": [],
   "news": [
     {
-      "title": "The average 50-something is now worth $1.5 million - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMjRrOEQxRGo5alB4S0d6OTRYOXF0VmFxYlZCQ3hrYVo2RWkxTDBNcGphUWRXMHNzWUs3NDBYVFg3OEdub05TR2xldngwVURzRHFoQ0dHYTVLa29Ud2ZfdXFGWVM5ZWc1QVh1Q3A5eE01dGdXaDNxQWhUNWIwb2tXRWlCbGVscmVCb3NXZ1V2RFdidGNkeEhqTVN0VzdPVDFyOEQ3bWZmYnRYSk90UnkzZmpXMmhVVjcwTUZsRw?oc=5",
-      "published": "Wed, 14 Oct 2026 10:36:00 GMT",
-      "source": "USA Today"
+      "title": "What Is the Stock Market? It's Not a Casino. Here's How I Filter Winners From Losers. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM09aVWZ2NjNTUHZzbG45cG1RY1NNc0w4cUFtcnVRXzBtTEE0YU4zeGVRelozX19uaHRfcWVlNzBvTlYxZGZGOGk1ajF1ejdSMjJxR3VpN2l6cG4zaFdLa1V3anpfSW93OUFydDQ1WG1CX0lKamxzRnBWa0ZWakpyVjFYcFpiSXk3NlV2RzNDa0tSWF9UV05NRA?oc=5",
+      "published": "Thu, 15 Oct 2026 10:17:25 GMT",
+      "source": "The Motley Fool"
     },
     {
-      "title": "How to build a \"Forever Paycheck\" to ease retirement concerns - 6abc Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd2RNazVheDdzSS1Ud3JLSmF1aTRwWXp5amg3Z253QV9KRTVQYWE1VkI2Sk56akxNY2FKengtZVJKa0hOUmppX1Z3Q3ZQMGVCUjZXYW5JVTNsa3JvVE1LSEM0eTdMMjIyYlFHZDFvQjA0dVFta0ZObE1jQ0dGQ2JjczN1SVNEYVdENUxn0gGQAUFVX3lxTE9Na1RzNUpKaVQ4MXJPTVE2YUFaQ05CNTQ2Y05GeDhCRGtSRGlSMnlJVWxfeW9lTnFXU19iN3ZSdlBSdXlCUG5PYndrVFNwLVh3c211ekF4ZENpZEx4MTI5OF9renpaeXNrZ3dkMWhfZnJSYmFGUjlWcnJEY3NoNVhKdzBpNFEyR09WWEx1RG9kMw?oc=5",
-      "published": "Tue, 13 Oct 2026 21:51:33 GMT",
-      "source": "6abc Philadelphia"
+      "title": "Current ARM mortgage rates report for Oct. 15, 2026 - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vWTh1dnF1Y042aTdVWWkwVkZBXzZzZkdEb0hYTTYtUjd4WldSa1ZhbGxjSDdOd3QzMTdkbkwtZkhoOGNmUVgwSnBnVXJkQURodWRMS2RlUEYzUk5TWWFaeVhFanYyS3FXa0h0UUFLMkkyQzJB?oc=5",
+      "published": "Thu, 15 Oct 2026 07:01:00 GMT",
+      "source": "Fortune"
     },
     {
-      "title": "Social Security COLA 2027 latest forecast: See how much your benefits could rise - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeEpEYkgxckZNZzdjc3BtUXltYUZtY2ZvZ3ZLLXo3QVZNSG1NaWItR2g1R3Z3RHF5TGU5Qk50Zkhxb1FOOS1faUd1Ri1vZDF5MjdxdVh6bVNCejVOYVF5QXhGUnJfWURJNk9Sbmd6RUFhOTZzTnVSTU9TdUNDMm5CNHJ4V1EtT093ZWE3Mkh0WFNjYlJRVFlPWXlrbUpZOWVOdm84VnlWQ2VQcnprM1hNb1pXZVRSYmJTQkpxVjJCeXFOY0xzS2I2MjFyREV2UlJMSVFvUFVDUHhBeEs3NTBGUEY0ZzVLZVB4dzE0?oc=5",
-      "published": "Mon, 12 Oct 2026 14:00:14 GMT",
-      "source": "Yahoo Finance"
+      "title": "Current refi mortgage rates report for Oct. 15, 2026 - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JWXZqSkJTWTFmbEZGRHBLbFJBeElDZEpCZEkzWFZvZ0lkaDhyOVgxRzdaMFJUUElxSF9ORGU2dHEwdkk2eElpdGpRamdUZU9LRm5MaGRTNGM3RldkX1lReFh2WkxkcVhjV2VfOGN3cFpTaVJ3WXc?oc=5",
+      "published": "Thu, 15 Oct 2026 07:01:00 GMT",
+      "source": "Fortune"
     },
     {
-      "title": "Health insurance open enrollment: Use this 'algorithm' to pick a plan, financial advisor says - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yeEZVUnVlcTJEZlMwY2NsN0VaWE1samhyNFY3MGVqaFh5QzdCcHFpN0x2R0o3NFlTc083cHRzRm1nR3B5ZkZyaHd0YU1XTk9ZUGZCZjh5Y2gxdEtkQzlyN0IyMThkWEx3UTBsV1Z3cnZaYmY1Y1B5dNIBfkFVX3lxTFBXQXJaa1B1eVg0S2RZeS1QMTlPNVQxS05WQnhEWWh0eU1ZWHBmT0R6VnRzQWhfTlZwT0llczBBaWN3aFJDWVRRSUhEZzdrUkNPOXY4VXFFRW1nNkx1ckpmbVMxckJ6c0FFa0hDdVdqYnJJMkFHejZMOXdFeklXUQ?oc=5",
-      "published": "Mon, 12 Oct 2026 12:15:01 GMT",
+      "title": "Here's the inflation breakdown for September 2026 — in one chart - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbk16SWZXamlFVlVQclRXU0ptcHdtbDhFOXhneUFFNTEwV09uVHJ4ZXZqVGRnMzlFTlVUanJiZFVMSGRFdklCbDkzMVo3UW5TbmViMkR3ZVotWXppM0Ftd2JMRHpIZG83cmFpZG9DdEE4N0NWQXhWeU80TWtqQ295RdIBhgFBVV95cUxPMXFGU0dQLWRyOG1tb1c0UE1DazdNUzBUTTg1WUtROHVUYXhHM0hfc0JVMGZiRGtnOFZZX1lMOTl3SEVKbkRoNFFFcU5NUFVDNjNMRWpCQkdnaHlCZG5lYzAtSXZqdUFOdThsVzFrcmkwRF9fT2pyU19peFF0SVVsN2IyczNLQQ?oc=5",
+      "published": "Wed, 14 Oct 2026 14:44:05 GMT",
       "source": "CNBC"
     },
     {
-      "title": "Today’s CD Rates for October 14, 2026: Highest APYs Range From 4.50% to 5.25% - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORFhsWENaWG9jWlI5X2FueHpnTjBZYUhFWTFJa1RLa21PMllWajJYc0NQUTN0MU5FdWZBVVN0Q19hajY2OWwzT3JQSnItZmtoNjdReHZ0eHBGNEdpWDNrVF94Y1pPWFdGMTNYZ3dJbVVDdDdlemNfNm9lNUk2ckh2NlVSM3A?oc=5",
-      "published": "Wed, 14 Oct 2026 09:00:00 GMT",
-      "source": "WSJ"
+      "title": "The average 50-something is worth $1.5 million. Most have far less - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMjRrOEQxRGo5alB4S0d6OTRYOXF0VmFxYlZCQ3hrYVo2RWkxTDBNcGphUWRXMHNzWUs3NDBYVFg3OEdub05TR2xldngwVURzRHFoQ0dHYTVLa29Ud2ZfdXFGWVM5ZWc1QVh1Q3A5eE01dGdXaDNxQWhUNWIwb2tXRWlCbGVscmVCb3NXZ1V2RFdidGNkeEhqTVN0VzdPVDFyOEQ3bWZmYnRYSk90UnkzZmpXMmhVVjcwTUZsRw?oc=5",
+      "published": "Wed, 14 Oct 2026 18:17:00 GMT",
+      "source": "USA Today"
     },
     {
-      "title": "A 63-Year-Old Will Load Trucks Four Hours a Night at UPS. The Paycheck Will Be About $1,800 a Month. The Union Health Plan Will Be Worth More - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxORmw4ck0yN3RrSktXRHk0ZFNKZXhUdGdpcE01ZlJtemd4T0VKaWN0bUh0UlpVUFo1akp4Q3F5VkZNRXJPTHo0NGJQRXp3ODhUTF82TTB0M3VXbC1YX2VlSEUwMjFsTGVzVlViZThEakhoQ2pMenVZVmZTNzRtZ3EwaDhzcXYzQ3dyNmxRdWtWOW9wdFJlZ2FUcUVZQy1JdTZYZVdrWE9BbTYya21xa1BxbUg0OHRDdFQ5eklzZzVzcVA1cnNOLUsyekNpZVJyWWhvWC1feDNFSFhxVTdMWHNRNGt3QzRONHhnY1ZNS2hDSDdOZTBRRmd3RThxNkFRcEZzeTBMOWE2T3B5aGxZenBSeE5ib2J6cm8?oc=5",
-      "published": "Tue, 13 Oct 2026 09:32:00 GMT",
-      "source": "24/7 Wall St."
+      "title": "Social Security’s raise next year will be bigger. But there’s a downside - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaG4zRHUxNTU2Q2dPNFBZMFoxbkpuRnZOZEQwUk1CZ3JCZ3dJZ05fSW1IZnRfNU5XcVN0R3lCOXE3cUpoT1FHM1NXN1UyenlzekdHV2o4UHRFN3FPX0c5bmw4d0VqYTBvajRHVjVIUjcxc3hkcG1VMkpscTVOR2NrVEpqX0pSV2F5ZEJzZWJIRHFkRWJ2T2NHOTlSQnY1c2RYSElHQXpfVVRaYUxzTVE?oc=5",
+      "published": "Wed, 14 Oct 2026 14:16:59 GMT",
+      "source": "San Francisco Chronicle"
+    },
+    {
+      "title": "Social Security COLA for 2027: How to find out how much more you'll get - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZXlDdFZEMmZjNTMyRk00dlgtZktnNm5fa2pId3d3U3FEYkYyOWdmd2FLQVBDMGtSV3RjUnkwY1A2YWNPZmNERkUtd1l2elgyZ0czTXltSkw3NmR4dXhoZWpRcDROcUdhd3ZxdXVyTnluZkJNU0ZLMHR2MzhybGg3eVg5QW80dTNMWDd3Sjd0MmdZX0QycXVRZlk1WXNRSmIwbXdQNXRLNVhBMnVkNTdFUDNqNzVZR1dqbUNGTnROdUI5NkFyOEVsdmwxSVJFRDJlZmV6OHQyZG91bXdySHc?oc=5",
+      "published": "Wed, 14 Oct 2026 13:37:52 GMT",
+      "source": "Yahoo Finance"
     },
     {
       "title": "New Washington Post podcast tackles personal finance for \"real people\" - CBS News",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHg2bHdMS1BtZlpvUnBBQTlnQUcxYkJhS0hGdVZhMmkxY0tZTENrRVBMend6U2dJUWFiaDFUbnF4VlUyQzZWaEFkWGdHTXdxYnZsUDlXMXJmUjc2X3N4V2p5Q1B2empoLWFUUjBYMm90QTJfalBrMFUtcGxZb1Z0X2xMLVh6Mm51cGtVR3lOQ21LUUpoaWdoZmVBcw?oc=5",
       "published": "Tue, 13 Oct 2026 21:50:00 GMT",
       "source": "CBS News"
-    },
-    {
-      "title": "Current ARM mortgage rates report for Oct. 14, 2026 - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxNkxxYnRVSnV3aDVfZ3VzbmlCZGdjSjV1ak43SF9pVk1ZT2djYy04eVV5NVM1b1ZWZkFPWlpoUXh5VEs5aW1NOEZveHQ1dXlVWENpanBEcngyNGUtRjRUYnRtTHR2RWlOLTVKRGVjTGhodzNn?oc=5",
-      "published": "Wed, 14 Oct 2026 07:01:00 GMT",
-      "source": "Fortune"
     },
     {
       "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
@@ -132,22 +132,22 @@
       "source": "The Tab"
     },
     {
-      "title": "By seniors, for seniors: Tips and resources for stretching a shrinking food budget - Signal Cleveland",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUNMUXBpck9IdUtYa1hlNEpiTTU3SXdOTmJ0M2Y3T1pSLXE2UzZldFJ4MWJ3YUM2NlpLM2hrTzh6amdHZEpvUXQxZ2ZzUGpmLWx2RFNhVFdWV2VGMUdzOEVHdDVZOFhJSHkzWURhR1V0NGV6a0pOcnJaMmlsdl92eVRXTG95VEpaYWZLWWlGcVAwUjNGazNxdWtkaHk2WFB3a3V3VEN3?oc=5",
-      "published": "Thu, 08 Oct 2026 04:04:00 GMT",
-      "source": "Signal Cleveland"
-    },
-    {
-      "title": "How to Make a Budget: A Step-By-Step Guide - NerdWallet",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1meUZyZ3lmaFMtN1QzVWpjbkNBMVkySWpqeXI4TlRlb0lxS0RJNUNjNFlPR2ljZGw1YUJmT3ZnU3p1SmhxQlhMU0NZdm1Ba3l1TkZvT1pFR0xrOE1lU0s0Ykx2amg?oc=5",
-      "published": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "title": "12 Easy Money Saving Travel Tips - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
+      "published": "Tue, 29 Sep 2026 07:00:00 GMT",
       "source": "NerdWallet"
     },
     {
-      "title": "Cal Coast offers budgeting tips for Mesa students in first financial literacy workshop of fall semester - The Mesa Press",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZXBYNURENmFVaGV4YmZ0TE9DaUlNczRGbWVrVzFybXBWTzVma0dQcmM1Tm5mU283X2JiRHphNHFoSWtXYmp0TjdoMVFzdUpEem5jZ3BVX0NuX3E4bVBZb0xzdlhUbTYwU1dFYURqQlpMenRvSmhoS0Y2RFNNRzlNUTIzVmdYMUE3WkFuOUg2VDdqZ0NObmc3Wk9zNHZqenMwbXFoM2tjZmRVSy0yZnJobTZvZDd0RmdvOXVrWkU0Q0tKU1J0S21BenhaS01kR2tzUG1sWXBSZkVpNllJOXZR?oc=5",
-      "published": "Thu, 01 Oct 2026 09:27:01 GMT",
-      "source": "The Mesa Press"
+      "title": "Holiday Budgeting Tips For Busy Families With Vibe Credit Union - LittleGuide Detroit",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSU15eE1mMmtQTjNaalVLa3R3OUlmWEE4eG5FMkN1dGF2Q0dBMTdRaGNJZ19NTnJ4ZklVdlFzUG40ZURHMDV1dTVNbXlJWGJnbkFRSjJWSUNPbXhqeGxVaFBkdWRFWHlUOVR2dnduWXc3UndwRkpzMGtQVFV5bkxacE5BX3ppQkstSjA5aDRxNXNXamhsU0dsMEpjNA?oc=5",
+      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
+      "source": "LittleGuide Detroit"
+    },
+    {
+      "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
+      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
+      "source": "Instacart"
     }
   ],
   "hn_stories": [],
