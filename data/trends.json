@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-15T10:44:49Z",
+  "fetched_at": "2026-10-16T10:32:26Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -9,18 +9,14 @@
   "topics": [
     {
       "keyword": "money",
-      "mentions": 10
+      "mentions": 7
     },
     {
       "keyword": "tips",
-      "mentions": 9
+      "mentions": 7
     },
     {
       "keyword": "budgeting",
-      "mentions": 5
-    },
-    {
-      "keyword": "saving",
       "mentions": 5
     },
     {
@@ -28,31 +24,35 @@
       "mentions": 5
     },
     {
-      "keyword": "here",
+      "keyword": "rates",
       "mentions": 4
     },
     {
       "keyword": "today",
+      "mentions": 4
+    },
+    {
+      "keyword": "savings",
+      "mentions": 4
+    },
+    {
+      "keyword": "october",
       "mentions": 3
     },
     {
-      "keyword": "more",
+      "keyword": "yahoo",
       "mentions": 3
     },
     {
-      "keyword": "news",
+      "keyword": "saving",
       "mentions": 3
     },
     {
-      "keyword": "current",
+      "keyword": "month",
       "mentions": 2
     },
     {
-      "keyword": "mortgage",
-      "mentions": 2
-    },
-    {
-      "keyword": "rates",
+      "keyword": "wall",
       "mentions": 2
     }
   ],
@@ -60,34 +60,46 @@
   "discussion_highlights": [],
   "news": [
     {
-      "title": "What Is the Stock Market? It's Not a Casino. Here's How I Filter Winners From Losers. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM09aVWZ2NjNTUHZzbG45cG1RY1NNc0w4cUFtcnVRXzBtTEE0YU4zeGVRelozX19uaHRfcWVlNzBvTlYxZGZGOGk1ajF1ejdSMjJxR3VpN2l6cG4zaFdLa1V3anpfSW93OUFydDQ1WG1CX0lKamxzRnBWa0ZWakpyVjFYcFpiSXk3NlV2RzNDa0tSWF9UV05NRA?oc=5",
-      "published": "Thu, 15 Oct 2026 10:17:25 GMT",
-      "source": "The Motley Fool"
+      "title": "The Roth IRA Setup That Pays $4,650 a Month and Sends Nothing to the IRS - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb0JJNUYzdF9RZFZSajhodXpwZkNDemlNMXVhcVlQN1RIZzBvZXpJYVI1T0JZOWpKSHZUYlUtWWVGMXFybjhseGh6X3UxeWZaTlZZc0Vvdjl1WDdmMXlLM2FYaVoxUDNLTDZoM2F0TU9ZVzNDSXNQNi1hWGlMWFl5T1hreS1yMGNSUEtCSkptWmJoS2xlSmZ6ZzV2Tzg3TmhnX2lQYVZiZTMwLTB3NDJ6MHRwMHlaVFdVblJoMEtR?oc=5",
+      "published": "Thu, 15 Oct 2026 16:55:00 GMT",
+      "source": "24/7 Wall St."
     },
     {
-      "title": "Current ARM mortgage rates report for Oct. 15, 2026 - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vWTh1dnF1Y042aTdVWWkwVkZBXzZzZkdEb0hYTTYtUjd4WldSa1ZhbGxjSDdOd3QzMTdkbkwtZkhoOGNmUVgwSnBnVXJkQURodWRMS2RlUEYzUk5TWWFaeVhFanYyS3FXa0h0UUFLMkkyQzJB?oc=5",
-      "published": "Thu, 15 Oct 2026 07:01:00 GMT",
-      "source": "Fortune"
+      "title": "Do You Have ‘Sudden Wealth Syndrome’? - The Cut",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNckZ2b3IxYmw4THRsTjhTMkIzNGlQaFdGV0xkT2tGamQzY0tNZFlPQXdreXczWGZpMFRXbTN4SFlGXzl3dFkySE5kUFFxcjR2ZlNfMUw1QW9nVGNFdEYzU1BxaDlGdE5aTzEzWndWYU9lOEJ2MkFpZzRyS1E4OTdpMlZad2M?oc=5",
+      "published": "Thu, 15 Oct 2026 12:00:24 GMT",
+      "source": "The Cut"
     },
     {
-      "title": "Current refi mortgage rates report for Oct. 15, 2026 - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JWXZqSkJTWTFmbEZGRHBLbFJBeElDZEpCZEkzWFZvZ0lkaDhyOVgxRzdaMFJUUElxSF9ORGU2dHEwdkk2eElpdGpRamdUZU9LRm5MaGRTNGM3RldkX1lReFh2WkxkcVhjV2VfOGN3cFpTaVJ3WXc?oc=5",
-      "published": "Thu, 15 Oct 2026 07:01:00 GMT",
-      "source": "Fortune"
-    },
-    {
-      "title": "Here's the inflation breakdown for September 2026 — in one chart - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbk16SWZXamlFVlVQclRXU0ptcHdtbDhFOXhneUFFNTEwV09uVHJ4ZXZqVGRnMzlFTlVUanJiZFVMSGRFdklCbDkzMVo3UW5TbmViMkR3ZVotWXppM0Ftd2JMRHpIZG83cmFpZG9DdEE4N0NWQXhWeU80TWtqQ295RdIBhgFBVV95cUxPMXFGU0dQLWRyOG1tb1c0UE1DazdNUzBUTTg1WUtROHVUYXhHM0hfc0JVMGZiRGtnOFZZX1lMOTl3SEVKbkRoNFFFcU5NUFVDNjNMRWpCQkdnaHlCZG5lYzAtSXZqdUFOdThsVzFrcmkwRF9fT2pyU19peFF0SVVsN2IyczNLQQ?oc=5",
-      "published": "Wed, 14 Oct 2026 14:44:05 GMT",
+      "title": "The problem with 'good debt': Why borrowers should think twice about the label - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcFNHNUZ0WkViRDN5TkJQVUJnREtqWHI2N0VWdm1Pd1lHUUpsQzJqd3VNQVR3SEdsYVBwd1A0N0pyLVJIbGVJa2puT2dOQmR6aEV0YVhYLU9FNzNMWmU1akpLcHVKc0xqLU0yN2Vsb0dmVkpwUWp2QlpnNzc1UE9rQ1g0cERaRzhScWFKRFRVNDMzM3fSAZgBQVVfeXFMTW81VXdXZTJzYVE2QkdnMXM1Vy1mTHFrRHdtOFM3THA5ZWxxajJMVUpscFE5eU51ZVRnVjYtX1ItV0RRbnZzcUdQaDZiOWxLXzdtREZteDF3c2VpanFQbGZlQmtaei1ZNUlqXzdMZXZlNmRuZkxhZDU5eGtYbmR3TGJEY3BGekxoUTFucFJqa0l0RGo4OWhGeVk?oc=5",
+      "published": "Thu, 15 Oct 2026 12:30:01 GMT",
       "source": "CNBC"
     },
     {
-      "title": "The average 50-something is worth $1.5 million. Most have far less - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMjRrOEQxRGo5alB4S0d6OTRYOXF0VmFxYlZCQ3hrYVo2RWkxTDBNcGphUWRXMHNzWUs3NDBYVFg3OEdub05TR2xldngwVURzRHFoQ0dHYTVLa29Ud2ZfdXFGWVM5ZWc1QVh1Q3A5eE01dGdXaDNxQWhUNWIwb2tXRWlCbGVscmVCb3NXZ1V2RFdidGNkeEhqTVN0VzdPVDFyOEQ3bWZmYnRYSk90UnkzZmpXMmhVVjcwTUZsRw?oc=5",
-      "published": "Wed, 14 Oct 2026 18:17:00 GMT",
-      "source": "USA Today"
+      "title": "Mortgage and refinance interest rates today, Friday, October 16, 2026: Fixed mortgage rates fall back - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVnR4ejFpT25PQkxSd2FIZVU1VkNMSXlnNi04TlBqNXJFaWh2M1pVaHVyazFkZTU4ZWFDZ1JDbzB1S2tPbVVRSFhPaHlmSVNTNW04RFJ5MmUyY3Zub0xvYUxZcWtYa21EVXVWaHp1MGNhWjhzczlvRzllX2ZDM2JYMGxhTHhJZVhXanQtOWdxWFJSZmdKQk1EbDBsMDVqUjUwZlNyZUpGLUZPVGg2N3VGTFpiY3BneHloMEl0M2xVelFCcXFlR3BKMmZ6NTgtcndtVTVBMVBfdm1jSmpjVDdDS0Y0MFVJYUk1Rll2TGhmeEFNbk5kNG10czFoLU1XSV9vQjVF?oc=5",
+      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Today’s CD Rates for October 16, 2026: Highest APYs Range From 4.50% to 5.25% - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWUl4RTY2MmFhd0x4eUpDYWdFM1ZyaG1JVzU2Zk9rc3hkZnhHQmd6VlFsS1JfZ3QtQThrU1NXX1RaN21zNWtUSjlON0FDRDZmazVmMk1DcWJkQWR5X25XTjFOZ0xTUzRGcVhsZldIdXN6NlBuR3lZN1hMOVpZRUNjSHVIeW8?oc=5",
+      "published": "Fri, 16 Oct 2026 09:00:00 GMT",
+      "source": "WSJ"
+    },
+    {
+      "title": "How to Get All the Tax Benefits From Your Health-Savings Account - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd2ZQeWR2dEZCcGhsV183RWI1elNmSEJlWVFDWTNoWUx2YjV0ZkJlWTFmWkJBM2ZGMGpDeGItOE5uUFhJb3Bja190eU5PbHE0QWJyWkhZQ3d3Z0VFTkM0d0F0akJJd01jb2ZXVEtaRHRpRHB5QXkwTjZQcE5pOWN6UzBOMFhJeXFXUW8yb2JOMTQ5U2w2bDkzZzNLMlkwTmowX0N0akc5djFtTTJYYTR0Y2lXd01xVHM?oc=5",
+      "published": "Fri, 16 Oct 2026 09:30:00 GMT",
+      "source": "WSJ"
+    },
+    {
+      "title": "‘The Terms of the Deal Made It Suicidal’: Dave Ramsey on the $10 Million Order He Killed - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQWt5NHphem45c1NaZl9Pd3hFYkdvTlBvamtYV2o2bzZjdldWd2dmUVhYV21LR1o1cm82MzFCQV92dnEtZmlLQXJrNVNVLWh3TEEtbzg0bHcxdmM2Mm14Mnc2OEVwZy1icDhYYktqNDczU2Qya2ZaXy1SU0dxZno5UUY0NEdnNW0yZ0x6bVNTSl9nRjZTZXVnTHZR?oc=5",
+      "published": "Fri, 16 Oct 2026 10:08:55 GMT",
+      "source": "Yahoo Finance"
     },
     {
       "title": "Social Security’s raise next year will be bigger. But there’s a downside - San Francisco Chronicle",
@@ -96,16 +108,10 @@
       "source": "San Francisco Chronicle"
     },
     {
-      "title": "Social Security COLA for 2027: How to find out how much more you'll get - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZXlDdFZEMmZjNTMyRk00dlgtZktnNm5fa2pId3d3U3FEYkYyOWdmd2FLQVBDMGtSV3RjUnkwY1A2YWNPZmNERkUtd1l2elgyZ0czTXltSkw3NmR4dXhoZWpRcDROcUdhd3ZxdXVyTnluZkJNU0ZLMHR2MzhybGg3eVg5QW80dTNMWDd3Sjd0MmdZX0QycXVRZlk1WXNRSmIwbXdQNXRLNVhBMnVkNTdFUDNqNzVZR1dqbUNGTnROdUI5NkFyOEVsdmwxSVJFRDJlZmV6OHQyZG91bXdySHc?oc=5",
-      "published": "Wed, 14 Oct 2026 13:37:52 GMT",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "New Washington Post podcast tackles personal finance for \"real people\" - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHg2bHdMS1BtZlpvUnBBQTlnQUcxYkJhS0hGdVZhMmkxY0tZTENrRVBMend6U2dJUWFiaDFUbnF4VlUyQzZWaEFkWGdHTXdxYnZsUDlXMXJmUjc2X3N4V2p5Q1B2empoLWFUUjBYMm90QTJfalBrMFUtcGxZb1Z0X2xMLVh6Mm51cGtVR3lOQ21LUUpoaWdoZmVBcw?oc=5",
-      "published": "Tue, 13 Oct 2026 21:50:00 GMT",
-      "source": "CBS News"
+      "title": "12 Easy Money Saving Travel Tips - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
+      "published": "Tue, 13 Oct 2026 16:29:23 GMT",
+      "source": "NerdWallet"
     },
     {
       "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
@@ -132,22 +138,16 @@
       "source": "The Tab"
     },
     {
-      "title": "12 Easy Money Saving Travel Tips - NerdWallet",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
-      "published": "Tue, 29 Sep 2026 07:00:00 GMT",
-      "source": "NerdWallet"
-    },
-    {
       "title": "Holiday Budgeting Tips For Busy Families With Vibe Credit Union - LittleGuide Detroit",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSU15eE1mMmtQTjNaalVLa3R3OUlmWEE4eG5FMkN1dGF2Q0dBMTdRaGNJZ19NTnJ4ZklVdlFzUG40ZURHMDV1dTVNbXlJWGJnbkFRSjJWSUNPbXhqeGxVaFBkdWRFWHlUOVR2dnduWXc3UndwRkpzMGtQVFV5bkxacE5BX3ppQkstSjA5aDRxNXNXamhsU0dsMEpjNA?oc=5",
       "published": "Mon, 28 Sep 2026 07:00:00 GMT",
       "source": "LittleGuide Detroit"
     },
     {
-      "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
-      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
-      "source": "Instacart"
+      "title": "Abu Dhabi cost of living: ‘Never budget on your best month’ – how residents save without missing out - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeU9yMjFIeWtfMDlWenc4QmExZ1FXMFVKTUhMWHQxOWYzX0hKOVE2VXViZ2JvTnd5MTdpTmVOWk1XMUdzWTNRUmZENHo5b2pORHhTNDZYUGpaSDIxaXlTVXRURnptaE03ZDZnYThkMlJ4YnF6SmFLRkV5V3ZMeDFCLXRSRHNJa3hIQ09kODNGWXI1b0RyVFNzcmxFdUYxN25SLWFEN2M3TlAtcndFZG5xcTR6OHRFekJyT0lyYWtMWmljeTh3d2ZMdHFFODZNQVlfWGJXbQ?oc=5",
+      "published": "Fri, 16 Oct 2026 02:57:05 GMT",
+      "source": "Gulf News"
     }
   ],
   "hn_stories": [],

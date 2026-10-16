@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T10:44:49Z",
+  "generated_at": "2026-10-16T10:32:26Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -20,19 +20,13 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)",
-        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)"
+        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
       ],
       "sources": [
         {
           "title": "12 Easy Money Saving Travel Tips - NerdWallet",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
           "source": "NerdWallet"
-        },
-        {
-          "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
-          "source": "Instacart"
         }
       ]
     },
@@ -53,12 +47,17 @@
         "Sensible next steps"
       ],
       "key_points": [
+        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)",
         "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily (OU Daily)",
         "Dedicated Financial Shares Fall Budgeting and Year-End Tax Planning Tips - CoastTV (CoastTV)",
-        "Holiday Spending 101: Expert Tips for Saving on Gifts, Travel, More - TODAY.com (TODAY.com)",
-        "Student loan running dry? Here are seven budgeting tips to survive the rest of October - The Tab (The Tab)"
+        "Holiday Spending 101: Expert Tips for Saving on Gifts, Travel, More - TODAY.com (TODAY.com)"
       ],
       "sources": [
+        {
+          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
+          "source": "NerdWallet"
+        },
         {
           "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUZzTmdGWDQ3cGREaFdOcEhQdjlKblNzSzcwc3JMaUtqWUdRSkh4S3BBVC1uSlQtdmdEaFVtc3hBNnktU002VnRuMHhfSDMyREF2ZTFwWmZ0ajZrVVVYcUR5ZHBKcmtHRjZQYTAzOG5iVG1NcXJJWHZ4UWo5eW1xWnBES1RrazZrQnFMcXlLb2otN3lnTlFZUFUyNHdfV243QlRTMlhYZXV3OUlwT3ZJT1VVejV5VmdTalBCalNNNA?oc=5",
@@ -73,11 +72,6 @@
           "title": "Holiday Spending 101: Expert Tips for Saving on Gifts, Travel, More - TODAY.com",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkhrOGRfaTBmYzdqVGhhWUxNNFhVd1JDeUhPSVlMY19hUlYtX2lCOTc5ejVLenkyYjVKUDRyQU5SZWVBVG1Ea0QxX21sZkZCOGhSZXR6U3JxQ3JuUFFWT0RSSEZJdS1yOVQ1V0pxZ1BsTUpnYnFiSXFtOFRnNTg4Sg?oc=5",
           "source": "TODAY.com"
-        },
-        {
-          "title": "Student loan running dry? Here are seven budgeting tips to survive the rest of October - The Tab",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTHJMbXljazJKdS1CdG1PaFlCajdSRnhMY3hkZXVtUG5faHk0dE9Wek9WWmFJdF9iNERJaW9wbmlkbHpnWXFvbGNSSmJOeExNVVlOWGd3VGMyVlBFRnJOM0N2ZWxiUVFTWHlDTTZ5M3NPRWlLQzRkUjJITlRYRm95VVdyU09PREtZdENMS0lGZUlxel9IdUtNVWJVT29weEc3UEdaVHdZeVBQMk9Y?oc=5",
-          "source": "The Tab"
         }
       ]
     },
