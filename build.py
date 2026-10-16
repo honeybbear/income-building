@@ -30,6 +30,7 @@ TOPICS = {
     "holiday-spending-playbook": ["saving", "budgeting"],
     "gift-tax-exclusion-2026": ["taxes", "family"],
     "grocery-inflation-playbook": ["saving", "budgeting"],
+    "hsa-triple-tax-playbook": ["taxes", "saving"],
 }
 
 
