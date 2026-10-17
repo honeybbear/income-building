@@ -31,6 +31,7 @@ TOPICS = {
     "gift-tax-exclusion-2026": ["taxes", "family"],
     "grocery-inflation-playbook": ["saving", "budgeting"],
     "hsa-triple-tax-playbook": ["taxes", "saving"],
+    "rule-of-55-401k": ["retirement", "taxes"],
 }
 
 
