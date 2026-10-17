@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T10:32:26Z",
+  "generated_at": "2026-10-17T10:02:00Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -20,13 +20,25 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
+        "Longtime money columnist on the advice everyone needs to hear: 'If debt was a person I would slap it' - CNBC (CNBC)",
+        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)",
+        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)"
       ],
       "sources": [
+        {
+          "title": "Longtime money columnist on the advice everyone needs to hear: 'If debt was a person I would slap it' - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeVZVVDJwZkhZVDhRU2dKd1JyT25Ddy1FTHp2Ymd3NU9fZXRsNnM3TnNNSFY1Q3BvZ2M0c0prUmlNN2d1ak9WQWxxeHh4b0pfUHNocTE3Y1VaeHgzTVVuU3piQkxRRnp5VFhpd0cyTVFBUWhzZGdManF3VTFwYk1OLV96c2pZNFBQcHfSAY8BQVVfeXFMTjh1VkQzVWRSNkE1Tk5VdkhlNTd6YjVCT0VGZ3lOLS1ZT3lvdVhlRWNHdVctcDVjcnN6aFJmaG1NdnB2Q0hJa1NBZktQa2hVcjJzX2hzSlNOOEV4dkxxX0hqV2czV3hZOTRaeWZRVS1BRkxnNExWcFRzYnlyaUg5RFlmYmM5cVFfUy1UYnpOa2c?oc=5",
+          "source": "CNBC"
+        },
         {
           "title": "12 Easy Money Saving Travel Tips - NerdWallet",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
           "source": "NerdWallet"
+        },
+        {
+          "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
+          "source": "Instacart"
         }
       ]
     },
@@ -50,7 +62,7 @@
         "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)",
         "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily (OU Daily)",
         "Dedicated Financial Shares Fall Budgeting and Year-End Tax Planning Tips - CoastTV (CoastTV)",
-        "Holiday Spending 101: Expert Tips for Saving on Gifts, Travel, More - TODAY.com (TODAY.com)"
+        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)"
       ],
       "sources": [
         {
@@ -69,9 +81,9 @@
           "source": "CoastTV"
         },
         {
-          "title": "Holiday Spending 101: Expert Tips for Saving on Gifts, Travel, More - TODAY.com",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkhrOGRfaTBmYzdqVGhhWUxNNFhVd1JDeUhPSVlMY19hUlYtX2lCOTc5ejVLenkyYjVKUDRyQU5SZWVBVG1Ea0QxX21sZkZCOGhSZXR6U3JxQ3JuUFFWT0RSSEZJdS1yOVQ1V0pxZ1BsTUpnYnFiSXFtOFRnNTg4Sg?oc=5",
-          "source": "TODAY.com"
+          "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
+          "source": "Instacart"
         }
       ]
     },
@@ -79,44 +91,32 @@
       "id": "t-2",
       "kind": "trending-topic",
       "headline_options": [
-        "Budgeting, explained in plain English",
-        "What you should actually know about budgeting",
-        "Budgeting: the honest beginner's guide"
+        "Saving, explained in plain English",
+        "What you should actually know about saving",
+        "Saving: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What budgeting means in plain English",
+        "What saving means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily (OU Daily)",
-        "Dedicated Financial Shares Fall Budgeting and Year-End Tax Planning Tips - CoastTV (CoastTV)",
-        "Student loan running dry? Here are seven budgeting tips to survive the rest of October - The Tab (The Tab)",
-        "Holiday Budgeting Tips For Busy Families With Vibe Credit Union - LittleGuide Detroit (LittleGuide Detroit)"
+        "Dave Ramsey says FanDuel, DraftKings draining Gen Z savings - TheStreet (TheStreet)",
+        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
       ],
       "sources": [
         {
-          "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUZzTmdGWDQ3cGREaFdOcEhQdjlKblNzSzcwc3JMaUtqWUdRSkh4S3BBVC1uSlQtdmdEaFVtc3hBNnktU002VnRuMHhfSDMyREF2ZTFwWmZ0ajZrVVVYcUR5ZHBKcmtHRjZQYTAzOG5iVG1NcXJJWHZ4UWo5eW1xWnBES1RrazZrQnFMcXlLb2otN3lnTlFZUFUyNHdfV243QlRTMlhYZXV3OUlwT3ZJT1VVejV5VmdTalBCalNNNA?oc=5",
-          "source": "OU Daily"
+          "title": "Dave Ramsey says FanDuel, DraftKings draining Gen Z savings - TheStreet",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOazh5bGRoLUowQUN3RmZiUWx4X3l4YXVSdm1iWTdBLXNkY2hoR2RTalQ0X2ZwZFUtT0E3ZVhyZzJ3bGR1b2Z1UDJxZ3lNeHItZnlIXzl5NkZFOXNENXpkOFBZWVhVUUh0SklkdVZKR05TRFBLbzEyQlp4VGlYcWpzZUdqbjdpU2ctZGlOREowWEQ?oc=5",
+          "source": "TheStreet"
         },
         {
-          "title": "Dedicated Financial Shares Fall Budgeting and Year-End Tax Planning Tips - CoastTV",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLVU2YldXUUtLbnRvYzlHT2N0QWtORl9qSWtVTFZFRnQ2NjZoQVUzX2llR3FvbnBjMExwX1NoeWM2REtjSU54RE94cHNhamhSTk9iWGZMUnBoX2N4aEFJTXlkWWlKMlpibUNJSlpHMC1zVzlHaTBzWWdBYkMwR1lueHc1RHhuTllMbmlHTVNzWFBLUndvVWhXWjJWMDk0MnJaQ1dHU25uYV9pdW54dnVMdTdfbXNXb0NUS3dHSEY0Q1dWcFppTW0wYUUxWUJxQk9paFlCekJuS3RqU28t?oc=5",
-          "source": "CoastTV"
-        },
-        {
-          "title": "Student loan running dry? Here are seven budgeting tips to survive the rest of October - The Tab",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTHJMbXljazJKdS1CdG1PaFlCajdSRnhMY3hkZXVtUG5faHk0dE9Wek9WWmFJdF9iNERJaW9wbmlkbHpnWXFvbGNSSmJOeExNVVlOWGd3VGMyVlBFRnJOM0N2ZWxiUVFTWHlDTTZ5M3NPRWlLQzRkUjJITlRYRm95VVdyU09PREtZdENMS0lGZUlxel9IdUtNVWJVT29weEc3UEdaVHdZeVBQMk9Y?oc=5",
-          "source": "The Tab"
-        },
-        {
-          "title": "Holiday Budgeting Tips For Busy Families With Vibe Credit Union - LittleGuide Detroit",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSU15eE1mMmtQTjNaalVLa3R3OUlmWEE4eG5FMkN1dGF2Q0dBMTdRaGNJZ19NTnJ4ZklVdlFzUG40ZURHMDV1dTVNbXlJWGJnbkFRSjJWSUNPbXhqeGxVaFBkdWRFWHlUOVR2dnduWXc3UndwRkpzMGtQVFV5bkxacE5BX3ppQkstSjA5aDRxNXNXamhsU0dsMEpjNA?oc=5",
-          "source": "LittleGuide Detroit"
+          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
+          "source": "NerdWallet"
         }
       ]
     }
