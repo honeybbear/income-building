@@ -32,6 +32,11 @@ TOPICS = {
     "grocery-inflation-playbook": ["saving", "budgeting"],
     "hsa-triple-tax-playbook": ["taxes", "saving"],
     "rule-of-55-401k": ["retirement", "taxes"],
+    "savers-match-2027": ["retirement", "saving"],
+    "social-security-cola-2027": ["retirement", "taxes"],
+    "year-end-money-checklist-2026": ["taxes", "budgeting"],
+    "retire-abroad-reality-check": ["retirement", "budgeting"],
+    "open-enrollment-playbook-2026": ["budgeting", "saving"],
 }
 
 
