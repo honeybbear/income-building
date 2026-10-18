@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-17T10:02:00Z",
+  "fetched_at": "2026-10-18T10:15:30Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -9,22 +9,22 @@
   "topics": [
     {
       "keyword": "money",
-      "mentions": 9
-    },
-    {
-      "keyword": "tips",
       "mentions": 8
     },
     {
       "keyword": "saving",
-      "mentions": 6
+      "mentions": 8
     },
     {
-      "keyword": "save",
-      "mentions": 4
+      "keyword": "tips",
+      "mentions": 7
     },
     {
-      "keyword": "today",
+      "keyword": "com",
+      "mentions": 5
+    },
+    {
+      "keyword": "financial",
       "mentions": 4
     },
     {
@@ -32,74 +32,83 @@
       "mentions": 4
     },
     {
-      "keyword": "savings",
+      "keyword": "today",
       "mentions": 3
     },
     {
-      "keyword": "fall",
+      "keyword": "holiday",
       "mentions": 3
     },
     {
-      "keyword": "com",
+      "keyword": "travel",
       "mentions": 3
     },
     {
-      "keyword": "tax",
+      "keyword": "wealth",
       "mentions": 2
     },
     {
-      "keyword": "help",
+      "keyword": "wall",
       "mentions": 2
     },
     {
-      "keyword": "usa",
+      "keyword": "million",
       "mentions": 2
     }
   ],
   "questions": [],
-  "discussion_highlights": [],
-  "news": [
+  "discussion_highlights": [
     {
-      "title": "Dave Ramsey says FanDuel, DraftKings draining Gen Z savings - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOazh5bGRoLUowQUN3RmZiUWx4X3l4YXVSdm1iWTdBLXNkY2hoR2RTalQ0X2ZwZFUtT0E3ZVhyZzJ3bGR1b2Z1UDJxZ3lNeHItZnlIXzl5NkZFOXNENXpkOFBZWVhVUUh0SklkdVZKR05TRFBLbzEyQlp4VGlYcWpzZUdqbjdpU2ctZGlOREowWEQ?oc=5",
-      "published": "Fri, 16 Oct 2026 20:19:33 GMT",
-      "source": "TheStreet"
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "source": "Hacker News",
+      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "score": 295,
+      "comments": 106
     },
     {
-      "title": "Forget coupons. Tax pros can help you save on Halloween candy - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbjJsaTR6SFhhSUx5Ym1LRjltZnl4RDQtb2VXNHFKQjFRUm9GWllkQ1YybVNCZmZHaFl2dXdIdU82aUktRlRDb0gyeXhFYmZjZXVnNU1KekRWRlpuOTUtclcyblJvXzRtb0ZMMENLQXVHLW5QSGp1RkVHQjhSVXprOGRiR2Vza2puOFUtSFBQM0czWURwTW9Jd3ZNeW9FSVpTM2RHRkVVY0pNMVhFSnVZMUd5RUlGYjQ?oc=5",
-      "published": "Sat, 17 Oct 2026 09:03:00 GMT",
-      "source": "USA Today"
+      "title": "Laser Fault Injection on a Budget: RP2350 Edition (2025)",
+      "source": "Hacker News",
+      "url": "https://courk.cc/rp2350-challenge-laser",
+      "score": 62,
+      "comments": 17
+    }
+  ],
+  "news": [
+    {
+      "title": "Suze Orman Warns: Your Memory of Peak Wealth Is Sabotaging Your Retirement - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3phQVBsMGVQVXB4eGUydV9NX09sOE1mbEhnaV92RjI2b1F0QTNLVEZQNTdUUHRfN254WFMwSmhhd3J0dS1IMjkwYnpzWFJqZU1vajYzTjBEWW5nQWtKQVJUYkZsbWh1MTdYcXFVRFlsVGRMbER3VVo4UEVvYVJ2SXpUV0VZX2F2NmRTYllhLVoyQ2NJYm5IOXZCcXVMUFhaU2dLZWt0X1BwMkxwc3FEcXUySS1jWmdzVFhqMWs5WHl1QQ?oc=5",
+      "published": "Wed, 14 Oct 2026 22:00:00 GMT",
+      "source": "24/7 Wall St."
     },
     {
       "title": "The American Dream now costs $5.3 million - USA Today",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTVA5MWJkWVBXZzY2QmFvUXZVMHBPU3RPNUEybHd5b0htV01EeTZPQmVkY1RWYjlaTWhNVjBpTXR4M1dXcjE1VS1UN0RxWFdnRWk2eFhEcU5ONkVHdlZPdjdnRWxVTy1KUWdKRmFPZUh2ZzAyMUJOcjNES0lmQ0l5dHc3STZieEpoajVNcDFSemVMTmVIVElscDN5Q2QxUVdGWU5fVDg0OEVPUE1ZaW5LLWJZQWktQTVIVjk5VUZpT3c1bHVSSC1GLXJ3?oc=5",
-      "published": "Sat, 17 Oct 2026 09:11:31 GMT",
+      "published": "Sat, 17 Oct 2026 09:00:00 GMT",
       "source": "USA Today"
     },
     {
-      "title": "Longtime money columnist on the advice everyone needs to hear: 'If debt was a person I would slap it' - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeVZVVDJwZkhZVDhRU2dKd1JyT25Ddy1FTHp2Ymd3NU9fZXRsNnM3TnNNSFY1Q3BvZ2M0c0prUmlNN2d1ak9WQWxxeHh4b0pfUHNocTE3Y1VaeHgzTVVuU3piQkxRRnp5VFhpd0cyTVFBUWhzZGdManF3VTFwYk1OLV96c2pZNFBQcHfSAY8BQVVfeXFMTjh1VkQzVWRSNkE1Tk5VdkhlNTd6YjVCT0VGZ3lOLS1ZT3lvdVhlRWNHdVctcDVjcnN6aFJmaG1NdnB2Q0hJa1NBZktQa2hVcjJzX2hzSlNOOEV4dkxxX0hqV2czV3hZOTRaeWZRVS1BRkxnNExWcFRzYnlyaUg5RFlmYmM5cVFfUy1UYnpOa2c?oc=5",
-      "published": "Fri, 16 Oct 2026 13:00:02 GMT",
-      "source": "CNBC"
+      "title": "Liz Weston: My 51-year-old daughter blames me for her bad financial decisions. Who’s in the wrong here? - OregonLive.com",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaG4yd2dNc1JKYmZlamFRMHhMaFctbHZuMmdxaDV1ZmluSGlGWDdvNHZsY1lWbmRRdDljc1h2d0djVnhGQ0ZzOUxTYzlxN2NWQjRZOVo3LXdrTXpKSkFDRUxxZEJtMUJkQTJlbEd2TEJ0N1V2dFdWb1FtTTUxVHduc2hpemdhQWJyRnBFU2VEaWdoYnRMdFhoWDJLb1lNaUh1Rzl1c2Z2QWNrLVJVcTk5UTN1NjB5c2lmX240eXpzVC11YV84c1lGcGkyakFCWUxfaEVUdHRFU3RBa2J4ajBQd0Z30gH2AUFVX3lxTE9qVjhjLXk5MEZiQzlFTnp3blVNLVR5MTBiVTg4SVlDOU8zVm9LeE5oN2RRcjNaWFB6M0pIMFVhZk1jWjZzNE56dnZzc3RnR3Nrek5HQVN5aXZibU5BUUNDY3ZRR05qQWctMDlsRFJjSHVEV19KRFpMRkJkN0VHRXZlbXhSQnlEcVFzRzRlYktPNWFtTnFBNGl6NEE5YndHVlN3MGt5Z2M5bU45RnBCOXJidDY5YTFfUXdBNDg4aHRZSVpqS1VMejM2S3Y1UWVXWjFWT2RMNjBOM18wMnpYTXRDOFowUE1LZzF1SDRNVHV1WGVIM2w3UQ?oc=5",
+      "published": "Sat, 17 Oct 2026 14:00:00 GMT",
+      "source": "OregonLive.com"
     },
     {
-      "title": "Lose a Job at 55 With $400,000 in a 401(k) and the Plan Will Let You Withdraw Penalty-Free Starting Now. Roll It Into an IRA, as Most Advisors Suggest, and the Same Withdrawals Cost 10% for the Next Four and a Half Years - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPMDRMaXRGNWdIeVJ3X1BTb1RmbUxzWUNaZmszbi1lY0s4Uzhua2dBR21ZMXlydnVicGIycTZ3eXVoc3NMNnAxODZwSDAyd2lwWVh5NFdPbkFzUnRUZGVNejBXbWVMd1hoMVlxNEdkcVJhT253dWFXeGo1OFEzMEJER1pxamx6WS0zS3puNjM2dllFWklyZHdYeEpFWW5sUjNmMFU4VjVfRXFkel9teHlNNkR2Ylp3WjYtbmlNVDZ4QjFzUmszQ2VoTHZsTWdIM0dlbW45M3o3RVV4WXpKeE9UMUg5dDBuSDV6cEQ0M3l3UEJhQjZBbUFZd0hNT1ZHeEt1ZkRXbV9TZnprSFdlM1pOQ1Z6aHVKeFRfanN2aFhDSFlkTWFQdlZBZ0d5VEJOb0hvRXhOVml4N0trYjV0ek9NbFg5SEhiVmFUWUJkOWFsNWZUd2Q4SjBZSW9ZQ0RWYldzRHc?oc=5",
-      "published": "Thu, 15 Oct 2026 19:13:00 GMT",
-      "source": "24/7 Wall St."
-    },
-    {
-      "title": "Gold price today, Friday, October 16, 2026: Gold lifts as Treasury yields and dollar fall back - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYTdlYXpVRFE4a0pkTDdONG1yblhsX2RvOXphaHJwUkhVTkJlTUNhWEJXV19WMHpTMTZ5MkJON3dBRFVQcUxMR25ZX0libGpzT3B0bUxiSjd5MFNIUG5pQV9jR2tVTS1ZMmlhdW1vUDFxWDJ3MnVzOEF3eHZnM1dDVEFadUdwcDUtMFc1bU5RckpVVTBJRHhsWWYyUUVXOEp1VHQ4NGU4cXpRZ25ISVVPWFBQdHpEb1pFbTVJbWxVVDgwYTRPY0F3ODBFQjJqM2dGU3k5UjBZNGNFWnZNSlZrMlZUazMtMnF0TzQtVUctejRVQXZzdkZUbFh3?oc=5",
-      "published": "Fri, 16 Oct 2026 11:06:51 GMT",
+      "title": "Mortgage and refinance interest rates today, Sunday, October 18, 2026: Fixed rates much lower than last week; ARMs unchanged - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOZC1uR3BwSXNld3N2cWxrWDJIc3JONUtyeWlWZHVWa1dHZWJuNFJTbFhVSHhwNi1zUVBWSU4xZ3lFVHROR2x3bFMxa3h5SUFyVTRMQ1ZyOWFvcHJLUE9malg5aXdHbU1icThJMXh6MV9Za0hsZnZNRWF2QVhETVZwaVQ1WE0wNzhmLWhFR1Ywa2lUcUN1MDdEdmlwM2xmWnpjaFMybVEzTFVsQ2R0M0QxWDdVRGVaWWFKRnlNUmFWb25DRDAxelgwUEE4NmlnRDdBSUhhUFhkSWZLT3RqMDZIb2wweHJpTm5EYVUtdEctRkR5Y1NqSG0xYThPUWVfVXZDeFQtSVVPTWlLU3M1ZDdLMEt6enpJR2FubkppV1FsZi0?oc=5",
+      "published": "Sun, 18 Oct 2026 10:00:00 GMT",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Social Security’s raise next year will be bigger. But there’s a downside - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaG4zRHUxNTU2Q2dPNFBZMFoxbkpuRnZOZEQwUk1CZ3JCZ3dJZ05fSW1IZnRfNU5XcVN0R3lCOXE3cUpoT1FHM1NXN1UyenlzekdHV2o4UHRFN3FPX0c5bmw4d0VqYTBvajRHVjVIUjcxc3hkcG1VMkpscTVOR2NrVEpqX0pSV2F5ZEJzZWJIRHFkRWJ2T2NHOTlSQnY1c2RYSElHQXpfVVRaYUxzTVE?oc=5",
-      "published": "Wed, 14 Oct 2026 14:16:59 GMT",
-      "source": "San Francisco Chronicle"
+      "title": "Is Flipping Or Renting More Lucrative? Financial Expert Says What 'Actually Looks Better On Paper Could B - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOOXNXQzJxR1FxS0lTOGljcEg5ekZLZDlQYndpdzRNaEptNWxYLTBuOTMyUFJSYmJCc29yUFNxOFJSMExrbFBkNWFVdHU1V0RGNjRFbnpnbFJJWHI1SE0xUm84YXlkZXFpUEY2MHhOM2NmYmVPSEZ0U1R6UW9qUWwxV1hoNHh5QWFMR0tlYWpVUU45dkxtUFd5SDVvbWVSLVpWVC1rSDN4MnFWNGlfR2NwVGZ5TjlRMVlvbUhFUHc3Y1VsakF4MjVodlZINUgwb3VFUUtEQ0gyWWdJQ3YyZFRJa1FDbDhqUzV2d01wel94QUllMWZyc0lZelNVOU1TMElMdHEyeHh1YjlYVGc0S0lTOXFGOWgwaDRoanpTV2Y4VG9STlo1NERJbG5JdmltVWc?oc=5",
+      "published": "Sat, 17 Oct 2026 23:00:07 GMT",
+      "source": "Benzinga"
+    },
+    {
+      "title": "From Fear to Financial Freedom: How I Built My First $1 Million by Trusting My Gut - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb2tnR0VaQ3VHaE8wSFpqcm1PcDNDTGQ1dnRVVGp3RkVQcWszemRFLVQ0UTZabTg4WnhBTGNWeW8tejBBcllsbWZZeGRoRFk4Nm5KbnRMaW5COTlqRTZsMzBydzJYZDdJb2t0ZjBKOGhMNFFVdVNoYS1BaERYOHZfSzdYR2MyQ1UyTWJKX3pKbTk3aUYxSlhlLWptRlZ2T3g0R1o2aA?oc=5",
+      "published": "Sat, 17 Oct 2026 15:00:00 GMT",
+      "source": "Kiplinger"
     },
     {
       "title": "Do You Have ‘Sudden Wealth Syndrome’? - The Cut",
@@ -108,22 +117,28 @@
       "source": "The Cut"
     },
     {
+      "title": "Three Communities Will Try to Be the Next Villages. Residents of All Three Will Say One Already Is - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNelB5azA0OHpfRDc5cVlOd2NaOU9MdWhfdllPOE1HRWljY3ZaV2hmeDBrNWNKSXRmcXlHTzNMY1FCOWpxdTJEdjVYWU5xMTdaU192X3g2RXpobzRNTFY1OE92dW1lMjcxVEYtTHNtM3ZKQ195QUF6VkxHM3U3NjYzaEVwN1Frc3BlT3B3NFpXVGxoWTQ3d2djblRoVmF3VnctQnAzSVV1dEE4WHJwdUpnclBVakk4SlBheGJXdlZoLUNhSm9fcnhYOUk3c0poQVVNTGctbVo0VHgybDZmSmRZY3J3?oc=5",
+      "published": "Sat, 17 Oct 2026 16:17:00 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
       "title": "How to Save on Holiday Gifts and Travel, According to an Expert - TODAY.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkhrOGRfaTBmYzdqVGhhWUxNNFhVd1JDeUhPSVlMY19hUlYtX2lCOTc5ejVLenkyYjVKUDRyQU5SZWVBVG1Ea0QxX21sZkZCOGhSZXR6U3JxQ3JuUFFWT0RSSEZJdS1yOVQ1V0pxZ1BsTUpnYnFiSXFtOFRnNTg4Sg?oc=5",
       "published": "Fri, 16 Oct 2026 14:07:38 GMT",
       "source": "TODAY.com"
     },
     {
-      "title": "The Cold Reality of 2026 Heating Bills: Are You Ready for the Spike? - Realtor.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZkRMM1RVQlIyZ1I3UUZwM1VNWHgwWDdva1VWdWFFdmZ2TEdYOTVJTFB5NkpwdnRuLXhBVldNRHRzXy0wSkNHd1VjeHhmUW5IcXVPeVZ5RGlxYVRmTTFMSVpFY3NnWHJhQ1Rfb2F1OVQwNlNXdUhqaklldGlibnBPS09fUF9tWW1maDdKcXd0bWc1MnRL?oc=5",
-      "published": "Fri, 16 Oct 2026 17:08:36 GMT",
-      "source": "Realtor.com"
-    },
-    {
       "title": "12 Easy Money Saving Travel Tips - NerdWallet",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
       "published": "Tue, 13 Oct 2026 16:29:23 GMT",
       "source": "NerdWallet"
+    },
+    {
+      "title": "The Cold Reality of 2026 Heating Bills: Are You Ready for the Spike? - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZkRMM1RVQlIyZ1I3UUZwM1VNWHgwWDdva1VWdWFFdmZ2TEdYOTVJTFB5NkpwdnRuLXhBVldNRHRzXy0wSkNHd1VjeHhmUW5IcXVPeVZ5RGlxYVRmTTFMSVpFY3NnWHJhQ1Rfb2F1OVQwNlNXdUhqaklldGlibnBPS09fUF9tWW1maDdKcXd0bWc1MnRL?oc=5",
+      "published": "Fri, 16 Oct 2026 17:08:36 GMT",
+      "source": "Realtor.com"
     },
     {
       "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
@@ -138,19 +153,34 @@
       "source": "CoastTV"
     },
     {
+      "title": "Disney Trips Are Expensive—But These Budget Tricks Actually Work - WDW Magazine",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rZlZGcmFqQ2Q2UFlUUzRFUjNFTDB6Tkd2VDByS2xfblJvYzVEYWxXSnNOUzZ5dUVPQ1pLZk5LZjJPYzFsd2dyVTZEQlR0dE9oWWZNM3FiazBJZnlYRXNDS1RQdE5jQ1d5OFZMWXNrYUFrUQ?oc=5",
+      "published": "Thu, 15 Oct 2026 05:17:01 GMT",
+      "source": "WDW Magazine"
+    },
+    {
       "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
       "published": "Mon, 28 Sep 2026 07:00:00 GMT",
       "source": "Instacart"
-    },
-    {
-      "title": "Holiday Budgeting Tips For Busy Families With Vibe Credit Union - LittleGuide Detroit",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSU15eE1mMmtQTjNaalVLa3R3OUlmWEE4eG5FMkN1dGF2Q0dBMTdRaGNJZ19NTnJ4ZklVdlFzUG40ZURHMDV1dTVNbXlJWGJnbkFRSjJWSUNPbXhqeGxVaFBkdWRFWHlUOVR2dnduWXc3UndwRkpzMGtQVFV5bkxacE5BX3ppQkstSjA5aDRxNXNXamhsU0dsMEpjNA?oc=5",
-      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
-      "source": "LittleGuide Detroit"
     }
   ],
-  "hn_stories": [],
+  "hn_stories": [
+    {
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "score": 295,
+      "comments": 106,
+      "source": "Hacker News"
+    },
+    {
+      "title": "Laser Fault Injection on a Budget: RP2350 Edition (2025)",
+      "url": "https://courk.cc/rp2350-challenge-laser",
+      "score": 62,
+      "comments": 17,
+      "source": "Hacker News"
+    }
+  ],
   "trending_searches": [],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",

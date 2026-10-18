@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T10:02:00Z",
+  "generated_at": "2026-10-18T10:15:30Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -20,16 +20,10 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "Longtime money columnist on the advice everyone needs to hear: 'If debt was a person I would slap it' - CNBC (CNBC)",
         "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)",
         "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)"
       ],
       "sources": [
-        {
-          "title": "Longtime money columnist on the advice everyone needs to hear: 'If debt was a person I would slap it' - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeVZVVDJwZkhZVDhRU2dKd1JyT25Ddy1FTHp2Ymd3NU9fZXRsNnM3TnNNSFY1Q3BvZ2M0c0prUmlNN2d1ak9WQWxxeHh4b0pfUHNocTE3Y1VaeHgzTVVuU3piQkxRRnp5VFhpd0cyTVFBUWhzZGdManF3VTFwYk1OLV96c2pZNFBQcHfSAY8BQVVfeXFMTjh1VkQzVWRSNkE1Tk5VdkhlNTd6YjVCT0VGZ3lOLS1ZT3lvdVhlRWNHdVctcDVjcnN6aFJmaG1NdnB2Q0hJa1NBZktQa2hVcjJzX2hzSlNOOEV4dkxxX0hqV2czV3hZOTRaeWZRVS1BRkxnNExWcFRzYnlyaUg5RFlmYmM5cVFfUy1UYnpOa2c?oc=5",
-          "source": "CNBC"
-        },
         {
           "title": "12 Easy Money Saving Travel Tips - NerdWallet",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
@@ -44,6 +38,33 @@
     },
     {
       "id": "t-1",
+      "kind": "trending-topic",
+      "headline_options": [
+        "Saving, explained in plain English",
+        "What you should actually know about saving",
+        "Saving: the honest beginner's guide"
+      ],
+      "angle": "Evergreen explainer on a topic people are actively reading about.",
+      "outline": [
+        "What saving means in plain English",
+        "Why it matters for your budget",
+        "What the current discussion is saying",
+        "Common mistakes",
+        "Sensible next steps"
+      ],
+      "key_points": [
+        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
+      ],
+      "sources": [
+        {
+          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
+          "source": "NerdWallet"
+        }
+      ]
+    },
+    {
+      "id": "t-2",
       "kind": "trending-topic",
       "headline_options": [
         "Tips, explained in plain English",
@@ -84,39 +105,6 @@
           "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
           "source": "Instacart"
-        }
-      ]
-    },
-    {
-      "id": "t-2",
-      "kind": "trending-topic",
-      "headline_options": [
-        "Saving, explained in plain English",
-        "What you should actually know about saving",
-        "Saving: the honest beginner's guide"
-      ],
-      "angle": "Evergreen explainer on a topic people are actively reading about.",
-      "outline": [
-        "What saving means in plain English",
-        "Why it matters for your budget",
-        "What the current discussion is saying",
-        "Common mistakes",
-        "Sensible next steps"
-      ],
-      "key_points": [
-        "Dave Ramsey says FanDuel, DraftKings draining Gen Z savings - TheStreet (TheStreet)",
-        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
-      ],
-      "sources": [
-        {
-          "title": "Dave Ramsey says FanDuel, DraftKings draining Gen Z savings - TheStreet",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOazh5bGRoLUowQUN3RmZiUWx4X3l4YXVSdm1iWTdBLXNkY2hoR2RTalQ0X2ZwZFUtT0E3ZVhyZzJ3bGR1b2Z1UDJxZ3lNeHItZnlIXzl5NkZFOXNENXpkOFBZWVhVUUh0SklkdVZKR05TRFBLbzEyQlp4VGlYcWpzZUdqbjdpU2ctZGlOREowWEQ?oc=5",
-          "source": "TheStreet"
-        },
-        {
-          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
-          "source": "NerdWallet"
         }
       ]
     }
