@@ -37,6 +37,7 @@ TOPICS = {
     "year-end-money-checklist-2026": ["taxes", "budgeting"],
     "retire-abroad-reality-check": ["retirement", "budgeting"],
     "open-enrollment-playbook-2026": ["budgeting", "saving"],
+    "winter-heating-bill-playbook": ["saving", "budgeting"],
 }
 
 
