@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T10:15:30Z",
+  "generated_at": "2026-10-19T11:53:20Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -20,19 +20,19 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)",
-        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)"
+        "To save money, stop being a loyal customer - NBC News (NBC News)",
+        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
       ],
       "sources": [
+        {
+          "title": "To save money, stop being a loyal customer - NBC News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWkRXLVBHUDBUemZTbnB1bWlKOXhnNFh2enZJN2o1aC1qQldtSVlMZkRCaFl2V01wVEFTM3FZbmxzRU5TaklyMFNUSXpSbEpWM1dFZnJTR1MzU2M4X1pGbXJyYmJVU3owYUNENUNMVFU4NWY4VEJ6S0ljUXJCVk9fUEZIdFI0a3R0VG1nUFdiQQ?oc=5",
+          "source": "NBC News"
+        },
         {
           "title": "12 Easy Money Saving Travel Tips - NerdWallet",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
           "source": "NerdWallet"
-        },
-        {
-          "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
-          "source": "Instacart"
         }
       ]
     },
@@ -40,26 +40,32 @@
       "id": "t-1",
       "kind": "trending-topic",
       "headline_options": [
-        "Saving, explained in plain English",
-        "What you should actually know about saving",
-        "Saving: the honest beginner's guide"
+        "Save, explained in plain English",
+        "What you should actually know about save",
+        "Save: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What saving means in plain English",
+        "What save means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
+        "To save money, stop being a loyal customer - NBC News (NBC News)",
+        "How to Save on Holiday Gifts and Travel, According to an Expert - TODAY.com (TODAY.com)"
       ],
       "sources": [
         {
-          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
-          "source": "NerdWallet"
+          "title": "To save money, stop being a loyal customer - NBC News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWkRXLVBHUDBUemZTbnB1bWlKOXhnNFh2enZJN2o1aC1qQldtSVlMZkRCaFl2V01wVEFTM3FZbmxzRU5TaklyMFNUSXpSbEpWM1dFZnJTR1MzU2M4X1pGbXJyYmJVU3owYUNENUNMVFU4NWY4VEJ6S0ljUXJCVk9fUEZIdFI0a3R0VG1nUFdiQQ?oc=5",
+          "source": "NBC News"
+        },
+        {
+          "title": "How to Save on Holiday Gifts and Travel, According to an Expert - TODAY.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkhrOGRfaTBmYzdqVGhhWUxNNFhVd1JDeUhPSVlMY19hUlYtX2lCOTc5ejVLenkyYjVKUDRyQU5SZWVBVG1Ea0QxX21sZkZCOGhSZXR6U3JxQ3JuUFFWT0RSSEZJdS1yOVQ1V0pxZ1BsTUpnYnFiSXFtOFRnNTg4Sg?oc=5",
+          "source": "TODAY.com"
         }
       ]
     },
@@ -67,44 +73,38 @@
       "id": "t-2",
       "kind": "trending-topic",
       "headline_options": [
-        "Tips, explained in plain English",
-        "What you should actually know about tips",
-        "Tips: the honest beginner's guide"
+        "Rates, explained in plain English",
+        "What you should actually know about rates",
+        "Rates: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What tips means in plain English",
+        "What rates means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)",
-        "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily (OU Daily)",
-        "Dedicated Financial Shares Fall Budgeting and Year-End Tax Planning Tips - CoastTV (CoastTV)",
-        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)"
+        "Today's High-Yield Savings Rates for October 19, 2026: Up to 5.00% - WSJ (WSJ)",
+        "Mortgage and refinance interest rates today, Monday, October 19, 2026: Fixed refinance rates higher than purchase rates - Yahoo Finance (Yahoo Finance)",
+        "Current ARM mortgage rates report for Oct. 19, 2026 - Fortune (Fortune)"
       ],
       "sources": [
         {
-          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
-          "source": "NerdWallet"
+          "title": "Today's High-Yield Savings Rates for October 19, 2026: Up to 5.00% - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDNjdU9oN2hjXzJ6UVlMa1lCdXF3SVF3UmxrMTVUOUFIbVlVZFJPVWFGQUVTWjdpdWtwRV8zdkRQbUZGeld5VG9VSHl0WVZtRWZYRkxsSDk1ejRvRVVFT1ZIN1BCc0tsUjRfV1Y0ZlRwczF3X0l3ZzlYS3p6M0VyWi1NLUQ0ZEduZzQ4RzgyVm9kSE81R2Rma3hR?oc=5",
+          "source": "WSJ"
         },
         {
-          "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUZzTmdGWDQ3cGREaFdOcEhQdjlKblNzSzcwc3JMaUtqWUdRSkh4S3BBVC1uSlQtdmdEaFVtc3hBNnktU002VnRuMHhfSDMyREF2ZTFwWmZ0ajZrVVVYcUR5ZHBKcmtHRjZQYTAzOG5iVG1NcXJJWHZ4UWo5eW1xWnBES1RrazZrQnFMcXlLb2otN3lnTlFZUFUyNHdfV243QlRTMlhYZXV3OUlwT3ZJT1VVejV5VmdTalBCalNNNA?oc=5",
-          "source": "OU Daily"
+          "title": "Mortgage and refinance interest rates today, Monday, October 19, 2026: Fixed refinance rates higher than purchase rates - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNZjc5T2JwQ0U4N1R5Vnc0UWZURXItRXRwbUE3TnNUUGQxYTRIekk0TlhZM0FHVUJQSUV0RkdiQXF2NmRpRlJyNV9iMmFKNVJzRWZQODdFVEdOaGpVdm1xMXY4b2l6VDNzZTdGcERKT3FHaGRQbkNoeEYyMVlxSk5kc1dCUHVicWg5YlZFZnNtTEV5c0ljM1hQbDNjSlUyNm9WaVV0OTI5dFJSYmhGbGhINXdVV3RzWUFkLVBmcElqbjlpTFVDZUt5VDh0ZGVCMkRaV0YzVjFuRUpmX0k5Wm1YV2hfRkY3RWNLRHRKa1Z5b29qQVFqZGNTQmhNMHUtWmtEa3otcFVKcEV4SnBfc0ZHZHF0R0w0S2lqMW9v?oc=5",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Dedicated Financial Shares Fall Budgeting and Year-End Tax Planning Tips - CoastTV",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLVU2YldXUUtLbnRvYzlHT2N0QWtORl9qSWtVTFZFRnQ2NjZoQVUzX2llR3FvbnBjMExwX1NoeWM2REtjSU54RE94cHNhamhSTk9iWGZMUnBoX2N4aEFJTXlkWWlKMlpibUNJSlpHMC1zVzlHaTBzWWdBYkMwR1lueHc1RHhuTllMbmlHTVNzWFBLUndvVWhXWjJWMDk0MnJaQ1dHU25uYV9pdW54dnVMdTdfbXNXb0NUS3dHSEY0Q1dWcFppTW0wYUUxWUJxQk9paFlCekJuS3RqU28t?oc=5",
-          "source": "CoastTV"
-        },
-        {
-          "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
-          "source": "Instacart"
+          "title": "Current ARM mortgage rates report for Oct. 19, 2026 - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96MVJ4bTVZWG1CS3lyaTFEdGdFZFpPS0pfQXFxcnJWR1JTOG1QWTh4dFhUYVNULXZIcWJhenk2azFtbE9teG1hZ2duNHg3TlJRZG13WFMyZGc3QkoxS2ZrWk1MNHE5czhaSm1uaGhadWs5WHNp?oc=5",
+          "source": "Fortune"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-18T10:15:30Z",
+  "fetched_at": "2026-10-19T11:53:20Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -12,19 +12,15 @@
       "mentions": 8
     },
     {
-      "keyword": "saving",
-      "mentions": 8
-    },
-    {
-      "keyword": "tips",
-      "mentions": 7
-    },
-    {
-      "keyword": "com",
+      "keyword": "save",
       "mentions": 5
     },
     {
-      "keyword": "financial",
+      "keyword": "rates",
+      "mentions": 5
+    },
+    {
+      "keyword": "com",
       "mentions": 4
     },
     {
@@ -32,59 +28,54 @@
       "mentions": 4
     },
     {
+      "keyword": "saving",
+      "mentions": 4
+    },
+    {
+      "keyword": "tips",
+      "mentions": 4
+    },
+    {
+      "keyword": "news",
+      "mentions": 3
+    },
+    {
+      "keyword": "stock",
+      "mentions": 3
+    },
+    {
+      "keyword": "year",
+      "mentions": 3
+    },
+    {
+      "keyword": "financial",
+      "mentions": 3
+    },
+    {
       "keyword": "today",
       "mentions": 3
-    },
-    {
-      "keyword": "holiday",
-      "mentions": 3
-    },
-    {
-      "keyword": "travel",
-      "mentions": 3
-    },
-    {
-      "keyword": "wealth",
-      "mentions": 2
-    },
-    {
-      "keyword": "wall",
-      "mentions": 2
-    },
-    {
-      "keyword": "million",
-      "mentions": 2
     }
   ],
   "questions": [],
-  "discussion_highlights": [
-    {
-      "title": "NY announces game ownership bill requiring ownership rather than licensing",
-      "source": "Hacker News",
-      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-      "score": 295,
-      "comments": 106
-    },
-    {
-      "title": "Laser Fault Injection on a Budget: RP2350 Edition (2025)",
-      "source": "Hacker News",
-      "url": "https://courk.cc/rp2350-challenge-laser",
-      "score": 62,
-      "comments": 17
-    }
-  ],
+  "discussion_highlights": [],
   "news": [
     {
-      "title": "Suze Orman Warns: Your Memory of Peak Wealth Is Sabotaging Your Retirement - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3phQVBsMGVQVXB4eGUydV9NX09sOE1mbEhnaV92RjI2b1F0QTNLVEZQNTdUUHRfN254WFMwSmhhd3J0dS1IMjkwYnpzWFJqZU1vajYzTjBEWW5nQWtKQVJUYkZsbWh1MTdYcXFVRFlsVGRMbER3VVo4UEVvYVJ2SXpUV0VZX2F2NmRTYllhLVoyQ2NJYm5IOXZCcXVMUFhaU2dLZWt0X1BwMkxwc3FEcXUySS1jWmdzVFhqMWs5WHl1QQ?oc=5",
-      "published": "Wed, 14 Oct 2026 22:00:00 GMT",
+      "title": "To save money, stop being a loyal customer - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWkRXLVBHUDBUemZTbnB1bWlKOXhnNFh2enZJN2o1aC1qQldtSVlMZkRCaFl2V01wVEFTM3FZbmxzRU5TaklyMFNUSXpSbEpWM1dFZnJTR1MzU2M4X1pGbXJyYmJVU3owYUNENUNMVFU4NWY4VEJ6S0ljUXJCVk9fUEZIdFI0a3R0VG1nUFdiQQ?oc=5",
+      "published": "Mon, 19 Oct 2026 10:06:00 GMT",
+      "source": "NBC News"
+    },
+    {
+      "title": "Dad Is 71 and Wants to Sell Every Stock, Put His $1.1 Million in 10-Year Treasuries Now That the Yield Is Above 5% and Live on the Interest. Is It a Crazy Idea? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQeDJZLVowSmtvR1NPU0luZTVfa0RDTzkweW1ndTI2bW95V0JzMEFZRUViczJ1bEJ5RHlIWGRIV0Njc2V0OTdEenpXVVZpMktPeHZnbXVCUjdNT21nSU8yUU1tckdjNHVfQWctZHlQamVtdnFabGhhU3h5ektQTTc5SFZTdmlld3BPOE52SkFGV1pmeVBaNy1sd0xwRzdIYWlzLTlZdjYySjIzdll1Y3lHX0NGZzJmUGV3ZXdiZHVPaG8tVXB1aFB5NzdCWmxYTzE1Uk03VzJCWW9aQmZmOGlCQ2liRmVNV1pJZ1pjNDZpb3gtZnpWMDlFdjFwVHA1Y21mSElGZjVDMl96bXF5VzhCUU9UQTh3aUpJZjhnWlF2N2RmSXdqSTZ6ajlpNmJocFk?oc=5",
+      "published": "Sun, 18 Oct 2026 19:21:00 GMT",
       "source": "24/7 Wall St."
     },
     {
-      "title": "The American Dream now costs $5.3 million - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTVA5MWJkWVBXZzY2QmFvUXZVMHBPU3RPNUEybHd5b0htV01EeTZPQmVkY1RWYjlaTWhNVjBpTXR4M1dXcjE1VS1UN0RxWFdnRWk2eFhEcU5ONkVHdlZPdjdnRWxVTy1KUWdKRmFPZUh2ZzAyMUJOcjNES0lmQ0l5dHc3STZieEpoajVNcDFSemVMTmVIVElscDN5Q2QxUVdGWU5fVDg0OEVPUE1ZaW5LLWJZQWktQTVIVjk5VUZpT3c1bHVSSC1GLXJ3?oc=5",
-      "published": "Sat, 17 Oct 2026 09:00:00 GMT",
-      "source": "USA Today"
+      "title": "Meet with a financial planner for free at this S.F. library event - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWFZtS3FBQ3lmMUdDb0d5bFR5d094X3UyWUNlRjlkSHV6NG1na2Y4VFAyeHc3YV9lNmdOMVEwR1ZoSHF0dUt2Ny1uaVM3eDJINjR4RTNXTXBkRTc1bHljQ1ZsS0VpQnFKQlZpeDVvOHZNNGtmQ0d6bVduVDU3aDcxQ3dudHpwaTAyUlYwR3NGWUg4VUpabWF3RkhySms5ekVHVHU5Z3dNR3RHYnZPMG0w?oc=5",
+      "published": "Sun, 18 Oct 2026 11:06:47 GMT",
+      "source": "San Francisco Chronicle"
     },
     {
       "title": "Liz Weston: My 51-year-old daughter blames me for her bad financial decisions. Who’s in the wrong here? - OregonLive.com",
@@ -93,34 +84,34 @@
       "source": "OregonLive.com"
     },
     {
-      "title": "Mortgage and refinance interest rates today, Sunday, October 18, 2026: Fixed rates much lower than last week; ARMs unchanged - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOZC1uR3BwSXNld3N2cWxrWDJIc3JONUtyeWlWZHVWa1dHZWJuNFJTbFhVSHhwNi1zUVBWSU4xZ3lFVHROR2x3bFMxa3h5SUFyVTRMQ1ZyOWFvcHJLUE9malg5aXdHbU1icThJMXh6MV9Za0hsZnZNRWF2QVhETVZwaVQ1WE0wNzhmLWhFR1Ywa2lUcUN1MDdEdmlwM2xmWnpjaFMybVEzTFVsQ2R0M0QxWDdVRGVaWWFKRnlNUmFWb25DRDAxelgwUEE4NmlnRDdBSUhhUFhkSWZLT3RqMDZIb2wweHJpTm5EYVUtdEctRkR5Y1NqSG0xYThPUWVfVXZDeFQtSVVPTWlLU3M1ZDdLMEt6enpJR2FubkppV1FsZi0?oc=5",
-      "published": "Sun, 18 Oct 2026 10:00:00 GMT",
+      "title": "Today's High-Yield Savings Rates for October 19, 2026: Up to 5.00% - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDNjdU9oN2hjXzJ6UVlMa1lCdXF3SVF3UmxrMTVUOUFIbVlVZFJPVWFGQUVTWjdpdWtwRV8zdkRQbUZGeld5VG9VSHl0WVZtRWZYRkxsSDk1ejRvRVVFT1ZIN1BCc0tsUjRfV1Y0ZlRwczF3X0l3ZzlYS3p6M0VyWi1NLUQ0ZEduZzQ4RzgyVm9kSE81R2Rma3hR?oc=5",
+      "published": "Mon, 19 Oct 2026 09:00:00 GMT",
+      "source": "WSJ"
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, Monday, October 19, 2026: Fixed refinance rates higher than purchase rates - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNZjc5T2JwQ0U4N1R5Vnc0UWZURXItRXRwbUE3TnNUUGQxYTRIekk0TlhZM0FHVUJQSUV0RkdiQXF2NmRpRlJyNV9iMmFKNVJzRWZQODdFVEdOaGpVdm1xMXY4b2l6VDNzZTdGcERKT3FHaGRQbkNoeEYyMVlxSk5kc1dCUHVicWg5YlZFZnNtTEV5c0ljM1hQbDNjSlUyNm9WaVV0OTI5dFJSYmhGbGhINXdVV3RzWUFkLVBmcElqbjlpTFVDZUt5VDh0ZGVCMkRaV0YzVjFuRUpmX0k5Wm1YV2hfRkY3RWNLRHRKa1Z5b29qQVFqZGNTQmhNMHUtWmtEa3otcFVKcEV4SnBfc0ZHZHF0R0w0S2lqMW9v?oc=5",
+      "published": "Mon, 19 Oct 2026 10:00:00 GMT",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Is Flipping Or Renting More Lucrative? Financial Expert Says What 'Actually Looks Better On Paper Could B - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOOXNXQzJxR1FxS0lTOGljcEg5ekZLZDlQYndpdzRNaEptNWxYLTBuOTMyUFJSYmJCc29yUFNxOFJSMExrbFBkNWFVdHU1V0RGNjRFbnpnbFJJWHI1SE0xUm84YXlkZXFpUEY2MHhOM2NmYmVPSEZ0U1R6UW9qUWwxV1hoNHh5QWFMR0tlYWpVUU45dkxtUFd5SDVvbWVSLVpWVC1rSDN4MnFWNGlfR2NwVGZ5TjlRMVlvbUhFUHc3Y1VsakF4MjVodlZINUgwb3VFUUtEQ0gyWWdJQ3YyZFRJa1FDbDhqUzV2d01wel94QUllMWZyc0lZelNVOU1TMElMdHEyeHh1YjlYVGc0S0lTOXFGOWgwaDRoanpTV2Y4VG9STlo1NERJbG5JdmltVWc?oc=5",
-      "published": "Sat, 17 Oct 2026 23:00:07 GMT",
-      "source": "Benzinga"
+      "title": "Current ARM mortgage rates report for Oct. 19, 2026 - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96MVJ4bTVZWG1CS3lyaTFEdGdFZFpPS0pfQXFxcnJWR1JTOG1QWTh4dFhUYVNULXZIcWJhenk2azFtbE9teG1hZ2duNHg3TlJRZG13WFMyZGc3QkoxS2ZrWk1MNHE5czhaSm1uaGhadWs5WHNp?oc=5",
+      "published": "Mon, 19 Oct 2026 07:01:00 GMT",
+      "source": "Fortune"
     },
     {
-      "title": "From Fear to Financial Freedom: How I Built My First $1 Million by Trusting My Gut - Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb2tnR0VaQ3VHaE8wSFpqcm1PcDNDTGQ1dnRVVGp3RkVQcWszemRFLVQ0UTZabTg4WnhBTGNWeW8tejBBcllsbWZZeGRoRFk4Nm5KbnRMaW5COTlqRTZsMzBydzJYZDdJb2t0ZjBKOGhMNFFVdVNoYS1BaERYOHZfSzdYR2MyQ1UyTWJKX3pKbTk3aUYxSlhlLWptRlZ2T3g0R1o2aA?oc=5",
-      "published": "Sat, 17 Oct 2026 15:00:00 GMT",
-      "source": "Kiplinger"
+      "title": "Liz Weston: Will moving to another state affect my current estate plan? - OregonLive.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORXE5S0UwUElVekhnM3JRcW95NDQ0bVZpd2J0SjlheUpsYnNrcUpsSkFoZ3k4cHVVeUI0M1ZIQ2hzNGFfaE56cDZJVExocFJWZTBad3JzVWYyV2Y1cVdxaWJyd1Y3U04yWW1yaVFER0pBQndEX3ZBajFTRE5zV0tfeEVGR0hmLXpvUm90QTdIWHBKcHY4S0M2enpuWUt5cllQWGFENnNBcURiQmpjRjJia1M5OVFMOUVlWFHSAc4BQVVfeXFMTUpZQ0NhWnp1MXBQQTlTMVVLeUVHb1Y4ZVlHRFpkOVJzZVE3WE43V003cF9VN3JSRVQxZG9fQWotQTFNekx2dUZLeE8xRW1jVVREMlVFNFJPeE5VTXFXTE8wTXNPc3AtTExRYmVtNEtIeXRVSzRKSWV6c1VfOG1Xcjc3LUkwSTduYmlxNTJ1R3ZjT25IMEhRdDl1cFFSZ21kdktLN2VJcXEwWEx5ZFN4cTJnRjBNM09wbW5IU05NTUVNU2lwV0hqN1diY285Z2c?oc=5",
+      "published": "Sun, 18 Oct 2026 14:00:00 GMT",
+      "source": "OregonLive.com"
     },
     {
-      "title": "Do You Have ‘Sudden Wealth Syndrome’? - The Cut",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNckZ2b3IxYmw4THRsTjhTMkIzNGlQaFdGV0xkT2tGamQzY0tNZFlPQXdreXczWGZpMFRXbTN4SFlGXzl3dFkySE5kUFFxcjR2ZlNfMUw1QW9nVGNFdEYzU1BxaDlGdE5aTzEzWndWYU9lOEJ2MkFpZzRyS1E4OTdpMlZad2M?oc=5",
-      "published": "Thu, 15 Oct 2026 12:00:24 GMT",
-      "source": "The Cut"
-    },
-    {
-      "title": "Three Communities Will Try to Be the Next Villages. Residents of All Three Will Say One Already Is - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNelB5azA0OHpfRDc5cVlOd2NaOU9MdWhfdllPOE1HRWljY3ZaV2hmeDBrNWNKSXRmcXlHTzNMY1FCOWpxdTJEdjVYWU5xMTdaU192X3g2RXpobzRNTFY1OE92dW1lMjcxVEYtTHNtM3ZKQ195QUF6VkxHM3U3NjYzaEVwN1Frc3BlT3B3NFpXVGxoWTQ3d2djblRoVmF3VnctQnAzSVV1dEE4WHJwdUpnclBVakk4SlBheGJXdlZoLUNhSm9fcnhYOUk3c0poQVVNTGctbVo0VHgybDZmSmRZY3J3?oc=5",
-      "published": "Sat, 17 Oct 2026 16:17:00 GMT",
-      "source": "24/7 Wall St."
+      "title": "Nutrition students teach food budgeting workshop in collaboration with UT Outpost - The Daily Texan",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSHdSdFk4OHdtTEpLbHVZN0plNXdxV2pwN2tCTkRaR3ppdFdtOUxEQ2xNdkRrMWs0V2lNOEVxU1c3dXNEOWNkQXotM2kzSFdiVU1rWDYyZVBCeW5iZTk0bjBjTlBjSWpYX2p0amhtUFM1bDZKR0h5SVNlQlRzVzlkUWNyZ2hRbEF5YlladUJyRUJrTVFYYUFJM1ZUR1I4MldjdDNBUC1XdFN0ZU80aGstd3JTSU5yV1BzYmlJ?oc=5",
+      "published": "Mon, 19 Oct 2026 06:16:34 GMT",
+      "source": "The Daily Texan"
     },
     {
       "title": "How to Save on Holiday Gifts and Travel, According to an Expert - TODAY.com",
@@ -135,16 +126,16 @@
       "source": "NerdWallet"
     },
     {
-      "title": "The Cold Reality of 2026 Heating Bills: Are You Ready for the Spike? - Realtor.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZkRMM1RVQlIyZ1I3UUZwM1VNWHgwWDdva1VWdWFFdmZ2TEdYOTVJTFB5NkpwdnRuLXhBVldNRHRzXy0wSkNHd1VjeHhmUW5IcXVPeVZ5RGlxYVRmTTFMSVpFY3NnWHJhQ1Rfb2F1OVQwNlNXdUhqaklldGlibnBPS09fUF9tWW1maDdKcXd0bWc1MnRL?oc=5",
-      "published": "Fri, 16 Oct 2026 17:08:36 GMT",
-      "source": "Realtor.com"
-    },
-    {
       "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUZzTmdGWDQ3cGREaFdOcEhQdjlKblNzSzcwc3JMaUtqWUdRSkh4S3BBVC1uSlQtdmdEaFVtc3hBNnktU002VnRuMHhfSDMyREF2ZTFwWmZ0ajZrVVVYcUR5ZHBKcmtHRjZQYTAzOG5iVG1NcXJJWHZ4UWo5eW1xWnBES1RrazZrQnFMcXlLb2otN3lnTlFZUFUyNHdfV243QlRTMlhYZXV3OUlwT3ZJT1VVejV5VmdTalBCalNNNA?oc=5",
       "published": "Fri, 09 Oct 2026 14:14:16 GMT",
       "source": "OU Daily"
+    },
+    {
+      "title": "The Cold Reality of 2026 Heating Bills: Are You Ready for the Spike? - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZkRMM1RVQlIyZ1I3UUZwM1VNWHgwWDdva1VWdWFFdmZ2TEdYOTVJTFB5NkpwdnRuLXhBVldNRHRzXy0wSkNHd1VjeHhmUW5IcXVPeVZ5RGlxYVRmTTFMSVpFY3NnWHJhQ1Rfb2F1OVQwNlNXdUhqaklldGlibnBPS09fUF9tWW1maDdKcXd0bWc1MnRL?oc=5",
+      "published": "Fri, 16 Oct 2026 17:08:36 GMT",
+      "source": "Realtor.com"
     },
     {
       "title": "Dedicated Financial Shares Fall Budgeting and Year-End Tax Planning Tips - CoastTV",
@@ -157,31 +148,19 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rZlZGcmFqQ2Q2UFlUUzRFUjNFTDB6Tkd2VDByS2xfblJvYzVEYWxXSnNOUzZ5dUVPQ1pLZk5LZjJPYzFsd2dyVTZEQlR0dE9oWWZNM3FiazBJZnlYRXNDS1RQdE5jQ1d5OFZMWXNrYUFrUQ?oc=5",
       "published": "Thu, 15 Oct 2026 05:17:01 GMT",
       "source": "WDW Magazine"
-    },
-    {
-      "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
-      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
-      "source": "Instacart"
     }
   ],
-  "hn_stories": [
+  "hn_stories": [],
+  "trending_searches": [
     {
-      "title": "NY announces game ownership bill requiring ownership rather than licensing",
-      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-      "score": 295,
-      "comments": 106,
-      "source": "Hacker News"
+      "term": "nbis stock",
+      "source": "Google Trends US"
     },
     {
-      "title": "Laser Fault Injection on a Budget: RP2350 Edition (2025)",
-      "url": "https://courk.cc/rp2350-challenge-laser",
-      "score": 62,
-      "comments": 17,
-      "source": "Hacker News"
+      "term": "mu stock price",
+      "source": "Google Trends US"
     }
   ],
-  "trending_searches": [],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",
     "reddit r/financialindependence: HTTP Error 403: Blocked"
