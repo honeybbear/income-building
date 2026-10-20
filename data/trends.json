@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-19T11:53:20Z",
+  "fetched_at": "2026-10-20T10:49:56Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -9,18 +9,26 @@
   "topics": [
     {
       "keyword": "money",
-      "mentions": 8
+      "mentions": 10
     },
     {
       "keyword": "save",
+      "mentions": 6
+    },
+    {
+      "keyword": "news",
       "mentions": 5
+    },
+    {
+      "keyword": "mortgage",
+      "mentions": 4
     },
     {
       "keyword": "rates",
-      "mentions": 5
+      "mentions": 4
     },
     {
-      "keyword": "com",
+      "keyword": "travel",
       "mentions": 4
     },
     {
@@ -28,90 +36,84 @@
       "mentions": 4
     },
     {
-      "keyword": "saving",
-      "mentions": 4
-    },
-    {
       "keyword": "tips",
       "mentions": 4
     },
     {
-      "keyword": "news",
-      "mentions": 3
-    },
-    {
-      "keyword": "stock",
-      "mentions": 3
-    },
-    {
-      "keyword": "year",
-      "mentions": 3
-    },
-    {
-      "keyword": "financial",
-      "mentions": 3
+      "keyword": "saving",
+      "mentions": 4
     },
     {
       "keyword": "today",
       "mentions": 3
+    },
+    {
+      "keyword": "holiday",
+      "mentions": 3
+    },
+    {
+      "keyword": "daily",
+      "mentions": 3
     }
   ],
   "questions": [],
-  "discussion_highlights": [],
+  "discussion_highlights": [
+    {
+      "title": "UK Defence Startups Are Being Denied Banking Services Under ESG Rules",
+      "source": "Hacker News",
+      "url": "https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules",
+      "score": 56,
+      "comments": 36
+    }
+  ],
   "news": [
     {
-      "title": "To save money, stop being a loyal customer - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWkRXLVBHUDBUemZTbnB1bWlKOXhnNFh2enZJN2o1aC1qQldtSVlMZkRCaFl2V01wVEFTM3FZbmxzRU5TaklyMFNUSXpSbEpWM1dFZnJTR1MzU2M4X1pGbXJyYmJVU3owYUNENUNMVFU4NWY4VEJ6S0ljUXJCVk9fUEZIdFI0a3R0VG1nUFdiQQ?oc=5",
-      "published": "Mon, 19 Oct 2026 10:06:00 GMT",
-      "source": "NBC News"
-    },
-    {
-      "title": "Dad Is 71 and Wants to Sell Every Stock, Put His $1.1 Million in 10-Year Treasuries Now That the Yield Is Above 5% and Live on the Interest. Is It a Crazy Idea? - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQeDJZLVowSmtvR1NPU0luZTVfa0RDTzkweW1ndTI2bW95V0JzMEFZRUViczJ1bEJ5RHlIWGRIV0Njc2V0OTdEenpXVVZpMktPeHZnbXVCUjdNT21nSU8yUU1tckdjNHVfQWctZHlQamVtdnFabGhhU3h5ektQTTc5SFZTdmlld3BPOE52SkFGV1pmeVBaNy1sd0xwRzdIYWlzLTlZdjYySjIzdll1Y3lHX0NGZzJmUGV3ZXdiZHVPaG8tVXB1aFB5NzdCWmxYTzE1Uk03VzJCWW9aQmZmOGlCQ2liRmVNV1pJZ1pjNDZpb3gtZnpWMDlFdjFwVHA1Y21mSElGZjVDMl96bXF5VzhCUU9UQTh3aUpJZjhnWlF2N2RmSXdqSTZ6ajlpNmJocFk?oc=5",
-      "published": "Sun, 18 Oct 2026 19:21:00 GMT",
+      "title": "The Reverse Mortgage Will Pay Her $3,000 a Month From the House She Doesn't Sell. Medicare Will Never See a Dollar of It. Her Neighbor Will Sell, and the Taxable Gain Could Raise His Premium Two Years Later - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPTEs2YV93bnpoWGJyWHRvYzFKUkpYc002Q0tjd3ZialVGZzc1d04zTWYyT05rS3phWVVDcU5aaXlLNlJsYThTaTRkakJMOEJ0ZEkzUURoNnF3Z1ZLeUhsYktWOXF0d1N0dlFaYnNkNXlyRHBfVEY3NnZlOE9MbjN0U1BrOHFSSFQta3NIVDA1MHJjZURtUTVmQzJ1ZHRmUzR5R3pOcmstWnpBQjhmdjRleF96S254N1hEaUFnV1NpRzdiT2lPNEVyOXBJb056UjZLb3A0VnRLOHVvbGx3dHQ3RERmbzVVYzhzTGQ2MTJob3VmX29CMUtxd1FzbEVJTDY4dXUtZ1NBalUxbDR2c3V1N1YzZ05BZXY4RS1Kbmp0UzZMYjBKVWY1RkZTTWFzV2V5S3Zob0RvOTNTdm9XSUxWRXdzYTczMkZKMUpUOU5pSF9hZUUwRTUzajFwVGJORXVyTGc?oc=5",
+      "published": "Mon, 19 Oct 2026 20:30:00 GMT",
       "source": "24/7 Wall St."
     },
     {
-      "title": "Meet with a financial planner for free at this S.F. library event - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWFZtS3FBQ3lmMUdDb0d5bFR5d094X3UyWUNlRjlkSHV6NG1na2Y4VFAyeHc3YV9lNmdOMVEwR1ZoSHF0dUt2Ny1uaVM3eDJINjR4RTNXTXBkRTc1bHljQ1ZsS0VpQnFKQlZpeDVvOHZNNGtmQ0d6bVduVDU3aDcxQ3dudHpwaTAyUlYwR3NGWUg4VUpabWF3RkhySms5ekVHVHU5Z3dNR3RHYnZPMG0w?oc=5",
-      "published": "Sun, 18 Oct 2026 11:06:47 GMT",
-      "source": "San Francisco Chronicle"
-    },
-    {
-      "title": "Liz Weston: My 51-year-old daughter blames me for her bad financial decisions. Who’s in the wrong here? - OregonLive.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaG4yd2dNc1JKYmZlamFRMHhMaFctbHZuMmdxaDV1ZmluSGlGWDdvNHZsY1lWbmRRdDljc1h2d0djVnhGQ0ZzOUxTYzlxN2NWQjRZOVo3LXdrTXpKSkFDRUxxZEJtMUJkQTJlbEd2TEJ0N1V2dFdWb1FtTTUxVHduc2hpemdhQWJyRnBFU2VEaWdoYnRMdFhoWDJLb1lNaUh1Rzl1c2Z2QWNrLVJVcTk5UTN1NjB5c2lmX240eXpzVC11YV84c1lGcGkyakFCWUxfaEVUdHRFU3RBa2J4ajBQd0Z30gH2AUFVX3lxTE9qVjhjLXk5MEZiQzlFTnp3blVNLVR5MTBiVTg4SVlDOU8zVm9LeE5oN2RRcjNaWFB6M0pIMFVhZk1jWjZzNE56dnZzc3RnR3Nrek5HQVN5aXZibU5BUUNDY3ZRR05qQWctMDlsRFJjSHVEV19KRFpMRkJkN0VHRXZlbXhSQnlEcVFzRzRlYktPNWFtTnFBNGl6NEE5YndHVlN3MGt5Z2M5bU45RnBCOXJidDY5YTFfUXdBNDg4aHRZSVpqS1VMejM2S3Y1UWVXWjFWT2RMNjBOM18wMnpYTXRDOFowUE1LZzF1SDRNVHV1WGVIM2w3UQ?oc=5",
-      "published": "Sat, 17 Oct 2026 14:00:00 GMT",
-      "source": "OregonLive.com"
-    },
-    {
-      "title": "Today's High-Yield Savings Rates for October 19, 2026: Up to 5.00% - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDNjdU9oN2hjXzJ6UVlMa1lCdXF3SVF3UmxrMTVUOUFIbVlVZFJPVWFGQUVTWjdpdWtwRV8zdkRQbUZGeld5VG9VSHl0WVZtRWZYRkxsSDk1ejRvRVVFT1ZIN1BCc0tsUjRfV1Y0ZlRwczF3X0l3ZzlYS3p6M0VyWi1NLUQ0ZEduZzQ4RzgyVm9kSE81R2Rma3hR?oc=5",
-      "published": "Mon, 19 Oct 2026 09:00:00 GMT",
-      "source": "WSJ"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, Monday, October 19, 2026: Fixed refinance rates higher than purchase rates - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNZjc5T2JwQ0U4N1R5Vnc0UWZURXItRXRwbUE3TnNUUGQxYTRIekk0TlhZM0FHVUJQSUV0RkdiQXF2NmRpRlJyNV9iMmFKNVJzRWZQODdFVEdOaGpVdm1xMXY4b2l6VDNzZTdGcERKT3FHaGRQbkNoeEYyMVlxSk5kc1dCUHVicWg5YlZFZnNtTEV5c0ljM1hQbDNjSlUyNm9WaVV0OTI5dFJSYmhGbGhINXdVV3RzWUFkLVBmcElqbjlpTFVDZUt5VDh0ZGVCMkRaV0YzVjFuRUpmX0k5Wm1YV2hfRkY3RWNLRHRKa1Z5b29qQVFqZGNTQmhNMHUtWmtEa3otcFVKcEV4SnBfc0ZHZHF0R0w0S2lqMW9v?oc=5",
-      "published": "Mon, 19 Oct 2026 10:00:00 GMT",
+      "title": "Mortgage and refinance rates today, Tuesday, October 20, 2026: Mortgage rates rise, as buyers continue to cancel sales - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOTzViUHRVeXNkUjMyeGgwbkZNZU5VTzdUVFJ2RlctMVVwSUdTTUFfVk9Gd1VKRl96N18zeDNxaTBqV0RIdGVuenBRQmZyRzF3R3FZSlM4dUZld1BMcmYwV2dxTUdHM0swcWNoSW1SWGZwakFaUE4xeUJSUEVOZThvTHY5WEJMV1M3TV8xWEF4VUJwVE5QZHJ5NHJIMHRIR2dkbUc3LVo1SGJfOFc1cW0xWGdOQ3JSTmhsV29JZU5jdTYzOFdNU0pOZ0Fmc0VERXpqR0lQSmdwYkdRbmVZQTJ4MURTMU53Wmw4c1NNV2NxMm9MdFhkOU9sZ05EUGRCQVhPZUdRMWZaWHZZTFZ2ZWM4TVMxZ1F5V2lh?oc=5",
+      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Current ARM mortgage rates report for Oct. 19, 2026 - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96MVJ4bTVZWG1CS3lyaTFEdGdFZFpPS0pfQXFxcnJWR1JTOG1QWTh4dFhUYVNULXZIcWJhenk2azFtbE9teG1hZ2duNHg3TlJRZG13WFMyZGc3QkoxS2ZrWk1MNHE5czhaSm1uaGhadWs5WHNp?oc=5",
-      "published": "Mon, 19 Oct 2026 07:01:00 GMT",
+      "title": "Current ARM mortgage rates report for Oct. 20, 2026 - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OcW12YV9mT0haVzdFMkhHcnVRN2VuNERSbXRuZ0M0YmZSRGdXdzNuemdkMF9RUjR6VVdvNlQ3a1NYZzZ3RTZtRE9ETDQtYlNzVll2dVZWaXZCNTBjTXJSVERZRWs2WWptcmtUV2tXSFVzaHBo?oc=5",
+      "published": "Tue, 20 Oct 2026 07:01:00 GMT",
       "source": "Fortune"
     },
     {
-      "title": "Liz Weston: Will moving to another state affect my current estate plan? - OregonLive.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORXE5S0UwUElVekhnM3JRcW95NDQ0bVZpd2J0SjlheUpsYnNrcUpsSkFoZ3k4cHVVeUI0M1ZIQ2hzNGFfaE56cDZJVExocFJWZTBad3JzVWYyV2Y1cVdxaWJyd1Y3U04yWW1yaVFER0pBQndEX3ZBajFTRE5zV0tfeEVGR0hmLXpvUm90QTdIWHBKcHY4S0M2enpuWUt5cllQWGFENnNBcURiQmpjRjJia1M5OVFMOUVlWFHSAc4BQVVfeXFMTUpZQ0NhWnp1MXBQQTlTMVVLeUVHb1Y4ZVlHRFpkOVJzZVE3WE43V003cF9VN3JSRVQxZG9fQWotQTFNekx2dUZLeE8xRW1jVVREMlVFNFJPeE5VTXFXTE8wTXNPc3AtTExRYmVtNEtIeXRVSzRKSWV6c1VfOG1Xcjc3LUkwSTduYmlxNTJ1R3ZjT25IMEhRdDl1cFFSZ21kdktLN2VJcXEwWEx5ZFN4cTJnRjBNM09wbW5IU05NTUVNU2lwV0hqN1diY285Z2c?oc=5",
-      "published": "Sun, 18 Oct 2026 14:00:00 GMT",
-      "source": "OregonLive.com"
+      "title": "Column | You may be frugal. These are the few years when you should spend away. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTlhrM2Z0YmllNUJ2bEo3UHJrZW5CYnFGa0FwR0ZmMzdTSWtHVXdDaG43X0wwamVCdWZCbHVMTXRVaUxsa3Vmd2taLU04MXc3a0FILWlieUJKaVJCQ0t0WmNOdTRMdFpkM18zcFQ2eVNfdHkyMDY1bWFzYzNmRWtKTi1OZ2xRTVAweWpHNDlfdWZTU2VLSlZFTUo3SlZOd1N3OWtweDJFV2Q2UGxBb0pTT2xR?oc=5",
+      "published": "Tue, 20 Oct 2026 10:31:51 GMT",
+      "source": "The Washington Post"
     },
     {
-      "title": "Nutrition students teach food budgeting workshop in collaboration with UT Outpost - The Daily Texan",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSHdSdFk4OHdtTEpLbHVZN0plNXdxV2pwN2tCTkRaR3ppdFdtOUxEQ2xNdkRrMWs0V2lNOEVxU1c3dXNEOWNkQXotM2kzSFdiVU1rWDYyZVBCeW5iZTk0bjBjTlBjSWpYX2p0amhtUFM1bDZKR0h5SVNlQlRzVzlkUWNyZ2hRbEF5YlladUJyRUJrTVFYYUFJM1ZUR1I4MldjdDNBUC1XdFN0ZU80aGstd3JTSU5yV1BzYmlJ?oc=5",
-      "published": "Mon, 19 Oct 2026 06:16:34 GMT",
-      "source": "The Daily Texan"
+      "title": "The 10-year Treasury yield is above 5%. Should savers lock in now? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNllablh6c3VxRkk5Z1FCZ1cwWThBUThOU0JLTUdNYzNEQjdWSFNSOG82QklGeUoySTZoU0xVUENZNWVENlVaUVNfd21QZ1dveWpFbm5VeGtWR3lTUndJNEVxZFdhRnZnZzU3aWtydzlBb2VUWlUyTm5hMjYwTmQtNGk4WnY5bXZuZWczekJ6QlVtbFVLVnloQnlRaUJRQUpWeDBCVjZvZTktWG9jMzlUUXRLalhnbnJQWENDU2xHLWMwX21udlM5OFVTZ3pOU0hIWlJmNHVn?oc=5",
+      "published": "Tue, 20 Oct 2026 08:55:07 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "How to avoid the ‘loyalty tax’ on your monthly bills - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWkRXLVBHUDBUemZTbnB1bWlKOXhnNFh2enZJN2o1aC1qQldtSVlMZkRCaFl2V01wVEFTM3FZbmxzRU5TaklyMFNUSXpSbEpWM1dFZnJTR1MzU2M4X1pGbXJyYmJVU3owYUNENUNMVFU4NWY4VEJ6S0ljUXJCVk9fUEZIdFI0a3R0VG1nUFdiQQ?oc=5",
+      "published": "Mon, 19 Oct 2026 14:20:01 GMT",
+      "source": "NBC News"
+    },
+    {
+      "title": "How Have Prices Changed Since the Iran War Started? - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWGxma2pfN3JkY2dLOEVSTWxhN04ya1FYdWRQOWtZU3ExODVuc0hMX1gzREY0S3MtYmpzRTJHUHJyMC1wTm5kU0NOSUVwUHFsLVM2bjdJWUJsdUNCZG15LXlVbTVtQURnZnZPbHkwZmVyaEEzeDRlVTE3TktfZ0JVY19IbkxIODdtMml6ajVHbw?oc=5",
+      "published": "Tue, 20 Oct 2026 10:30:00 GMT",
+      "source": "Kiplinger"
+    },
+    {
+      "title": "Today's High-Yield Savings Rates for October 20, 2026: Up to 5.00% - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUWk0ZEhRNWFkeW9KZW56LWR4LXV2NG04OU84R1NMdmE1YzFUWnpQSVFrR25VaDU5TEcyS1pCblUtazVMejJRNlZzOXJmVkFtbjNGTEVKZjR3ajFDT3NkMUlaU0NJOFFiS1kyNHk0bzMzNE5RNVJEaXRFZ2xxdXpCN3ZJc2ZZSWJPaE9YVkdDU0pKdGNwa0NEYkxR?oc=5",
+      "published": "Tue, 20 Oct 2026 09:00:00 GMT",
+      "source": "WSJ"
     },
     {
       "title": "How to Save on Holiday Gifts and Travel, According to an Expert - TODAY.com",
@@ -120,10 +122,10 @@
       "source": "TODAY.com"
     },
     {
-      "title": "12 Easy Money Saving Travel Tips - NerdWallet",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
-      "published": "Tue, 13 Oct 2026 16:29:23 GMT",
-      "source": "NerdWallet"
+      "title": "Nutrition students teach food budgeting workshop in collaboration with UT Outpost - The Daily Texan",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSHdSdFk4OHdtTEpLbHVZN0plNXdxV2pwN2tCTkRaR3ppdFdtOUxEQ2xNdkRrMWs0V2lNOEVxU1c3dXNEOWNkQXotM2kzSFdiVU1rWDYyZVBCeW5iZTk0bjBjTlBjSWpYX2p0amhtUFM1bDZKR0h5SVNlQlRzVzlkUWNyZ2hRbEF5YlladUJyRUJrTVFYYUFJM1ZUR1I4MldjdDNBUC1XdFN0ZU80aGstd3JTSU5yV1BzYmlJ?oc=5",
+      "published": "Mon, 19 Oct 2026 06:16:34 GMT",
+      "source": "The Daily Texan"
     },
     {
       "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
@@ -138,29 +140,34 @@
       "source": "Realtor.com"
     },
     {
+      "title": "12 Easy Money Saving Travel Tips - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
+      "published": "Tue, 13 Oct 2026 16:29:23 GMT",
+      "source": "NerdWallet"
+    },
+    {
       "title": "Dedicated Financial Shares Fall Budgeting and Year-End Tax Planning Tips - CoastTV",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLVU2YldXUUtLbnRvYzlHT2N0QWtORl9qSWtVTFZFRnQ2NjZoQVUzX2llR3FvbnBjMExwX1NoeWM2REtjSU54RE94cHNhamhSTk9iWGZMUnBoX2N4aEFJTXlkWWlKMlpibUNJSlpHMC1zVzlHaTBzWWdBYkMwR1lueHc1RHhuTllMbmlHTVNzWFBLUndvVWhXWjJWMDk0MnJaQ1dHU25uYV9pdW54dnVMdTdfbXNXb0NUS3dHSEY0Q1dWcFppTW0wYUUxWUJxQk9paFlCekJuS3RqU28t?oc=5",
       "published": "Mon, 12 Oct 2026 21:00:00 GMT",
       "source": "CoastTV"
     },
     {
-      "title": "Disney Trips Are Expensive—But These Budget Tricks Actually Work - WDW Magazine",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rZlZGcmFqQ2Q2UFlUUzRFUjNFTDB6Tkd2VDByS2xfblJvYzVEYWxXSnNOUzZ5dUVPQ1pLZk5LZjJPYzFsd2dyVTZEQlR0dE9oWWZNM3FiazBJZnlYRXNDS1RQdE5jQ1d5OFZMWXNrYUFrUQ?oc=5",
-      "published": "Thu, 15 Oct 2026 05:17:01 GMT",
-      "source": "WDW Magazine"
+      "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
+      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
+      "source": "Instacart"
     }
   ],
-  "hn_stories": [],
-  "trending_searches": [
+  "hn_stories": [
     {
-      "term": "nbis stock",
-      "source": "Google Trends US"
-    },
-    {
-      "term": "mu stock price",
-      "source": "Google Trends US"
+      "title": "UK Defence Startups Are Being Denied Banking Services Under ESG Rules",
+      "url": "https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules",
+      "score": 56,
+      "comments": 36,
+      "source": "Hacker News"
     }
   ],
+  "trending_searches": [],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",
     "reddit r/financialindependence: HTTP Error 403: Blocked"
