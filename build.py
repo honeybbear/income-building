@@ -38,6 +38,7 @@ TOPICS = {
     "retire-abroad-reality-check": ["retirement", "budgeting"],
     "open-enrollment-playbook-2026": ["budgeting", "saving"],
     "winter-heating-bill-playbook": ["saving", "budgeting"],
+    "treasury-yield-lock-in-playbook": ["saving", "investing"],
 }
 
 
