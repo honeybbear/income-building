@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T10:49:56Z",
+  "generated_at": "2026-10-21T11:01:52Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -20,10 +20,16 @@
         "Sensible next steps"
       ],
       "key_points": [
+        "On a budget? Here's money-saving tips for holiday shopping - AZ Family (AZ Family)",
         "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)",
         "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)"
       ],
       "sources": [
+        {
+          "title": "On a budget? Here's money-saving tips for holiday shopping - AZ Family",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd0lMWWJwcllCY1oyMXlabXRSTlpzZ3IybjhMOENjS1BMS2NTOGhLUFFZdTItVzd1aG5Eb0h3Qi1SNmo2dXB3aWp6RTRpUHlKdGhqZmVDQVBvU3FrYnl5Q0xzMTh3NjBza0p3aFJfU2RBanF0bW5OczNkVUxiSjl1QTBLbjJNeklpQk9sR2FXVklCck9x?oc=5",
+          "source": "AZ Family"
+        },
         {
           "title": "12 Easy Money Saving Travel Tips - NerdWallet",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
@@ -40,38 +46,38 @@
       "id": "t-1",
       "kind": "trending-topic",
       "headline_options": [
-        "Save, explained in plain English",
-        "What you should actually know about save",
-        "Save: the honest beginner's guide"
+        "Saving, explained in plain English",
+        "What you should actually know about saving",
+        "Saving: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What save means in plain English",
+        "What saving means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "The 10-year Treasury yield is above 5%. Should savers lock in now? - Yahoo Finance (Yahoo Finance)",
-        "How to Save on Holiday Gifts and Travel, According to an Expert - TODAY.com (TODAY.com)",
-        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)"
+        "Lost track of an old 401(k)? Your savings may be slipping away - USA Today (USA Today)",
+        "On a budget? Here's money-saving tips for holiday shopping - AZ Family (AZ Family)",
+        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
       ],
       "sources": [
         {
-          "title": "The 10-year Treasury yield is above 5%. Should savers lock in now? - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNllablh6c3VxRkk5Z1FCZ1cwWThBUThOU0JLTUdNYzNEQjdWSFNSOG82QklGeUoySTZoU0xVUENZNWVENlVaUVNfd21QZ1dveWpFbm5VeGtWR3lTUndJNEVxZFdhRnZnZzU3aWtydzlBb2VUWlUyTm5hMjYwTmQtNGk4WnY5bXZuZWczekJ6QlVtbFVLVnloQnlRaUJRQUpWeDBCVjZvZTktWG9jMzlUUXRLalhnbnJQWENDU2xHLWMwX21udlM5OFVTZ3pOU0hIWlJmNHVn?oc=5",
-          "source": "Yahoo Finance"
+          "title": "Lost track of an old 401(k)? Your savings may be slipping away - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUVJsa2hLajdic2thNVN3MGI5MlphM2E0d2RRMmkxcWEzWFZPWXJLRDNoOE04U1h6V1hXd2Q3MHlacjhfQ21xeVVaVGpkc1R0cERCdVZIT0Nfd1JxbV9TOUhmZURaTXlkeGdBSVdyN3BNT1ZvWG85aWdMMGY0UUNYNFlzT3N1UnN6WTJGWWdvWXFpSUVoY1F3SlRKTXRTaFRpRWhXZ3lOaXJDV1hYOFFHdThZUU80MWxEN0pBNjFDUnJ2dWo3SFpkM2h3NU1tUy00VXZMUjkyWGxuWVFpRm9zSzJTYkU?oc=5",
+          "source": "USA Today"
         },
         {
-          "title": "How to Save on Holiday Gifts and Travel, According to an Expert - TODAY.com",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkhrOGRfaTBmYzdqVGhhWUxNNFhVd1JDeUhPSVlMY19hUlYtX2lCOTc5ejVLenkyYjVKUDRyQU5SZWVBVG1Ea0QxX21sZkZCOGhSZXR6U3JxQ3JuUFFWT0RSSEZJdS1yOVQ1V0pxZ1BsTUpnYnFiSXFtOFRnNTg4Sg?oc=5",
-          "source": "TODAY.com"
+          "title": "On a budget? Here's money-saving tips for holiday shopping - AZ Family",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd0lMWWJwcllCY1oyMXlabXRSTlpzZ3IybjhMOENjS1BMS2NTOGhLUFFZdTItVzd1aG5Eb0h3Qi1SNmo2dXB3aWp6RTRpUHlKdGhqZmVDQVBvU3FrYnl5Q0xzMTh3NjBza0p3aFJfU2RBanF0bW5OczNkVUxiSjl1QTBLbjJNeklpQk9sR2FXVklCck9x?oc=5",
+          "source": "AZ Family"
         },
         {
-          "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
-          "source": "Instacart"
+          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
+          "source": "NerdWallet"
         }
       ]
     },
@@ -79,32 +85,44 @@
       "id": "t-2",
       "kind": "trending-topic",
       "headline_options": [
-        "News, explained in plain English",
-        "What you should actually know about news",
-        "News: the honest beginner's guide"
+        "Tips, explained in plain English",
+        "What you should actually know about tips",
+        "Tips: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What news means in plain English",
+        "What tips means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "How to avoid the ‘loyalty tax’ on your monthly bills - NBC News (NBC News)",
-        "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily (OU Daily)"
+        "On a budget? Here's money-saving tips for holiday shopping - AZ Family (AZ Family)",
+        "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily (OU Daily)",
+        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)",
+        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)"
       ],
       "sources": [
         {
-          "title": "How to avoid the ‘loyalty tax’ on your monthly bills - NBC News",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWkRXLVBHUDBUemZTbnB1bWlKOXhnNFh2enZJN2o1aC1qQldtSVlMZkRCaFl2V01wVEFTM3FZbmxzRU5TaklyMFNUSXpSbEpWM1dFZnJTR1MzU2M4X1pGbXJyYmJVU3owYUNENUNMVFU4NWY4VEJ6S0ljUXJCVk9fUEZIdFI0a3R0VG1nUFdiQQ?oc=5",
-          "source": "NBC News"
+          "title": "On a budget? Here's money-saving tips for holiday shopping - AZ Family",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd0lMWWJwcllCY1oyMXlabXRSTlpzZ3IybjhMOENjS1BMS2NTOGhLUFFZdTItVzd1aG5Eb0h3Qi1SNmo2dXB3aWp6RTRpUHlKdGhqZmVDQVBvU3FrYnl5Q0xzMTh3NjBza0p3aFJfU2RBanF0bW5OczNkVUxiSjl1QTBLbjJNeklpQk9sR2FXVklCck9x?oc=5",
+          "source": "AZ Family"
         },
         {
           "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUZzTmdGWDQ3cGREaFdOcEhQdjlKblNzSzcwc3JMaUtqWUdRSkh4S3BBVC1uSlQtdmdEaFVtc3hBNnktU002VnRuMHhfSDMyREF2ZTFwWmZ0ajZrVVVYcUR5ZHBKcmtHRjZQYTAzOG5iVG1NcXJJWHZ4UWo5eW1xWnBES1RrazZrQnFMcXlLb2otN3lnTlFZUFUyNHdfV243QlRTMlhYZXV3OUlwT3ZJT1VVejV5VmdTalBCalNNNA?oc=5",
           "source": "OU Daily"
+        },
+        {
+          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
+          "source": "NerdWallet"
+        },
+        {
+          "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
+          "source": "Instacart"
         }
       ]
     }
