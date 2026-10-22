@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21T11:01:52Z",
+  "fetched_at": "2026-10-22T11:00:46Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -9,56 +9,82 @@
   "topics": [
     {
       "keyword": "money",
-      "mentions": 9
-    },
-    {
-      "keyword": "saving",
-      "mentions": 6
-    },
-    {
-      "keyword": "tips",
-      "mentions": 5
+      "mentions": 13
     },
     {
       "keyword": "save",
+      "mentions": 6
+    },
+    {
+      "keyword": "finance",
       "mentions": 4
     },
     {
-      "keyword": "budgeting",
+      "keyword": "tips",
       "mentions": 4
     },
     {
-      "keyword": "today",
-      "mentions": 3
+      "keyword": "financial",
+      "mentions": 4
     },
     {
       "keyword": "yahoo",
       "mentions": 3
     },
     {
-      "keyword": "finance",
+      "keyword": "today",
       "mentions": 3
     },
     {
-      "keyword": "here",
+      "keyword": "news",
       "mentions": 3
     },
     {
-      "keyword": "holiday",
+      "keyword": "saving",
       "mentions": 3
     },
     {
-      "keyword": "food",
+      "keyword": "budgeting",
       "mentions": 3
     },
     {
-      "keyword": "much",
+      "keyword": "but",
+      "mentions": 2
+    },
+    {
+      "keyword": "rates",
       "mentions": 2
     }
   ],
   "questions": [],
-  "discussion_highlights": [],
+  "discussion_highlights": [
+    {
+      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+      "source": "Hacker News",
+      "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+      "score": 189,
+      "comments": 96
+    }
+  ],
   "news": [
+    {
+      "title": "Your income won't build wealth, but this will: Anthony O'Neal - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLUFlSTZpazNuenNVVHRfa29JTy1aOGRRc2RaWEJtVFR3elprS1ZOb09jY0JiWk8xQXkzcUJvS19vdmlhc0ZublRjajYtTk05ZTBwS0MwbHY2eDc4X2lMTDlETU11TGxfZDZYalB2ZE13UDVZaHhNTXZyOFdHY3ROam03dThnZw?oc=5",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Today’s top high-yield savings rates: Up to 4.70% on Oct. 22, 2026 - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iaGxRN2VfYjkzeVNDSm9LNlp0SGdQZ3VqZGQ0N29yZ1FBLXBjakdvZnp5eUsyWTBzTTU2TnMzVGxYM1R4WV83V0RaWk5QdGFadFRzUy10Mks5V3RIWV9kVUh0c19kM3h6QnV6QkZRVEpkd2NR?oc=5",
+      "published": "Thu, 22 Oct 2026 10:01:00 GMT",
+      "source": "Fortune"
+    },
+    {
+      "title": "The ‘No-Spend Challenge’ - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVkpHUEtvN2RyUUxCbWR2U09YUjR2VlVEMlRuSWY3TlNvQnRmVmcwVy0yRm92RGwzaUFfWS10Z000VkNjaDVkYW90WFpFdC05RDBYd21ZR3J6cGlnWUFJWjMzMm4tMWwtSFZ5Mk92VXhwa05rQk8tT0NLc0FzSl9oOW1n?oc=5",
+      "published": "Thu, 22 Oct 2026 10:30:55 GMT",
+      "source": "Yahoo Finance"
+    },
     {
       "title": "Exclusive | How Much Can You Safely Spend in Retirement? A 401(k) Giant Offers Guidance - WSJ",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUFkxLTRsd2N1UVd1aWY0UkJvM1VTbTJ3NldKaGNQVGZpM09KbU51MVNNSWM2d2dLaER5cDBYU29rblFYLW5FdTN2b1dyQjk2YnR0UVg3aDhYaHVLTTVmX2VUM3pkZ1ExNExhenVUbEtVNnVUZWpqTERHcVV0ek44Q3pVcExydV9MeUdzYUVLUGRNY3QzSkxuSHlKVGR1Y3RxcGR1SzB4YjFBdERvWG8xeXZaTm5HM01WX0lib1psdVlJT3RPQmduYWN3?oc=5",
@@ -66,58 +92,34 @@
       "source": "WSJ"
     },
     {
-      "title": "Lost track of an old 401(k)? Your savings may be slipping away - USA Today",
+      "title": "Billions of dollars sit in forgotten IRAs that are slowly losing value - USA Today",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUVJsa2hLajdic2thNVN3MGI5MlphM2E0d2RRMmkxcWEzWFZPWXJLRDNoOE04U1h6V1hXd2Q3MHlacjhfQ21xeVVaVGpkc1R0cERCdVZIT0Nfd1JxbV9TOUhmZURaTXlkeGdBSVdyN3BNT1ZvWG85aWdMMGY0UUNYNFlzT3N1UnN6WTJGWWdvWXFpSUVoY1F3SlRKTXRTaFRpRWhXZ3lOaXJDV1hYOFFHdThZUU80MWxEN0pBNjFDUnJ2dWo3SFpkM2h3NU1tUy00VXZMUjkyWGxuWVFpRm9zSzJTYkU?oc=5",
-      "published": "Wed, 21 Oct 2026 10:07:00 GMT",
+      "published": "Wed, 21 Oct 2026 16:00:00 GMT",
       "source": "USA Today"
     },
     {
-      "title": "Gold price today, Wednesday, October 21, 2026: Gold prices down 5.2% YOY one week ahead of the Fed's rate decision - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQaFROLWhaUnIzckJyY25Gd3otTWZHWGVEOW45UFlGbXFpSS1vWEVBMTFrM3NEakktTy1IeFJabjVQcDktWDNVS0I0NHRvaXJYeElLTm5qclVvU0VnX3BoeGdYcGVNcHotbE96Rmp4QTVFcVNuY3RTYUI5ZUdKNkxVaDZoOW1RQlR6Wl9JOUxwUnZ5YVZWYldCblhQWk92MDZxQjBxTDZZSUkwb2RSYS1aRTFRUGdkSWdPd2UtT2xPbGlpT0twN3dsWU5KRGt4c2p2TGVtVi10OVZZdDdyOWpfT1paSjd5M1gyb0lIVDdaUUlGX2xFYnZuVDY0enVqS0VsR3hkeTBTVXpCRDRYYVoxbQ?oc=5",
-      "published": "Wed, 21 Oct 2026 10:50:25 GMT",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "As homeownership gets harder, more buyers are getting down payment help. What parents should know - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xYm9qaFZQTTIwdHIyZGx1YWVUMFJ6a0YxeUNZOENpRFJyYmJOQU5YdEl2RUFIRVJ4djNuX01rVlM3NGIzakp1THhhOTZaRVViUTI5VlZ1WUxOWnljc1FBaHRTbVpCY1R0M0VPbk5kSGdnSWJX0gF6QVVfeXFMUHJZbnFVS092aEp6RDlWMzA4cGt2RGpWZEVzV2dyQWFlWERXU3R3VEd0SFh3UGpKcHhUYXlFa2pjS3lycmwydzVEQ1diamVlYmwyNDZneURyUkc2d3Y4WGhVRWRjZW5yX3BQODB0eUdjdVRpbmpPZG8ycXc?oc=5",
-      "published": "Tue, 20 Oct 2026 19:34:52 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "A 67-Year-Old Swapped JEPQ for SCHD in a $1.32 Million Portfolio. Here's What Happened to His $8,750 Monthly Paycheck - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPV1BYUGR6OG12Tjc2eGwwMl9CRmFsVDZrTzdDUldFMG1LbDdkSjFrTEoyZHpwc2t2azdSN0pWRERjVzloRk9LMWF6eEhCTGkxbFF4VkN4QU1tdy1IVHJ5cHVweF9lNG5Uekw5UzdRVU1ITktJRzlGcnNZRE5QZ19wekNYZXFOVmtKN1QwaDNoWVZhaElfVmdqUkhfT1p5TjktczJjMUdFSm9uWnp6Z0Yyb29fN29MUTRvUVBoXzFia3R2UlFkWlkxeDhxQ1NNWUVWS0UtSlF0TTE0Q2EtWGZfOURCZnBrUUN4THc4RzhPWWFYTmhfR0E?oc=5",
-      "published": "Tue, 20 Oct 2026 21:32:00 GMT",
-      "source": "24/7 Wall St."
-    },
-    {
-      "title": "Current refi mortgage rates report for Oct. 21, 2026 - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uR3VqMUYybFpLVzkyaVpVNm4tbTVIaVRNUDRvLTl5QVdNSXFrWkxjRmI1ZmRaMDZLZWllbWpZSFRQTFNtSmFhVm4yblhwc2RXWUtOR2Y3Y2ViNzJlZHFkLTFwOGN0Q1NNcGV2NGhCVkpqMHRPRXc?oc=5",
-      "published": "Wed, 21 Oct 2026 07:01:00 GMT",
+      "title": "Current refi mortgage rates report for Oct. 22, 2026 - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FTVk4ZVhqc1d1Rmo1TW5SMHg0SGJoQXVjUDJkN1V4dlM2eXl4RHUzYkFTOE9GMnVNNjg2ODFiUUZFQlBwM2lGcnlyUHlNcjJ5Z3dsUkNRVXJDdFRCV0Z5aldYNXJ0RGhCbE9aalFhSjNjVEFTTmc?oc=5",
+      "published": "Thu, 22 Oct 2026 07:01:00 GMT",
       "source": "Fortune"
     },
     {
-      "title": "Thousands of mortgage holders face $1K higher payments after taking this risky bet — others will save $124 a month - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdTRORnFqT2hZV0RqM0V3WmFvR2dFcFBBS3dfN2Nhb3VJQWRpLTFSajRkVmwwYkhvVXFLN3IzU21VSld6R0dUdUtGY0d1bklrZkpjaE0yQk1IMTJhb3h3bjR4dGs1SzA3RXl5djZlWThtN21JTmNfcUFLNUlxYTFoT1JuLUdPTE5ETkRLOF9kSmo1V29HN3NCNWJ6TXE?oc=5",
-      "published": "Tue, 20 Oct 2026 11:00:00 GMT",
+      "title": "Anthropic prepares Claude Money for personal finance - TestingCatalog AI News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNnZ6WnBySGZHMXFRMXEzVXdiaEdJaWY0TW94bnpZQk9ETG11UjFBYklmcVp2VHNJcFNsZGFsVHAwYzNkZjJRZENmTW11bmt2OGlsOGhDVDlDN1JzNDIxZXlmTzN6aXFwNWQ1WXRFRG1qNFZRNk9vaC1NOGM4d19xLWJlUmx5cC1TbGZnQw?oc=5",
+      "published": "Mon, 14 Sep 2026 07:00:00 GMT",
+      "source": "TestingCatalog AI News"
+    },
+    {
+      "title": "Meta's Muse says it can manage your money. Should you let it? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLWRrOU5mY2dpVlVfbkRJbG5HcE9qckcyQXhCTldCTnpHOHpscnk1Z1VBNXJmQm1ETTJESUkwb3hqc3BlejRud2RZM2pzcUpxTzRxSFRwYnpMb0tBWURzVE16ZzhwSmFMOFRkY2FEYTJRUkxwN2xyYzBaeWRjM2J4NFpwTXNQNjZDdm5samJKbVJhUTI1cjVZWTMxUTZqZFBJSEVKek95cm5IMUdjc2c4cG12OTlpV1FNeFZWeEJCdXRrNFVBNHN6SW9aeTM?oc=5",
+      "published": "Fri, 25 Sep 2026 07:00:00 GMT",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Social Security's latest COLA may fall short for retirees. Here's why. - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUXprWllsS2ZyVmJmWE16TzlybFEweFVWZ3RMeVFua1l3aTZTdGhvbnFuZkw5d0J3NHpuQkIwNnA0WVRCS1hjQ19BYm5HMGFuMTM5ZFVLYXZKZk5oRW11SXdYRkdhejJTRTRXQk84aGFPNFZ1T1NVeWRBT3lTMlZySGFBM3pZblZDbUxNQVlyNTBFRXJTaWtOLU1HYTFwMUpwVUNiUFc0Wi03Qm9wUzNUVGNVRVVNQ2o4eWszVVRPNTdYOHFSQWxTN05rX2RXeW01cVYycHJ5R0d5Zw?oc=5",
-      "published": "Tue, 20 Oct 2026 19:07:11 GMT",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "On a budget? Here's money-saving tips for holiday shopping - AZ Family",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd0lMWWJwcllCY1oyMXlabXRSTlpzZ3IybjhMOENjS1BMS2NTOGhLUFFZdTItVzd1aG5Eb0h3Qi1SNmo2dXB3aWp6RTRpUHlKdGhqZmVDQVBvU3FrYnl5Q0xzMTh3NjBza0p3aFJfU2RBanF0bW5OczNkVUxiSjl1QTBLbjJNeklpQk9sR2FXVklCck9x?oc=5",
+      "title": "On a budget? Here's money-saving tips for holiday shopping - FOX Carolina News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODRkeWtKTVo5Qi11RXN1X2NOSnAzTldvMlNsX29uTi1taVA1SHNITEdHZDl4SktVSHVodDdxYmpMOFFRRWMzZXlZdXRCTlVTYUVCNmdiajZlSFl2bjdzWktkdEdqdThFcG9WeG9SZEhSSFJnQnRmYTJMcVFjaWtDbWxRcFZOZ0YwZ0Exd2NRdWN6UjBuT0dQbg?oc=5",
       "published": "Tue, 20 Oct 2026 15:10:00 GMT",
-      "source": "AZ Family"
-    },
-    {
-      "title": "How to Save on Holiday Gifts and Travel, According to an Expert - TODAY.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkhrOGRfaTBmYzdqVGhhWUxNNFhVd1JDeUhPSVlMY19hUlYtX2lCOTc5ejVLenkyYjVKUDRyQU5SZWVBVG1Ea0QxX21sZkZCOGhSZXR6U3JxQ3JuUFFWT0RSSEZJdS1yOVQ1V0pxZ1BsTUpnYnFiSXFtOFRnNTg4Sg?oc=5",
-      "published": "Fri, 16 Oct 2026 14:07:38 GMT",
-      "source": "TODAY.com"
+      "source": "FOX Carolina News"
     },
     {
       "title": "Nutrition students teach food budgeting workshop in collaboration with UT Outpost - The Daily Texan",
@@ -126,10 +128,22 @@
       "source": "The Daily Texan"
     },
     {
+      "title": "How to Save on Holiday Gifts and Travel, According to an Expert - TODAY.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkhrOGRfaTBmYzdqVGhhWUxNNFhVd1JDeUhPSVlMY19hUlYtX2lCOTc5ejVLenkyYjVKUDRyQU5SZWVBVG1Ea0QxX21sZkZCOGhSZXR6U3JxQ3JuUFFWT0RSSEZJdS1yOVQ1V0pxZ1BsTUpnYnFiSXFtOFRnNTg4Sg?oc=5",
+      "published": "Fri, 16 Oct 2026 14:07:38 GMT",
+      "source": "TODAY.com"
+    },
+    {
       "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUZzTmdGWDQ3cGREaFdOcEhQdjlKblNzSzcwc3JMaUtqWUdRSkh4S3BBVC1uSlQtdmdEaFVtc3hBNnktU002VnRuMHhfSDMyREF2ZTFwWmZ0ajZrVVVYcUR5ZHBKcmtHRjZQYTAzOG5iVG1NcXJJWHZ4UWo5eW1xWnBES1RrazZrQnFMcXlLb2otN3lnTlFZUFUyNHdfV243QlRTMlhYZXV3OUlwT3ZJT1VVejV5VmdTalBCalNNNA?oc=5",
-      "published": "Fri, 09 Oct 2026 14:14:16 GMT",
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
       "source": "OU Daily"
+    },
+    {
+      "title": "12 Easy Money Saving Travel Tips - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
+      "published": "Tue, 13 Oct 2026 07:00:00 GMT",
+      "source": "NerdWallet"
     },
     {
       "title": "The Cold Reality of 2026 Heating Bills: Are You Ready for the Spike? - Realtor.com",
@@ -138,25 +152,22 @@
       "source": "Realtor.com"
     },
     {
-      "title": "12 Easy Money Saving Travel Tips - NerdWallet",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
-      "published": "Tue, 13 Oct 2026 16:29:23 GMT",
-      "source": "NerdWallet"
-    },
-    {
-      "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
-      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
-      "source": "Instacart"
+      "title": "6-Step Financial Plan for 2026 - The Department of Financial Protection and Innovation (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOVHhmMmc5bHNRbV9VZUtNNFFGRTlUeHVBZlA3N0prY1lDa2dEVHRXakRRcW1fT1R0a2JKU1lWY0gzNzU0LUVxenJYSERZcWNDckRlNExOSmhWUUxQeUxTT1ZfMDRnMWN6bld1MFlzamJOUnM?oc=5",
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "source": "The Department of Financial Protection and Innovation (.gov)"
     }
   ],
-  "hn_stories": [],
-  "trending_searches": [
+  "hn_stories": [
     {
-      "term": "amazon stock price",
-      "source": "Google Trends US"
+      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+      "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+      "score": 189,
+      "comments": 96,
+      "source": "Hacker News"
     }
   ],
+  "trending_searches": [],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",
     "reddit r/financialindependence: HTTP Error 403: Blocked"

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T11:01:52Z",
+  "generated_at": "2026-10-22T11:00:46Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -20,25 +20,31 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "On a budget? Here's money-saving tips for holiday shopping - AZ Family (AZ Family)",
-        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)",
-        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)"
+        "Anthropic prepares Claude Money for personal finance - TestingCatalog AI News (TestingCatalog AI News)",
+        "Meta's Muse says it can manage your money. Should you let it? - Yahoo Finance (Yahoo Finance)",
+        "On a budget? Here's money-saving tips for holiday shopping - FOX Carolina News (FOX Carolina News)",
+        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
       ],
       "sources": [
         {
-          "title": "On a budget? Here's money-saving tips for holiday shopping - AZ Family",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd0lMWWJwcllCY1oyMXlabXRSTlpzZ3IybjhMOENjS1BMS2NTOGhLUFFZdTItVzd1aG5Eb0h3Qi1SNmo2dXB3aWp6RTRpUHlKdGhqZmVDQVBvU3FrYnl5Q0xzMTh3NjBza0p3aFJfU2RBanF0bW5OczNkVUxiSjl1QTBLbjJNeklpQk9sR2FXVklCck9x?oc=5",
-          "source": "AZ Family"
+          "title": "Anthropic prepares Claude Money for personal finance - TestingCatalog AI News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNnZ6WnBySGZHMXFRMXEzVXdiaEdJaWY0TW94bnpZQk9ETG11UjFBYklmcVp2VHNJcFNsZGFsVHAwYzNkZjJRZENmTW11bmt2OGlsOGhDVDlDN1JzNDIxZXlmTzN6aXFwNWQ1WXRFRG1qNFZRNk9vaC1NOGM4d19xLWJlUmx5cC1TbGZnQw?oc=5",
+          "source": "TestingCatalog AI News"
+        },
+        {
+          "title": "Meta's Muse says it can manage your money. Should you let it? - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLWRrOU5mY2dpVlVfbkRJbG5HcE9qckcyQXhCTldCTnpHOHpscnk1Z1VBNXJmQm1ETTJESUkwb3hqc3BlejRud2RZM2pzcUpxTzRxSFRwYnpMb0tBWURzVE16ZzhwSmFMOFRkY2FEYTJRUkxwN2xyYzBaeWRjM2J4NFpwTXNQNjZDdm5samJKbVJhUTI1cjVZWTMxUTZqZFBJSEVKek95cm5IMUdjc2c4cG12OTlpV1FNeFZWeEJCdXRrNFVBNHN6SW9aeTM?oc=5",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "On a budget? Here's money-saving tips for holiday shopping - FOX Carolina News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODRkeWtKTVo5Qi11RXN1X2NOSnAzTldvMlNsX29uTi1taVA1SHNITEdHZDl4SktVSHVodDdxYmpMOFFRRWMzZXlZdXRCTlVTYUVCNmdiajZlSFl2bjdzWktkdEdqdThFcG9WeG9SZEhSSFJnQnRmYTJMcVFjaWtDbWxRcFZOZ0YwZ0Exd2NRdWN6UjBuT0dQbg?oc=5",
+          "source": "FOX Carolina News"
         },
         {
           "title": "12 Easy Money Saving Travel Tips - NerdWallet",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
           "source": "NerdWallet"
-        },
-        {
-          "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
-          "source": "Instacart"
         }
       ]
     },
@@ -46,38 +52,26 @@
       "id": "t-1",
       "kind": "trending-topic",
       "headline_options": [
-        "Saving, explained in plain English",
-        "What you should actually know about saving",
-        "Saving: the honest beginner's guide"
+        "Save, explained in plain English",
+        "What you should actually know about save",
+        "Save: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What saving means in plain English",
+        "What save means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "Lost track of an old 401(k)? Your savings may be slipping away - USA Today (USA Today)",
-        "On a budget? Here's money-saving tips for holiday shopping - AZ Family (AZ Family)",
-        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
+        "How to Save on Holiday Gifts and Travel, According to an Expert - TODAY.com (TODAY.com)"
       ],
       "sources": [
         {
-          "title": "Lost track of an old 401(k)? Your savings may be slipping away - USA Today",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUVJsa2hLajdic2thNVN3MGI5MlphM2E0d2RRMmkxcWEzWFZPWXJLRDNoOE04U1h6V1hXd2Q3MHlacjhfQ21xeVVaVGpkc1R0cERCdVZIT0Nfd1JxbV9TOUhmZURaTXlkeGdBSVdyN3BNT1ZvWG85aWdMMGY0UUNYNFlzT3N1UnN6WTJGWWdvWXFpSUVoY1F3SlRKTXRTaFRpRWhXZ3lOaXJDV1hYOFFHdThZUU80MWxEN0pBNjFDUnJ2dWo3SFpkM2h3NU1tUy00VXZMUjkyWGxuWVFpRm9zSzJTYkU?oc=5",
-          "source": "USA Today"
-        },
-        {
-          "title": "On a budget? Here's money-saving tips for holiday shopping - AZ Family",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd0lMWWJwcllCY1oyMXlabXRSTlpzZ3IybjhMOENjS1BMS2NTOGhLUFFZdTItVzd1aG5Eb0h3Qi1SNmo2dXB3aWp6RTRpUHlKdGhqZmVDQVBvU3FrYnl5Q0xzMTh3NjBza0p3aFJfU2RBanF0bW5OczNkVUxiSjl1QTBLbjJNeklpQk9sR2FXVklCck9x?oc=5",
-          "source": "AZ Family"
-        },
-        {
-          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
-          "source": "NerdWallet"
+          "title": "How to Save on Holiday Gifts and Travel, According to an Expert - TODAY.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkhrOGRfaTBmYzdqVGhhWUxNNFhVd1JDeUhPSVlMY19hUlYtX2lCOTc5ejVLenkyYjVKUDRyQU5SZWVBVG1Ea0QxX21sZkZCOGhSZXR6U3JxQ3JuUFFWT0RSSEZJdS1yOVQ1V0pxZ1BsTUpnYnFiSXFtOFRnNTg4Sg?oc=5",
+          "source": "TODAY.com"
         }
       ]
     },
@@ -85,44 +79,44 @@
       "id": "t-2",
       "kind": "trending-topic",
       "headline_options": [
-        "Tips, explained in plain English",
-        "What you should actually know about tips",
-        "Tips: the honest beginner's guide"
+        "Finance, explained in plain English",
+        "What you should actually know about finance",
+        "Finance: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What tips means in plain English",
+        "What finance means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "On a budget? Here's money-saving tips for holiday shopping - AZ Family (AZ Family)",
-        "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily (OU Daily)",
-        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)",
-        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)"
+        "Your income won't build wealth, but this will: Anthony O'Neal - Yahoo Finance (Yahoo Finance)",
+        "The ‘No-Spend Challenge’ - Yahoo Finance (Yahoo Finance)",
+        "Anthropic prepares Claude Money for personal finance - TestingCatalog AI News (TestingCatalog AI News)",
+        "Meta's Muse says it can manage your money. Should you let it? - Yahoo Finance (Yahoo Finance)"
       ],
       "sources": [
         {
-          "title": "On a budget? Here's money-saving tips for holiday shopping - AZ Family",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd0lMWWJwcllCY1oyMXlabXRSTlpzZ3IybjhMOENjS1BMS2NTOGhLUFFZdTItVzd1aG5Eb0h3Qi1SNmo2dXB3aWp6RTRpUHlKdGhqZmVDQVBvU3FrYnl5Q0xzMTh3NjBza0p3aFJfU2RBanF0bW5OczNkVUxiSjl1QTBLbjJNeklpQk9sR2FXVklCck9x?oc=5",
-          "source": "AZ Family"
+          "title": "Your income won't build wealth, but this will: Anthony O'Neal - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLUFlSTZpazNuenNVVHRfa29JTy1aOGRRc2RaWEJtVFR3elprS1ZOb09jY0JiWk8xQXkzcUJvS19vdmlhc0ZublRjajYtTk05ZTBwS0MwbHY2eDc4X2lMTDlETU11TGxfZDZYalB2ZE13UDVZaHhNTXZyOFdHY3ROam03dThnZw?oc=5",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUZzTmdGWDQ3cGREaFdOcEhQdjlKblNzSzcwc3JMaUtqWUdRSkh4S3BBVC1uSlQtdmdEaFVtc3hBNnktU002VnRuMHhfSDMyREF2ZTFwWmZ0ajZrVVVYcUR5ZHBKcmtHRjZQYTAzOG5iVG1NcXJJWHZ4UWo5eW1xWnBES1RrazZrQnFMcXlLb2otN3lnTlFZUFUyNHdfV243QlRTMlhYZXV3OUlwT3ZJT1VVejV5VmdTalBCalNNNA?oc=5",
-          "source": "OU Daily"
+          "title": "The ‘No-Spend Challenge’ - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVkpHUEtvN2RyUUxCbWR2U09YUjR2VlVEMlRuSWY3TlNvQnRmVmcwVy0yRm92RGwzaUFfWS10Z000VkNjaDVkYW90WFpFdC05RDBYd21ZR3J6cGlnWUFJWjMzMm4tMWwtSFZ5Mk92VXhwa05rQk8tT0NLc0FzSl9oOW1n?oc=5",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
-          "source": "NerdWallet"
+          "title": "Anthropic prepares Claude Money for personal finance - TestingCatalog AI News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNnZ6WnBySGZHMXFRMXEzVXdiaEdJaWY0TW94bnpZQk9ETG11UjFBYklmcVp2VHNJcFNsZGFsVHAwYzNkZjJRZENmTW11bmt2OGlsOGhDVDlDN1JzNDIxZXlmTzN6aXFwNWQ1WXRFRG1qNFZRNk9vaC1NOGM4d19xLWJlUmx5cC1TbGZnQw?oc=5",
+          "source": "TestingCatalog AI News"
         },
         {
-          "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
-          "source": "Instacart"
+          "title": "Meta's Muse says it can manage your money. Should you let it? - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLWRrOU5mY2dpVlVfbkRJbG5HcE9qckcyQXhCTldCTnpHOHpscnk1Z1VBNXJmQm1ETTJESUkwb3hqc3BlejRud2RZM2pzcUpxTzRxSFRwYnpMb0tBWURzVE16ZzhwSmFMOFRkY2FEYTJRUkxwN2xyYzBaeWRjM2J4NFpwTXNQNjZDdm5samJKbVJhUTI1cjVZWTMxUTZqZFBJSEVKek95cm5IMUdjc2c4cG12OTlpV1FNeFZWeEJCdXRrNFVBNHN6SW9aeTM?oc=5",
+          "source": "Yahoo Finance"
         }
       ]
     }
