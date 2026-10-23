@@ -40,6 +40,7 @@ TOPICS = {
     "winter-heating-bill-playbook": ["saving", "budgeting"],
     "treasury-yield-lock-in-playbook": ["saving", "investing"],
     "safe-retirement-spending-playbook": ["retirement", "budgeting"],
+    "financial-breakup-playbook": ["budgeting", "getting started"],
 }
 
 
