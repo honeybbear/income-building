@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-23T10:54:13Z",
+  "fetched_at": "2026-10-24T10:08:46Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -9,18 +9,14 @@
   "topics": [
     {
       "keyword": "money",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "tips",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "saving",
-      "mentions": 5
-    },
-    {
-      "keyword": "retirement",
+      "keyword": "holiday",
       "mentions": 4
     },
     {
@@ -28,37 +24,93 @@
       "mentions": 4
     },
     {
-      "keyword": "financial",
+      "keyword": "save",
+      "mentions": 4
+    },
+    {
+      "keyword": "time",
       "mentions": 3
     },
     {
-      "keyword": "rates",
+      "keyword": "budget",
       "mentions": 3
     },
     {
-      "keyword": "mortgage",
+      "keyword": "here",
+      "mentions": 3
+    },
+    {
+      "keyword": "saving",
+      "mentions": 3
+    },
+    {
+      "keyword": "com",
+      "mentions": 3
+    },
+    {
+      "keyword": "finance",
       "mentions": 2
     },
     {
-      "keyword": "today",
-      "mentions": 2
-    },
-    {
-      "keyword": "friday",
-      "mentions": 2
-    },
-    {
-      "keyword": "october",
-      "mentions": 2
-    },
-    {
-      "keyword": "yahoo",
+      "keyword": "buy",
       "mentions": 2
     }
   ],
   "questions": [],
-  "discussion_highlights": [],
+  "discussion_highlights": [
+    {
+      "title": "Canadians are running out of time to oppose Bill C-22",
+      "source": "Hacker News",
+      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+      "score": 418,
+      "comments": 220
+    },
+    {
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "source": "Hacker News",
+      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "score": 74,
+      "comments": 6
+    },
+    {
+      "title": "How Block Blast harvests its players for ad money",
+      "source": "Hacker News",
+      "url": "https://ayoships.com/breakdowns/block-blast",
+      "score": 54,
+      "comments": 16
+    }
+  ],
   "news": [
+    {
+      "title": "Michael Burry of ‘The Big Short’ personal finance advice: ‘Buy half the house you can afford’ - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbWNPVlIwT0tkbW9sRUUzV3BGM0JJcC1mWTRGX2Q1LXlOQ0N3SnhYTXQ1RExGYVkxWUNFaWp3cGtKeFA3aW9zS19oU2xNdDJvaUE3V01oMWFuN3hxWjU4NUpFMWNhMG5uR0ZQVkZUSHpPdGVFbHJkaVRlaHoxVno3RjZmcUtFN3VrQ3ZnbXl3?oc=5",
+      "published": "Fri, 23 Oct 2026 13:18:00 GMT",
+      "source": "Fortune"
+    },
+    {
+      "title": "Should you let a chatbot manage your money? - Vox",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BamY4b21Ma2NUMVAzT3dlVjNBU2V6cTNmRVdBcnB4ZlpqaHVBdEs0LW5xTHYxMW9GT1J1dEotVHJFelI2a3ZVejllX3RqMUh6ZWlfck9zUDZFNlM0WVFpVTZEVVRrOFFsTzJDLXp1MDBOOWtSV29Z?oc=5",
+      "published": "Fri, 23 Oct 2026 18:00:00 GMT",
+      "source": "Vox"
+    },
+    {
+      "title": "Reported fraud losses among older Americans hit $3 billion in 2025 as losses of at least six figures surge, FTC report says - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lelR5NzNxM1h0Rl9pd19aVWlJemYwckJWTFFieTVZQUxDUWZXNkhvR0o0MVMwaFBCZTNNWFhRNGhza3NWNUIxVzcxQ2IwMFJ0eS1tVE9iS0N1Tl90MTN2ZGZHUVdha1JhUHBlT0JJS1E0Sl81dE5PbXJR0gF_QVVfeXFMTmI5MC1vdmt4SVlnWnp5LTRlbE1kODE4Zk5QRFh0SDNzdFBDNjI0Y19yTTExZlJTdXFsd0h1VjJjQWtrTEpFR2ZvaDVOU245RG12eFBfNW9sUmNlTi14bV9PRXdja0lmWW5ham55WDlQMUE5Vk5XcDBVR2VxbjZYOA?oc=5",
+      "published": "Thu, 22 Oct 2026 19:39:51 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Students Turn to Private Lenders After Trump’s Clampdown on Federal Loans - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaElzSlc4Yk1ybUdLVWxUeWtpS0NKaWdRdGc0VWZFUlQwOFJCVGc3eS1NR1NROTFXZFRiY1dQS05td0x6STl4TFVQeU84emNJNE9FVzNZN2lYUFVBNW9faU1YLWprdkN5b19oS1pKVG5lQnZ6ZzltU215RFNNTVMySjB6cUpmUUJnanRMYVNpeE5GbUFySDRBSnJnWmFBTnYzbEl0bEVxSks0ZU9nMkt5RTBLUDc1UVBSdWc?oc=5",
+      "published": "Thu, 22 Oct 2026 15:50:00 GMT",
+      "source": "WSJ"
+    },
+    {
+      "title": "Your forgotten retirement account could be costing you money - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdTNmNzBpd1RkbjkxV1dDMjNfT0lVazVPeV9yN1BIQ2ZIaUZ2Z25PdkpjT0dEckRuVW9qaEtyMzBtZVlGc1hvLW9JNU9YeVV4VUdLYlBLZTF4QVBZaDBpbXYzWXFmcXVHX2c1U29ROVVzTkpoWi1HQUZ2VzFDVEROY3RJcGROcmpuRWtXaVRjWnZfNHVkUG5xYmp5NzFGRHdja2NYdjRqcE80aE5wTy03eWV5NG1nRzEtZmZoMFVnX3VCcnhvalRrczlMZXktT194MUE?oc=5",
+      "published": "Fri, 23 Oct 2026 15:34:31 GMT",
+      "source": "Yahoo Finance"
+    },
     {
       "title": "When a Relationship Ends But the Venmo Requests Don’t - The Cut",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zM0gtVlRESUJpS05xeEJEN1p4eEthVmxpaWVmbVVkWlFQYW1JeXF5MHZxUi16d0U2V3NIMUVoYTduendPYjNOR0xNUjJqeEZIMVB4d2RiOUFjdFNGUFVNbTA3Y2w5Y1p3OXhQd2VwaU8?oc=5",
@@ -66,91 +118,83 @@
       "source": "The Cut"
     },
     {
-      "title": "This is increasingly the financial game-changer for 30-somethings - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQODI2ai1NWEVCR2RVaVlSV1pOd185Z21iQ050OTVZTGZKRlJjaTZvWUlZUDJHeEJLdWFtT0FHZ0U1RUxzZ3BCYnJ4SDlEWFVibW1BTUFoQzJ3dXVnN24xUlNoTnhwT3JDLUU3TU9mblNVQi14RFNib1Rkakx3RThyV2NjMkM2bEJVUS1IUU0xNUVDU3ZHaWx6cGZxeDMxazJHMFFHYVd3?oc=5",
-      "published": "Fri, 23 Oct 2026 10:02:11 GMT",
-      "source": "The Washington Post"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, Friday, October 23, 2026: Mortgage rates mixed leading up to the weekend - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNNDF3TThEelVxeGJoNlY0dThMaG1tT3dCS1V5N3hEVjB0RGRyYWpPYTd5SUNxZDZOb2tXNXVNWE5JeC1UcWJLend6OURkcjliYnVEMDgyNzlUV1ZjUTU3YVJPQ2V4SFVnYmVGZ0F5MmQ5enRmUlpacUxFLXVQSWpYdEdYVXM5RzRUWk1PSHcwSU9QZ0w5QzZrNHdMX191VjlzY01vMWhCQ1I3TXNzWnEtSGhvVnB2V2hCeXBndFJmamNGTFRyVkFGaDN1cURicEhyQkduVFNSRXVlem1TOFEzOGpfQnd5UGJBWjNKcllpMURkU2FLYTFyaUJHVzlvV2J6RG9vakxlMkUxX0tmbmg3MDBLeW5mNmw5?oc=5",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "He Will Lend His Daughter $90,000 the Month Before He Applies for Nursing Home Medicaid, With a Signed Note. Medicaid Won't Automatically Treat It as a Gift, Because the Note Passes Three Tests Most Family Loans Fail - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNMHFadURad2VKSXl5TmtOSE5uX0hTaEVxRjJQRXNkTHNrRlhnbVdkQXlSZU1KZXE4bFgyVFlqTFdDamdqOWRQTHBQdDdJbEZ2N0pXM0NwMkFKMWhDRGJqbjUtTWw4MWZrOVI5RVRxUjBtMjNJSGhtTjJaaC1lazV0dHBUbUdVTmRpMXJ4VXRSVFl6SmJUZmFsYkd0VGZQakl5NUI3RjNuZmxJQ2hGTUhGd0RhOGtCdWE2dXR2SVZGcTFfTjg5WVNOOW5IY0xpYWVOVk1iLVVuZ2JrY2ZHU1dVQ1Y5TFRpaTNLeUU1S2JUVjhSZ1h4VEtmUGxrMEY4M3JQLTlsbWN1QW9DUFJleXFWVjhtT3h3ZHcxUGhhVTZDa3lPdGpiYkRfMHVnaDFOOWItTmxHYWdrWkhndC15ajV1MTlkUDFkekNDNUZXS3hYMjV6NnFTM1lVYkxtYlM4TlB6?oc=5",
-      "published": "Thu, 22 Oct 2026 21:00:00 GMT",
+      "title": "Our Parents Want to Put All $1.6 Million Into 5% Treasuries and 'Never Touch the Principal.' At 3% Inflation, Their $83,000 a Year Will Buy $40,000 Worth by 2051 - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOVVE2YlNFOWc0R2loUjVpMlBFUzRqdkNzcDZoNmNWb2NIQzNpZzc5aEI3ZnZHbXgyekF3dGIzNHowYWE2QWg3dmE2dnZ0TERpR3lJV3NDMjBtMFJPZDY1T2xkdnZSQmN2UFVOOGdBSldtcHNidFVzb3JuWHNsRHVwbkdBS3hmSmY3dXlHVlNUQ2tiWDBYMXNVMDdpZkFFMUItOFV5ajRxekZaVTc1LTljWkhRMW5lMDZaOTRkbWVBUEJUdGtiRE1BakJvMzJ5SGZfZnRrMzJwbWRBVnJSWjRtQmhTWExqSmk0aTZyQkhfbFNIMWtzdUhGMlFYUDRSc3FVRDMxV1dQYThSa3NxYkxlQWkwWEx4eEdzcUEzUXhwa3k4YU84cExWWQ?oc=5",
+      "published": "Fri, 23 Oct 2026 15:33:00 GMT",
       "source": "24/7 Wall St."
     },
     {
-      "title": "Best CD rates today, Friday, October 23, 2026: Earn up to 4.40% APY with multiple offers - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRTdrRkkteXNrTE9Ma052NnlsZzczY0gzeGJVc2JKQTZaMFdiQXRwOS04clJJRjJ4bjNZWkczU0dMYW1OS0VlNl9nVDIyNEFSaTdWMGVwWE5sMmFCVHl5SE9sekxFZF9neVNTNVpHUmkyRXRuSndWUU03REdwdDMxejdGdXF2aTZpRXBsZkFRTUs2SUlnWHF6STlQREdRTUVvYklLRWtsM2xTZGM5TFcyamtyMENaWkZFMFdtTnZHTVpzc3hycURBV1VjV0R2Nml5SDFqVlhUYXZjSGRRUy11bjZBd1RYeGRsdlpkcA?oc=5",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "source": "Yahoo Finance"
+      "title": "Still sending checks in the mail? It's time to stop - Detroit Free Press",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON0Fxa0wwMkw3QWttbE9wSFRaZzlMMmZlSldBMUlZTnFJcHRiMGVFRmphcVF1YVN5M0lHLU4tYlNVUkk5ajk5M0NNT25kdEEwcEFHd1NKaGI2b3Zha2dwX21WeThaUGhFZlA4S1Z5MVBFLXl0aVBjSXVweU55UTRQdGFKdHpsVmR0UDl6eFpJVkNwbUpVajV6a3gxM2dpdmM3VVpIOEVXLW1HYUdaLUxYaQ?oc=5",
+      "published": "Sat, 24 Oct 2026 09:03:00 GMT",
+      "source": "Detroit Free Press"
     },
     {
-      "title": "Exclusive | How Much Can You Safely Spend in Retirement? A 401(k) Giant Offers Guidance - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUFkxLTRsd2N1UVd1aWY0UkJvM1VTbTJ3NldKaGNQVGZpM09KbU51MVNNSWM2d2dLaER5cDBYU29rblFYLW5FdTN2b1dyQjk2YnR0UVg3aDhYaHVLTTVmX2VUM3pkZ1ExNExhenVUbEtVNnVUZWpqTERHcVV0ek44Q3pVcExydV9MeUdzYUVLUGRNY3QzSkxuSHlKVGR1Y3RxcGR1SzB4YjFBdERvWG8xeXZaTm5HM01WX0lib1psdVlJT3RPQmduYWN3?oc=5",
-      "published": "Wed, 21 Oct 2026 10:00:00 GMT",
-      "source": "WSJ"
+      "title": "School business officials share tips for navigating budget challenges - K-12 Dive",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeWhnOFBCN2pFbU5XbDhsWUx2QzlaMWVQRjdreUwxNEppUmR1cUgwRXJwWTZzRzg2dTNOV1lIVjQxbk02cTlYWXk4eXdZSWRxMmg4QXdoQlJFcmJkVUJmWVFTTmxsSkdOc0ZaaDRkQTc1dU1kUDRpbDZ4QV9remp3ZVM0czRlTjd1ckhQRlJGNTV4N3d1ZllUcDZlMVpCOTlHUlpEYi1MU0wtUQ?oc=5",
+      "published": "Fri, 23 Oct 2026 15:08:35 GMT",
+      "source": "K-12 Dive"
     },
     {
-      "title": "The Retirees Who Left The Villages for Good Say the Third Year Was When the Math Stopped Working - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUXBNaXN2R3o5T1N1bkh4YkFTckpPTGw1NERhOEhlMmlUcFRXdHpxZWtXeFVCbWVkcjAtNHlPMElReFVFOUxsYWtTb0dmZDBIeE54a2JfRl8tamxqcmtlTEZmbUprTWUzQkpRdlNUTDFIYldVTTZTMFl3SWlQM2JNN3loZU1nMl81VXBZZXdKLWxkVVJGSlNSaGxqdk9rc284SjhfTzlKMUlIcXJhaFBoVFRfWWFONTZMa1ZiaG8zMnV4bHpueHVrUWlIV3UxbWNNWi04NXd6cUMtdm1CRF9wVQ?oc=5",
-      "published": "Thu, 22 Oct 2026 19:22:00 GMT",
-      "source": "24/7 Wall St."
-    },
-    {
-      "title": "HSA or FSA? Your open enrollment choice could affect your retirement - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSy1kY3JPRmlYbWRRVk1VLVBSRXMwOHBsWlAwR2hRa0JWTjBXOGdGbzJUbkpvV0tVRFZjZUtFQlNlTjF1bWpIT01QTVFSLWtPREJzc1JrdEEtaUJFOHcwSk5ycDBja0RwbUVtaVVWeEctOTdfUkstQ3NyWUlocEd3SWMwU25hMmJsWEhlUzduRXg3aURNaF9vMlhKMTE?oc=5",
-      "published": "Thu, 22 Oct 2026 11:26:52 GMT",
-      "source": "San Francisco Chronicle"
-    },
-    {
-      "title": "On a budget? Here's money-saving tips for holiday shopping - WOWT",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeWdncUp4WTZDMUN1WVdLUlFfVFlVX1BOMEs1YnFQeWIzVWJfTVJWeEp1dkxkdXk4MDh1UzVrcUh0MFR3ZEtRUnctRlFmb3ROTmViekpsZDJoMERxYVZ4YXBXTUJDMmFiNDRUeHZzb1NiR0xfWV9TenFlSEhaRDJucE1CRFpZemVnQllGZ25Maw?oc=5",
+      "title": "On a budget? Here's money-saving tips for holiday shopping - FOX Carolina News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODRkeWtKTVo5Qi11RXN1X2NOSnAzTldvMlNsX29uTi1taVA1SHNITEdHZDl4SktVSHVodDdxYmpMOFFRRWMzZXlZdXRCTlVTYUVCNmdiajZlSFl2bjdzWktkdEdqdThFcG9WeG9SZEhSSFJnQnRmYTJMcVFjaWtDbWxRcFZOZ0YwZ0Exd2NRdWN6UjBuT0dQbg?oc=5",
       "published": "Tue, 20 Oct 2026 15:10:00 GMT",
-      "source": "WOWT"
+      "source": "FOX Carolina News"
+    },
+    {
+      "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUZzTmdGWDQ3cGREaFdOcEhQdjlKblNzSzcwc3JMaUtqWUdRSkh4S3BBVC1uSlQtdmdEaFVtc3hBNnktU002VnRuMHhfSDMyREF2ZTFwWmZ0ajZrVVVYcUR5ZHBKcmtHRjZQYTAzOG5iVG1NcXJJWHZ4UWo5eW1xWnBES1RrazZrQnFMcXlLb2otN3lnTlFZUFUyNHdfV243QlRTMlhYZXV3OUlwT3ZJT1VVejV5VmdTalBCalNNNA?oc=5",
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "source": "OU Daily"
+    },
+    {
+      "title": "When relatives need to parent, holiday budgeting and tailgating tips | Parent Squad - wthr.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONTU1aXRhR1lRNVZodGhxb1RDUG5ndGd2RjMzM1VwY3pRa3VHUG5yLTNVU2tLci1pdXZ5dXhoTXBqVHVrZElENXNqNkQ0NDhBTHVDb0ZnQmRWWU5CYnJGb01sLXRvaC1JN09lSThZNUhfU3lDX1hEMUpnYmZCcEhvVnJYeXQ2YTRPVVVIdC1JM3BUUVdwMUllUWZJelZkNFhId09YN1kxTFUxLXllTGxMOEU4ZE80UjA3M1JLZkxYRUhxVUcxVVppc2NJbGpyd25ZLXNvalhReDVzclU4cUtSZUdhOUFWa3Qwb0VrN0NONWNGdVF5YU9vTkQzVWRiSUNqVDEyNmV4LVNWb2c?oc=5",
+      "published": "Tue, 20 Oct 2026 17:40:00 GMT",
+      "source": "wthr.com"
+    },
+    {
+      "title": "Nutrition students teach food budgeting workshop in collaboration with UT Outpost - The Daily Texan",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSHdSdFk4OHdtTEpLbHVZN0plNXdxV2pwN2tCTkRaR3ppdFdtOUxEQ2xNdkRrMWs0V2lNOEVxU1c3dXNEOWNkQXotM2kzSFdiVU1rWDYyZVBCeW5iZTk0bjBjTlBjSWpYX2p0amhtUFM1bDZKR0h5SVNlQlRzVzlkUWNyZ2hRbEF5YlladUJyRUJrTVFYYUFJM1ZUR1I4MldjdDNBUC1XdFN0ZU80aGstd3JTSU5yV1BzYmlJ?oc=5",
+      "published": "Mon, 19 Oct 2026 06:16:34 GMT",
+      "source": "The Daily Texan"
+    },
+    {
+      "title": "How to Save on Holiday Gifts and Travel, According to an Expert - TODAY.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkhrOGRfaTBmYzdqVGhhWUxNNFhVd1JDeUhPSVlMY19hUlYtX2lCOTc5ejVLenkyYjVKUDRyQU5SZWVBVG1Ea0QxX21sZkZCOGhSZXR6U3JxQ3JuUFFWT0RSSEZJdS1yOVQ1V0pxZ1BsTUpnYnFiSXFtOFRnNTg4Sg?oc=5",
+      "published": "Fri, 16 Oct 2026 14:07:38 GMT",
+      "source": "TODAY.com"
     },
     {
       "title": "I run an interior design company to the stars. Here are 5 affordable tips for making your home look more expensive. - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQjhPQktGRDl0UWxESk1YVlYycFBqUklOYXk2Xy1FM1FPdElIdUQ4WkQ4U1hHaTctWWdUYlR2S3J4ZTJXc0tDblotRkk0cUtZb3dzM0Fld2dRanhueWcwZlRaYmhHdE91cDRjZUpaV2kzV25uNi1ha3ZaM1prci12NWVzWkxNSUEyVzEtRy1KZS1pOFVBajBGWVdfcERZNk0?oc=5",
       "published": "Thu, 22 Oct 2026 16:18:00 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "12 Easy Money Saving Travel Tips - NerdWallet",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
-      "published": "Tue, 13 Oct 2026 07:00:00 GMT",
-      "source": "NerdWallet"
-    },
-    {
-      "title": "10 Christmas budgeting tips to help you have a debt-free January - The Money Pages",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX0Ewak0xbHdhRnFsN2ZYcjl4VFJZVlQ0VkpFT0lZc29YT3RST0NBTWFxU054Z1dkVmQtTDNPTDVZbzRia3hlbF8xYXV5X241WVMzNnBITVpGcHA1Rm1EY0tCX2NpQ3ZPdzlTZFFRekdMRmJ1d3FOU3AxSFg3TWpYSllvSFVDdlpsTlZIU3pCemctdnpLVnFZdnAxdE5CZWdyNm82ZU5jYWhQVDQ?oc=5",
-      "published": "Thu, 22 Oct 2026 12:27:56 GMT",
-      "source": "The Money Pages"
-    },
-    {
-      "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
-      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
-      "source": "Instacart"
-    },
-    {
-      "title": "6-Step Financial Plan for 2026 - The Department of Financial Protection and Innovation (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOVHhmMmc5bHNRbV9VZUtNNFFGRTlUeHVBZlA3N0prY1lDa2dEVHRXakRRcW1fT1R0a2JKU1lWY0gzNzU0LUVxenJYSERZcWNDckRlNExOSmhWUUxQeUxTT1ZfMDRnMWN6bld1MFlzamJOUnM?oc=5",
-      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "source": "The Department of Financial Protection and Innovation (.gov)"
-    },
-    {
-      "title": "Budgeting for teens: 18 tips for growing your money young - Credit Karma",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xdUw2SkNfeUprYm1lTXlOYVludUhBZFc0X2RCZGUzVm9GeUJneWUwd0ZXMXNja3JyVkpsYi1KTlUwazlzWmVJR1U1eWZlTlU4Z0RDLUtoZlRyaWpuSnVGZ2VMRU5WMk1DQzBlVWpraVRwcktNZG1J?oc=5",
-      "published": "Thu, 09 Jul 2026 07:00:00 GMT",
-      "source": "Credit Karma"
     }
   ],
-  "hn_stories": [],
+  "hn_stories": [
+    {
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "score": 74,
+      "comments": 6,
+      "source": "Hacker News"
+    },
+    {
+      "title": "Canadians are running out of time to oppose Bill C-22",
+      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+      "score": 418,
+      "comments": 220,
+      "source": "Hacker News"
+    },
+    {
+      "title": "How Block Blast harvests its players for ad money",
+      "url": "https://ayoships.com/breakdowns/block-blast",
+      "score": 54,
+      "comments": 16,
+      "source": "Hacker News"
+    }
+  ],
   "trending_searches": [],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",

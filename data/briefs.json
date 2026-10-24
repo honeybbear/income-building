@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T10:54:13Z",
+  "generated_at": "2026-10-24T10:08:46Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -20,31 +20,31 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "On a budget? Here's money-saving tips for holiday shopping - WOWT (WOWT)",
-        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)",
-        "10 Christmas budgeting tips to help you have a debt-free January - The Money Pages (The Money Pages)",
-        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)"
+        "Should you let a chatbot manage your money? - Vox (Vox)",
+        "Your forgotten retirement account could be costing you money - Yahoo Finance (Yahoo Finance)",
+        "On a budget? Here's money-saving tips for holiday shopping - FOX Carolina News (FOX Carolina News)",
+        "How Block Blast harvests its players for ad money (Hacker News)"
       ],
       "sources": [
         {
-          "title": "On a budget? Here's money-saving tips for holiday shopping - WOWT",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeWdncUp4WTZDMUN1WVdLUlFfVFlVX1BOMEs1YnFQeWIzVWJfTVJWeEp1dkxkdXk4MDh1UzVrcUh0MFR3ZEtRUnctRlFmb3ROTmViekpsZDJoMERxYVZ4YXBXTUJDMmFiNDRUeHZzb1NiR0xfWV9TenFlSEhaRDJucE1CRFpZemVnQllGZ25Maw?oc=5",
-          "source": "WOWT"
+          "title": "Should you let a chatbot manage your money? - Vox",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BamY4b21Ma2NUMVAzT3dlVjNBU2V6cTNmRVdBcnB4ZlpqaHVBdEs0LW5xTHYxMW9GT1J1dEotVHJFelI2a3ZVejllX3RqMUh6ZWlfck9zUDZFNlM0WVFpVTZEVVRrOFFsTzJDLXp1MDBOOWtSV29Z?oc=5",
+          "source": "Vox"
         },
         {
-          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
-          "source": "NerdWallet"
+          "title": "Your forgotten retirement account could be costing you money - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdTNmNzBpd1RkbjkxV1dDMjNfT0lVazVPeV9yN1BIQ2ZIaUZ2Z25PdkpjT0dEckRuVW9qaEtyMzBtZVlGc1hvLW9JNU9YeVV4VUdLYlBLZTF4QVBZaDBpbXYzWXFmcXVHX2c1U29ROVVzTkpoWi1HQUZ2VzFDVEROY3RJcGROcmpuRWtXaVRjWnZfNHVkUG5xYmp5NzFGRHdja2NYdjRqcE80aE5wTy03eWV5NG1nRzEtZmZoMFVnX3VCcnhvalRrczlMZXktT194MUE?oc=5",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "10 Christmas budgeting tips to help you have a debt-free January - The Money Pages",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX0Ewak0xbHdhRnFsN2ZYcjl4VFJZVlQ0VkpFT0lZc29YT3RST0NBTWFxU054Z1dkVmQtTDNPTDVZbzRia3hlbF8xYXV5X241WVMzNnBITVpGcHA1Rm1EY0tCX2NpQ3ZPdzlTZFFRekdMRmJ1d3FOU3AxSFg3TWpYSllvSFVDdlpsTlZIU3pCemctdnpLVnFZdnAxdE5CZWdyNm82ZU5jYWhQVDQ?oc=5",
-          "source": "The Money Pages"
+          "title": "On a budget? Here's money-saving tips for holiday shopping - FOX Carolina News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODRkeWtKTVo5Qi11RXN1X2NOSnAzTldvMlNsX29uTi1taVA1SHNITEdHZDl4SktVSHVodDdxYmpMOFFRRWMzZXlZdXRCTlVTYUVCNmdiajZlSFl2bjdzWktkdEdqdThFcG9WeG9SZEhSSFJnQnRmYTJMcVFjaWtDbWxRcFZOZ0YwZ0Exd2NRdWN6UjBuT0dQbg?oc=5",
+          "source": "FOX Carolina News"
         },
         {
-          "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
-          "source": "Instacart"
+          "title": "How Block Blast harvests its players for ad money",
+          "url": "https://ayoships.com/breakdowns/block-blast",
+          "source": "Hacker News"
         }
       ]
     },
@@ -65,31 +65,31 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "On a budget? Here's money-saving tips for holiday shopping - WOWT (WOWT)",
-        "I run an interior design company to the stars. Here are 5 affordable tips for making your home look more expensive. - Business Insider (Business Insider)",
-        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)",
-        "10 Christmas budgeting tips to help you have a debt-free January - The Money Pages (The Money Pages)"
+        "School business officials share tips for navigating budget challenges - K-12 Dive (K-12 Dive)",
+        "On a budget? Here's money-saving tips for holiday shopping - FOX Carolina News (FOX Carolina News)",
+        "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily (OU Daily)",
+        "When relatives need to parent, holiday budgeting and tailgating tips | Parent Squad - wthr.com (wthr.com)"
       ],
       "sources": [
         {
-          "title": "On a budget? Here's money-saving tips for holiday shopping - WOWT",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeWdncUp4WTZDMUN1WVdLUlFfVFlVX1BOMEs1YnFQeWIzVWJfTVJWeEp1dkxkdXk4MDh1UzVrcUh0MFR3ZEtRUnctRlFmb3ROTmViekpsZDJoMERxYVZ4YXBXTUJDMmFiNDRUeHZzb1NiR0xfWV9TenFlSEhaRDJucE1CRFpZemVnQllGZ25Maw?oc=5",
-          "source": "WOWT"
+          "title": "School business officials share tips for navigating budget challenges - K-12 Dive",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeWhnOFBCN2pFbU5XbDhsWUx2QzlaMWVQRjdreUwxNEppUmR1cUgwRXJwWTZzRzg2dTNOV1lIVjQxbk02cTlYWXk4eXdZSWRxMmg4QXdoQlJFcmJkVUJmWVFTTmxsSkdOc0ZaaDRkQTc1dU1kUDRpbDZ4QV9remp3ZVM0czRlTjd1ckhQRlJGNTV4N3d1ZllUcDZlMVpCOTlHUlpEYi1MU0wtUQ?oc=5",
+          "source": "K-12 Dive"
         },
         {
-          "title": "I run an interior design company to the stars. Here are 5 affordable tips for making your home look more expensive. - Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQjhPQktGRDl0UWxESk1YVlYycFBqUklOYXk2Xy1FM1FPdElIdUQ4WkQ4U1hHaTctWWdUYlR2S3J4ZTJXc0tDblotRkk0cUtZb3dzM0Fld2dRanhueWcwZlRaYmhHdE91cDRjZUpaV2kzV25uNi1ha3ZaM1prci12NWVzWkxNSUEyVzEtRy1KZS1pOFVBajBGWVdfcERZNk0?oc=5",
-          "source": "Business Insider"
+          "title": "On a budget? Here's money-saving tips for holiday shopping - FOX Carolina News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODRkeWtKTVo5Qi11RXN1X2NOSnAzTldvMlNsX29uTi1taVA1SHNITEdHZDl4SktVSHVodDdxYmpMOFFRRWMzZXlZdXRCTlVTYUVCNmdiajZlSFl2bjdzWktkdEdqdThFcG9WeG9SZEhSSFJnQnRmYTJMcVFjaWtDbWxRcFZOZ0YwZ0Exd2NRdWN6UjBuT0dQbg?oc=5",
+          "source": "FOX Carolina News"
         },
         {
-          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
-          "source": "NerdWallet"
+          "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUZzTmdGWDQ3cGREaFdOcEhQdjlKblNzSzcwc3JMaUtqWUdRSkh4S3BBVC1uSlQtdmdEaFVtc3hBNnktU002VnRuMHhfSDMyREF2ZTFwWmZ0ajZrVVVYcUR5ZHBKcmtHRjZQYTAzOG5iVG1NcXJJWHZ4UWo5eW1xWnBES1RrazZrQnFMcXlLb2otN3lnTlFZUFUyNHdfV243QlRTMlhYZXV3OUlwT3ZJT1VVejV5VmdTalBCalNNNA?oc=5",
+          "source": "OU Daily"
         },
         {
-          "title": "10 Christmas budgeting tips to help you have a debt-free January - The Money Pages",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX0Ewak0xbHdhRnFsN2ZYcjl4VFJZVlQ0VkpFT0lZc29YT3RST0NBTWFxU054Z1dkVmQtTDNPTDVZbzRia3hlbF8xYXV5X241WVMzNnBITVpGcHA1Rm1EY0tCX2NpQ3ZPdzlTZFFRekdMRmJ1d3FOU3AxSFg3TWpYSllvSFVDdlpsTlZIU3pCemctdnpLVnFZdnAxdE5CZWdyNm82ZU5jYWhQVDQ?oc=5",
-          "source": "The Money Pages"
+          "title": "When relatives need to parent, holiday budgeting and tailgating tips | Parent Squad - wthr.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONTU1aXRhR1lRNVZodGhxb1RDUG5ndGd2RjMzM1VwY3pRa3VHUG5yLTNVU2tLci1pdXZ5dXhoTXBqVHVrZElENXNqNkQ0NDhBTHVDb0ZnQmRWWU5CYnJGb01sLXRvaC1JN09lSThZNUhfU3lDX1hEMUpnYmZCcEhvVnJYeXQ2YTRPVVVIdC1JM3BUUVdwMUllUWZJelZkNFhId09YN1kxTFUxLXllTGxMOEU4ZE80UjA3M1JLZkxYRUhxVUcxVVppc2NJbGpyd25ZLXNvalhReDVzclU4cUtSZUdhOUFWa3Qwb0VrN0NONWNGdVF5YU9vTkQzVWRiSUNqVDEyNmV4LVNWb2c?oc=5",
+          "source": "wthr.com"
         }
       ]
     },
@@ -97,32 +97,38 @@
       "id": "t-2",
       "kind": "trending-topic",
       "headline_options": [
-        "Saving, explained in plain English",
-        "What you should actually know about saving",
-        "Saving: the honest beginner's guide"
+        "Holiday, explained in plain English",
+        "What you should actually know about holiday",
+        "Holiday: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What saving means in plain English",
+        "What holiday means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "On a budget? Here's money-saving tips for holiday shopping - WOWT (WOWT)",
-        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
+        "On a budget? Here's money-saving tips for holiday shopping - FOX Carolina News (FOX Carolina News)",
+        "When relatives need to parent, holiday budgeting and tailgating tips | Parent Squad - wthr.com (wthr.com)",
+        "How to Save on Holiday Gifts and Travel, According to an Expert - TODAY.com (TODAY.com)"
       ],
       "sources": [
         {
-          "title": "On a budget? Here's money-saving tips for holiday shopping - WOWT",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeWdncUp4WTZDMUN1WVdLUlFfVFlVX1BOMEs1YnFQeWIzVWJfTVJWeEp1dkxkdXk4MDh1UzVrcUh0MFR3ZEtRUnctRlFmb3ROTmViekpsZDJoMERxYVZ4YXBXTUJDMmFiNDRUeHZzb1NiR0xfWV9TenFlSEhaRDJucE1CRFpZemVnQllGZ25Maw?oc=5",
-          "source": "WOWT"
+          "title": "On a budget? Here's money-saving tips for holiday shopping - FOX Carolina News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODRkeWtKTVo5Qi11RXN1X2NOSnAzTldvMlNsX29uTi1taVA1SHNITEdHZDl4SktVSHVodDdxYmpMOFFRRWMzZXlZdXRCTlVTYUVCNmdiajZlSFl2bjdzWktkdEdqdThFcG9WeG9SZEhSSFJnQnRmYTJMcVFjaWtDbWxRcFZOZ0YwZ0Exd2NRdWN6UjBuT0dQbg?oc=5",
+          "source": "FOX Carolina News"
         },
         {
-          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
-          "source": "NerdWallet"
+          "title": "When relatives need to parent, holiday budgeting and tailgating tips | Parent Squad - wthr.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONTU1aXRhR1lRNVZodGhxb1RDUG5ndGd2RjMzM1VwY3pRa3VHUG5yLTNVU2tLci1pdXZ5dXhoTXBqVHVrZElENXNqNkQ0NDhBTHVDb0ZnQmRWWU5CYnJGb01sLXRvaC1JN09lSThZNUhfU3lDX1hEMUpnYmZCcEhvVnJYeXQ2YTRPVVVIdC1JM3BUUVdwMUllUWZJelZkNFhId09YN1kxTFUxLXllTGxMOEU4ZE80UjA3M1JLZkxYRUhxVUcxVVppc2NJbGpyd25ZLXNvalhReDVzclU4cUtSZUdhOUFWa3Qwb0VrN0NONWNGdVF5YU9vTkQzVWRiSUNqVDEyNmV4LVNWb2c?oc=5",
+          "source": "wthr.com"
+        },
+        {
+          "title": "How to Save on Holiday Gifts and Travel, According to an Expert - TODAY.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkhrOGRfaTBmYzdqVGhhWUxNNFhVd1JDeUhPSVlMY19hUlYtX2lCOTc5ejVLenkyYjVKUDRyQU5SZWVBVG1Ea0QxX21sZkZCOGhSZXR6U3JxQ3JuUFFWT0RSSEZJdS1yOVQ1V0pxZ1BsTUpnYnFiSXFtOFRnNTg4Sg?oc=5",
+          "source": "TODAY.com"
         }
       ]
     }
