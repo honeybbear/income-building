@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-24T10:08:46Z",
+  "fetched_at": "2026-10-25T10:34:04Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -9,18 +9,14 @@
   "topics": [
     {
       "keyword": "money",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "tips",
-      "mentions": 8
+      "mentions": 6
     },
     {
-      "keyword": "holiday",
-      "mentions": 4
-    },
-    {
-      "keyword": "budgeting",
+      "keyword": "saving",
       "mentions": 4
     },
     {
@@ -28,23 +24,19 @@
       "mentions": 4
     },
     {
-      "keyword": "time",
+      "keyword": "today",
       "mentions": 3
     },
     {
-      "keyword": "budget",
+      "keyword": "ways",
       "mentions": 3
     },
     {
-      "keyword": "here",
+      "keyword": "holiday",
       "mentions": 3
     },
     {
-      "keyword": "saving",
-      "mentions": 3
-    },
-    {
-      "keyword": "com",
+      "keyword": "budgeting",
       "mentions": 3
     },
     {
@@ -52,34 +44,20 @@
       "mentions": 2
     },
     {
-      "keyword": "buy",
+      "keyword": "house",
+      "mentions": 2
+    },
+    {
+      "keyword": "much",
+      "mentions": 2
+    },
+    {
+      "keyword": "students",
       "mentions": 2
     }
   ],
   "questions": [],
-  "discussion_highlights": [
-    {
-      "title": "Canadians are running out of time to oppose Bill C-22",
-      "source": "Hacker News",
-      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-      "score": 418,
-      "comments": 220
-    },
-    {
-      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-      "source": "Hacker News",
-      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-      "score": 74,
-      "comments": 6
-    },
-    {
-      "title": "How Block Blast harvests its players for ad money",
-      "source": "Hacker News",
-      "url": "https://ayoships.com/breakdowns/block-blast",
-      "score": 54,
-      "comments": 16
-    }
-  ],
+  "discussion_highlights": [],
   "news": [
     {
       "title": "Michael Burry of ‘The Big Short’ personal finance advice: ‘Buy half the house you can afford’ - Fortune",
@@ -94,10 +72,10 @@
       "source": "Vox"
     },
     {
-      "title": "Reported fraud losses among older Americans hit $3 billion in 2025 as losses of at least six figures surge, FTC report says - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lelR5NzNxM1h0Rl9pd19aVWlJemYwckJWTFFieTVZQUxDUWZXNkhvR0o0MVMwaFBCZTNNWFhRNGhza3NWNUIxVzcxQ2IwMFJ0eS1tVE9iS0N1Tl90MTN2ZGZHUVdha1JhUHBlT0JJS1E0Sl81dE5PbXJR0gF_QVVfeXFMTmI5MC1vdmt4SVlnWnp5LTRlbE1kODE4Zk5QRFh0SDNzdFBDNjI0Y19yTTExZlJTdXFsd0h1VjJjQWtrTEpFR2ZvaDVOU245RG12eFBfNW9sUmNlTi14bV9PRXdja0lmWW5ham55WDlQMUE5Vk5XcDBVR2VxbjZYOA?oc=5",
-      "published": "Thu, 22 Oct 2026 19:39:51 GMT",
-      "source": "CNBC"
+      "title": "Our dog is turning 10. How much would I spend to extend his life? - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQamxrd1hKdnVHWE1pQzk4eUpKQkpvV2RmdzRTYzI1MW01V05QekYtTjZSZzROa1EyOEg2aWp2WnhmX2J3ZTZZSk1SWk9qVkZHZnVPWXdjZWh1akRqYTAyczJEM2NhY2hZdnJOLWliU0JNX2FudjBCUkwzU3dxTWVfQ0lBOTZlcUFBRjRFd3pxSmQ2WVpNcFFVNWdXTFgyUWRRREVmSmxUeTJpRVRQVkxkUHRXLTJXbHRpdDBV?oc=5",
+      "published": "Sun, 25 Oct 2026 09:11:44 GMT",
+      "source": "USA Today"
     },
     {
       "title": "Students Turn to Private Lenders After Trump’s Clampdown on Federal Loans - WSJ",
@@ -118,16 +96,16 @@
       "source": "The Cut"
     },
     {
-      "title": "Our Parents Want to Put All $1.6 Million Into 5% Treasuries and 'Never Touch the Principal.' At 3% Inflation, Their $83,000 a Year Will Buy $40,000 Worth by 2051 - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOVVE2YlNFOWc0R2loUjVpMlBFUzRqdkNzcDZoNmNWb2NIQzNpZzc5aEI3ZnZHbXgyekF3dGIzNHowYWE2QWg3dmE2dnZ0TERpR3lJV3NDMjBtMFJPZDY1T2xkdnZSQmN2UFVOOGdBSldtcHNidFVzb3JuWHNsRHVwbkdBS3hmSmY3dXlHVlNUQ2tiWDBYMXNVMDdpZkFFMUItOFV5ajRxekZaVTc1LTljWkhRMW5lMDZaOTRkbWVBUEJUdGtiRE1BakJvMzJ5SGZfZnRrMzJwbWRBVnJSWjRtQmhTWExqSmk0aTZyQkhfbFNIMWtzdUhGMlFYUDRSc3FVRDMxV1dQYThSa3NxYkxlQWkwWEx4eEdzcUEzUXhwa3k4YU84cExWWQ?oc=5",
-      "published": "Fri, 23 Oct 2026 15:33:00 GMT",
-      "source": "24/7 Wall St."
+      "title": "What the monthly payment on $1 million house is at today’s mortgage rates - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUHB1ekpZQ3JGWFJEYTYzd0NVZW5tdGxZMlB0cWN1LTBoNnFPVFFNWVd3MDN1TkdtektQdFBVb3E4cmpMcVpZbzFzX3B3RXFrRHczWnZuUDNOVmtRSmU3cEE0QlV0dl9zdUV1Z3RudGkzSTU3d2hwUEdCTGFfVldtQzNaMXpDck5SS1Z5VkRteUtObUNj?oc=5",
+      "published": "Sun, 25 Oct 2026 10:03:00 GMT",
+      "source": "TheStreet"
     },
     {
-      "title": "Still sending checks in the mail? It's time to stop - Detroit Free Press",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON0Fxa0wwMkw3QWttbE9wSFRaZzlMMmZlSldBMUlZTnFJcHRiMGVFRmphcVF1YVN5M0lHLU4tYlNVUkk5ajk5M0NNT25kdEEwcEFHd1NKaGI2b3Zha2dwX21WeThaUGhFZlA4S1Z5MVBFLXl0aVBjSXVweU55UTRQdGFKdHpsVmR0UDl6eFpJVkNwbUpVajV6a3gxM2dpdmM3VVpIOEVXLW1HYUdaLUxYaQ?oc=5",
-      "published": "Sat, 24 Oct 2026 09:03:00 GMT",
-      "source": "Detroit Free Press"
+      "title": "7 Ways to Spot Fake Finfluencers and Protect Your Money Before You Invest - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWozUm9MeUVTRjVYNk9PQ1MwRzhWWlBpZG4tbVJGRnJ3c1JvNjdGNmIzQlRmWkFmbnIyOEJJbDR1MlNiQnIwUVNWTEhyajFmUGJydDB1QXBhSDZ5UUhzTnktWml4bGVXdmJacTVsRk1LdU50WlcxdThtM2F3Tm53Y0VCX0M1UUMtaExoZjl3VlpCTWtLVkxRWTVma052dDk3RXc?oc=5",
+      "published": "Sat, 24 Oct 2026 12:15:00 GMT",
+      "source": "Kiplinger"
     },
     {
       "title": "School business officials share tips for navigating budget challenges - K-12 Dive",
@@ -136,10 +114,10 @@
       "source": "K-12 Dive"
     },
     {
-      "title": "On a budget? Here's money-saving tips for holiday shopping - FOX Carolina News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODRkeWtKTVo5Qi11RXN1X2NOSnAzTldvMlNsX29uTi1taVA1SHNITEdHZDl4SktVSHVodDdxYmpMOFFRRWMzZXlZdXRCTlVTYUVCNmdiajZlSFl2bjdzWktkdEdqdThFcG9WeG9SZEhSSFJnQnRmYTJMcVFjaWtDbWxRcFZOZ0YwZ0Exd2NRdWN6UjBuT0dQbg?oc=5",
+      "title": "On a budget? Here's money-saving tips for holiday shopping - AZ Family",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd0lMWWJwcllCY1oyMXlabXRSTlpzZ3IybjhMOENjS1BMS2NTOGhLUFFZdTItVzd1aG5Eb0h3Qi1SNmo2dXB3aWp6RTRpUHlKdGhqZmVDQVBvU3FrYnl5Q0xzMTh3NjBza0p3aFJfU2RBanF0bW5OczNkVUxiSjl1QTBLbjJNeklpQk9sR2FXVklCck9x?oc=5",
       "published": "Tue, 20 Oct 2026 15:10:00 GMT",
-      "source": "FOX Carolina News"
+      "source": "AZ Family"
     },
     {
       "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
@@ -160,41 +138,19 @@
       "source": "The Daily Texan"
     },
     {
-      "title": "How to Save on Holiday Gifts and Travel, According to an Expert - TODAY.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkhrOGRfaTBmYzdqVGhhWUxNNFhVd1JDeUhPSVlMY19hUlYtX2lCOTc5ejVLenkyYjVKUDRyQU5SZWVBVG1Ea0QxX21sZkZCOGhSZXR6U3JxQ3JuUFFWT0RSSEZJdS1yOVQ1V0pxZ1BsTUpnYnFiSXFtOFRnNTg4Sg?oc=5",
-      "published": "Fri, 16 Oct 2026 14:07:38 GMT",
-      "source": "TODAY.com"
-    },
-    {
       "title": "I run an interior design company to the stars. Here are 5 affordable tips for making your home look more expensive. - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQjhPQktGRDl0UWxESk1YVlYycFBqUklOYXk2Xy1FM1FPdElIdUQ4WkQ4U1hHaTctWWdUYlR2S3J4ZTJXc0tDblotRkk0cUtZb3dzM0Fld2dRanhueWcwZlRaYmhHdE91cDRjZUpaV2kzV25uNi1ha3ZaM1prci12NWVzWkxNSUEyVzEtRy1KZS1pOFVBajBGWVdfcERZNk0?oc=5",
       "published": "Thu, 22 Oct 2026 16:18:00 GMT",
       "source": "Business Insider"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-      "score": 74,
-      "comments": 6,
-      "source": "Hacker News"
     },
     {
-      "title": "Canadians are running out of time to oppose Bill C-22",
-      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-      "score": 418,
-      "comments": 220,
-      "source": "Hacker News"
-    },
-    {
-      "title": "How Block Blast harvests its players for ad money",
-      "url": "https://ayoships.com/breakdowns/block-blast",
-      "score": 54,
-      "comments": 16,
-      "source": "Hacker News"
+      "title": "How to Save on Holiday Gifts and Travel, According to an Expert - TODAY.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkhrOGRfaTBmYzdqVGhhWUxNNFhVd1JDeUhPSVlMY19hUlYtX2lCOTc5ejVLenkyYjVKUDRyQU5SZWVBVG1Ea0QxX21sZkZCOGhSZXR6U3JxQ3JuUFFWT0RSSEZJdS1yOVQ1V0pxZ1BsTUpnYnFiSXFtOFRnNTg4Sg?oc=5",
+      "published": "Fri, 16 Oct 2026 07:00:00 GMT",
+      "source": "TODAY.com"
     }
   ],
+  "hn_stories": [],
   "trending_searches": [],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",

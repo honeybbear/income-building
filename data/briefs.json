@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T10:08:46Z",
+  "generated_at": "2026-10-25T10:34:04Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -22,8 +22,8 @@
       "key_points": [
         "Should you let a chatbot manage your money? - Vox (Vox)",
         "Your forgotten retirement account could be costing you money - Yahoo Finance (Yahoo Finance)",
-        "On a budget? Here's money-saving tips for holiday shopping - FOX Carolina News (FOX Carolina News)",
-        "How Block Blast harvests its players for ad money (Hacker News)"
+        "7 Ways to Spot Fake Finfluencers and Protect Your Money Before You Invest - Kiplinger (Kiplinger)",
+        "On a budget? Here's money-saving tips for holiday shopping - AZ Family (AZ Family)"
       ],
       "sources": [
         {
@@ -37,14 +37,14 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "On a budget? Here's money-saving tips for holiday shopping - FOX Carolina News",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODRkeWtKTVo5Qi11RXN1X2NOSnAzTldvMlNsX29uTi1taVA1SHNITEdHZDl4SktVSHVodDdxYmpMOFFRRWMzZXlZdXRCTlVTYUVCNmdiajZlSFl2bjdzWktkdEdqdThFcG9WeG9SZEhSSFJnQnRmYTJMcVFjaWtDbWxRcFZOZ0YwZ0Exd2NRdWN6UjBuT0dQbg?oc=5",
-          "source": "FOX Carolina News"
+          "title": "7 Ways to Spot Fake Finfluencers and Protect Your Money Before You Invest - Kiplinger",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWozUm9MeUVTRjVYNk9PQ1MwRzhWWlBpZG4tbVJGRnJ3c1JvNjdGNmIzQlRmWkFmbnIyOEJJbDR1MlNiQnIwUVNWTEhyajFmUGJydDB1QXBhSDZ5UUhzTnktWml4bGVXdmJacTVsRk1LdU50WlcxdThtM2F3Tm53Y0VCX0M1UUMtaExoZjl3VlpCTWtLVkxRWTVma052dDk3RXc?oc=5",
+          "source": "Kiplinger"
         },
         {
-          "title": "How Block Blast harvests its players for ad money",
-          "url": "https://ayoships.com/breakdowns/block-blast",
-          "source": "Hacker News"
+          "title": "On a budget? Here's money-saving tips for holiday shopping - AZ Family",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd0lMWWJwcllCY1oyMXlabXRSTlpzZ3IybjhMOENjS1BMS2NTOGhLUFFZdTItVzd1aG5Eb0h3Qi1SNmo2dXB3aWp6RTRpUHlKdGhqZmVDQVBvU3FrYnl5Q0xzMTh3NjBza0p3aFJfU2RBanF0bW5OczNkVUxiSjl1QTBLbjJNeklpQk9sR2FXVklCck9x?oc=5",
+          "source": "AZ Family"
         }
       ]
     },
@@ -66,7 +66,7 @@
       ],
       "key_points": [
         "School business officials share tips for navigating budget challenges - K-12 Dive (K-12 Dive)",
-        "On a budget? Here's money-saving tips for holiday shopping - FOX Carolina News (FOX Carolina News)",
+        "On a budget? Here's money-saving tips for holiday shopping - AZ Family (AZ Family)",
         "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily (OU Daily)",
         "When relatives need to parent, holiday budgeting and tailgating tips | Parent Squad - wthr.com (wthr.com)"
       ],
@@ -77,9 +77,9 @@
           "source": "K-12 Dive"
         },
         {
-          "title": "On a budget? Here's money-saving tips for holiday shopping - FOX Carolina News",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODRkeWtKTVo5Qi11RXN1X2NOSnAzTldvMlNsX29uTi1taVA1SHNITEdHZDl4SktVSHVodDdxYmpMOFFRRWMzZXlZdXRCTlVTYUVCNmdiajZlSFl2bjdzWktkdEdqdThFcG9WeG9SZEhSSFJnQnRmYTJMcVFjaWtDbWxRcFZOZ0YwZ0Exd2NRdWN6UjBuT0dQbg?oc=5",
-          "source": "FOX Carolina News"
+          "title": "On a budget? Here's money-saving tips for holiday shopping - AZ Family",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd0lMWWJwcllCY1oyMXlabXRSTlpzZ3IybjhMOENjS1BMS2NTOGhLUFFZdTItVzd1aG5Eb0h3Qi1SNmo2dXB3aWp6RTRpUHlKdGhqZmVDQVBvU3FrYnl5Q0xzMTh3NjBza0p3aFJfU2RBanF0bW5OczNkVUxiSjl1QTBLbjJNeklpQk9sR2FXVklCck9x?oc=5",
+          "source": "AZ Family"
         },
         {
           "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
@@ -97,38 +97,26 @@
       "id": "t-2",
       "kind": "trending-topic",
       "headline_options": [
-        "Holiday, explained in plain English",
-        "What you should actually know about holiday",
-        "Holiday: the honest beginner's guide"
+        "Saving, explained in plain English",
+        "What you should actually know about saving",
+        "Saving: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What holiday means in plain English",
+        "What saving means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "On a budget? Here's money-saving tips for holiday shopping - FOX Carolina News (FOX Carolina News)",
-        "When relatives need to parent, holiday budgeting and tailgating tips | Parent Squad - wthr.com (wthr.com)",
-        "How to Save on Holiday Gifts and Travel, According to an Expert - TODAY.com (TODAY.com)"
+        "On a budget? Here's money-saving tips for holiday shopping - AZ Family (AZ Family)"
       ],
       "sources": [
         {
-          "title": "On a budget? Here's money-saving tips for holiday shopping - FOX Carolina News",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODRkeWtKTVo5Qi11RXN1X2NOSnAzTldvMlNsX29uTi1taVA1SHNITEdHZDl4SktVSHVodDdxYmpMOFFRRWMzZXlZdXRCTlVTYUVCNmdiajZlSFl2bjdzWktkdEdqdThFcG9WeG9SZEhSSFJnQnRmYTJMcVFjaWtDbWxRcFZOZ0YwZ0Exd2NRdWN6UjBuT0dQbg?oc=5",
-          "source": "FOX Carolina News"
-        },
-        {
-          "title": "When relatives need to parent, holiday budgeting and tailgating tips | Parent Squad - wthr.com",
-          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONTU1aXRhR1lRNVZodGhxb1RDUG5ndGd2RjMzM1VwY3pRa3VHUG5yLTNVU2tLci1pdXZ5dXhoTXBqVHVrZElENXNqNkQ0NDhBTHVDb0ZnQmRWWU5CYnJGb01sLXRvaC1JN09lSThZNUhfU3lDX1hEMUpnYmZCcEhvVnJYeXQ2YTRPVVVIdC1JM3BUUVdwMUllUWZJelZkNFhId09YN1kxTFUxLXllTGxMOEU4ZE80UjA3M1JLZkxYRUhxVUcxVVppc2NJbGpyd25ZLXNvalhReDVzclU4cUtSZUdhOUFWa3Qwb0VrN0NONWNGdVF5YU9vTkQzVWRiSUNqVDEyNmV4LVNWb2c?oc=5",
-          "source": "wthr.com"
-        },
-        {
-          "title": "How to Save on Holiday Gifts and Travel, According to an Expert - TODAY.com",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkhrOGRfaTBmYzdqVGhhWUxNNFhVd1JDeUhPSVlMY19hUlYtX2lCOTc5ejVLenkyYjVKUDRyQU5SZWVBVG1Ea0QxX21sZkZCOGhSZXR6U3JxQ3JuUFFWT0RSSEZJdS1yOVQ1V0pxZ1BsTUpnYnFiSXFtOFRnNTg4Sg?oc=5",
-          "source": "TODAY.com"
+          "title": "On a budget? Here's money-saving tips for holiday shopping - AZ Family",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd0lMWWJwcllCY1oyMXlabXRSTlpzZ3IybjhMOENjS1BMS2NTOGhLUFFZdTItVzd1aG5Eb0h3Qi1SNmo2dXB3aWp6RTRpUHlKdGhqZmVDQVBvU3FrYnl5Q0xzMTh3NjBza0p3aFJfU2RBanF0bW5OczNkVUxiSjl1QTBLbjJNeklpQk9sR2FXVklCck9x?oc=5",
+          "source": "AZ Family"
         }
       ]
     }
