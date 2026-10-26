@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-25T10:34:04Z",
+  "fetched_at": "2026-10-26T12:07:12Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -9,7 +9,7 @@
   "topics": [
     {
       "keyword": "money",
-      "mentions": 11
+      "mentions": 10
     },
     {
       "keyword": "tips",
@@ -20,15 +20,15 @@
       "mentions": 4
     },
     {
-      "keyword": "save",
-      "mentions": 4
+      "keyword": "here",
+      "mentions": 3
     },
     {
       "keyword": "today",
       "mentions": 3
     },
     {
-      "keyword": "ways",
+      "keyword": "budget",
       "mentions": 3
     },
     {
@@ -36,23 +36,23 @@
       "mentions": 3
     },
     {
-      "keyword": "budgeting",
+      "keyword": "com",
       "mentions": 3
     },
     {
-      "keyword": "finance",
+      "keyword": "save",
+      "mentions": 3
+    },
+    {
+      "keyword": "news",
+      "mentions": 3
+    },
+    {
+      "keyword": "payment",
       "mentions": 2
     },
     {
-      "keyword": "house",
-      "mentions": 2
-    },
-    {
-      "keyword": "much",
-      "mentions": 2
-    },
-    {
-      "keyword": "students",
+      "keyword": "fortune",
       "mentions": 2
     }
   ],
@@ -60,10 +60,40 @@
   "discussion_highlights": [],
   "news": [
     {
-      "title": "Michael Burry of ‘The Big Short’ personal finance advice: ‘Buy half the house you can afford’ - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbWNPVlIwT0tkbW9sRUUzV3BGM0JJcC1mWTRGX2Q1LXlOQ0N3SnhYTXQ1RExGYVkxWUNFaWp3cGtKeFA3aW9zS19oU2xNdDJvaUE3V01oMWFuN3hxWjU4NUpFMWNhMG5uR0ZQVkZUSHpPdGVFbHJkaVRlaHoxVno3RjZmcUtFN3VrQ3ZnbXl3?oc=5",
-      "published": "Fri, 23 Oct 2026 13:18:00 GMT",
+      "title": "Here are 5 reasons why a $1,000 car payment is a bad idea - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX2hlaHVlMDY4R041VnR6clBGUzR5MS1RQy1KYWk4aW5LbVFYbXhBbG9RaXFfcHlOamg4LVFOV0tUMXpNQWtSeWlaWnd2czFHZkdUQlVLZnhoWVk1TWhPcFQtLWNXMnVyUkNBLUZ2eXRlc1loaWRIYm5ETmV3WUhKdW50R2VxS3Q5aVhmdEtuNXN0VzlrekFSaThIbUlPTzM0dGo2SXE4dTQtXzVPcDZz?oc=5",
+      "published": "Mon, 26 Oct 2026 10:05:00 GMT",
+      "source": "USA Today"
+    },
+    {
+      "title": "Top CD rates today, Oct. 26, 2026: Lock in up to up to 5.25% - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xZDBJeWJFU3NKQ3hOR3NmNTA5YTNzV1Naay1hamRIYWlmbjlOLXdxQndwT3dRWTNlMExkU3B5dEhmdzhOUWpQYVhHOFVQbXFIMEZiQ3dKVGJWdw?oc=5",
+      "published": "Mon, 26 Oct 2026 11:01:00 GMT",
       "source": "Fortune"
+    },
+    {
+      "title": "An AI Conceived a Cyberattack Involving Christine Benz. A Cybersecurity Expert Explains - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX0xtTkx5TzkySTJOOFVoNXUzLUdTNkdHdUhMNlQ5ek9CQUd4VFVIQjVrMDNkdy1rNkJWdE5ONlhJdFJrdzNfRTJ6V2FVcEtfVW9MWEFlaEQwQWZfQ19XeXd5Mlh4Wko0dWhZbnJrdGFKaERrVnVPRVZfa0RZNm1mWUFIX216VzdTd28ya1dqQ0hwYUZvWkFFMGtaX1oyTVYxY216Z19wSi16UmZuZjZaWUJheS1FWWYzcjBzRmJROWF0XzdONkE?oc=5",
+      "published": "Sun, 25 Oct 2026 15:06:24 GMT",
+      "source": "Morningstar"
+    },
+    {
+      "title": "I paid off $11,000 of credit card debt in 18 months while still traveling, shopping and living my life - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BTlRsZXBtWmo5MmRtRTg3TEdoc2lRYm5TMjNCN0ZiQkRYN2hkeUl1V0VCbWcyWlJGYnhzZlROT1ctNkhaVGJvTy1DTk1XSE5kempnbGhBaElQd0pZbGxqaGtNZ0p2b2dEUFFlNE9IaThvTmlHUFd5adIBfkFVX3lxTE5pc3NyUkRWTjJFdmZ0NjJsdk1hZG9fWG9ZcjNlOVgxMVpvczY2NkViYzhxMnJXRF9YZ0xjZjAtV2NFV21uYzdzekszbTZHMzl4N1VJMjg0MGZ5czZHd1ZzSTNRaVRIeVdtYjc0NHUtaUllUTd1eG9ZcWllQ0hoUQ?oc=5",
+      "published": "Sun, 25 Oct 2026 14:00:01 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Meta says its Muse AI agent can manage your money. Should you let it? - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOWlsNDJwQ0pVNjh0eENIME9OY3B1SWhRSlR5S01MYW1uN3pTNFJjaTFiNWlvYTQ1REF0Ym1QMkNwYlp6VVpaeE93QU5yZzI2MU5qOWxTSEZ0YXJ4VzE5QkkzYm5QVXVtSFVOMEx5YzdYV1ctNG9ZU2FfNldJTGpJYXJxVlIxU1JTb2tSZg?oc=5",
+      "published": "Sun, 25 Oct 2026 11:15:22 GMT",
+      "source": "San Francisco Chronicle"
+    },
+    {
+      "title": "When are VA Benefits being paid next month? Deposit schedule for November's payment - MARCA",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLXpZcFZPUDhzYWF6cGl5OTR2azVLbG8wY2E4WmJsREQ5Zkk3RTdtNmtiM1RWSFVpb2NSa2o0SDZVR3RHOU8xRmkxRVYwS2NMNzZiTG50UkJIa0VENDY2OVFTVXdhY2lOR01FVXNzZzFLSkFwRVYtV1ljQWVGMXVDWVFhUjZiQWZOVHZDTWUwMnpXVUVWWlg4NVNtamlBOXpld0RqYWZjRE9CYml4X3BWNUpVTk1Nb3lVaGY0WlJDdEd5MmFPV0MzZ3F5Q2xoNFZrd2FyNzR2cHd4b21qQXZVM0lQQ1NDWXRTbE1F0gHrAUFVX3lxTFBYQ0ZGMVg3a2ZzcU1zekVBRThDVHktSUhxRS1LQzR5RUYwdEx6QXZQZVNhV3dUUXpzS1RkOS1ibUxRX0pLV21Xelo4YlpXSE1TODIycndfYXkyZDJ5dFptV3pQajF2Um5aS3hNb3RhZ2ZwbnN6WXo2cVhqLTNvemc3VWl6UUR3bnNVZy1LUVZnd1lfVjFnNXlUQ0xtMUZldkM1V3RjNks0NUZaYnZqazJONWZValZzQnI1OVN6ZF9uWDFUempzQU5OZHlTUjZ6YWY3N3dpajdRa0VLRDMwQl9tMUVnN0RhRXZwTUk?oc=5",
+      "published": "Mon, 26 Oct 2026 11:58:47 GMT",
+      "source": "MARCA"
     },
     {
       "title": "Should you let a chatbot manage your money? - Vox",
@@ -72,40 +102,10 @@
       "source": "Vox"
     },
     {
-      "title": "Our dog is turning 10. How much would I spend to extend his life? - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQamxrd1hKdnVHWE1pQzk4eUpKQkpvV2RmdzRTYzI1MW01V05QekYtTjZSZzROa1EyOEg2aWp2WnhmX2J3ZTZZSk1SWk9qVkZHZnVPWXdjZWh1akRqYTAyczJEM2NhY2hZdnJOLWliU0JNX2FudjBCUkwzU3dxTWVfQ0lBOTZlcUFBRjRFd3pxSmQ2WVpNcFFVNWdXTFgyUWRRREVmSmxUeTJpRVRQVkxkUHRXLTJXbHRpdDBV?oc=5",
-      "published": "Sun, 25 Oct 2026 09:11:44 GMT",
-      "source": "USA Today"
-    },
-    {
-      "title": "Students Turn to Private Lenders After Trump’s Clampdown on Federal Loans - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaElzSlc4Yk1ybUdLVWxUeWtpS0NKaWdRdGc0VWZFUlQwOFJCVGc3eS1NR1NROTFXZFRiY1dQS05td0x6STl4TFVQeU84emNJNE9FVzNZN2lYUFVBNW9faU1YLWprdkN5b19oS1pKVG5lQnZ6ZzltU215RFNNTVMySjB6cUpmUUJnanRMYVNpeE5GbUFySDRBSnJnWmFBTnYzbEl0bEVxSks0ZU9nMkt5RTBLUDc1UVBSdWc?oc=5",
-      "published": "Thu, 22 Oct 2026 15:50:00 GMT",
-      "source": "WSJ"
-    },
-    {
-      "title": "Your forgotten retirement account could be costing you money - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdTNmNzBpd1RkbjkxV1dDMjNfT0lVazVPeV9yN1BIQ2ZIaUZ2Z25PdkpjT0dEckRuVW9qaEtyMzBtZVlGc1hvLW9JNU9YeVV4VUdLYlBLZTF4QVBZaDBpbXYzWXFmcXVHX2c1U29ROVVzTkpoWi1HQUZ2VzFDVEROY3RJcGROcmpuRWtXaVRjWnZfNHVkUG5xYmp5NzFGRHdja2NYdjRqcE80aE5wTy03eWV5NG1nRzEtZmZoMFVnX3VCcnhvalRrczlMZXktT194MUE?oc=5",
-      "published": "Fri, 23 Oct 2026 15:34:31 GMT",
+      "title": "‘You want this money to grow’: You could have cash in a forgotten 401(k) that’s losing value by the day — recover it now - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaDdHMnFhWnlBLUEwcXA2bDlnZ3JUcUd3alJWajdHTWxLTkZvV2MtblZwZkNobE5CUnhVR29wRUt6d1dkc0RUT0JBVmlvbVFBY1Y2TF9XMTJzX0JhVUxHdTBZMGl2Z3BUUWdrSkJyVmZjZDU2Mk5SaHRDZDBOeVFSZXc3VU9Mb3lkdEEyRm1HM3NSejJmQU1V?oc=5",
+      "published": "Mon, 26 Oct 2026 09:30:00 GMT",
       "source": "Yahoo Finance"
-    },
-    {
-      "title": "When a Relationship Ends But the Venmo Requests Don’t - The Cut",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zM0gtVlRESUJpS05xeEJEN1p4eEthVmxpaWVmbVVkWlFQYW1JeXF5MHZxUi16d0U2V3NIMUVoYTduendPYjNOR0xNUjJqeEZIMVB4d2RiOUFjdFNGUFVNbTA3Y2w5Y1p3OXhQd2VwaU8?oc=5",
-      "published": "Thu, 22 Oct 2026 12:00:08 GMT",
-      "source": "The Cut"
-    },
-    {
-      "title": "What the monthly payment on $1 million house is at today’s mortgage rates - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUHB1ekpZQ3JGWFJEYTYzd0NVZW5tdGxZMlB0cWN1LTBoNnFPVFFNWVd3MDN1TkdtektQdFBVb3E4cmpMcVpZbzFzX3B3RXFrRHczWnZuUDNOVmtRSmU3cEE0QlV0dl9zdUV1Z3RudGkzSTU3d2hwUEdCTGFfVldtQzNaMXpDck5SS1Z5VkRteUtObUNj?oc=5",
-      "published": "Sun, 25 Oct 2026 10:03:00 GMT",
-      "source": "TheStreet"
-    },
-    {
-      "title": "7 Ways to Spot Fake Finfluencers and Protect Your Money Before You Invest - Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWozUm9MeUVTRjVYNk9PQ1MwRzhWWlBpZG4tbVJGRnJ3c1JvNjdGNmIzQlRmWkFmbnIyOEJJbDR1MlNiQnIwUVNWTEhyajFmUGJydDB1QXBhSDZ5UUhzTnktWml4bGVXdmJacTVsRk1LdU50WlcxdThtM2F3Tm53Y0VCX0M1UUMtaExoZjl3VlpCTWtLVkxRWTVma052dDk3RXc?oc=5",
-      "published": "Sat, 24 Oct 2026 12:15:00 GMT",
-      "source": "Kiplinger"
     },
     {
       "title": "School business officials share tips for navigating budget challenges - K-12 Dive",
@@ -114,16 +114,16 @@
       "source": "K-12 Dive"
     },
     {
-      "title": "On a budget? Here's money-saving tips for holiday shopping - AZ Family",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd0lMWWJwcllCY1oyMXlabXRSTlpzZ3IybjhMOENjS1BMS2NTOGhLUFFZdTItVzd1aG5Eb0h3Qi1SNmo2dXB3aWp6RTRpUHlKdGhqZmVDQVBvU3FrYnl5Q0xzMTh3NjBza0p3aFJfU2RBanF0bW5OczNkVUxiSjl1QTBLbjJNeklpQk9sR2FXVklCck9x?oc=5",
-      "published": "Tue, 20 Oct 2026 15:10:00 GMT",
-      "source": "AZ Family"
-    },
-    {
       "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUZzTmdGWDQ3cGREaFdOcEhQdjlKblNzSzcwc3JMaUtqWUdRSkh4S3BBVC1uSlQtdmdEaFVtc3hBNnktU002VnRuMHhfSDMyREF2ZTFwWmZ0ajZrVVVYcUR5ZHBKcmtHRjZQYTAzOG5iVG1NcXJJWHZ4UWo5eW1xWnBES1RrazZrQnFMcXlLb2otN3lnTlFZUFUyNHdfV243QlRTMlhYZXV3OUlwT3ZJT1VVejV5VmdTalBCalNNNA?oc=5",
       "published": "Fri, 09 Oct 2026 07:00:00 GMT",
       "source": "OU Daily"
+    },
+    {
+      "title": "On a budget? Here's money-saving tips for holiday shopping - AZ Family",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd0lMWWJwcllCY1oyMXlabXRSTlpzZ3IybjhMOENjS1BMS2NTOGhLUFFZdTItVzd1aG5Eb0h3Qi1SNmo2dXB3aWp6RTRpUHlKdGhqZmVDQVBvU3FrYnl5Q0xzMTh3NjBza0p3aFJfU2RBanF0bW5OczNkVUxiSjl1QTBLbjJNeklpQk9sR2FXVklCck9x?oc=5",
+      "published": "Tue, 20 Oct 2026 15:10:00 GMT",
+      "source": "AZ Family"
     },
     {
       "title": "When relatives need to parent, holiday budgeting and tailgating tips | Parent Squad - wthr.com",
@@ -132,26 +132,31 @@
       "source": "wthr.com"
     },
     {
-      "title": "Nutrition students teach food budgeting workshop in collaboration with UT Outpost - The Daily Texan",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSHdSdFk4OHdtTEpLbHVZN0plNXdxV2pwN2tCTkRaR3ppdFdtOUxEQ2xNdkRrMWs0V2lNOEVxU1c3dXNEOWNkQXotM2kzSFdiVU1rWDYyZVBCeW5iZTk0bjBjTlBjSWpYX2p0amhtUFM1bDZKR0h5SVNlQlRzVzlkUWNyZ2hRbEF5YlladUJyRUJrTVFYYUFJM1ZUR1I4MldjdDNBUC1XdFN0ZU80aGstd3JTSU5yV1BzYmlJ?oc=5",
-      "published": "Mon, 19 Oct 2026 06:16:34 GMT",
-      "source": "The Daily Texan"
-    },
-    {
-      "title": "I run an interior design company to the stars. Here are 5 affordable tips for making your home look more expensive. - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQjhPQktGRDl0UWxESk1YVlYycFBqUklOYXk2Xy1FM1FPdElIdUQ4WkQ4U1hHaTctWWdUYlR2S3J4ZTJXc0tDblotRkk0cUtZb3dzM0Fld2dRanhueWcwZlRaYmhHdE91cDRjZUpaV2kzV25uNi1ha3ZaM1prci12NWVzWkxNSUEyVzEtRy1KZS1pOFVBajBGWVdfcERZNk0?oc=5",
-      "published": "Thu, 22 Oct 2026 16:18:00 GMT",
-      "source": "Business Insider"
+      "title": "12 Easy Money Saving Travel Tips - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
+      "published": "Tue, 13 Oct 2026 07:00:00 GMT",
+      "source": "NerdWallet"
     },
     {
       "title": "How to Save on Holiday Gifts and Travel, According to an Expert - TODAY.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkhrOGRfaTBmYzdqVGhhWUxNNFhVd1JDeUhPSVlMY19hUlYtX2lCOTc5ejVLenkyYjVKUDRyQU5SZWVBVG1Ea0QxX21sZkZCOGhSZXR6U3JxQ3JuUFFWT0RSSEZJdS1yOVQ1V0pxZ1BsTUpnYnFiSXFtOFRnNTg4Sg?oc=5",
       "published": "Fri, 16 Oct 2026 07:00:00 GMT",
       "source": "TODAY.com"
+    },
+    {
+      "title": "I run an interior design company to the stars. Here are 5 affordable tips for making your home look more expensive. - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQjhPQktGRDl0UWxESk1YVlYycFBqUklOYXk2Xy1FM1FPdElIdUQ4WkQ4U1hHaTctWWdUYlR2S3J4ZTJXc0tDblotRkk0cUtZb3dzM0Fld2dRanhueWcwZlRaYmhHdE91cDRjZUpaV2kzV25uNi1ha3ZaM1prci12NWVzWkxNSUEyVzEtRy1KZS1pOFVBajBGWVdfcERZNk0?oc=5",
+      "published": "Thu, 22 Oct 2026 16:18:00 GMT",
+      "source": "Business Insider"
     }
   ],
   "hn_stories": [],
-  "trending_searches": [],
+  "trending_searches": [
+    {
+      "term": "trump administration student debt collection",
+      "source": "Google Trends US"
+    }
+  ],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",
     "reddit r/financialindependence: HTTP Error 403: Blocked"

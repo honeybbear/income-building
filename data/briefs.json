@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T10:34:04Z",
+  "generated_at": "2026-10-26T12:07:12Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -20,26 +20,26 @@
         "Sensible next steps"
       ],
       "key_points": [
+        "Meta says its Muse AI agent can manage your money. Should you let it? - San Francisco Chronicle (San Francisco Chronicle)",
         "Should you let a chatbot manage your money? - Vox (Vox)",
-        "Your forgotten retirement account could be costing you money - Yahoo Finance (Yahoo Finance)",
-        "7 Ways to Spot Fake Finfluencers and Protect Your Money Before You Invest - Kiplinger (Kiplinger)",
+        "‘You want this money to grow’: You could have cash in a forgotten 401(k) that’s losing value by the day — recover it now - Yahoo Finance (Yahoo Finance)",
         "On a budget? Here's money-saving tips for holiday shopping - AZ Family (AZ Family)"
       ],
       "sources": [
+        {
+          "title": "Meta says its Muse AI agent can manage your money. Should you let it? - San Francisco Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOWlsNDJwQ0pVNjh0eENIME9OY3B1SWhRSlR5S01MYW1uN3pTNFJjaTFiNWlvYTQ1REF0Ym1QMkNwYlp6VVpaeE93QU5yZzI2MU5qOWxTSEZ0YXJ4VzE5QkkzYm5QVXVtSFVOMEx5YzdYV1ctNG9ZU2FfNldJTGpJYXJxVlIxU1JTb2tSZg?oc=5",
+          "source": "San Francisco Chronicle"
+        },
         {
           "title": "Should you let a chatbot manage your money? - Vox",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BamY4b21Ma2NUMVAzT3dlVjNBU2V6cTNmRVdBcnB4ZlpqaHVBdEs0LW5xTHYxMW9GT1J1dEotVHJFelI2a3ZVejllX3RqMUh6ZWlfck9zUDZFNlM0WVFpVTZEVVRrOFFsTzJDLXp1MDBOOWtSV29Z?oc=5",
           "source": "Vox"
         },
         {
-          "title": "Your forgotten retirement account could be costing you money - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdTNmNzBpd1RkbjkxV1dDMjNfT0lVazVPeV9yN1BIQ2ZIaUZ2Z25PdkpjT0dEckRuVW9qaEtyMzBtZVlGc1hvLW9JNU9YeVV4VUdLYlBLZTF4QVBZaDBpbXYzWXFmcXVHX2c1U29ROVVzTkpoWi1HQUZ2VzFDVEROY3RJcGROcmpuRWtXaVRjWnZfNHVkUG5xYmp5NzFGRHdja2NYdjRqcE80aE5wTy03eWV5NG1nRzEtZmZoMFVnX3VCcnhvalRrczlMZXktT194MUE?oc=5",
+          "title": "‘You want this money to grow’: You could have cash in a forgotten 401(k) that’s losing value by the day — recover it now - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaDdHMnFhWnlBLUEwcXA2bDlnZ3JUcUd3alJWajdHTWxLTkZvV2MtblZwZkNobE5CUnhVR29wRUt6d1dkc0RUT0JBVmlvbVFBY1Y2TF9XMTJzX0JhVUxHdTBZMGl2Z3BUUWdrSkJyVmZjZDU2Mk5SaHRDZDBOeVFSZXc3VU9Mb3lkdEEyRm1HM3NSejJmQU1V?oc=5",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "7 Ways to Spot Fake Finfluencers and Protect Your Money Before You Invest - Kiplinger",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWozUm9MeUVTRjVYNk9PQ1MwRzhWWlBpZG4tbVJGRnJ3c1JvNjdGNmIzQlRmWkFmbnIyOEJJbDR1MlNiQnIwUVNWTEhyajFmUGJydDB1QXBhSDZ5UUhzTnktWml4bGVXdmJacTVsRk1LdU50WlcxdThtM2F3Tm53Y0VCX0M1UUMtaExoZjl3VlpCTWtLVkxRWTVma052dDk3RXc?oc=5",
-          "source": "Kiplinger"
         },
         {
           "title": "On a budget? Here's money-saving tips for holiday shopping - AZ Family",
@@ -66,8 +66,8 @@
       ],
       "key_points": [
         "School business officials share tips for navigating budget challenges - K-12 Dive (K-12 Dive)",
-        "On a budget? Here's money-saving tips for holiday shopping - AZ Family (AZ Family)",
         "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily (OU Daily)",
+        "On a budget? Here's money-saving tips for holiday shopping - AZ Family (AZ Family)",
         "When relatives need to parent, holiday budgeting and tailgating tips | Parent Squad - wthr.com (wthr.com)"
       ],
       "sources": [
@@ -77,14 +77,14 @@
           "source": "K-12 Dive"
         },
         {
-          "title": "On a budget? Here's money-saving tips for holiday shopping - AZ Family",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd0lMWWJwcllCY1oyMXlabXRSTlpzZ3IybjhMOENjS1BMS2NTOGhLUFFZdTItVzd1aG5Eb0h3Qi1SNmo2dXB3aWp6RTRpUHlKdGhqZmVDQVBvU3FrYnl5Q0xzMTh3NjBza0p3aFJfU2RBanF0bW5OczNkVUxiSjl1QTBLbjJNeklpQk9sR2FXVklCck9x?oc=5",
-          "source": "AZ Family"
-        },
-        {
           "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUZzTmdGWDQ3cGREaFdOcEhQdjlKblNzSzcwc3JMaUtqWUdRSkh4S3BBVC1uSlQtdmdEaFVtc3hBNnktU002VnRuMHhfSDMyREF2ZTFwWmZ0ajZrVVVYcUR5ZHBKcmtHRjZQYTAzOG5iVG1NcXJJWHZ4UWo5eW1xWnBES1RrazZrQnFMcXlLb2otN3lnTlFZUFUyNHdfV243QlRTMlhYZXV3OUlwT3ZJT1VVejV5VmdTalBCalNNNA?oc=5",
           "source": "OU Daily"
+        },
+        {
+          "title": "On a budget? Here's money-saving tips for holiday shopping - AZ Family",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd0lMWWJwcllCY1oyMXlabXRSTlpzZ3IybjhMOENjS1BMS2NTOGhLUFFZdTItVzd1aG5Eb0h3Qi1SNmo2dXB3aWp6RTRpUHlKdGhqZmVDQVBvU3FrYnl5Q0xzMTh3NjBza0p3aFJfU2RBanF0bW5OczNkVUxiSjl1QTBLbjJNeklpQk9sR2FXVklCck9x?oc=5",
+          "source": "AZ Family"
         },
         {
           "title": "When relatives need to parent, holiday budgeting and tailgating tips | Parent Squad - wthr.com",
@@ -110,13 +110,19 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "On a budget? Here's money-saving tips for holiday shopping - AZ Family (AZ Family)"
+        "On a budget? Here's money-saving tips for holiday shopping - AZ Family (AZ Family)",
+        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
       ],
       "sources": [
         {
           "title": "On a budget? Here's money-saving tips for holiday shopping - AZ Family",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd0lMWWJwcllCY1oyMXlabXRSTlpzZ3IybjhMOENjS1BMS2NTOGhLUFFZdTItVzd1aG5Eb0h3Qi1SNmo2dXB3aWp6RTRpUHlKdGhqZmVDQVBvU3FrYnl5Q0xzMTh3NjBza0p3aFJfU2RBanF0bW5OczNkVUxiSjl1QTBLbjJNeklpQk9sR2FXVklCck9x?oc=5",
           "source": "AZ Family"
+        },
+        {
+          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
+          "source": "NerdWallet"
         }
       ]
     }
