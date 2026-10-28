@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T11:28:24Z",
+  "generated_at": "2026-10-28T11:58:56Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -20,17 +20,11 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "Meta says its Muse AI agent can manage your money. Should you let it? - San Francisco Chronicle (San Francisco Chronicle)",
         "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com (KXLY.com)",
         "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)",
-        "10 Christmas budgeting tips to help you have a debt-free January - The Money Pages (The Money Pages)"
+        "On a budget? Here's money-saving tips for holiday shopping - KBTX News 3 (KBTX News 3)"
       ],
       "sources": [
-        {
-          "title": "Meta says its Muse AI agent can manage your money. Should you let it? - San Francisco Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOWlsNDJwQ0pVNjh0eENIME9OY3B1SWhRSlR5S01MYW1uN3pTNFJjaTFiNWlvYTQ1REF0Ym1QMkNwYlp6VVpaeE93QU5yZzI2MU5qOWxTSEZ0YXJ4VzE5QkkzYm5QVXVtSFVOMEx5YzdYV1ctNG9ZU2FfNldJTGpJYXJxVlIxU1JTb2tSZg?oc=5",
-          "source": "San Francisco Chronicle"
-        },
         {
           "title": "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeWpKRGFOU0NTTVZXZUVEZHRsMG1Zd0dmVVpYSGNqSkFhS3pLNldGTlF6QXpfMmhjbTVMcEo4LUpSbHF4MDdrbEF2eG5ER2FfQ0tXRDZkX1JUN0NUZzc2NF9qTW9IVVdVZGctX3BBeUpudk5YcDBIN1F6SFZPcUhIQU9BZlJBTlRYcXZqS0l6d0ZTUEZKTnpfTlZoUWhWSXgzREgzbVBWTUZlc09jZ2NwUm1QVFdMcXBNempkeFRobHdDVFNyZFB1dEtjWUZmQk5hbHNlbmFnTFNINFFwSzIwRkQ4eFhSaHI0?oc=5",
@@ -42,14 +36,59 @@
           "source": "NerdWallet"
         },
         {
-          "title": "10 Christmas budgeting tips to help you have a debt-free January - The Money Pages",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX0Ewak0xbHdhRnFsN2ZYcjl4VFJZVlQ0VkpFT0lZc29YT3RST0NBTWFxU054Z1dkVmQtTDNPTDVZbzRia3hlbF8xYXV5X241WVMzNnBITVpGcHA1Rm1EY0tCX2NpQ3ZPdzlTZFFRekdMRmJ1d3FOU3AxSFg3TWpYSllvSFVDdlpsTlZIU3pCemctdnpLVnFZdnAxdE5CZWdyNm82ZU5jYWhQVDQ?oc=5",
-          "source": "The Money Pages"
+          "title": "On a budget? Here's money-saving tips for holiday shopping - KBTX News 3",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTWM5QWRub25IUC1PYjFUNWV1ek9wT1ExZkJqWjkyLUlXX1RaUmJGZkJSM2l1VzdSYUxib05STG9BdHc3QXp4d09RdkY2bFdTb1BJZW1UZUVzVldEX1FxaEh2ZjdHMHQwTVlHeVVXNkdUblppQVd3N2RvSDJta2huTF9UNjhBY2pBb3NSR0F6RQ?oc=5",
+          "source": "KBTX News 3"
         }
       ]
     },
     {
       "id": "t-1",
+      "kind": "trending-topic",
+      "headline_options": [
+        "Today, explained in plain English",
+        "What you should actually know about today",
+        "Today: the honest beginner's guide"
+      ],
+      "angle": "Evergreen explainer on a topic people are actively reading about.",
+      "outline": [
+        "What today means in plain English",
+        "Why it matters for your budget",
+        "What the current discussion is saying",
+        "Common mistakes",
+        "Sensible next steps"
+      ],
+      "key_points": [
+        "How parent co-applicants keep the American dream alive - USA Today (USA Today)",
+        "Mortgage and refinance interest rates today, Wednesday, October 28, 2026: Mortgage rates move lower ahead of Fed decision day - Yahoo Finance (Yahoo Finance)",
+        "Today’s top high-yield savings rates: Up to 4.70% on Oct. 28, 2026 - Fortune (Fortune)",
+        "Today’s CD Rates for October 28, 2026: Highest APYs Range From 4.50% to 5.25% - WSJ (WSJ)"
+      ],
+      "sources": [
+        {
+          "title": "How parent co-applicants keep the American dream alive - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWFzXzRYbUFmU3NUbWVCTUx3SUlGXzRBVV9PQmtxLWZQSnNtajNwNVVWVDh2SDV2WERTcVg2ZXJiMmdxd0I0X0szV3BESVE0YzJmTHRjaEhTQVk5VVBQY3h5aFlpZGRGd2JhdGZNbENFOFMza1ZocUVtVUJVNmJuYUNqX2ZiX3EwUXY5VnNxRENLbTY5WHBTUXg4ZEEyYWdPUHQ1XzlVZVljUndteGdVaV9VZkxkWEo4c3cyblpyaXR4a2tNUU5ycFlkQ1otS1pJQU5v?oc=5",
+          "source": "USA Today"
+        },
+        {
+          "title": "Mortgage and refinance interest rates today, Wednesday, October 28, 2026: Mortgage rates move lower ahead of Fed decision day - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPNWVMTW1rSkZqaEpib29Sck1fN2dHQnJpejVqZ1hDX1FjRkNvMDJ3WFhONHpQYUYyWmVhT3BCY0dSc2FwNU9ZRE1fYk9FTlc3NGE3NlFqdnoyeTB0MF9jejZQTkZ1Sy00dUdpQ1dKeUtMWmdUMjZHbm5zN0x0ODlhOHNvQU9kUUFYRXJVcE4waVQxX21tbDRBZm45c19JRUFkbC1Va05ENHJOeXZKdno2ZzVWa0thbjNpSDhNWWotWjVWYS13cUhxVUsybklTUlVkR0NzdFdVTVVJekJ2RmVhU3Awd0lsdmM3UHZHc00yX3JZa29pVUpIcGd4T3dWNDZRNElRbWctUnBTRXU3VlU5OTQzR1NOM3d6a1ZpZmNDU1g2T3M?oc=5",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Today’s top high-yield savings rates: Up to 4.70% on Oct. 28, 2026 - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83d19DVHljY2ZURHBtYVlFVUk3eTE0WUloTjAtbG9PSmNQbEdEenpYWnhXSDJOdEVSYmVMaTU1QmdqYjZWY1pxbnhHSmtxdlVRa2FObzZvUmZTSmtONU1uVGZ6T1hLdlZzOFhKeXFBTkg0X1dR?oc=5",
+          "source": "Fortune"
+        },
+        {
+          "title": "Today’s CD Rates for October 28, 2026: Highest APYs Range From 4.50% to 5.25% - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLXVZbzJlTXIwRTZKVzdMWVRJUEpORF9RQjduMnBQdWlCcldhRWFqQmloLUVfaXczZXp0ZkdFcnRMczlQcHFNNktIand2OGt5c0s5ZGhRQjhLeVFBYkJWOUlVN2VVbThmT29WRjN5ckREX0hxTW15XzNnRVkxUW5UWjdjMl8?oc=5",
+          "source": "WSJ"
+        }
+      ]
+    },
+    {
+      "id": "t-2",
       "kind": "trending-topic",
       "headline_options": [
         "Tips, explained in plain English",
@@ -65,59 +104,26 @@
         "Sensible next steps"
       ],
       "key_points": [
+        "School business officials share tips for navigating budget challenges - K-12 Dive (K-12 Dive)",
         "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com (KXLY.com)",
-        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)",
-        "Holiday Budget Tips to Make Sure You Don't Overspend - TODAY.com (TODAY.com)",
-        "10 Christmas budgeting tips to help you have a debt-free January - The Money Pages (The Money Pages)"
-      ],
-      "sources": [
-        {
-          "title": "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeWpKRGFOU0NTTVZXZUVEZHRsMG1Zd0dmVVpYSGNqSkFhS3pLNldGTlF6QXpfMmhjbTVMcEo4LUpSbHF4MDdrbEF2eG5ER2FfQ0tXRDZkX1JUN0NUZzc2NF9qTW9IVVdVZGctX3BBeUpudk5YcDBIN1F6SFZPcUhIQU9BZlJBTlRYcXZqS0l6d0ZTUEZKTnpfTlZoUWhWSXgzREgzbVBWTUZlc09jZ2NwUm1QVFdMcXBNempkeFRobHdDVFNyZFB1dEtjWUZmQk5hbHNlbmFnTFNINFFwSzIwRkQ4eFhSaHI0?oc=5",
-          "source": "KXLY.com"
-        },
-        {
-          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
-          "source": "NerdWallet"
-        },
-        {
-          "title": "Holiday Budget Tips to Make Sure You Don't Overspend - TODAY.com",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPamNUZVRyeDhHZGZLWVE1cnFpNUxYY0VZeHJ0OWxtdDRjOTZCeS15dUxpVENNeGx6dm1KWHY5OThFSVVZV0lfblJLR1pQSEVicEJCOFlhR2UxMzZ3RnJXWGhGNjRCQUZDb2JsNGMzTkFhMGE0WlBSV3p5cUVYT3lHbmtPa3p3eE50d3NGWkUyV3JyLXU2M3FSeA?oc=5",
-          "source": "TODAY.com"
-        },
-        {
-          "title": "10 Christmas budgeting tips to help you have a debt-free January - The Money Pages",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX0Ewak0xbHdhRnFsN2ZYcjl4VFJZVlQ0VkpFT0lZc29YT3RST0NBTWFxU054Z1dkVmQtTDNPTDVZbzRia3hlbF8xYXV5X241WVMzNnBITVpGcHA1Rm1EY0tCX2NpQ3ZPdzlTZFFRekdMRmJ1d3FOU3AxSFg3TWpYSllvSFVDdlpsTlZIU3pCemctdnpLVnFZdnAxdE5CZWdyNm82ZU5jYWhQVDQ?oc=5",
-          "source": "The Money Pages"
-        }
-      ]
-    },
-    {
-      "id": "t-2",
-      "kind": "trending-topic",
-      "headline_options": [
-        "Saving, explained in plain English",
-        "What you should actually know about saving",
-        "Saving: the honest beginner's guide"
-      ],
-      "angle": "Evergreen explainer on a topic people are actively reading about.",
-      "outline": [
-        "What saving means in plain English",
-        "Why it matters for your budget",
-        "What the current discussion is saying",
-        "Common mistakes",
-        "Sensible next steps"
-      ],
-      "key_points": [
-        "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com (KXLY.com)",
+        "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily (OU Daily)",
         "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
       ],
       "sources": [
         {
+          "title": "School business officials share tips for navigating budget challenges - K-12 Dive",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeWhnOFBCN2pFbU5XbDhsWUx2QzlaMWVQRjdreUwxNEppUmR1cUgwRXJwWTZzRzg2dTNOV1lIVjQxbk02cTlYWXk4eXdZSWRxMmg4QXdoQlJFcmJkVUJmWVFTTmxsSkdOc0ZaaDRkQTc1dU1kUDRpbDZ4QV9remp3ZVM0czRlTjd1ckhQRlJGNTV4N3d1ZllUcDZlMVpCOTlHUlpEYi1MU0wtUQ?oc=5",
+          "source": "K-12 Dive"
+        },
+        {
           "title": "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeWpKRGFOU0NTTVZXZUVEZHRsMG1Zd0dmVVpYSGNqSkFhS3pLNldGTlF6QXpfMmhjbTVMcEo4LUpSbHF4MDdrbEF2eG5ER2FfQ0tXRDZkX1JUN0NUZzc2NF9qTW9IVVdVZGctX3BBeUpudk5YcDBIN1F6SFZPcUhIQU9BZlJBTlRYcXZqS0l6d0ZTUEZKTnpfTlZoUWhWSXgzREgzbVBWTUZlc09jZ2NwUm1QVFdMcXBNempkeFRobHdDVFNyZFB1dEtjWUZmQk5hbHNlbmFnTFNINFFwSzIwRkQ4eFhSaHI0?oc=5",
           "source": "KXLY.com"
+        },
+        {
+          "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUZzTmdGWDQ3cGREaFdOcEhQdjlKblNzSzcwc3JMaUtqWUdRSkh4S3BBVC1uSlQtdmdEaFVtc3hBNnktU002VnRuMHhfSDMyREF2ZTFwWmZ0ajZrVVVYcUR5ZHBKcmtHRjZQYTAzOG5iVG1NcXJJWHZ4UWo5eW1xWnBES1RrazZrQnFMcXlLb2otN3lnTlFZUFUyNHdfV243QlRTMlhYZXV3OUlwT3ZJT1VVejV5VmdTalBCalNNNA?oc=5",
+          "source": "OU Daily"
         },
         {
           "title": "12 Easy Money Saving Travel Tips - NerdWallet",

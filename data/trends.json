@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-27T11:28:24Z",
+  "fetched_at": "2026-10-28T11:58:56Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -9,22 +9,30 @@
   "topics": [
     {
       "keyword": "money",
-      "mentions": 13
-    },
-    {
-      "keyword": "tips",
       "mentions": 8
     },
     {
-      "keyword": "saving",
+      "keyword": "today",
       "mentions": 6
     },
     {
-      "keyword": "here",
+      "keyword": "tips",
+      "mentions": 6
+    },
+    {
+      "keyword": "saving",
+      "mentions": 5
+    },
+    {
+      "keyword": "rates",
       "mentions": 4
     },
     {
-      "keyword": "today",
+      "keyword": "retirement",
+      "mentions": 4
+    },
+    {
+      "keyword": "budget",
       "mentions": 4
     },
     {
@@ -36,23 +44,15 @@
       "mentions": 3
     },
     {
+      "keyword": "holiday",
+      "mentions": 3
+    },
+    {
       "keyword": "com",
       "mentions": 3
     },
     {
-      "keyword": "budget",
-      "mentions": 3
-    },
-    {
-      "keyword": "budgeting",
-      "mentions": 3
-    },
-    {
-      "keyword": "federal",
-      "mentions": 2
-    },
-    {
-      "keyword": "rates",
+      "keyword": "wealth",
       "mentions": 2
     }
   ],
@@ -60,52 +60,58 @@
   "discussion_highlights": [],
   "news": [
     {
-      "title": "Here are 5 reasons why a $1,000 car payment is a bad idea - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX2hlaHVlMDY4R041VnR6clBGUzR5MS1RQy1KYWk4aW5LbVFYbXhBbG9RaXFfcHlOamg4LVFOV0tUMXpNQWtSeWlaWnd2czFHZkdUQlVLZnhoWVk1TWhPcFQtLWNXMnVyUkNBLUZ2eXRlc1loaWRIYm5ETmV3WUhKdW50R2VxS3Q5aVhmdEtuNXN0VzlrekFSaThIbUlPTzM0dGo2SXE4dTQtXzVPcDZz?oc=5",
-      "published": "Mon, 26 Oct 2026 19:04:00 GMT",
-      "source": "USA Today"
-    },
-    {
-      "title": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcXZ6VS16VVVGaDZiM2NoUDVUX0NQVldsR3RZZkZRR0lXb0R0Sm56dVdFTjh3X2dURUh5N2FUYXgyUGZ5QXlWUzJobDhpWTRHTjZ2YzA5Ry1LQ3hJNk93OGNab2c3T1lGRUNCcmR4TFZNWTVOX1I1Z19WckhFbEJldGVXUznSAYoBQVVfeXFMTjVYMVJhMVNScnd1RE1ObnFaMFhENE03c1NqZW5EaHpGbjUweWRQMXVwMl93ZjczZUlBSC02aDZsLVkydzdCMFlWc0xUZG15TTU0V2hTQnJTMS1iTWJ1ckdSejdCcnlIMWRZTnNaNUZmcnlOa01JOHNNYjQ2OEZyOXpTQzVjMmtDUzRR?oc=5",
-      "published": "Mon, 26 Oct 2026 16:03:57 GMT",
+      "title": "Inherited IRAs can boost wealth — and trigger a tax bill. Here's how to reduce it - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaG9DZnI1YTdSSWYwc0F2TmdfY1VpbGhKMF9BWGxxbWVfdVVNRUpIVm5va2hFSFJCXzJmd3pTSVdpNmt4MWNsZHlmcjBOY0ZwcE13eE5wMjRFZWI5dUs2YXNaMWhxTF9xWXl6WUV2Qzh3UmcyNVFLeXMtcGp1WkVTZjZ4YnZUR0xWdENmT1Nqc9IBlAFBVV95cUxNaHk2LUw1d0hIVFh4OWJYUzUxLUlIM3poN2hIeGhBX1V3SmN2aFlkbERYUFYzTzVDQzk3eDZiSjhYQWg4N2pCdDRBN1hiOXBFQXlQYjhZWmZoSzdEbGtlUFNSRTFWeDBPN3RPamJzQ0NlN3N4MVFpVmJrYkd6NGVhM1dIQUIxQUxkeV85VjVwMzh5bEQ4?oc=5",
+      "published": "Tue, 27 Oct 2026 12:15:01 GMT",
       "source": "CNBC"
     },
     {
-      "title": "Here's a simple tip to begin your wealth-building journey today - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWo5RWp1dDB0WjF4MXg5anBqSm9EU19YMEk5NTZxQWZ1S29sdGZ1ODZkOW1RbDRENVVlNC1oNlA3aUxvdnhGTHZlS0VDZTlmYkRpUDVGcDZzckwzOWdrLXdkYUY1bjhoYnh6Mzk0bml2bWMtdTJ1aXJ6eHNVZkpfQ1pZU0N0RVU5R2FaYjJ6ZUJWSkJRX0FBSjVHR2dobjhWTENqSmNydmQ3VjRZLVJ4U2dVa1Vqc00yMW5j?oc=5",
-      "published": "Mon, 26 Oct 2026 21:11:23 GMT",
+      "title": "How parent co-applicants keep the American dream alive - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWFzXzRYbUFmU3NUbWVCTUx3SUlGXzRBVV9PQmtxLWZQSnNtajNwNVVWVDh2SDV2WERTcVg2ZXJiMmdxd0I0X0szV3BESVE0YzJmTHRjaEhTQVk5VVBQY3h5aFlpZGRGd2JhdGZNbENFOFMza1ZocUVtVUJVNmJuYUNqX2ZiX3EwUXY5VnNxRENLbTY5WHBTUXg4ZEEyYWdPUHQ1XzlVZVljUndteGdVaV9VZkxkWEo4c3cyblpyaXR4a2tNUU5ycFlkQ1otS1pJQU5v?oc=5",
+      "published": "Wed, 28 Oct 2026 10:07:00 GMT",
+      "source": "USA Today"
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, Wednesday, October 28, 2026: Mortgage rates move lower ahead of Fed decision day - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPNWVMTW1rSkZqaEpib29Sck1fN2dHQnJpejVqZ1hDX1FjRkNvMDJ3WFhONHpQYUYyWmVhT3BCY0dSc2FwNU9ZRE1fYk9FTlc3NGE3NlFqdnoyeTB0MF9jejZQTkZ1Sy00dUdpQ1dKeUtMWmdUMjZHbm5zN0x0ODlhOHNvQU9kUUFYRXJVcE4waVQxX21tbDRBZm45c19JRUFkbC1Va05ENHJOeXZKdno2ZzVWa0thbjNpSDhNWWotWjVWYS13cUhxVUsybklTUlVkR0NzdFdVTVVJekJ2RmVhU3Awd0lsdmM3UHZHc00yX3JZa29pVUpIcGd4T3dWNDZRNElRbWctUnBTRXU3VlU5OTQzR1NOM3d6a1ZpZmNDU1g2T3M?oc=5",
+      "published": "Wed, 28 Oct 2026 10:00:00 GMT",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Meta says its Muse AI agent can manage your money. Should you let it? - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOWlsNDJwQ0pVNjh0eENIME9OY3B1SWhRSlR5S01MYW1uN3pTNFJjaTFiNWlvYTQ1REF0Ym1QMkNwYlp6VVpaeE93QU5yZzI2MU5qOWxTSEZ0YXJ4VzE5QkkzYm5QVXVtSFVOMEx5YzdYV1ctNG9ZU2FfNldJTGpJYXJxVlIxU1JTb2tSZg?oc=5",
-      "published": "Sun, 25 Oct 2026 11:15:22 GMT",
-      "source": "San Francisco Chronicle"
+      "title": "Today’s top high-yield savings rates: Up to 4.70% on Oct. 28, 2026 - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83d19DVHljY2ZURHBtYVlFVUk3eTE0WUloTjAtbG9PSmNQbEdEenpYWnhXSDJOdEVSYmVMaTU1QmdqYjZWY1pxbnhHSmtxdlVRa2FObzZvUmZTSmtONU1uVGZ6T1hLdlZzOFhKeXFBTkg0X1dR?oc=5",
+      "published": "Wed, 28 Oct 2026 11:01:00 GMT",
+      "source": "Fortune"
     },
     {
-      "title": "An AI Conceived a Cyberattack Involving Christine Benz. A Cybersecurity Expert Explains - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX0xtTkx5TzkySTJOOFVoNXUzLUdTNkdHdUhMNlQ5ek9CQUd4VFVIQjVrMDNkdy1rNkJWdE5ONlhJdFJrdzNfRTJ6V2FVcEtfVW9MWEFlaEQwQWZfQ19XeXd5Mlh4Wko0dWhZbnJrdGFKaERrVnVPRVZfa0RZNm1mWUFIX216VzdTd28ya1dqQ0hwYUZvWkFFMGtaX1oyTVYxY216Z19wSi16UmZuZjZaWUJheS1FWWYzcjBzRmJROWF0XzdONkE?oc=5",
-      "published": "Sun, 25 Oct 2026 15:06:24 GMT",
-      "source": "Morningstar"
-    },
-    {
-      "title": "Is Student Loan Forgiveness Taxable in 2026? What the End of the Federal Tax Break Means for Your Wallet - Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRkxuSnNkQXp2bUx0dmdQZ3VENGJhcFphTHU1Q2NxWUtqTExFTktRTGtTcUlXYTNINGlaalBNd0ZCZ2dSVlJaMzZCLUZGZkNpa0w5NzNGNGlXbTVoNkhwU19Vck9Zc0lGOVItc0ZVY2VFLVVFTVh2UVRpT3dsM1B3aGlFaEVEeDZnX2MyT1NZQktXTndYMEE?oc=5",
-      "published": "Tue, 27 Oct 2026 11:00:00 GMT",
-      "source": "Kiplinger"
-    },
-    {
-      "title": "Today’s CD Rates for October 27, 2026: Highest APYs Range From 4.50% to 5.25% - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV3R2X09WY0ZTTU1TMXZONTU1VHJEQWRSeGRQRVlhWXpETkh6cnktSXBCWkNuMGpCM1J6alV3SmpmMnRpRnQ5ekJSSFRnd1RhblpBdmhRZEhZVVZ5RV9JeDB4Z0J0Z2xZTmdlX2FKcnpBTW42dGdBcGxfb1dFd2pVekZsbEw?oc=5",
-      "published": "Tue, 27 Oct 2026 09:00:00 GMT",
+      "title": "Today’s CD Rates for October 28, 2026: Highest APYs Range From 4.50% to 5.25% - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLXVZbzJlTXIwRTZKVzdMWVRJUEpORF9RQjduMnBQdWlCcldhRWFqQmloLUVfaXczZXp0ZkdFcnRMczlQcHFNNktIand2OGt5c0s5ZGhRQjhLeVFBYkJWOUlVN2VVbThmT29WRjN5ckREX0hxTW15XzNnRVkxUW5UWjdjMl8?oc=5",
+      "published": "Wed, 28 Oct 2026 09:00:00 GMT",
       "source": "WSJ"
     },
     {
-      "title": "Liz Weston: Don’t trust IRS to send you a timely refund? Here’s a tip from tax pros - OregonLive.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZVI0VWtjSGZCTlRVem02LWVfVEszc29yaWpGdEJadk1vRUs3VEo5QzJSOTBtRlpjMFJFbjlNNDRBM0FxTXd4ZXF3dHV4ZnloYWRibUFmQ2xPeFV6TGFuV3VNWWF5dFk4NUMzMjdTR1VacFpQZkZXcjJmaDhHVDRBdFhrTTdEdjBJbG85MjRWOHVPekJLd2dQVlJWLXZMSWRQcDNudTR2RGQwVlFTQ3NPVkpRMUxoOTkzVlZuclU0cWNTVzYyaHBj0gHbAUFVX3lxTE5QbUVLc3NaQ3ZhRzVxdGRUdmdtZ3NxNUFsT29DU3UxTUZEWFBxR19HaXdSU2gzVElkMnR5ZW1XbjFJS3dRLU5LSG5ZR0FkV0lySVdQRkdCbUhLQlpreTRFQjRrU1BRYV8zbXBmZ2lrR05rcFViTGE4UjRsYk9oUFdxWVRaUTg4NmVwOTFHWWR0OGR6UEZsaUN1QkpRQXROYTM1MFdKMVpFazZzUzBWVW9RRkRwaGc1dFpEMXhGdlZNNjZ3Zy1uU2c2ZXlsZGE4TDBFRVVnOFFYRVF1dw?oc=5",
-      "published": "Sun, 25 Oct 2026 14:00:00 GMT",
-      "source": "OregonLive.com"
+      "title": "How to Build a Decision-Free Zone Before Financial Panic Derails Your Wealth - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUjJkaHdDZTQwbkd0UWhHMVU3WHZTd3RtRV9sTGR1Ul94LW5DY1lXS0otUkRHSFFLcTl2dC1vOXNwRWt6enoxVHQ0cTV2aXVqcmczeTVyQ3ZuSFUtTFdPSVJ1SXZfVUpQWHA0MXRhUGNPXzl2UHZEeHQ0YUtodjhvWnlJSm9BSDV5eERVUjZxcE5vbXllbVZKTUVtOXdER09XNXRmbjFmTW8?oc=5",
+      "published": "Wed, 28 Oct 2026 11:07:00 GMT",
+      "source": "TheStreet"
+    },
+    {
+      "title": "Over 40% of Americans don’t know how much they'll need for retirement - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZEItazRtMjNfbGtSZzFDd1lTVnc2aFpSeDlnUVA3TDdVbE85bVlNc2FiOFlyQmV4c0dJZTB0UGRHSHpfRlphMHpNZ21OZndoS1hUQWJ2Y1Y1Z0hGQzBTZXhiT3FxMWhycTdQZ3RoLVd3TVB0ZlItd0ZzSFNMYjNoRFc0LTU4OTVnZ1lNalBKdjNBMmNuaXRTaFB5Y3JQUDdsN2djTE0zZW1XcnZTQzZDYkp1U0dBeUlidElUZVJuV25HQ29oNVdqTkozejJnbzJnRDl4b1duYlphZw?oc=5",
+      "published": "Tue, 27 Oct 2026 14:02:31 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Generation X is freaking out about its impending retirement - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV2MyMGNvaWlzUWtITjJ5MDlKSWFvemFUZVlUUjF3U01BTXNTa1hES281Yi1KbDY1ZGcwbjZZajFjS0hkWTd2aTFLSlQzZFlBQXdTYWFic29qa0ZsdVYtU2xGWEtMVTA0ZC1yNDlNN3Z0TVFQX0hHd2hJT3Y1eHlzcWoySzdqOUtUN0pzNnZNZk5kWHh3N1IwY0ZrcWxtVnpWX0U4cU5aSnZrSDBEdXRlazdOMjdPc0x2Ym0tRWFFUHhxSWFsNXdrdGFB?oc=5",
+      "published": "Wed, 28 Oct 2026 05:01:00 GMT",
+      "source": "USA Today"
+    },
+    {
+      "title": "School business officials share tips for navigating budget challenges - K-12 Dive",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeWhnOFBCN2pFbU5XbDhsWUx2QzlaMWVQRjdreUwxNEppUmR1cUgwRXJwWTZzRzg2dTNOV1lIVjQxbk02cTlYWXk4eXdZSWRxMmg4QXdoQlJFcmJkVUJmWVFTTmxsSkdOc0ZaaDRkQTc1dU1kUDRpbDZ4QV9remp3ZVM0czRlTjd1ckhQRlJGNTV4N3d1ZllUcDZlMVpCOTlHUlpEYi1MU0wtUQ?oc=5",
+      "published": "Fri, 23 Oct 2026 15:08:35 GMT",
+      "source": "K-12 Dive"
     },
     {
       "title": "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com",
@@ -114,50 +120,40 @@
       "source": "KXLY.com"
     },
     {
+      "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUZzTmdGWDQ3cGREaFdOcEhQdjlKblNzSzcwc3JMaUtqWUdRSkh4S3BBVC1uSlQtdmdEaFVtc3hBNnktU002VnRuMHhfSDMyREF2ZTFwWmZ0ajZrVVVYcUR5ZHBKcmtHRjZQYTAzOG5iVG1NcXJJWHZ4UWo5eW1xWnBES1RrazZrQnFMcXlLb2otN3lnTlFZUFUyNHdfV243QlRTMlhYZXV3OUlwT3ZJT1VVejV5VmdTalBCalNNNA?oc=5",
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "source": "OU Daily"
+    },
+    {
       "title": "12 Easy Money Saving Travel Tips - NerdWallet",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
       "published": "Tue, 13 Oct 2026 07:00:00 GMT",
       "source": "NerdWallet"
     },
     {
-      "title": "Can curry nights and canny advisers help Healey deliver a budget for everyday people? - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOUUxZU9BYmx5ZDhkS0d4MkpQMVNRTm1xUTdEUmt3TXJzRXlrdFByZkdsMG1PcGNIOVBiM3R6NVI0RE82bXRxSGJ5VEJ3SVZtQTRnOFI2blBiUGVaal9XSWt3SjlsbkstbUJXTG1JZzdEZmhrbi01dWU4dnB3T0VnZ20xTUtWeW45TTdZVlg2Y0tDaXVrLVFfbEY5RnJ5N1FvcE9XdkVRdDJPaGl5VEpTWHQxdThzbnBBMDl5ek00NndqUQ?oc=5",
-      "published": "Sat, 24 Oct 2026 11:06:00 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Holiday Budget Tips to Make Sure You Don't Overspend - TODAY.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPamNUZVRyeDhHZGZLWVE1cnFpNUxYY0VZeHJ0OWxtdDRjOTZCeS15dUxpVENNeGx6dm1KWHY5OThFSVVZV0lfblJLR1pQSEVicEJCOFlhR2UxMzZ3RnJXWGhGNjRCQUZDb2JsNGMzTkFhMGE0WlBSV3p5cUVYT3lHbmtPa3p3eE50d3NGWkUyV3JyLXU2M3FSeA?oc=5",
-      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "title": "How to Save on Holiday Gifts and Travel, According to an Expert - TODAY.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkhrOGRfaTBmYzdqVGhhWUxNNFhVd1JDeUhPSVlMY19hUlYtX2lCOTc5ejVLenkyYjVKUDRyQU5SZWVBVG1Ea0QxX21sZkZCOGhSZXR6U3JxQ3JuUFFWT0RSSEZJdS1yOVQ1V0pxZ1BsTUpnYnFiSXFtOFRnNTg4Sg?oc=5",
+      "published": "Fri, 16 Oct 2026 07:00:00 GMT",
       "source": "TODAY.com"
     },
     {
-      "title": "10 Christmas budgeting tips to help you have a debt-free January - The Money Pages",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX0Ewak0xbHdhRnFsN2ZYcjl4VFJZVlQ0VkpFT0lZc29YT3RST0NBTWFxU054Z1dkVmQtTDNPTDVZbzRia3hlbF8xYXV5X241WVMzNnBITVpGcHA1Rm1EY0tCX2NpQ3ZPdzlTZFFRekdMRmJ1d3FOU3AxSFg3TWpYSllvSFVDdlpsTlZIU3pCemctdnpLVnFZdnAxdE5CZWdyNm82ZU5jYWhQVDQ?oc=5",
-      "published": "Thu, 22 Oct 2026 12:27:56 GMT",
-      "source": "The Money Pages"
+      "title": "On a budget? Here's money-saving tips for holiday shopping - KBTX News 3",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTWM5QWRub25IUC1PYjFUNWV1ek9wT1ExZkJqWjkyLUlXX1RaUmJGZkJSM2l1VzdSYUxib05STG9BdHc3QXp4d09RdkY2bFdTb1BJZW1UZUVzVldEX1FxaEh2ZjdHMHQwTVlHeVVXNkdUblppQVd3N2RvSDJta2huTF9UNjhBY2pBb3NSR0F6RQ?oc=5",
+      "published": "Tue, 20 Oct 2026 15:10:00 GMT",
+      "source": "KBTX News 3"
     },
     {
-      "title": "Budgeting for teens: 18 tips for growing your money young - Credit Karma",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xdUw2SkNfeUprYm1lTXlOYVludUhBZFc0X2RCZGUzVm9GeUJneWUwd0ZXMXNja3JyVkpsYi1KTlUwazlzWmVJR1U1eWZlTlU4Z0RDLUtoZlRyaWpuSnVGZ2VMRU5WMk1DQzBlVWpraVRwcktNZG1J?oc=5",
-      "published": "Thu, 09 Jul 2026 07:00:00 GMT",
-      "source": "Credit Karma"
-    },
-    {
-      "title": "6-Step Financial Plan for 2026 - The Department of Financial Protection and Innovation (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOVHhmMmc5bHNRbV9VZUtNNFFGRTlUeHVBZlA3N0prY1lDa2dEVHRXakRRcW1fT1R0a2JKU1lWY0gzNzU0LUVxenJYSERZcWNDckRlNExOSmhWUUxQeUxTT1ZfMDRnMWN6bld1MFlzamJOUnM?oc=5",
-      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "source": "The Department of Financial Protection and Innovation (.gov)"
+      "title": "Nutrition students teach food budgeting workshop in collaboration with UT Outpost - The Daily Texan",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSHdSdFk4OHdtTEpLbHVZN0plNXdxV2pwN2tCTkRaR3ppdFdtOUxEQ2xNdkRrMWs0V2lNOEVxU1c3dXNEOWNkQXotM2kzSFdiVU1rWDYyZVBCeW5iZTk0bjBjTlBjSWpYX2p0amhtUFM1bDZKR0h5SVNlQlRzVzlkUWNyZ2hRbEF5YlladUJyRUJrTVFYYUFJM1ZUR1I4MldjdDNBUC1XdFN0ZU80aGstd3JTSU5yV1BzYmlJ?oc=5",
+      "published": "Mon, 19 Oct 2026 06:16:34 GMT",
+      "source": "The Daily Texan"
     }
   ],
   "hn_stories": [],
   "trending_searches": [
     {
-      "term": "daylight savings 2026 ends",
-      "source": "Google Trends US"
-    },
-    {
-      "term": "cliff mason mad money",
+      "term": "gev stock",
       "source": "Google Trends US"
     }
   ],
