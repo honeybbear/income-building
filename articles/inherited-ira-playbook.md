@@ -53,6 +53,6 @@ An inherited **Roth** IRA follows the same 10-year emptying deadline, but qualif
 
 ## The bottom line
 
-An inherited IRA rewards patience and punishes lump sums. Know which clock you're on, spread traditional IRA withdrawals across lower-income years, and get the year-of-death and RMD details right in year one. The tax code gives you up to a decade to get this right — use all of it, deliberately.
+An inherited IRA rewards patience and punishes lump sums. Know which clock you're on, spread withdrawals across lower-income years, and get the year-one details right. The tax code gives you up to a decade — use all of it, deliberately.
 
 *Educational content only — not financial or tax advice. Inherited IRA rules have exceptions and edge cases; for a large balance, a CPA or estate attorney is money well spent.*
