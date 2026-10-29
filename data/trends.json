@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-28T11:58:56Z",
+  "fetched_at": "2026-10-29T12:09:28Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -9,34 +9,14 @@
   "topics": [
     {
       "keyword": "money",
-      "mentions": 8
-    },
-    {
-      "keyword": "today",
-      "mentions": 6
-    },
-    {
-      "keyword": "tips",
-      "mentions": 6
+      "mentions": 9
     },
     {
       "keyword": "saving",
       "mentions": 5
     },
     {
-      "keyword": "rates",
-      "mentions": 4
-    },
-    {
-      "keyword": "retirement",
-      "mentions": 4
-    },
-    {
-      "keyword": "budget",
-      "mentions": 4
-    },
-    {
-      "keyword": "save",
+      "keyword": "tips",
       "mentions": 4
     },
     {
@@ -44,20 +24,48 @@
       "mentions": 3
     },
     {
-      "keyword": "holiday",
+      "keyword": "here",
       "mentions": 3
     },
     {
-      "keyword": "com",
+      "keyword": "budget",
       "mentions": 3
     },
     {
-      "keyword": "wealth",
+      "keyword": "today",
+      "mentions": 3
+    },
+    {
+      "keyword": "savings",
+      "mentions": 3
+    },
+    {
+      "keyword": "budgeting",
+      "mentions": 3
+    },
+    {
+      "keyword": "times",
+      "mentions": 3
+    },
+    {
+      "keyword": "save",
+      "mentions": 3
+    },
+    {
+      "keyword": "payment",
       "mentions": 2
     }
   ],
   "questions": [],
-  "discussion_highlights": [],
+  "discussion_highlights": [
+    {
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "source": "Hacker News",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "score": 244,
+      "comments": 154
+    }
+  ],
   "news": [
     {
       "title": "Inherited IRAs can boost wealth — and trigger a tax bill. Here's how to reduce it - CNBC",
@@ -66,34 +74,16 @@
       "source": "CNBC"
     },
     {
-      "title": "How parent co-applicants keep the American dream alive - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWFzXzRYbUFmU3NUbWVCTUx3SUlGXzRBVV9PQmtxLWZQSnNtajNwNVVWVDh2SDV2WERTcVg2ZXJiMmdxd0I0X0szV3BESVE0YzJmTHRjaEhTQVk5VVBQY3h5aFlpZGRGd2JhdGZNbENFOFMza1ZocUVtVUJVNmJuYUNqX2ZiX3EwUXY5VnNxRENLbTY5WHBTUXg4ZEEyYWdPUHQ1XzlVZVljUndteGdVaV9VZkxkWEo4c3cyblpyaXR4a2tNUU5ycFlkQ1otS1pJQU5v?oc=5",
-      "published": "Wed, 28 Oct 2026 10:07:00 GMT",
-      "source": "USA Today"
+      "title": "Where's the Best Place to Store $50k Now? - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc2hXUEdkMmxwblp0ZEoxZklrcmtqdk83SGRIV0VzRUNBaTdGMTVTWnJURU1LS285SGFMdzh0LXNGLThzRHdCOHpFWnBQX0ZIQ0NtOU1xX3ZOTjQycDFqRkpWVE1fMDFlTExiZFZrcWo1emNKM3lESUJLaGIxNnhvZUppME5TLXdTYTdkVHlqSk0xTTM4X1IzNWd2MEEzb0k?oc=5",
+      "published": "Tue, 27 Oct 2026 10:00:00 GMT",
+      "source": "Kiplinger"
     },
     {
-      "title": "Mortgage and refinance interest rates today, Wednesday, October 28, 2026: Mortgage rates move lower ahead of Fed decision day - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPNWVMTW1rSkZqaEpib29Sck1fN2dHQnJpejVqZ1hDX1FjRkNvMDJ3WFhONHpQYUYyWmVhT3BCY0dSc2FwNU9ZRE1fYk9FTlc3NGE3NlFqdnoyeTB0MF9jejZQTkZ1Sy00dUdpQ1dKeUtMWmdUMjZHbm5zN0x0ODlhOHNvQU9kUUFYRXJVcE4waVQxX21tbDRBZm45c19JRUFkbC1Va05ENHJOeXZKdno2ZzVWa0thbjNpSDhNWWotWjVWYS13cUhxVUsybklTUlVkR0NzdFdVTVVJekJ2RmVhU3Awd0lsdmM3UHZHc00yX3JZa29pVUpIcGd4T3dWNDZRNElRbWctUnBTRXU3VlU5OTQzR1NOM3d6a1ZpZmNDU1g2T3M?oc=5",
-      "published": "Wed, 28 Oct 2026 10:00:00 GMT",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Today’s top high-yield savings rates: Up to 4.70% on Oct. 28, 2026 - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83d19DVHljY2ZURHBtYVlFVUk3eTE0WUloTjAtbG9PSmNQbEdEenpYWnhXSDJOdEVSYmVMaTU1QmdqYjZWY1pxbnhHSmtxdlVRa2FObzZvUmZTSmtONU1uVGZ6T1hLdlZzOFhKeXFBTkg0X1dR?oc=5",
-      "published": "Wed, 28 Oct 2026 11:01:00 GMT",
-      "source": "Fortune"
-    },
-    {
-      "title": "Today’s CD Rates for October 28, 2026: Highest APYs Range From 4.50% to 5.25% - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLXVZbzJlTXIwRTZKVzdMWVRJUEpORF9RQjduMnBQdWlCcldhRWFqQmloLUVfaXczZXp0ZkdFcnRMczlQcHFNNktIand2OGt5c0s5ZGhRQjhLeVFBYkJWOUlVN2VVbThmT29WRjN5ckREX0hxTW15XzNnRVkxUW5UWjdjMl8?oc=5",
-      "published": "Wed, 28 Oct 2026 09:00:00 GMT",
+      "title": "So Your Mortgage Payment Just Spiked. Here’s What You Can Do. - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTXhxUmZFak1HQkp3Ul9VQnl0WHRuX0JvMk0tWFlMaEFqWXVfVC01TE41cGZkM1JzR18yUnRQY0pzY3NiSUs2aWdwb0w3Sm9UaHUtM093MjB1SlZjbHBHbmd3R2dzeEs0bnBzZ3gxQUFTOWVzSWJyek5ORTVhN3M4NUNwd0pncGJ0VWVxbWZ0V2NWLUp6YWlvRmRNSkNXV1R1aW41QVd4dw?oc=5",
+      "published": "Thu, 29 Oct 2026 09:30:00 GMT",
       "source": "WSJ"
-    },
-    {
-      "title": "How to Build a Decision-Free Zone Before Financial Panic Derails Your Wealth - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUjJkaHdDZTQwbkd0UWhHMVU3WHZTd3RtRV9sTGR1Ul94LW5DY1lXS0otUkRHSFFLcTl2dC1vOXNwRWt6enoxVHQ0cTV2aXVqcmczeTVyQ3ZuSFUtTFdPSVJ1SXZfVUpQWHA0MXRhUGNPXzl2UHZEeHQ0YUtodjhvWnlJSm9BSDV5eERVUjZxcE5vbXllbVZKTUVtOXdER09XNXRmbjFmTW8?oc=5",
-      "published": "Wed, 28 Oct 2026 11:07:00 GMT",
-      "source": "TheStreet"
     },
     {
       "title": "Over 40% of Americans don’t know how much they'll need for retirement - Yahoo Finance",
@@ -102,16 +92,34 @@
       "source": "Yahoo Finance"
     },
     {
-      "title": "Generation X is freaking out about its impending retirement - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV2MyMGNvaWlzUWtITjJ5MDlKSWFvemFUZVlUUjF3U01BTXNTa1hES281Yi1KbDY1ZGcwbjZZajFjS0hkWTd2aTFLSlQzZFlBQXdTYWFic29qa0ZsdVYtU2xGWEtMVTA0ZC1yNDlNN3Z0TVFQX0hHd2hJT3Y1eHlzcWoySzdqOUtUN0pzNnZNZk5kWHh3N1IwY0ZrcWxtVnpWX0U4cU5aSnZrSDBEdXRlazdOMjdPc0x2Ym0tRWFFUHhxSWFsNXdrdGFB?oc=5",
-      "published": "Wed, 28 Oct 2026 05:01:00 GMT",
+      "title": "The Autumn Budget Explained in 2 Minutes - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVlkwWWNNX0ZxRktjS0p6YVJuOEpuWnlJYlBwQ05NQVdlRFhoSjFfNzkyeHVyZWhEQnhPaWFkaW81YzBqQ09hVWFfZUdSY192YXJSV0k3ZFF0SWVVQ3duMkFDZm12aDRjUFZfUTY5QWFJZEVGSGVtX2swVmNQdGlsME95UjZZZkdUQi1qU1RKWEU?oc=5",
+      "published": "Wed, 28 Oct 2026 15:34:31 GMT",
+      "source": "Morningstar"
+    },
+    {
+      "title": "Here are 5 reasons why a $1,000 car payment is a bad idea - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX2hlaHVlMDY4R041VnR6clBGUzR5MS1RQy1KYWk4aW5LbVFYbXhBbG9RaXFfcHlOamg4LVFOV0tUMXpNQWtSeWlaWnd2czFHZkdUQlVLZnhoWVk1TWhPcFQtLWNXMnVyUkNBLUZ2eXRlc1loaWRIYm5ETmV3WUhKdW50R2VxS3Q5aVhmdEtuNXN0VzlrekFSaThIbUlPTzM0dGo2SXE4dTQtXzVPcDZz?oc=5",
+      "published": "Mon, 26 Oct 2026 19:04:00 GMT",
       "source": "USA Today"
     },
     {
-      "title": "School business officials share tips for navigating budget challenges - K-12 Dive",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeWhnOFBCN2pFbU5XbDhsWUx2QzlaMWVQRjdreUwxNEppUmR1cUgwRXJwWTZzRzg2dTNOV1lIVjQxbk02cTlYWXk4eXdZSWRxMmg4QXdoQlJFcmJkVUJmWVFTTmxsSkdOc0ZaaDRkQTc1dU1kUDRpbDZ4QV9remp3ZVM0czRlTjd1ckhQRlJGNTV4N3d1ZllUcDZlMVpCOTlHUlpEYi1MU0wtUQ?oc=5",
-      "published": "Fri, 23 Oct 2026 15:08:35 GMT",
-      "source": "K-12 Dive"
+      "title": "4 in 10 say personal finances worsening: Survey - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObnEtWjB5dXJwQ1N3cUpxY2l6ZFZnS2tUdm9TakQ1OEpmeFdGYl91UldDYzFQdW5pTTNsZU1JN1NCdjRMTEZkYUZCemRuREtBWllrQVpoSEw3dUFMWTh5eno1Q1lPQVg2NGZsUDV4QW4zcVlIbFdJWjNlQk52T0dxV9IBhgFBVV95cUxOdjl2OGI5M2g3YzdqbzhsQWJycHhvSGhNTnJOQnpndFFOT2JHZmFQeDcwR2QwdXk1WlZyMnJKR0VqSWV6Y19ELThYLTBGc28zaUxzaDBlRS1uVU14WklkazNZeVhkTHZaZS13bzJBYWhRVGVkRDBxVmJBNG9hWktqRGdmWEpOZw?oc=5",
+      "published": "Tue, 27 Oct 2026 19:50:00 GMT",
+      "source": "The Hill"
+    },
+    {
+      "title": "The Generosity Paradox: Why Family Caregiving Can Derail Your Retirement - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamRSd193dkFFVDJnWHU3cS1uZDJuRlJuRWhJelI5M0k3WGhsVkNnUERBSFhOUnZ3STRpZy1uWWF0OE8wQUVOZm5tbEkwM09JZWl4RlJfRFFjWmI4R0JUaVY5cU90UFd0TmVVem1oTXBON2pST3RxZWVPWHlteVhLdVdwMlU2Q1pSMzhEcXp5bjlldndQSHoxT0RHYmFSampOdHlaaUdYMEZ4RlRvTnpJUEtsRmRuY1FIY2wzS193QUphZw?oc=5",
+      "published": "Thu, 29 Oct 2026 11:17:00 GMT",
+      "source": "TheStreet"
+    },
+    {
+      "title": "Sun, fun and savings: Your guide for vacation budgeting - Roanoke Times",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFJhekV1ZF9LVTJJSVd4eE5PYmdwX0pkYmdUNmU3NkFWOGl4Tmo3UDF5SmRtenctQkxRTm1sQmVUbVRBOXFnVkNicXVHMC1Fd0NNYTlfWm5ocGpyWjF4LWlfdjNCYy13TEZ6ZkZRS0xGekhVNHQ4N3RpZmxKUXlJNVZfVWttOXVrUzVkT1hNWnZjYWRxN05faHV3Q3E4MGxSa1JRLWVFRkVROEtpYzNsNXZIUQ?oc=5",
+      "published": "Wed, 28 Oct 2026 12:16:20 GMT",
+      "source": "Roanoke Times"
     },
     {
       "title": "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com",
@@ -120,40 +128,48 @@
       "source": "KXLY.com"
     },
     {
-      "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUZzTmdGWDQ3cGREaFdOcEhQdjlKblNzSzcwc3JMaUtqWUdRSkh4S3BBVC1uSlQtdmdEaFVtc3hBNnktU002VnRuMHhfSDMyREF2ZTFwWmZ0ajZrVVVYcUR5ZHBKcmtHRjZQYTAzOG5iVG1NcXJJWHZ4UWo5eW1xWnBES1RrazZrQnFMcXlLb2otN3lnTlFZUFUyNHdfV243QlRTMlhYZXV3OUlwT3ZJT1VVejV5VmdTalBCalNNNA?oc=5",
-      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "source": "OU Daily"
-    },
-    {
       "title": "12 Easy Money Saving Travel Tips - NerdWallet",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
       "published": "Tue, 13 Oct 2026 07:00:00 GMT",
       "source": "NerdWallet"
     },
     {
-      "title": "How to Save on Holiday Gifts and Travel, According to an Expert - TODAY.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkhrOGRfaTBmYzdqVGhhWUxNNFhVd1JDeUhPSVlMY19hUlYtX2lCOTc5ejVLenkyYjVKUDRyQU5SZWVBVG1Ea0QxX21sZkZCOGhSZXR6U3JxQ3JuUFFWT0RSSEZJdS1yOVQ1V0pxZ1BsTUpnYnFiSXFtOFRnNTg4Sg?oc=5",
-      "published": "Fri, 16 Oct 2026 07:00:00 GMT",
+      "title": "Sun, fun and savings: Your guide for vacation budgeting - Martinsville Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNUc1M3NNOG9kZ2Z0YWh3UU1Yc3dXeEM4alBMS0NTOFRtS0t5QTdmREF0OWc5QUJlU3NPdGJ6YVNEZlVsNWF3dXBVZXF6QVNJWXFiWW92NXRaQ0l1eFFyOTlxdHk0TTdLbnlTRGFyYnFjNkN1a2x3S2VIR2hWcVB3WWV6RktOZW5vbjQ0Ul8yY0lab1UzbXZzRzRsb1F3cVo5Q1VZYjdYR3IzM3FxVTd3cnNreHNuYUs0OXZlYWJpb3IyQ0FY?oc=5",
+      "published": "Wed, 28 Oct 2026 12:16:20 GMT",
+      "source": "Martinsville Bulletin"
+    },
+    {
+      "title": "Healey gives households £100 to help navigate ‘global economic storms’ - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOV0pXaU1tdWR2aEIwOGJfMVBBUEtqNU8xRlREWVljSjF4d2ZKMjhaT2lxU3JSVXNBM0I2eGgwR1Y2YXRQNmw0cUVDcEhSTXpQeTdjRXZhV01iYTRackhuMUtHc0dVMHFpZXIyWmpQT0R6bU1KN3RzdlNTcUMzdXo3c3V5eTVqak44ZDNWLW9HMGxVcEdJOGhNajR6NmdDdHdkdTQ4c1BWM084X3Y1WGN0SlhMWmNjMkNKbExSZUhTMWJIS1U2LVAyN1cxalhhUnZwTEtTa3l6NnpMQ0RB?oc=5",
+      "published": "Wed, 28 Oct 2026 13:17:00 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Holiday Budget Tips to Make Sure You Don't Overspend - TODAY.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPamNUZVRyeDhHZGZLWVE1cnFpNUxYY0VZeHJ0OWxtdDRjOTZCeS15dUxpVENNeGx6dm1KWHY5OThFSVVZV0lfblJLR1pQSEVicEJCOFlhR2UxMzZ3RnJXWGhGNjRCQUZDb2JsNGMzTkFhMGE0WlBSV3p5cUVYT3lHbmtPa3p3eE50d3NGWkUyV3JyLXU2M3FSeA?oc=5",
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
       "source": "TODAY.com"
     },
     {
-      "title": "On a budget? Here's money-saving tips for holiday shopping - KBTX News 3",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTWM5QWRub25IUC1PYjFUNWV1ek9wT1ExZkJqWjkyLUlXX1RaUmJGZkJSM2l1VzdSYUxib05STG9BdHc3QXp4d09RdkY2bFdTb1BJZW1UZUVzVldEX1FxaEh2ZjdHMHQwTVlHeVVXNkdUblppQVd3N2RvSDJta2huTF9UNjhBY2pBb3NSR0F6RQ?oc=5",
-      "published": "Tue, 20 Oct 2026 15:10:00 GMT",
-      "source": "KBTX News 3"
-    },
-    {
-      "title": "Nutrition students teach food budgeting workshop in collaboration with UT Outpost - The Daily Texan",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSHdSdFk4OHdtTEpLbHVZN0plNXdxV2pwN2tCTkRaR3ppdFdtOUxEQ2xNdkRrMWs0V2lNOEVxU1c3dXNEOWNkQXotM2kzSFdiVU1rWDYyZVBCeW5iZTk0bjBjTlBjSWpYX2p0amhtUFM1bDZKR0h5SVNlQlRzVzlkUWNyZ2hRbEF5YlladUJyRUJrTVFYYUFJM1ZUR1I4MldjdDNBUC1XdFN0ZU80aGstd3JTSU5yV1BzYmlJ?oc=5",
-      "published": "Mon, 19 Oct 2026 06:16:34 GMT",
-      "source": "The Daily Texan"
+      "title": "Budgeting for teens: 18 tips for growing your money young - Credit Karma",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xdUw2SkNfeUprYm1lTXlOYVludUhBZFc0X2RCZGUzVm9GeUJneWUwd0ZXMXNja3JyVkpsYi1KTlUwazlzWmVJR1U1eWZlTlU4Z0RDLUtoZlRyaWpuSnVGZ2VMRU5WMk1DQzBlVWpraVRwcktNZG1J?oc=5",
+      "published": "Thu, 09 Jul 2026 07:00:00 GMT",
+      "source": "Credit Karma"
     }
   ],
-  "hn_stories": [],
+  "hn_stories": [
+    {
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "score": 244,
+      "comments": 154,
+      "source": "Hacker News"
+    }
+  ],
   "trending_searches": [
     {
-      "term": "gev stock",
+      "term": "cat stock",
       "source": "Google Trends US"
     }
   ],
