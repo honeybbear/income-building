@@ -42,6 +42,7 @@ TOPICS = {
     "safe-retirement-spending-playbook": ["retirement", "budgeting"],
     "financial-breakup-playbook": ["budgeting", "getting started"],
     "where-to-park-50000": ["saving", "investing"],
+    "fsa-use-it-or-lose-it-playbook": ["taxes", "saving"],
 }
 
 
