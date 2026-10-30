@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T12:09:28Z",
+  "generated_at": "2026-10-30T11:59:52Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -20,11 +20,16 @@
         "Sensible next steps"
       ],
       "key_points": [
+        "‘I Wish I Could Move Out, But My Parents Need the Rent Money’ - The Cut (The Cut)",
         "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com (KXLY.com)",
-        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)",
-        "Budgeting for teens: 18 tips for growing your money young - Credit Karma (Credit Karma)"
+        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
       ],
       "sources": [
+        {
+          "title": "‘I Wish I Could Move Out, But My Parents Need the Rent Money’ - The Cut",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY3pHTDNSR3A2Rld2QW9faVk4NzEtYjRoeU5wdmF0Rll4dEVOM0hZMERTcGZDdzloNUdub0VrM0lGN2RSTHh4eTl5ZVBHYW1tS2lROHdmbUNkVjVyRnByWFBfeFpKcXlFdGVSYndMS3daalV6Z29VbjZnbnpLcm5nMFBUR25CSEEyMktJSktNWEJwdw?oc=5",
+          "source": "The Cut"
+        },
         {
           "title": "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeWpKRGFOU0NTTVZXZUVEZHRsMG1Zd0dmVVpYSGNqSkFhS3pLNldGTlF6QXpfMmhjbTVMcEo4LUpSbHF4MDdrbEF2eG5ER2FfQ0tXRDZkX1JUN0NUZzc2NF9qTW9IVVdVZGctX3BBeUpudk5YcDBIN1F6SFZPcUhIQU9BZlJBTlRYcXZqS0l6d0ZTUEZKTnpfTlZoUWhWSXgzREgzbVBWTUZlc09jZ2NwUm1QVFdMcXBNempkeFRobHdDVFNyZFB1dEtjWUZmQk5hbHNlbmFnTFNINFFwSzIwRkQ4eFhSaHI0?oc=5",
@@ -34,11 +39,6 @@
           "title": "12 Easy Money Saving Travel Tips - NerdWallet",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
           "source": "NerdWallet"
-        },
-        {
-          "title": "Budgeting for teens: 18 tips for growing your money young - Credit Karma",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xdUw2SkNfeUprYm1lTXlOYVludUhBZFc0X2RCZGUzVm9GeUJneWUwd0ZXMXNja3JyVkpsYi1KTlUwazlzWmVJR1U1eWZlTlU4Z0RDLUtoZlRyaWpuSnVGZ2VMRU5WMk1DQzBlVWpraVRwcktNZG1J?oc=5",
-          "source": "Credit Karma"
         }
       ]
     },
@@ -62,7 +62,7 @@
         "Sun, fun and savings: Your guide for vacation budgeting - Roanoke Times (Roanoke Times)",
         "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com (KXLY.com)",
         "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)",
-        "Sun, fun and savings: Your guide for vacation budgeting - Martinsville Bulletin (Martinsville Bulletin)"
+        "Sun, fun and savings: Your guide for vacation budgeting - Greensboro News and Record (Greensboro News and Record)"
       ],
       "sources": [
         {
@@ -81,9 +81,9 @@
           "source": "NerdWallet"
         },
         {
-          "title": "Sun, fun and savings: Your guide for vacation budgeting - Martinsville Bulletin",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNUc1M3NNOG9kZ2Z0YWh3UU1Yc3dXeEM4alBMS0NTOFRtS0t5QTdmREF0OWc5QUJlU3NPdGJ6YVNEZlVsNWF3dXBVZXF6QVNJWXFiWW92NXRaQ0l1eFFyOTlxdHk0TTdLbnlTRGFyYnFjNkN1a2x3S2VIR2hWcVB3WWV6RktOZW5vbjQ0Ul8yY0lab1UzbXZzRzRsb1F3cVo5Q1VZYjdYR3IzM3FxVTd3cnNreHNuYUs0OXZlYWJpb3IyQ0FY?oc=5",
-          "source": "Martinsville Bulletin"
+          "title": "Sun, fun and savings: Your guide for vacation budgeting - Greensboro News and Record",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaUdPSk4tU0FiWFhKZFZ2ZXFYTmJkRXp0U3lXM004OWMyYjBjWF9sc09BMjJrVnB1cXAxV1dQbTM2b2hZNDhZbVhQakRKZzRNM2tlVU4xZkJJVDY4WDNvT3NkdW9XZU1kbkRnTXpnN0Q0V2FIaG85Unp6bHptc2NqSnRaa1hoZ21qME5CblhkMEVqQ19JOGdIaHRzZHo2S3FjUnRaYkxBVjllTllObzgzZkNEQ2I0dWs?oc=5",
+          "source": "Greensboro News and Record"
         }
       ]
     },
@@ -91,44 +91,38 @@
       "id": "t-2",
       "kind": "trending-topic",
       "headline_options": [
-        "Tips, explained in plain English",
-        "What you should actually know about tips",
-        "Tips: the honest beginner's guide"
+        "Rates, explained in plain English",
+        "What you should actually know about rates",
+        "Rates: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What tips means in plain English",
+        "What rates means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com (KXLY.com)",
-        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)",
-        "Holiday Budget Tips to Make Sure You Don't Overspend - TODAY.com (TODAY.com)",
-        "Budgeting for teens: 18 tips for growing your money young - Credit Karma (Credit Karma)"
+        "Mortgage and refinance interest rates today, Friday, October 30, 2026: Rates move lower after Fed holds rates steady - Yahoo Finance (Yahoo Finance)",
+        "Current ARM mortgage rates report for Oct. 30, 2026 - Fortune (Fortune)",
+        "Today’s CD Rates for October 30, 2026: Highest APYs Range From 4.50% to 5.25% - WSJ (WSJ)"
       ],
       "sources": [
         {
-          "title": "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeWpKRGFOU0NTTVZXZUVEZHRsMG1Zd0dmVVpYSGNqSkFhS3pLNldGTlF6QXpfMmhjbTVMcEo4LUpSbHF4MDdrbEF2eG5ER2FfQ0tXRDZkX1JUN0NUZzc2NF9qTW9IVVdVZGctX3BBeUpudk5YcDBIN1F6SFZPcUhIQU9BZlJBTlRYcXZqS0l6d0ZTUEZKTnpfTlZoUWhWSXgzREgzbVBWTUZlc09jZ2NwUm1QVFdMcXBNempkeFRobHdDVFNyZFB1dEtjWUZmQk5hbHNlbmFnTFNINFFwSzIwRkQ4eFhSaHI0?oc=5",
-          "source": "KXLY.com"
+          "title": "Mortgage and refinance interest rates today, Friday, October 30, 2026: Rates move lower after Fed holds rates steady - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQUGhZREkxYkxrRE9TN1hoVG1jazZ3OFpLQTFQT082Wkp0RTJ4NlNzZi1UbHVvOVFTM0NiSkFrbmE4VHZQbU5SRFZtUERvTlFBU2NRWlJRNWwweWhHZXlOTTlxQjAwR3VLZFl2dnpDdXUyUGhBTHlPMlkxSTRtWVQ2Y0NGdlE3Y0poQVh0S0RaX2xQT0lOY2tMT2JZMUYzLTdrMVBaSjloTTZQdWJFbG9KczVEQmYzS1FpVWxINXVlQzhfTEdfMlhtb3huNmpHZW8xYzN4NEJOWl9tWC1pYUhXYXQzS3lvRE1VNndLc055UFJxYlYzTEVyTlZRYzJ2cnJ5SGZhai1PbUc0N0g3X09zbWE5YW9CVTQ?oc=5",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
-          "source": "NerdWallet"
+          "title": "Current ARM mortgage rates report for Oct. 30, 2026 - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pRkdWUm5pMk9LanJJS2lRRDBDaDhpZ0ktT0pmTmNlSTV1X0hwY1lSOHoxVG53MkRWaFJmazZBX1p0dzJIOU5rbkQ2WlBtSUZOd3UyWi1jcWRkM0ZEOTg5U2h5UGRCUUNIcVlmXzNmMzhTVmRz?oc=5",
+          "source": "Fortune"
         },
         {
-          "title": "Holiday Budget Tips to Make Sure You Don't Overspend - TODAY.com",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPamNUZVRyeDhHZGZLWVE1cnFpNUxYY0VZeHJ0OWxtdDRjOTZCeS15dUxpVENNeGx6dm1KWHY5OThFSVVZV0lfblJLR1pQSEVicEJCOFlhR2UxMzZ3RnJXWGhGNjRCQUZDb2JsNGMzTkFhMGE0WlBSV3p5cUVYT3lHbmtPa3p3eE50d3NGWkUyV3JyLXU2M3FSeA?oc=5",
-          "source": "TODAY.com"
-        },
-        {
-          "title": "Budgeting for teens: 18 tips for growing your money young - Credit Karma",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xdUw2SkNfeUprYm1lTXlOYVludUhBZFc0X2RCZGUzVm9GeUJneWUwd0ZXMXNja3JyVkpsYi1KTlUwazlzWmVJR1U1eWZlTlU4Z0RDLUtoZlRyaWpuSnVGZ2VMRU5WMk1DQzBlVWpraVRwcktNZG1J?oc=5",
-          "source": "Credit Karma"
+          "title": "Today’s CD Rates for October 30, 2026: Highest APYs Range From 4.50% to 5.25% - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWmk3VlRBX2dQdHhtSUZvM1AtcnBCc3BiaU1xQnhIekQyY2ZNS3k5c2I3blZ1bmh1UUxBcUI0ZF94MWhrbU1fZm9rTnR6RXVDWkNCV1R4bTFfbmFGZDdjVkhpd21fOWxUbWktaG8yTUliWGVfT0ZLZGFPRHV5UDZnUWJ6d3c?oc=5",
+          "source": "WSJ"
         }
       ]
     }
