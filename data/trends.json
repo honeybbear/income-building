@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-30T11:59:52Z",
+  "fetched_at": "2026-10-31T11:35:17Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -9,50 +9,50 @@
   "topics": [
     {
       "keyword": "money",
-      "mentions": 11
+      "mentions": 9
     },
     {
-      "keyword": "saving",
+      "keyword": "budget",
       "mentions": 6
     },
     {
-      "keyword": "rates",
+      "keyword": "tips",
       "mentions": 5
+    },
+    {
+      "keyword": "saving",
+      "mentions": 5
+    },
+    {
+      "keyword": "news",
+      "mentions": 4
     },
     {
       "keyword": "save",
-      "mentions": 5
-    },
-    {
-      "keyword": "budgeting",
       "mentions": 4
     },
     {
-      "keyword": "tips",
+      "keyword": "savings",
       "mentions": 4
     },
     {
-      "keyword": "cut",
-      "mentions": 3
+      "keyword": "elon",
+      "mentions": 4
     },
     {
-      "keyword": "retirement",
-      "mentions": 3
+      "keyword": "musk",
+      "mentions": 4
     },
     {
       "keyword": "today",
       "mentions": 3
     },
     {
-      "keyword": "dive",
+      "keyword": "rates",
       "mentions": 3
     },
     {
-      "keyword": "elon",
-      "mentions": 3
-    },
-    {
-      "keyword": "musk",
+      "keyword": "budgeting",
       "mentions": 3
     }
   ],
@@ -66,16 +66,22 @@
       "source": "The Cut"
     },
     {
-      "title": "76% of U.S. Investors Fear Public Debt Will Cut Retirement Benefits. Social Security's 2032 Shortfall Could Take $550 From a $2,500 Monthly Check - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOcUxYMExFM2NOSVZqYTZmTDJjVEZjUWx3elNxT0ZxY1Y3RG1rQm9ZNlVBVHVrNzRmRERLcUZzNTI0V0prUWNpMXhSS2RZZEU3b3BpOXB0ZFlKejIzb1VlelVtQ3JSRUY4YVRKU2owcktXVHNqblpmV2xlQ092STd1enZnSHdvd2hlQ3ZtZG0xR2tsWGIxajMxMmZybWE5elRlM3VrMGtqSy1wSkxIM2c2UXlTYmswbHpHU3RHVmxhVG43WlBndGpWbE5UUWk2OWdqZDZLczNGZnYxSW9TN0s0dFJsZEpwdFVoVUN2Q1YxT0YzVGVfS1BxQTFHakE4TU9BS083WVhibjZobS1raHczYnc2cnNtc3pkcUUtWldZb0F5ZTZNbTJyeU1COGF0Zw?oc=5",
-      "published": "Fri, 30 Oct 2026 02:00:00 GMT",
-      "source": "24/7 Wall St."
+      "title": "Rich Americans now say they need $2.6M to retire. Are they hitting it? - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjNxTng0WG9QTmd2Um5YVXZiM1p3LUExbEQzM2xyakl2UzhRSzdLSlNvWUtSRHRra25uZkp3eGhqN1dOeEJ4c290dm9jWW05YjVvWFdHTWFsbUNHck43SXE4cGt1U2cyaW8xeUFiRTZKalU2NHIyeUtzZkhxWGFPODhZUVZ4QW5XUTl5MWtST0dSX0tfeWxMN0pydnZDaFpIS29wSDVGLTdKSHhVckktUmRwelF5bEtralExTzJuT0tYMENu?oc=5",
+      "published": "Sat, 31 Oct 2026 10:01:00 GMT",
+      "source": "USA Today"
     },
     {
-      "title": "What You Can Do Now to Cut Your 2026 Taxes - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU0RudU9IdEdjS3RJUURVTkVBYmxzYUJsaG82TDlkYXRmUVBCeWQtaDZBXzRIS3VwY3oxYUF0YlRnS3FrX2JIU1RfY3l0YUdFMnEycEpZYVpBZjhkTkVsbUtsZ3FFcW5jY1R3QVNITm9IQ0dqQlo3Ynd5UjY0bHBCeVViRW04U0NvTmpGVFBxYlRxa3dtOGJwNGJB?oc=5",
-      "published": "Fri, 30 Oct 2026 09:30:00 GMT",
-      "source": "WSJ"
+      "title": "Mortgage and refinance interest rates today, Saturday, October 31, 2026: Fixed purchase rates keep falling ahead of midterms - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOT2pXTmtIczFkbHVVYjhWNkRaOUVUUFQ2cW9GUnpDN0FtSFNzcnFYeUNYdWVNMEt0azJRWml1QkxvYjVTQWpYM3NPOVl6dFBqR1BoQ0JZc202WGQ5MkVoYm9sU1l3VHNtbGhieXBYd3RFOERNWGg0TjE5WGVtZDVkczhyT0tYQ3pSM0d6ZnZ6VHlSeWh6eVZlRGtkNThHVDFtRHBtZ1oxeVl0MlFaT2FsQ2o0U0hrNVlHakJpb3FYUjVUM0VIcEtKY3BSQU5UZWZPTEsxc3ZSSk5tcHd2ak1WTEVXVGZ5TVRPQlBoSk4zbTVQQlFEUkhjY0E5TUI0cWJ2bEhNY3V3VU1acjJST3lJcEVqVGgwQWFIcE5yaF9oMFpGZw?oc=5",
+      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "'It Probably Costs You $700,000, Which Makes Me Want to Puke': Dave Ramsey to 54 Year Old With $2.8 Million IRA - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWGdUSG5ZT3NFc2lLdHRWUkt2QXFpZHJsS2xHc3c2LXlTV0o4NUp4b2JIZl8zLW4td0VrZGhvWGs1MHpKSUxtOS0wb1pOclR1SE1hSzBLbzdXNTNVMXNQRzNPTHhUcnNLcUpaX1gzLW9jS3hlbFlWMzM0b3dIenZNVjY2dUxMb2Y5VVdSYXc3YV82OW1KeWZDUmxnNnFaRjZqU3VMRDF1U25ndlVVcWZTNWtQVWhRSmhWY3htTGEybVBiNUNjMTMxWFZYem1pV0NjcmJZM1drSW1TbWNXU1Atc181T3ZZNGQ5RWFr?oc=5",
+      "published": "Fri, 30 Oct 2026 09:17:00 GMT",
+      "source": "24/7 Wall St."
     },
     {
       "title": "Gen Xers Don't Want to Wait to Retire: How the Great Wealth Transfer Is Helping Them Rewrite the Rules - Kiplinger",
@@ -84,40 +90,46 @@
       "source": "Kiplinger"
     },
     {
-      "title": "Mortgage and refinance interest rates today, Friday, October 30, 2026: Rates move lower after Fed holds rates steady - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQUGhZREkxYkxrRE9TN1hoVG1jazZ3OFpLQTFQT082Wkp0RTJ4NlNzZi1UbHVvOVFTM0NiSkFrbmE4VHZQbU5SRFZtUERvTlFBU2NRWlJRNWwweWhHZXlOTTlxQjAwR3VLZFl2dnpDdXUyUGhBTHlPMlkxSTRtWVQ2Y0NGdlE3Y0poQVh0S0RaX2xQT0lOY2tMT2JZMUYzLTdrMVBaSjloTTZQdWJFbG9KczVEQmYzS1FpVWxINXVlQzhfTEdfMlhtb3huNmpHZW8xYzN4NEJOWl9tWC1pYUhXYXQzS3lvRE1VNndLc055UFJxYlYzTEVyTlZRYzJ2cnJ5SGZhai1PbUc0N0g3X09zbWE5YW9CVTQ?oc=5",
-      "published": "Fri, 30 Oct 2026 10:00:00 GMT",
+      "title": "The Autumn Budget Explained in 2 Minutes - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVlkwWWNNX0ZxRktjS0p6YVJuOEpuWnlJYlBwQ05NQVdlRFhoSjFfNzkyeHVyZWhEQnhPaWFkaW81YzBqQ09hVWFfZUdSY192YXJSV0k3ZFF0SWVVQ3duMkFDZm12aDRjUFZfUTY5QWFJZEVGSGVtX2swVmNQdGlsME95UjZZZkdUQi1qU1RKWEU?oc=5",
+      "published": "Wed, 28 Oct 2026 15:34:31 GMT",
+      "source": "Morningstar"
+    },
+    {
+      "title": "Silver price today, Friday, October 30, 2026: Silver prices fall to 11-month lows amid inflation concerns - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRGhLVHdCY3dzdk9FM0stMmN1dnNZNVhOa1RSbk1zdk5pSThMTFRWY2pWQ3QwUkRtTTZBZFJMSmZDNm9KbGRSak8wNS1kMmVpS2dORkJTeW5sWDJ6SkRUM3lVdjlJWWxaRGpfd0J1SGNleWpBZFFFaURILUhRX09NamhFTUtKaE5EUy1paFAySXhoN2taODR0R1ExcW5YM1lVUWd5Z1IwclFJbWNEdmFLaVU2cjJ3MnI2QkpMUDJ1TGRkTktxbjdVSEc2SGh6Y2RoeGlONmxIQm5EYXZRRXhqLTJGOU8xZmhDMG1ZSTM0Mmx6TEZxaFN1dlpWZDNFNkh2Y1VSVFVicWw?oc=5",
+      "published": "Fri, 30 Oct 2026 11:25:21 GMT",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Current ARM mortgage rates report for Oct. 30, 2026 - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pRkdWUm5pMk9LanJJS2lRRDBDaDhpZ0ktT0pmTmNlSTV1X0hwY1lSOHoxVG53MkRWaFJmazZBX1p0dzJIOU5rbkQ2WlBtSUZOd3UyWi1jcWRkM0ZEOTg5U2h5UGRCUUNIcVlmXzNmMzhTVmRz?oc=5",
-      "published": "Fri, 30 Oct 2026 08:01:00 GMT",
-      "source": "Fortune"
+      "title": "Social Security's Trump Bump-Fueled 2027 COLA Has a Hidden Catch, and It Could Erase Some (or All) of Your Raise - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbkZUZVV0MDBWWDh0N1UxcWs4MUNSMjNkdVN3bnRTVHF3ZXRHTTBwVUlrRVljTXJhVTRZZVpBTGhMajJLUUN6aU12TDJQbmFJOS1HbFo2VWQtNk0xdDRRVHFpOXJiQS1qOGM4bF9aZ2FPSTFpRHVtajRfa3hVaXlFaEVkaTR3Z0JWSW5iMjEtVTJpeWpKRFlkT2pfcm1VaEo3Y3pMZmp4TTk1NDdQNFNMM2I0bmZHNW5PVFR4LU5yS1pBaWpxYVU4Nmh2dmZiSnVZQ3VPT1FsNnpiLU9oRVBSMWZtd25YSVRRQ2VmenlSeFdsUm0zZGpfU3FSSFpaVFM3SFZTU0RR?oc=5",
+      "published": "Sat, 31 Oct 2026 09:37:00 GMT",
+      "source": "24/7 Wall St."
     },
     {
-      "title": "Today’s CD Rates for October 30, 2026: Highest APYs Range From 4.50% to 5.25% - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWmk3VlRBX2dQdHhtSUZvM1AtcnBCc3BiaU1xQnhIekQyY2ZNS3k5c2I3blZ1bmh1UUxBcUI0ZF94MWhrbU1fZm9rTnR6RXVDWkNCV1R4bTFfbmFGZDdjVkhpd21fOWxUbWktaG8yTUliWGVfT0ZLZGFPRHV5UDZnUWJ6d3c?oc=5",
-      "published": "Fri, 30 Oct 2026 09:00:00 GMT",
-      "source": "WSJ"
+      "title": "How Oklahoma families can budget for Christmas without overspending - News 9",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVhrQjBwMXVkVEUzUC1UN19HYUtOZW4tN0JIcDBmRkNsTEdsVy1hVFVkaU5xMjFBSHZ6cXlXa3ZmZjFZT2FHWlA2LXNldVlzT3dmb0VBQUhaVERzcGt1OEVVcWVXeWJZdUt2RHd0X2FuRFFkT0g0NUNzaUFqb0JzTUZWMG8tLVhDMjNsbHBGVTRVTFhZb2FLWGlXZDA5bV9kTXBn?oc=5",
+      "published": "Fri, 30 Oct 2026 15:24:26 GMT",
+      "source": "News 9"
     },
     {
-      "title": "Olympic athletes can lose thousands before retirement. One costly mistake wiped out $150,000 for Lauryn Williams - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUFlXcHJ3MFB2RHNTOXpDeXp4WEtoOWJuZ1R3TWJyTkRiX2xDMV9ER2J4eXVFemlScW9XTmpyUmVtQUx5VElVMUFKZUdsNUxNRXQzRF9sVVoyTUF2YnhtWVlzRkc3bkI1V1dyZVlnVC1EVWxiOHVpaVdpblR1dHlPVUxFaHhPT3BONjVsZmNYS3RtVjlEZjRjUklNOW1lVzAtTy1WZkU0alo2cU0?oc=5",
-      "published": "Fri, 30 Oct 2026 11:15:00 GMT",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Sun, fun and savings: Your guide for vacation budgeting - Roanoke Times",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFJhekV1ZF9LVTJJSVd4eE5PYmdwX0pkYmdUNmU3NkFWOGl4Tmo3UDF5SmRtenctQkxRTm1sQmVUbVRBOXFnVkNicXVHMC1Fd0NNYTlfWm5ocGpyWjF4LWlfdjNCYy13TEZ6ZkZRS0xGekhVNHQ4N3RpZmxKUXlJNVZfVWttOXVrUzVkT1hNWnZjYWRxN05faHV3Q3E4MGxSa1JRLWVFRkVROEtpYzNsNXZIUQ?oc=5",
-      "published": "Wed, 28 Oct 2026 12:16:20 GMT",
-      "source": "Roanoke Times"
+      "title": "Tech expert Jennifer Jolly shares must have holiday tech, budget-friendly tips - WIFR",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU0ZIYV9acHQ0ZlJ2cjluTXVJMUZGd2xhSnJmVlNxNko3b3hRbGNrQWp0LVJLSVM1bUZnR3lKT3k3eklyRFFMMG15WS1wZ2U2R2VQaG1CWmVlbWdDankydDJ6eVl5R1I1NnNGZG9pbks5S0g2Q3hMYnJtTnBjeE90MWlqeHlQNlhIakV5Qzl3b2tnTmRDWWtVc2hwTDJLWEF6TlNOWC1GRTYzajNzZmo1MFgzSTRlZ0ZlYWx1N2ZycDnSAdQBQVVfeXFMTTN2UEFkeEVCUnQwLWJ2VnJBc3NuZ1k0UktwbXlOVnpxVUVzRWFjMnZWdzg1WkduWDBweTJjQXRacXEwdDh1RlZaSHJBVzRXXzRicW1MVkxOc0d0eV9abUNfZ0lERVA3b0YySERkbmpVTGhpRURsTWY4ckZyVHdxX0dYSE1IWGpmRnY3d2UzMGktQkZlRk14QWZrSDNnWFpiRFg0bXRESUVmZ3FqMVhheWZnTTZ0WVFQcGxDd19zZHdyN2FvS3VSMUstSUhab0xWOEJqYlA?oc=5",
+      "published": "Sat, 31 Oct 2026 00:12:00 GMT",
+      "source": "WIFR"
     },
     {
       "title": "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeWpKRGFOU0NTTVZXZUVEZHRsMG1Zd0dmVVpYSGNqSkFhS3pLNldGTlF6QXpfMmhjbTVMcEo4LUpSbHF4MDdrbEF2eG5ER2FfQ0tXRDZkX1JUN0NUZzc2NF9qTW9IVVdVZGctX3BBeUpudk5YcDBIN1F6SFZPcUhIQU9BZlJBTlRYcXZqS0l6d0ZTUEZKTnpfTlZoUWhWSXgzREgzbVBWTUZlc09jZ2NwUm1QVFdMcXBNempkeFRobHdDVFNyZFB1dEtjWUZmQk5hbHNlbmFnTFNINFFwSzIwRkQ4eFhSaHI0?oc=5",
       "published": "Mon, 26 Oct 2026 18:48:49 GMT",
       "source": "KXLY.com"
+    },
+    {
+      "title": "Sun, fun and savings: Your guide for vacation budgeting - Arizona Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMlJZTFV6UDlDU2FYN2tjSmxWMWlGa0hhV2hrVkJzYlRmMmZHcGdGS2NNc0VsSEpUV3JxS0RZTlVwVWNLb0xlUEVxaVoxZUxmMERPYi1GeWtDSTJUM1ZjWnZnVnpmRmsxeEppUzFoR3kxUTRBZkl2Ulh3TVdqdUFrQnQ3dkpKdUtSVFFvMWRtYWlLaHVwXzdWUjFzTzJyUzlJM0FwNkw4N2tYLURra0ZtelNR?oc=5",
+      "published": "Wed, 28 Oct 2026 12:15:00 GMT",
+      "source": "Arizona Daily Star"
     },
     {
       "title": "School business officials share tips for navigating budget challenges - K-12 Dive",
@@ -136,31 +148,10 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
       "published": "Tue, 13 Oct 2026 07:00:00 GMT",
       "source": "NerdWallet"
-    },
-    {
-      "title": "Sun, fun and savings: Your guide for vacation budgeting - Greensboro News and Record",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaUdPSk4tU0FiWFhKZFZ2ZXFYTmJkRXp0U3lXM004OWMyYjBjWF9sc09BMjJrVnB1cXAxV1dQbTM2b2hZNDhZbVhQakRKZzRNM2tlVU4xZkJJVDY4WDNvT3NkdW9XZU1kbkRnTXpnN0Q0V2FIaG85Unp6bHptc2NqSnRaa1hoZ21qME5CblhkMEVqQ19JOGdIaHRzZHo2S3FjUnRaYkxBVjllTllObzgzZkNEQ2I0dWs?oc=5",
-      "published": "Wed, 28 Oct 2026 12:16:20 GMT",
-      "source": "Greensboro News and Record"
-    },
-    {
-      "title": "How to Save on Holiday Gifts and Travel, According to an Expert - TODAY.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkhrOGRfaTBmYzdqVGhhWUxNNFhVd1JDeUhPSVlMY19hUlYtX2lCOTc5ejVLenkyYjVKUDRyQU5SZWVBVG1Ea0QxX21sZkZCOGhSZXR6U3JxQ3JuUFFWT0RSSEZJdS1yOVQ1V0pxZ1BsTUpnYnFiSXFtOFRnNTg4Sg?oc=5",
-      "published": "Fri, 16 Oct 2026 07:00:00 GMT",
-      "source": "TODAY.com"
     }
   ],
   "hn_stories": [],
-  "trending_searches": [
-    {
-      "term": "nvidia stock price",
-      "source": "Google Trends US"
-    },
-    {
-      "term": "retirement",
-      "source": "Google Trends US"
-    }
-  ],
+  "trending_searches": [],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",
     "reddit r/financialindependence: HTTP Error 403: Blocked"

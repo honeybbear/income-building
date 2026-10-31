@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T11:59:52Z",
+  "generated_at": "2026-10-31T11:35:17Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -46,44 +46,44 @@
       "id": "t-1",
       "kind": "trending-topic",
       "headline_options": [
-        "Saving, explained in plain English",
-        "What you should actually know about saving",
-        "Saving: the honest beginner's guide"
+        "Budget, explained in plain English",
+        "What you should actually know about budget",
+        "Budget: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What saving means in plain English",
+        "What budget means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "Sun, fun and savings: Your guide for vacation budgeting - Roanoke Times (Roanoke Times)",
-        "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com (KXLY.com)",
-        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)",
-        "Sun, fun and savings: Your guide for vacation budgeting - Greensboro News and Record (Greensboro News and Record)"
+        "The Autumn Budget Explained in 2 Minutes - Morningstar (Morningstar)",
+        "How Oklahoma families can budget for Christmas without overspending - News 9 (News 9)",
+        "Tech expert Jennifer Jolly shares must have holiday tech, budget-friendly tips - WIFR (WIFR)",
+        "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com (KXLY.com)"
       ],
       "sources": [
         {
-          "title": "Sun, fun and savings: Your guide for vacation budgeting - Roanoke Times",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFJhekV1ZF9LVTJJSVd4eE5PYmdwX0pkYmdUNmU3NkFWOGl4Tmo3UDF5SmRtenctQkxRTm1sQmVUbVRBOXFnVkNicXVHMC1Fd0NNYTlfWm5ocGpyWjF4LWlfdjNCYy13TEZ6ZkZRS0xGekhVNHQ4N3RpZmxKUXlJNVZfVWttOXVrUzVkT1hNWnZjYWRxN05faHV3Q3E4MGxSa1JRLWVFRkVROEtpYzNsNXZIUQ?oc=5",
-          "source": "Roanoke Times"
+          "title": "The Autumn Budget Explained in 2 Minutes - Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVlkwWWNNX0ZxRktjS0p6YVJuOEpuWnlJYlBwQ05NQVdlRFhoSjFfNzkyeHVyZWhEQnhPaWFkaW81YzBqQ09hVWFfZUdSY192YXJSV0k3ZFF0SWVVQ3duMkFDZm12aDRjUFZfUTY5QWFJZEVGSGVtX2swVmNQdGlsME95UjZZZkdUQi1qU1RKWEU?oc=5",
+          "source": "Morningstar"
+        },
+        {
+          "title": "How Oklahoma families can budget for Christmas without overspending - News 9",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVhrQjBwMXVkVEUzUC1UN19HYUtOZW4tN0JIcDBmRkNsTEdsVy1hVFVkaU5xMjFBSHZ6cXlXa3ZmZjFZT2FHWlA2LXNldVlzT3dmb0VBQUhaVERzcGt1OEVVcWVXeWJZdUt2RHd0X2FuRFFkT0g0NUNzaUFqb0JzTUZWMG8tLVhDMjNsbHBGVTRVTFhZb2FLWGlXZDA5bV9kTXBn?oc=5",
+          "source": "News 9"
+        },
+        {
+          "title": "Tech expert Jennifer Jolly shares must have holiday tech, budget-friendly tips - WIFR",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU0ZIYV9acHQ0ZlJ2cjluTXVJMUZGd2xhSnJmVlNxNko3b3hRbGNrQWp0LVJLSVM1bUZnR3lKT3k3eklyRFFMMG15WS1wZ2U2R2VQaG1CWmVlbWdDankydDJ6eVl5R1I1NnNGZG9pbks5S0g2Q3hMYnJtTnBjeE90MWlqeHlQNlhIakV5Qzl3b2tnTmRDWWtVc2hwTDJLWEF6TlNOWC1GRTYzajNzZmo1MFgzSTRlZ0ZlYWx1N2ZycDnSAdQBQVVfeXFMTTN2UEFkeEVCUnQwLWJ2VnJBc3NuZ1k0UktwbXlOVnpxVUVzRWFjMnZWdzg1WkduWDBweTJjQXRacXEwdDh1RlZaSHJBVzRXXzRicW1MVkxOc0d0eV9abUNfZ0lERVA3b0YySERkbmpVTGhpRURsTWY4ckZyVHdxX0dYSE1IWGpmRnY3d2UzMGktQkZlRk14QWZrSDNnWFpiRFg0bXRESUVmZ3FqMVhheWZnTTZ0WVFQcGxDd19zZHdyN2FvS3VSMUstSUhab0xWOEJqYlA?oc=5",
+          "source": "WIFR"
         },
         {
           "title": "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeWpKRGFOU0NTTVZXZUVEZHRsMG1Zd0dmVVpYSGNqSkFhS3pLNldGTlF6QXpfMmhjbTVMcEo4LUpSbHF4MDdrbEF2eG5ER2FfQ0tXRDZkX1JUN0NUZzc2NF9qTW9IVVdVZGctX3BBeUpudk5YcDBIN1F6SFZPcUhIQU9BZlJBTlRYcXZqS0l6d0ZTUEZKTnpfTlZoUWhWSXgzREgzbVBWTUZlc09jZ2NwUm1QVFdMcXBNempkeFRobHdDVFNyZFB1dEtjWUZmQk5hbHNlbmFnTFNINFFwSzIwRkQ4eFhSaHI0?oc=5",
           "source": "KXLY.com"
-        },
-        {
-          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
-          "source": "NerdWallet"
-        },
-        {
-          "title": "Sun, fun and savings: Your guide for vacation budgeting - Greensboro News and Record",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaUdPSk4tU0FiWFhKZFZ2ZXFYTmJkRXp0U3lXM004OWMyYjBjWF9sc09BMjJrVnB1cXAxV1dQbTM2b2hZNDhZbVhQakRKZzRNM2tlVU4xZkJJVDY4WDNvT3NkdW9XZU1kbkRnTXpnN0Q0V2FIaG85Unp6bHptc2NqSnRaa1hoZ21qME5CblhkMEVqQ19JOGdIaHRzZHo2S3FjUnRaYkxBVjllTllObzgzZkNEQ2I0dWs?oc=5",
-          "source": "Greensboro News and Record"
         }
       ]
     },
@@ -91,38 +91,44 @@
       "id": "t-2",
       "kind": "trending-topic",
       "headline_options": [
-        "Rates, explained in plain English",
-        "What you should actually know about rates",
-        "Rates: the honest beginner's guide"
+        "Tips, explained in plain English",
+        "What you should actually know about tips",
+        "Tips: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What rates means in plain English",
+        "What tips means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "Mortgage and refinance interest rates today, Friday, October 30, 2026: Rates move lower after Fed holds rates steady - Yahoo Finance (Yahoo Finance)",
-        "Current ARM mortgage rates report for Oct. 30, 2026 - Fortune (Fortune)",
-        "Today’s CD Rates for October 30, 2026: Highest APYs Range From 4.50% to 5.25% - WSJ (WSJ)"
+        "Tech expert Jennifer Jolly shares must have holiday tech, budget-friendly tips - WIFR (WIFR)",
+        "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com (KXLY.com)",
+        "School business officials share tips for navigating budget challenges - K-12 Dive (K-12 Dive)",
+        "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily (OU Daily)"
       ],
       "sources": [
         {
-          "title": "Mortgage and refinance interest rates today, Friday, October 30, 2026: Rates move lower after Fed holds rates steady - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQUGhZREkxYkxrRE9TN1hoVG1jazZ3OFpLQTFQT082Wkp0RTJ4NlNzZi1UbHVvOVFTM0NiSkFrbmE4VHZQbU5SRFZtUERvTlFBU2NRWlJRNWwweWhHZXlOTTlxQjAwR3VLZFl2dnpDdXUyUGhBTHlPMlkxSTRtWVQ2Y0NGdlE3Y0poQVh0S0RaX2xQT0lOY2tMT2JZMUYzLTdrMVBaSjloTTZQdWJFbG9KczVEQmYzS1FpVWxINXVlQzhfTEdfMlhtb3huNmpHZW8xYzN4NEJOWl9tWC1pYUhXYXQzS3lvRE1VNndLc055UFJxYlYzTEVyTlZRYzJ2cnJ5SGZhai1PbUc0N0g3X09zbWE5YW9CVTQ?oc=5",
-          "source": "Yahoo Finance"
+          "title": "Tech expert Jennifer Jolly shares must have holiday tech, budget-friendly tips - WIFR",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU0ZIYV9acHQ0ZlJ2cjluTXVJMUZGd2xhSnJmVlNxNko3b3hRbGNrQWp0LVJLSVM1bUZnR3lKT3k3eklyRFFMMG15WS1wZ2U2R2VQaG1CWmVlbWdDankydDJ6eVl5R1I1NnNGZG9pbks5S0g2Q3hMYnJtTnBjeE90MWlqeHlQNlhIakV5Qzl3b2tnTmRDWWtVc2hwTDJLWEF6TlNOWC1GRTYzajNzZmo1MFgzSTRlZ0ZlYWx1N2ZycDnSAdQBQVVfeXFMTTN2UEFkeEVCUnQwLWJ2VnJBc3NuZ1k0UktwbXlOVnpxVUVzRWFjMnZWdzg1WkduWDBweTJjQXRacXEwdDh1RlZaSHJBVzRXXzRicW1MVkxOc0d0eV9abUNfZ0lERVA3b0YySERkbmpVTGhpRURsTWY4ckZyVHdxX0dYSE1IWGpmRnY3d2UzMGktQkZlRk14QWZrSDNnWFpiRFg0bXRESUVmZ3FqMVhheWZnTTZ0WVFQcGxDd19zZHdyN2FvS3VSMUstSUhab0xWOEJqYlA?oc=5",
+          "source": "WIFR"
         },
         {
-          "title": "Current ARM mortgage rates report for Oct. 30, 2026 - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pRkdWUm5pMk9LanJJS2lRRDBDaDhpZ0ktT0pmTmNlSTV1X0hwY1lSOHoxVG53MkRWaFJmazZBX1p0dzJIOU5rbkQ2WlBtSUZOd3UyWi1jcWRkM0ZEOTg5U2h5UGRCUUNIcVlmXzNmMzhTVmRz?oc=5",
-          "source": "Fortune"
+          "title": "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeWpKRGFOU0NTTVZXZUVEZHRsMG1Zd0dmVVpYSGNqSkFhS3pLNldGTlF6QXpfMmhjbTVMcEo4LUpSbHF4MDdrbEF2eG5ER2FfQ0tXRDZkX1JUN0NUZzc2NF9qTW9IVVdVZGctX3BBeUpudk5YcDBIN1F6SFZPcUhIQU9BZlJBTlRYcXZqS0l6d0ZTUEZKTnpfTlZoUWhWSXgzREgzbVBWTUZlc09jZ2NwUm1QVFdMcXBNempkeFRobHdDVFNyZFB1dEtjWUZmQk5hbHNlbmFnTFNINFFwSzIwRkQ4eFhSaHI0?oc=5",
+          "source": "KXLY.com"
         },
         {
-          "title": "Today’s CD Rates for October 30, 2026: Highest APYs Range From 4.50% to 5.25% - WSJ",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWmk3VlRBX2dQdHhtSUZvM1AtcnBCc3BiaU1xQnhIekQyY2ZNS3k5c2I3blZ1bmh1UUxBcUI0ZF94MWhrbU1fZm9rTnR6RXVDWkNCV1R4bTFfbmFGZDdjVkhpd21fOWxUbWktaG8yTUliWGVfT0ZLZGFPRHV5UDZnUWJ6d3c?oc=5",
-          "source": "WSJ"
+          "title": "School business officials share tips for navigating budget challenges - K-12 Dive",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeWhnOFBCN2pFbU5XbDhsWUx2QzlaMWVQRjdreUwxNEppUmR1cUgwRXJwWTZzRzg2dTNOV1lIVjQxbk02cTlYWXk4eXdZSWRxMmg4QXdoQlJFcmJkVUJmWVFTTmxsSkdOc0ZaaDRkQTc1dU1kUDRpbDZ4QV9remp3ZVM0czRlTjd1ckhQRlJGNTV4N3d1ZllUcDZlMVpCOTlHUlpEYi1MU0wtUQ?oc=5",
+          "source": "K-12 Dive"
+        },
+        {
+          "title": "PayDay: Get our new newsletter with first-time budgeting tips - OU Daily",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUZzTmdGWDQ3cGREaFdOcEhQdjlKblNzSzcwc3JMaUtqWUdRSkh4S3BBVC1uSlQtdmdEaFVtc3hBNnktU002VnRuMHhfSDMyREF2ZTFwWmZ0ajZrVVVYcUR5ZHBKcmtHRjZQYTAzOG5iVG1NcXJJWHZ4UWo5eW1xWnBES1RrazZrQnFMcXlLb2otN3lnTlFZUFUyNHdfV243QlRTMlhYZXV3OUlwT3ZJT1VVejV5VmdTalBCalNNNA?oc=5",
+          "source": "OU Daily"
         }
       ]
     }
