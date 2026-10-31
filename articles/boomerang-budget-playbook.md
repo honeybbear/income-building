@@ -20,7 +20,7 @@ A workable middle ground is one of these:
 - **A percentage of take-home pay**, often 20 to 30 percent, which adjusts automatically if income changes. This is fair when the child's income is irregular or still growing.
 - **A split contribution**: part to the household now, part into a dedicated move-out savings account. For example, if the child can afford $800 a month, $400 goes to the household and $400 goes into savings they cannot easily raid. This is the version that actually produces a move-out fund instead of a lifestyle upgrade.
 
-Whatever you choose, the child should pay on a fixed date each month, just like rent. The habit matters as much as the money.
+Whatever you choose, the child should pay on a fixed date each month, just like rent.
 
 ## Step 3: Split the bills you forget about
 
@@ -50,4 +50,4 @@ One more thing worth saying out loud: needing to move home is not a failure. Hou
 
 A boomerang arrangement works when it has four things: a real monthly contribution, a written agreement, a move-out savings target, and regular check-ins. Without those, it's not a plan — it's a drift. With them, it's one of the best wealth-building tools a young adult has: a year or two of low housing costs, banked properly, can fund the deposit, the emergency fund, and the breathing room that makes the next move stick.
 
-*Educational content, not financial advice. Tax treatment of payments between family members can vary — if the amounts are large or the arrangement is long-term, a quick check with a tax professional is worth it.*
+*Educational content, not financial advice. Tax treatment of family payments can vary — a quick check with a tax professional is worth it for large or long-term arrangements.*
