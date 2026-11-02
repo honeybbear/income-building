@@ -44,6 +44,7 @@ TOPICS = {
     "where-to-park-50000": ["saving", "investing"],
     "fsa-use-it-or-lose-it-playbook": ["taxes", "saving"],
     "boomerang-budget-playbook": ["budgeting", "family"],
+    "how-much-to-retire": ["retirement", "budgeting"],
 }
 
 
