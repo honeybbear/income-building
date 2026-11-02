@@ -44,14 +44,14 @@ Change one input and watch how much the target moves. If Social Security covers 
 - **A paid-off home.** Housing is usually the largest retirement expense. Eliminating a mortgage or rent payment can cut your annual gap more than years of extra saving.
 - **Health care.** Budget for it separately and honestly. Medicare covers a lot but not everything — premiums, dental, vision, hearing, and long-term care can all sit outside it. If you retire before 65, price marketplace health insurance for the gap years; it is often the single biggest early-retirement cost.
 - **When you stop working.** Each extra year of work does three things at once: one more year of saving, one less year of spending from savings, and a larger Social Security benefit. It is the most powerful lever most people have, and it's worth weighing against the years of freedom you'd give up.
-- **Where you live.** Moving from a high-cost area to a lower-cost one can cut your annual spending by more than any budgeting trick. It's a big life decision, not a spreadsheet tweak — but it belongs in the conversation.
+- **Where you live.** Moving from a high-cost area to a lower-cost one can cut your annual spending by more than any budgeting trick. It's a big life decision, not a spreadsheet tweak.
 
 ## If the number looks impossible, you're not done — you're just starting
 
 Most people who run this math for the first time get a target bigger than their current savings. That's normal, not a verdict — it just tells you which lever to pull:
 
-- **Save more, automatically.** Raise your workplace retirement contribution by one percentage point now, and schedule another point in six months. You adjust to each step and barely notice it.
-- **Delay Social Security if you can.** For many people, waiting from 62 to 70 raises the monthly benefit substantially — it's one of the best "returns" available, and it requires no market risk.
+- **Save more, automatically.** Raise your workplace retirement contribution by one percentage point now, and schedule another point in six months.
+- **Delay Social Security if you can.** Waiting from 62 to 70 raises the monthly benefit substantially — one of the best "returns" available, with no market risk.
 - **Plan a phased retirement.** Part-time work for a few years, even at modest pay, can bridge the gap between stopping full-time work and claiming full benefits.
 - **Revisit the spending side.** The retirement you can afford is the one your spending allows. Cutting $5,000 a year from retirement spending cuts your rough target by $125,000. That's a powerful trade.
 
