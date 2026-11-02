@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-01T12:32:49Z",
+  "fetched_at": "2026-11-02T14:34:20Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -9,87 +9,73 @@
   "topics": [
     {
       "keyword": "money",
-      "mentions": 12
-    },
-    {
-      "keyword": "saving",
-      "mentions": 8
-    },
-    {
-      "keyword": "elon",
-      "mentions": 7
-    },
-    {
-      "keyword": "musk",
-      "mentions": 7
-    },
-    {
-      "keyword": "pointless",
       "mentions": 6
     },
     {
-      "keyword": "finance",
-      "mentions": 5
-    },
-    {
-      "keyword": "future",
-      "mentions": 5
-    },
-    {
-      "keyword": "budget",
+      "keyword": "saving",
       "mentions": 4
+    },
+    {
+      "keyword": "business",
+      "mentions": 4
+    },
+    {
+      "keyword": "budgeting",
+      "mentions": 3
     },
     {
       "keyword": "tips",
-      "mentions": 4
-    },
-    {
-      "keyword": "says",
-      "mentions": 4
-    },
-    {
-      "keyword": "rates",
       "mentions": 3
     },
     {
-      "keyword": "yahoo",
+      "keyword": "financial",
       "mentions": 3
+    },
+    {
+      "keyword": "pittsburgh",
+      "mentions": 2
+    },
+    {
+      "keyword": "post",
+      "mentions": 2
+    },
+    {
+      "keyword": "more",
+      "mentions": 2
+    },
+    {
+      "keyword": "com",
+      "mentions": 2
+    },
+    {
+      "keyword": "billion",
+      "mentions": 2
+    },
+    {
+      "keyword": "have",
+      "mentions": 2
     }
   ],
   "questions": [],
-  "discussion_highlights": [
-    {
-      "title": "A tiny Pacific country rolls out universal basic income",
-      "source": "Hacker News",
-      "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
-      "score": 45,
-      "comments": 20
-    }
-  ],
+  "discussion_highlights": [],
   "news": [
     {
-      "title": "‘I Wish I Could Move Out, But My Parents Need the Rent Money’ - The Cut",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY3pHTDNSR3A2Rld2QW9faVk4NzEtYjRoeU5wdmF0Rll4dEVOM0hZMERTcGZDdzloNUdub0VrM0lGN2RSTHh4eTl5ZVBHYW1tS2lROHdmbUNkVjVyRnByWFBfeFpKcXlFdGVSYndMS3daalV6Z29VbjZnbnpLcm5nMFBUR25CSEEyMktJSktNWEJwdw?oc=5",
-      "published": "Thu, 29 Oct 2026 12:00:37 GMT",
-      "source": "The Cut"
+      "title": "At 75, the IRS Will Set the Withdrawal Amount on a $900,000 401(k). Affluent Investors Over 60 Are Making Sure It's Empty by Then - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOa1UtNXNwdUp6LW1wRXJMTFNSOHVsUTJlMjNYOWtXUlpObjM2OXIzcjl6emczM3NFYnVOR05xbXhId1VZZTU4dDFpbTF1R2xoV2E1a1JiX0lILUU4SUkySm9HN0NkVUVqLTI1eFhRU19ybkM1VU9HS0R6UUY2MjRtX1o1TWtVMUM1WTdseGVQMldSQTJfMkdtb3lvd0QzaFNudGJRU3NaNm1waWx1OFFhZUFSZjF0LW9rMzMzRk5RQ2t6bkY3TDlXa0RuWnlRdS1XQTFDYnR0QlJYeGhCeWQybTdnRmRnNTVXRDhBZ3FPTHktOEtVODlNUkxzM1dHc2tLN01F?oc=5",
+      "published": "Sun, 01 Nov 2026 14:36:00 GMT",
+      "source": "24/7 Wall St."
     },
     {
-      "title": "Mortgage and refinance interest rates today, Sunday, November 1, 2026: Mortgage rates are mostly lower than last week - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQUXNDRjQxa3h2N3U2R3B3SW9pX3plYktwRUZMeVlIakhJeUdaUGhNYXdYdWFUM2lHSnBrbDFwVVdVTGZCeDdJTHFCNkV0YmdGcDNHNk1DRXVuSnZ3VmdyRjlfTmszX3hnWnNaV3JsUU84X3Jza2NzQjNBVGl5WDhPS3BxY1k1UGNaZzdZYy00WFRtU2owcTlOczBYdHowUjBhdmdIYWhrbE1CS3VHX1VVYzlhTmlxb1lESjYtZmlMblp5Ql95MlBoanpBR1pLVkxsb0lPMFF2VVkyODBDeDk4VGxhU0FEZ3lvTHlaUm5QUnNqaUF1MUoyZHk5NUhlZVA5dWpvazJCVGoyWkxSVjYxcWZwU2JTX29q?oc=5",
-      "published": "Sun, 01 Nov 2026 11:00:00 GMT",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "The RMD Mistake That Cost This Charitable Couple $2,200 a Year — and 2 More Tax Slip-Ups to Avoid in Your 70s - Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM2ZqeFd2VE1QNWRnYm9CcGdDeVd4RU5WYXhab0RSVDg3Q2xiREltVWhNb2h1ZWlIa3FjTU1FQUZuN01HbG9QclQ4SzRfbzhkcy1oOVExanNlazhheVRGSFZYakhzTjFTOUpVdDF1NFpzS1BEc1NMTGJ3V0dtUjJPMUhPTGlyN1JYU0tCSkVOSFM3MnRtbjdheHpOT01wdjZzS3U0eU44cnQyejUzTFhRbA?oc=5",
-      "published": "Sun, 01 Nov 2026 11:00:00 GMT",
+      "title": "Did I Miss My Chance to Do a Roth Conversion? I'm 75 With a Sizeable IRA. - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMnpBZ20xYk9ncXRidExDYXhaX0RyaHJTbE54Y3Q2YkNfN1ZGdXhTeXU3MlphQ1lXeGxZb0ZkaUMtc2Q4enFXUkh1VUlpdjlJOXB3cTBkbkpqRXNuT215aEwtZl9EVEgzYVA2a1J1WEhtdDBac2dmMk1fT1lWWWIxek44YXdtcmpBQVBJWGFfc3NDUkJwSmtpeWNZeW91SV93Qk53RnBPbU1nZw?oc=5",
+      "published": "Mon, 02 Nov 2026 13:30:00 GMT",
       "source": "Kiplinger"
     },
     {
-      "title": "Nearly Half of Americans Have Turned to AI for Financial Decisions. At 62, He Asks a Chatbot When to Claim Social Security, and $1,080 a Month Is at Stake - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTUE3ZktBeVpuYV94Wkd6TTcxa29DQjYya1dzb3RFT1hPaFBIZ3lndUFtS1V2NGFwaHM1OVBOUlA2eTVleVRYaGt6MnR2NGZfWDdpYjdOSURIZmNkdktLaDU1T0JuRzA0MFNrVFFGWFJFYnBYU3BsS2tzdlRuZm5HS2FSMDNUcnNPbm9XNkdsdmV3X2NKNmMtVnBpR21xVml5M3c?oc=5",
-      "published": "Sun, 01 Nov 2026 10:33:46 GMT",
-      "source": "Yahoo Finance"
+      "title": "Pittsburgh-area students get some eye-opening lessons about taxes, debt and budgeting - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWp6ZEN3YnNPdjh5bE1NbFlBc0ozNGhsdzI0VHpuRWZVQUhyWG9SME51elFhdmxDb1JQSmhaQWVveWlXMll5VlFkWThSLUNyOVQtREk3QmJBREs1UnFyN0JZdW01RmRRUTRuMUlZNE1FQW83YW9GcGFGVWpZVEVxSzlxVmV2czVWMDdXZ2xIUVE0MzdtNVVmbkJXMGhpR0pFZWdGcEhaV3ZoTEZkSkRWODZSR3R3bWNMdGI2QQ?oc=5",
+      "published": "Mon, 02 Nov 2026 14:02:00 GMT",
+      "source": "Pittsburgh Post-Gazette"
     },
     {
       "title": "Automatic 401(k) rollovers reduce cash-outs, research finds — but few accounts reach new employer plans - CNBC",
@@ -98,34 +84,34 @@
       "source": "CNBC"
     },
     {
-      "title": "Rich Americans now say they need $2.6M to retire. Are they hitting it? - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjNxTng0WG9QTmd2Um5YVXZiM1p3LUExbEQzM2xyakl2UzhRSzdLSlNvWUtSRHRra25uZkp3eGhqN1dOeEJ4c290dm9jWW05YjVvWFdHTWFsbUNHck43SXE4cGt1U2cyaW8xeUFiRTZKalU2NHIyeUtzZkhxWGFPODhZUVZ4QW5XUTl5MWtST0dSX0tfeWxMN0pydnZDaFpIS29wSDVGLTdKSHhVckktUmRwelF5bEtralExTzJuT0tYMENu?oc=5",
-      "published": "Sat, 31 Oct 2026 10:01:00 GMT",
-      "source": "USA Today"
+      "title": "Money is getting more complicated — and we need to talk about it - Cleveland.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM2QteXdiX29lLXhZYXNERHBiOEhweG9sMGVKZ191dTRvRm5OeFZkQmplLVlBODlSdFlLdGlOd3pla2czc05mSldKU3lSMjE0UUhFUms0RlotZHVzWW1TNElYR0xhblJ1aHdWaTlua3cxLXJrdzdueVJmbnBqUjZNQ29KQ0VvM1c0U3VSYXBlR1RhVk8xdlVHemxIMEIxVGZpNzZKbVEycy1rd9IBvgFBVV95cUxQVlFaQjVMVVdpWDlPQXZYeUlNRTJwTWNIUDRIT1lrdkNPRzNOR2RIZEhwcXhLR0x2WnZxSEozT0J2ZHhrbHNMbXZGUGR6aTNDRFBlcGFQeUZPMno4YS1FSFBoQTZacThsRnBKdFpXSGluWmZQdFhodFB0TFF6MlhQZmhrbUR6YjBSTDFuekk1WlJJOHBtUms4QzYzUWNIcF9YSW92X2JWZFQ5cHhhakl2Q2Jvb1NDTnZXZzVuN2lR?oc=5",
+      "published": "Sun, 01 Nov 2026 14:00:00 GMT",
+      "source": "Cleveland.com"
     },
     {
-      "title": "7 Great Personal Finance Books That Actually Helped Me Figure Out Money - Marie Claire",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OOUptd2ZEaUV6MTZBRllWRHoyTWdlNzVIZDA0NGtmSWkwdFZONHJDSHpYV1ZKS3hLZmgwTDBNS0FZckZlU05KRkhaclplbXRHbkw4N3NjNS1wMDV1ano0UGlVRVVHNVg4UW5NMUdxZ1VhbVRpQ1lnR0Rn?oc=5",
-      "published": "Sun, 01 Nov 2026 11:00:00 GMT",
-      "source": "Marie Claire"
+      "title": "What Binance users should do right now following $6.3 billion hack - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT01fVFNJdm84cFFIa04tYU5MT3lrRDRnNnlPcE5SUmtQdFktY1l0VEhJanpkUVJ6VVhNRDFLSEs5T3NyZ09yWkdzcTNCQkV3Ym1xRmlXXzZGLXVlN3J3UGpZY2toRlllZVp1N1Z6V2hHQVduQ1hhajZUWDNaZC1NUFM2ZFp3X3FVdW02bzFDRHpMbjBMMkpVS2J5TVk3VUVqeEJHX18yWVhFWUoydEpGeENWZWFiN3l5eGlMamJmUzYzTGhjQ1BpZGZla19GSEhWcENFakJfcw?oc=5",
+      "published": "Fri, 30 Oct 2026 15:22:39 GMT",
+      "source": "Yahoo Finance"
     },
     {
-      "title": "Anthropic prepares Claude Money for personal finance - TestingCatalog AI News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNnZ6WnBySGZHMXFRMXEzVXdiaEdJaWY0TW94bnpZQk9ETG11UjFBYklmcVp2VHNJcFNsZGFsVHAwYzNkZjJRZENmTW11bmt2OGlsOGhDVDlDN1JzNDIxZXlmTzN6aXFwNWQ1WXRFRG1qNFZRNk9vaC1NOGM4d19xLWJlUmx5cC1TbGZnQw?oc=5",
-      "published": "Mon, 14 Sep 2026 07:00:00 GMT",
-      "source": "TestingCatalog AI News"
+      "title": "Your child might already have a Trump account: 3 costly mistakes to avoid - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRFVYUjZydzlHOTB3UmxZTDU0MC1Tc0otUzluT1U2czNXNDlRY1dMZExrMVdhZkFhUHdOSWl2aDgtR1BmcGZJYjZ6UTBJcFVrbzNLYk1mNUNDUlpEMnBIV0JkQkJlbnZ3U0NpOEFpWk5WVjNXTzdsWVhtMU1BR01xRTEwZmIxOHdSc1VKT0s2U0p4dnAwM1BMS0paTGdMTFpiRTdKajZLZXZrUEt6a2k0UDZUQnlhUQ?oc=5",
+      "published": "Mon, 02 Nov 2026 13:17:00 GMT",
+      "source": "TheStreet"
+    },
+    {
+      "title": "Top CD rates today, Nov. 2, 2026: Lock in up to up to 5.05% - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyazZFZ2NFYlNXMnRpeFpSUGxpbzhXR3pTczlOd0dwaUZfd21TVEtROUpKLUJ3cC16Yjl2T2JGYkZHRGVNeUJoa0VoT3lBd1E3X0VxcEgyTEI?oc=5",
+      "published": "Mon, 02 Nov 2026 11:01:00 GMT",
+      "source": "Fortune"
     },
     {
       "title": "Tech expert Jennifer Jolly shares must have holiday tech, budget-friendly tips - WIFR",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU0ZIYV9acHQ0ZlJ2cjluTXVJMUZGd2xhSnJmVlNxNko3b3hRbGNrQWp0LVJLSVM1bUZnR3lKT3k3eklyRFFMMG15WS1wZ2U2R2VQaG1CWmVlbWdDankydDJ6eVl5R1I1NnNGZG9pbks5S0g2Q3hMYnJtTnBjeE90MWlqeHlQNlhIakV5Qzl3b2tnTmRDWWtVc2hwTDJLWEF6TlNOWC1GRTYzajNzZmo1MFgzSTRlZ0ZlYWx1N2ZycDnSAdQBQVVfeXFMTTN2UEFkeEVCUnQwLWJ2VnJBc3NuZ1k0UktwbXlOVnpxVUVzRWFjMnZWdzg1WkduWDBweTJjQXRacXEwdDh1RlZaSHJBVzRXXzRicW1MVkxOc0d0eV9abUNfZ0lERVA3b0YySERkbmpVTGhpRURsTWY4ckZyVHdxX0dYSE1IWGpmRnY3d2UzMGktQkZlRk14QWZrSDNnWFpiRFg0bXRESUVmZ3FqMVhheWZnTTZ0WVFQcGxDd19zZHdyN2FvS3VSMUstSUhab0xWOEJqYlA?oc=5",
       "published": "Sat, 31 Oct 2026 00:12:00 GMT",
       "source": "WIFR"
-    },
-    {
-      "title": "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeWpKRGFOU0NTTVZXZUVEZHRsMG1Zd0dmVVpYSGNqSkFhS3pLNldGTlF6QXpfMmhjbTVMcEo4LUpSbHF4MDdrbEF2eG5ER2FfQ0tXRDZkX1JUN0NUZzc2NF9qTW9IVVdVZGctX3BBeUpudk5YcDBIN1F6SFZPcUhIQU9BZlJBTlRYcXZqS0l6d0ZTUEZKTnpfTlZoUWhWSXgzREgzbVBWTUZlc09jZ2NwUm1QVFdMcXBNempkeFRobHdDVFNyZFB1dEtjWUZmQk5hbHNlbmFnTFNINFFwSzIwRkQ4eFhSaHI0?oc=5",
-      "published": "Mon, 26 Oct 2026 18:48:49 GMT",
-      "source": "KXLY.com"
     },
     {
       "title": "12 Easy Money Saving Travel Tips - NerdWallet",
@@ -140,34 +126,41 @@
       "source": "The Guardian"
     },
     {
-      "title": "6-Step Financial Plan for 2026 - The Department of Financial Protection and Innovation (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOVHhmMmc5bHNRbV9VZUtNNFFGRTlUeHVBZlA3N0prY1lDa2dEVHRXakRRcW1fT1R0a2JKU1lWY0gzNzU0LUVxenJYSERZcWNDckRlNExOSmhWUUxQeUxTT1ZfMDRnMWN6bld1MFlzamJOUnM?oc=5",
-      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "source": "The Department of Financial Protection and Innovation (.gov)"
-    },
-    {
       "title": "Budgeting for teens: 18 tips for growing your money young - Credit Karma",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xdUw2SkNfeUprYm1lTXlOYVludUhBZFc0X2RCZGUzVm9GeUJneWUwd0ZXMXNja3JyVkpsYi1KTlUwazlzWmVJR1U1eWZlTlU4Z0RDLUtoZlRyaWpuSnVGZ2VMRU5WMk1DQzBlVWpraVRwcktNZG1J?oc=5",
       "published": "Thu, 09 Jul 2026 07:00:00 GMT",
       "source": "Credit Karma"
     },
     {
+      "title": "6-Step Financial Plan for 2026 - The Department of Financial Protection and Innovation (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOVHhmMmc5bHNRbV9VZUtNNFFGRTlUeHVBZlA3N0prY1lDa2dEVHRXakRRcW1fT1R0a2JKU1lWY0gzNzU0LUVxenJYSERZcWNDckRlNExOSmhWUUxQeUxTT1ZfMDRnMWN6bld1MFlzamJOUnM?oc=5",
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "source": "The Department of Financial Protection and Innovation (.gov)"
+    },
+    {
       "title": "Sneaky Costs of Youth Sports and Activities—And What to Do About It - Northwestern Mutual",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHdqYmVkRUZxUHhvVTI3dHBKenIxOHRzVk9fb2FieHBDc1ByajJQeGFVV0UzdEtXWHRsR3pXTzNYYXkyYXJfaG5VQW5Zc284d0pqM1NQZ1FZeVc1TVRLYjZKUHFCNFJUUE1rSVZpTTJLSl9fd2ZJUlMyajFXUm1Jb0ttNUdVVVBPbWVOXw?oc=5",
       "published": "Wed, 29 Jul 2026 07:00:00 GMT",
       "source": "Northwestern Mutual"
-    }
-  ],
-  "hn_stories": [
+    },
     {
-      "title": "A tiny Pacific country rolls out universal basic income",
-      "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
-      "score": 45,
-      "comments": 20,
-      "source": "Hacker News"
+      "title": "Business Budgeting: How to Plan a Budget - Business.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56V2VNcUs5Vk9xVUd5aE1feWJVVEJDZEM2emZqdXRKQldYM0NKbkx2YVRpcmRZNG9Nekp5NGhwdXdRMlpmeTJhX25wZzQ2V0FVRkdDeDNhcEJ0Q3Q4eUpz?oc=5",
+      "published": "Fri, 04 Sep 2026 07:00:00 GMT",
+      "source": "Business.com"
     }
   ],
-  "trending_searches": [],
+  "hn_stories": [],
+  "trending_searches": [
+    {
+      "term": "what time does the stock market open",
+      "source": "Google Trends US"
+    },
+    {
+      "term": "bill murray",
+      "source": "Google Trends US"
+    }
+  ],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",
     "reddit r/financialindependence: HTTP Error 403: Blocked"

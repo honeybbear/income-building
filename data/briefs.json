@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T12:32:49Z",
+  "generated_at": "2026-11-02T14:34:20Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -20,31 +20,25 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "‘I Wish I Could Move Out, But My Parents Need the Rent Money’ - The Cut (The Cut)",
-        "7 Great Personal Finance Books That Actually Helped Me Figure Out Money - Marie Claire (Marie Claire)",
-        "Anthropic prepares Claude Money for personal finance - TestingCatalog AI News (TestingCatalog AI News)",
-        "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com (KXLY.com)"
+        "Money is getting more complicated — and we need to talk about it - Cleveland.com (Cleveland.com)",
+        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)",
+        "Budgeting for teens: 18 tips for growing your money young - Credit Karma (Credit Karma)"
       ],
       "sources": [
         {
-          "title": "‘I Wish I Could Move Out, But My Parents Need the Rent Money’ - The Cut",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY3pHTDNSR3A2Rld2QW9faVk4NzEtYjRoeU5wdmF0Rll4dEVOM0hZMERTcGZDdzloNUdub0VrM0lGN2RSTHh4eTl5ZVBHYW1tS2lROHdmbUNkVjVyRnByWFBfeFpKcXlFdGVSYndMS3daalV6Z29VbjZnbnpLcm5nMFBUR25CSEEyMktJSktNWEJwdw?oc=5",
-          "source": "The Cut"
+          "title": "Money is getting more complicated — and we need to talk about it - Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM2QteXdiX29lLXhZYXNERHBiOEhweG9sMGVKZ191dTRvRm5OeFZkQmplLVlBODlSdFlLdGlOd3pla2czc05mSldKU3lSMjE0UUhFUms0RlotZHVzWW1TNElYR0xhblJ1aHdWaTlua3cxLXJrdzdueVJmbnBqUjZNQ29KQ0VvM1c0U3VSYXBlR1RhVk8xdlVHemxIMEIxVGZpNzZKbVEycy1rd9IBvgFBVV95cUxQVlFaQjVMVVdpWDlPQXZYeUlNRTJwTWNIUDRIT1lrdkNPRzNOR2RIZEhwcXhLR0x2WnZxSEozT0J2ZHhrbHNMbXZGUGR6aTNDRFBlcGFQeUZPMno4YS1FSFBoQTZacThsRnBKdFpXSGluWmZQdFhodFB0TFF6MlhQZmhrbUR6YjBSTDFuekk1WlJJOHBtUms4QzYzUWNIcF9YSW92X2JWZFQ5cHhhakl2Q2Jvb1NDTnZXZzVuN2lR?oc=5",
+          "source": "Cleveland.com"
         },
         {
-          "title": "7 Great Personal Finance Books That Actually Helped Me Figure Out Money - Marie Claire",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OOUptd2ZEaUV6MTZBRllWRHoyTWdlNzVIZDA0NGtmSWkwdFZONHJDSHpYV1ZKS3hLZmgwTDBNS0FZckZlU05KRkhaclplbXRHbkw4N3NjNS1wMDV1ano0UGlVRVVHNVg4UW5NMUdxZ1VhbVRpQ1lnR0Rn?oc=5",
-          "source": "Marie Claire"
+          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
+          "source": "NerdWallet"
         },
         {
-          "title": "Anthropic prepares Claude Money for personal finance - TestingCatalog AI News",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNnZ6WnBySGZHMXFRMXEzVXdiaEdJaWY0TW94bnpZQk9ETG11UjFBYklmcVp2VHNJcFNsZGFsVHAwYzNkZjJRZENmTW11bmt2OGlsOGhDVDlDN1JzNDIxZXlmTzN6aXFwNWQ1WXRFRG1qNFZRNk9vaC1NOGM4d19xLWJlUmx5cC1TbGZnQw?oc=5",
-          "source": "TestingCatalog AI News"
-        },
-        {
-          "title": "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeWpKRGFOU0NTTVZXZUVEZHRsMG1Zd0dmVVpYSGNqSkFhS3pLNldGTlF6QXpfMmhjbTVMcEo4LUpSbHF4MDdrbEF2eG5ER2FfQ0tXRDZkX1JUN0NUZzc2NF9qTW9IVVdVZGctX3BBeUpudk5YcDBIN1F6SFZPcUhIQU9BZlJBTlRYcXZqS0l6d0ZTUEZKTnpfTlZoUWhWSXgzREgzbVBWTUZlc09jZ2NwUm1QVFdMcXBNempkeFRobHdDVFNyZFB1dEtjWUZmQk5hbHNlbmFnTFNINFFwSzIwRkQ4eFhSaHI0?oc=5",
-          "source": "KXLY.com"
+          "title": "Budgeting for teens: 18 tips for growing your money young - Credit Karma",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xdUw2SkNfeUprYm1lTXlOYVludUhBZFc0X2RCZGUzVm9GeUJneWUwd0ZXMXNja3JyVkpsYi1KTlUwazlzWmVJR1U1eWZlTlU4Z0RDLUtoZlRyaWpuSnVGZ2VMRU5WMk1DQzBlVWpraVRwcktNZG1J?oc=5",
+          "source": "Credit Karma"
         }
       ]
     },
@@ -65,15 +59,9 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com (KXLY.com)",
         "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
       ],
       "sources": [
-        {
-          "title": "Money Saving Monday: Tips to save money and stay on budget this holiday season - KXLY.com",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeWpKRGFOU0NTTVZXZUVEZHRsMG1Zd0dmVVpYSGNqSkFhS3pLNldGTlF6QXpfMmhjbTVMcEo4LUpSbHF4MDdrbEF2eG5ER2FfQ0tXRDZkX1JUN0NUZzc2NF9qTW9IVVdVZGctX3BBeUpudk5YcDBIN1F6SFZPcUhIQU9BZlJBTlRYcXZqS0l6d0ZTUEZKTnpfTlZoUWhWSXgzREgzbVBWTUZlc09jZ2NwUm1QVFdMcXBNempkeFRobHdDVFNyZFB1dEtjWUZmQk5hbHNlbmFnTFNINFFwSzIwRkQ4eFhSaHI0?oc=5",
-          "source": "KXLY.com"
-        },
         {
           "title": "12 Easy Money Saving Travel Tips - NerdWallet",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
@@ -85,44 +73,26 @@
       "id": "t-2",
       "kind": "trending-topic",
       "headline_options": [
-        "Finance, explained in plain English",
-        "What you should actually know about finance",
-        "Finance: the honest beginner's guide"
+        "Business, explained in plain English",
+        "What you should actually know about business",
+        "Business: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What finance means in plain English",
+        "What business means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "Mortgage and refinance interest rates today, Sunday, November 1, 2026: Mortgage rates are mostly lower than last week - Yahoo Finance (Yahoo Finance)",
-        "Nearly Half of Americans Have Turned to AI for Financial Decisions. At 62, He Asks a Chatbot When to Claim Social Security, and $1,080 a Month Is at Stake - Yahoo Finance (Yahoo Finance)",
-        "7 Great Personal Finance Books That Actually Helped Me Figure Out Money - Marie Claire (Marie Claire)",
-        "Anthropic prepares Claude Money for personal finance - TestingCatalog AI News (TestingCatalog AI News)"
+        "Business Budgeting: How to Plan a Budget - Business.com (Business.com)"
       ],
       "sources": [
         {
-          "title": "Mortgage and refinance interest rates today, Sunday, November 1, 2026: Mortgage rates are mostly lower than last week - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQUXNDRjQxa3h2N3U2R3B3SW9pX3plYktwRUZMeVlIakhJeUdaUGhNYXdYdWFUM2lHSnBrbDFwVVdVTGZCeDdJTHFCNkV0YmdGcDNHNk1DRXVuSnZ3VmdyRjlfTmszX3hnWnNaV3JsUU84X3Jza2NzQjNBVGl5WDhPS3BxY1k1UGNaZzdZYy00WFRtU2owcTlOczBYdHowUjBhdmdIYWhrbE1CS3VHX1VVYzlhTmlxb1lESjYtZmlMblp5Ql95MlBoanpBR1pLVkxsb0lPMFF2VVkyODBDeDk4VGxhU0FEZ3lvTHlaUm5QUnNqaUF1MUoyZHk5NUhlZVA5dWpvazJCVGoyWkxSVjYxcWZwU2JTX29q?oc=5",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Nearly Half of Americans Have Turned to AI for Financial Decisions. At 62, He Asks a Chatbot When to Claim Social Security, and $1,080 a Month Is at Stake - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTUE3ZktBeVpuYV94Wkd6TTcxa29DQjYya1dzb3RFT1hPaFBIZ3lndUFtS1V2NGFwaHM1OVBOUlA2eTVleVRYaGt6MnR2NGZfWDdpYjdOSURIZmNkdktLaDU1T0JuRzA0MFNrVFFGWFJFYnBYU3BsS2tzdlRuZm5HS2FSMDNUcnNPbm9XNkdsdmV3X2NKNmMtVnBpR21xVml5M3c?oc=5",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "7 Great Personal Finance Books That Actually Helped Me Figure Out Money - Marie Claire",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OOUptd2ZEaUV6MTZBRllWRHoyTWdlNzVIZDA0NGtmSWkwdFZONHJDSHpYV1ZKS3hLZmgwTDBNS0FZckZlU05KRkhaclplbXRHbkw4N3NjNS1wMDV1ano0UGlVRVVHNVg4UW5NMUdxZ1VhbVRpQ1lnR0Rn?oc=5",
-          "source": "Marie Claire"
-        },
-        {
-          "title": "Anthropic prepares Claude Money for personal finance - TestingCatalog AI News",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNnZ6WnBySGZHMXFRMXEzVXdiaEdJaWY0TW94bnpZQk9ETG11UjFBYklmcVp2VHNJcFNsZGFsVHAwYzNkZjJRZENmTW11bmt2OGlsOGhDVDlDN1JzNDIxZXlmTzN6aXFwNWQ1WXRFRG1qNFZRNk9vaC1NOGM4d19xLWJlUmx5cC1TbGZnQw?oc=5",
-          "source": "TestingCatalog AI News"
+          "title": "Business Budgeting: How to Plan a Budget - Business.com",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56V2VNcUs5Vk9xVUd5aE1feWJVVEJDZEM2emZqdXRKQldYM0NKbkx2YVRpcmRZNG9Nekp5NGhwdXdRMlpmeTJhX25wZzQ2V0FVRkdDeDNhcEJ0Q3Q4eUpz?oc=5",
+          "source": "Business.com"
         }
       ]
     }
