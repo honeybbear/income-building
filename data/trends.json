@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-02T14:34:20Z",
+  "fetched_at": "2026-11-03T13:29:27Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -9,22 +9,38 @@
   "topics": [
     {
       "keyword": "money",
-      "mentions": 6
-    },
-    {
-      "keyword": "saving",
-      "mentions": 4
-    },
-    {
-      "keyword": "business",
-      "mentions": 4
+      "mentions": 10
     },
     {
       "keyword": "budgeting",
-      "mentions": 3
+      "mentions": 5
+    },
+    {
+      "keyword": "rates",
+      "mentions": 5
+    },
+    {
+      "keyword": "saving",
+      "mentions": 5
+    },
+    {
+      "keyword": "yahoo",
+      "mentions": 4
     },
     {
       "keyword": "tips",
+      "mentions": 4
+    },
+    {
+      "keyword": "finance",
+      "mentions": 3
+    },
+    {
+      "keyword": "mortgage",
+      "mentions": 3
+    },
+    {
+      "keyword": "budget",
       "mentions": 3
     },
     {
@@ -36,23 +52,7 @@
       "mentions": 2
     },
     {
-      "keyword": "post",
-      "mentions": 2
-    },
-    {
-      "keyword": "more",
-      "mentions": 2
-    },
-    {
-      "keyword": "com",
-      "mentions": 2
-    },
-    {
-      "keyword": "billion",
-      "mentions": 2
-    },
-    {
-      "keyword": "have",
+      "keyword": "opening",
       "mentions": 2
     }
   ],
@@ -60,52 +60,52 @@
   "discussion_highlights": [],
   "news": [
     {
-      "title": "At 75, the IRS Will Set the Withdrawal Amount on a $900,000 401(k). Affluent Investors Over 60 Are Making Sure It's Empty by Then - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOa1UtNXNwdUp6LW1wRXJMTFNSOHVsUTJlMjNYOWtXUlpObjM2OXIzcjl6emczM3NFYnVOR05xbXhId1VZZTU4dDFpbTF1R2xoV2E1a1JiX0lILUU4SUkySm9HN0NkVUVqLTI1eFhRU19ybkM1VU9HS0R6UUY2MjRtX1o1TWtVMUM1WTdseGVQMldSQTJfMkdtb3lvd0QzaFNudGJRU3NaNm1waWx1OFFhZUFSZjF0LW9rMzMzRk5RQ2t6bkY3TDlXa0RuWnlRdS1XQTFDYnR0QlJYeGhCeWQybTdnRmRnNTVXRDhBZ3FPTHktOEtVODlNUkxzM1dHc2tLN01F?oc=5",
-      "published": "Sun, 01 Nov 2026 14:36:00 GMT",
-      "source": "24/7 Wall St."
-    },
-    {
-      "title": "Did I Miss My Chance to Do a Roth Conversion? I'm 75 With a Sizeable IRA. - Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMnpBZ20xYk9ncXRidExDYXhaX0RyaHJTbE54Y3Q2YkNfN1ZGdXhTeXU3MlphQ1lXeGxZb0ZkaUMtc2Q4enFXUkh1VUlpdjlJOXB3cTBkbkpqRXNuT215aEwtZl9EVEgzYVA2a1J1WEhtdDBac2dmMk1fT1lWWWIxek44YXdtcmpBQVBJWGFfc3NDUkJwSmtpeWNZeW91SV93Qk53RnBPbU1nZw?oc=5",
-      "published": "Mon, 02 Nov 2026 13:30:00 GMT",
-      "source": "Kiplinger"
+      "title": "Retirement savers are keen to invest in private assets. Do they know what they're doing? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1FvSF9iWHBPZ2JwOXhlSkI0aFo0VjVHTTNCX1B4OEg2MGNYRU5LdnlXOVZiRDJlOVFEcXF6T2U3U09iR0g0VC02OFBMN2EyQlFjRjlFbWdLMDRQYkVnejkzdl9tM0Y1MUJjY0xybDdLeG5ocjYyMVNnVnM5THRtQjFocEF3b1hZQWtEN3hRT3l0TGFtUzVVRFJWZEpFOHhuVXVxM3h2cHdXV0JnWVhKQjNpeUxuVTNPSXBKMVBQUy1yeHRlRWt2Z2pKT0gyYlVlZzF2WklCREFBdw?oc=5",
+      "published": "Mon, 02 Nov 2026 17:50:50 GMT",
+      "source": "Yahoo Finance"
     },
     {
       "title": "Pittsburgh-area students get some eye-opening lessons about taxes, debt and budgeting - Pittsburgh Post-Gazette",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWp6ZEN3YnNPdjh5bE1NbFlBc0ozNGhsdzI0VHpuRWZVQUhyWG9SME51elFhdmxDb1JQSmhaQWVveWlXMll5VlFkWThSLUNyOVQtREk3QmJBREs1UnFyN0JZdW01RmRRUTRuMUlZNE1FQW83YW9GcGFGVWpZVEVxSzlxVmV2czVWMDdXZ2xIUVE0MzdtNVVmbkJXMGhpR0pFZWdGcEhaV3ZoTEZkSkRWODZSR3R3bWNMdGI2QQ?oc=5",
-      "published": "Mon, 02 Nov 2026 14:02:00 GMT",
+      "published": "Tue, 03 Nov 2026 06:33:32 GMT",
       "source": "Pittsburgh Post-Gazette"
     },
     {
-      "title": "Automatic 401(k) rollovers reduce cash-outs, research finds — but few accounts reach new employer plans - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qM0JGNjA0dlJaY0FkR29aZGNxcEpqeDdiVVI4ZnRpckFIYVpQNHpMR2dfWEh0S0kxUGxUbFNmbXlVV2pfNW9kMDF6aGlJZHpwZm1QbzhITHp1TnpoUlg1V1BISDlINWI0ZDZxMzFuTWJJZzRvOURrU0dtRdIBgAFBVV95cUxQT3NHcnB3c1Vma1BmeUt6ZExNb2YwUEFmb0FydnVhdmdoYjZwN1FNemFWX1JSaGNnQWhmM0J1UXViMGhWeVA5eTcybkIzY2Nic19hajJ2ZmMxM2l4NHF2T3NiVlc4NXRKYXNfX0dYekdWMk9LS000MWlma2Q2TThwXw?oc=5",
-      "published": "Sat, 31 Oct 2026 13:30:01 GMT",
-      "source": "CNBC"
+      "title": "Inheriting an IRA? 5 Mistakes That Hand Uncle Sam a Bigger Share - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT3FNRVNXVnZySmNURFFhNkNDWW1tcTUtVEZsTTN2aFZyMmxyRFlGTXNvLWE1TWNfT2NCT2xuVmRnR1lab2JVRjZJczdjSG11ZS1iVzZTeFpKeWtiX21sdndwLU9wOWVGeVFrRkFHU1JRZnZkQnZNdTdmc3NMT3lYR19n?oc=5",
+      "published": "Tue, 03 Nov 2026 13:00:00 GMT",
+      "source": "Kiplinger"
     },
     {
-      "title": "Money is getting more complicated — and we need to talk about it - Cleveland.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM2QteXdiX29lLXhZYXNERHBiOEhweG9sMGVKZ191dTRvRm5OeFZkQmplLVlBODlSdFlLdGlOd3pla2czc05mSldKU3lSMjE0UUhFUms0RlotZHVzWW1TNElYR0xhblJ1aHdWaTlua3cxLXJrdzdueVJmbnBqUjZNQ29KQ0VvM1c0U3VSYXBlR1RhVk8xdlVHemxIMEIxVGZpNzZKbVEycy1rd9IBvgFBVV95cUxQVlFaQjVMVVdpWDlPQXZYeUlNRTJwTWNIUDRIT1lrdkNPRzNOR2RIZEhwcXhLR0x2WnZxSEozT0J2ZHhrbHNMbXZGUGR6aTNDRFBlcGFQeUZPMno4YS1FSFBoQTZacThsRnBKdFpXSGluWmZQdFhodFB0TFF6MlhQZmhrbUR6YjBSTDFuekk1WlJJOHBtUms4QzYzUWNIcF9YSW92X2JWZFQ5cHhhakl2Q2Jvb1NDTnZXZzVuN2lR?oc=5",
-      "published": "Sun, 01 Nov 2026 14:00:00 GMT",
-      "source": "Cleveland.com"
+      "title": "Today’s CD Rates for November 3, 2026: Highest APYs Range From 4.50% to 5.25% - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYldpRFkza1lxVHB4bzR5bWJDYWs5c0g0aXNwaUloQjJuYTFkeGJMZmY4MFhwUTh2ckdYY0N6ODRmaXJFbk9vdW9rWG11d1JmYVM5Xy1Ld3VhNi1XcnBTaU1jX3REMmVsWk90M0oyQ09Kd0w5Vi1jUDUyVmZCa1hveUhLZw?oc=5",
+      "published": "Tue, 03 Nov 2026 10:00:00 GMT",
+      "source": "WSJ"
     },
     {
-      "title": "What Binance users should do right now following $6.3 billion hack - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT01fVFNJdm84cFFIa04tYU5MT3lrRDRnNnlPcE5SUmtQdFktY1l0VEhJanpkUVJ6VVhNRDFLSEs5T3NyZ09yWkdzcTNCQkV3Ym1xRmlXXzZGLXVlN3J3UGpZY2toRlllZVp1N1Z6V2hHQVduQ1hhajZUWDNaZC1NUFM2ZFp3X3FVdW02bzFDRHpMbjBMMkpVS2J5TVk3VUVqeEJHX18yWVhFWUoydEpGeENWZWFiN3l5eGlMamJmUzYzTGhjQ1BpZGZla19GSEhWcENFakJfcw?oc=5",
-      "published": "Fri, 30 Oct 2026 15:22:39 GMT",
+      "title": "What are the Social Security projected benefit cuts for 2032? This is how much benefits may be reduced - MARCA",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTDR1SWJ5cjJjSV9aeFdMU1prclNjdXF4MXI3N1N6MnhRQmxhQ255Y1JJX1ptZkVsbVdqWllfeGtrQ1JZWGQ3OGJkWndPMHZFVnpwVHVoR2JjSTRCSXBtWDM2WE13aUFCdlR4bkxoX0hRNGxhWnNjb3NiaENaSl9MUFd0MzFVeW5ad1lONjNsdVVGcnNoVF9jOFZ4Sk5sUGEwbGJuT2RjS05JME0zR2ZEWkwyYWZkX2lUdEZwaGUxTU13djl1ZXBaUWJwaGx2SjZiNFpSWGFhV291bTNDXzdENG8xakVzX0ZmekNsY1hTUC1Qejl4eGJmQ2xaNlJHUUN3M3ViMmNMN1E?oc=5",
+      "published": "Tue, 03 Nov 2026 12:35:36 GMT",
+      "source": "MARCA"
+    },
+    {
+      "title": "Current refi mortgage rates report for Nov. 3, 2026 - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13UHEzcFJ5QWtsMFdwdXp6eDFFNk96RXRmMG12UWZIVi10SVJBTnZmYjF6R29uOS0tRGNqTzd1a3F3R0JGLWxVQzFiS3dVa2ZzSHhENjZ5VXMtMTRWUnJCM2JER08teWZhT0tNbjdXWU1JLVBHU3c?oc=5",
+      "published": "Tue, 03 Nov 2026 08:01:00 GMT",
+      "source": "Fortune"
+    },
+    {
+      "title": "The Average Forgotten 401(k) Balance Is Nearly $67,000 Just Sitting Stagnant — Here’s How to See If You Have One - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUlVENTE2b2pzRG5tRkFKWXJOY0gwMG1MRkNNUWxRX0JPZkU0MFV2N3dDTXFGNV9oRk0yWnJ6YlYyTERURUs1clozNm9waXltTzh1dXJsTHlOUWZzRm1wRjM2d0czNlZwZ2RlSFh1c3BEVWI2R1M4Q2xnX0JRRFNyVDFoSkdjQ3Z2TWVSWl9qZnVGM3k3MkFQOVNybXlrUQ?oc=5",
+      "published": "Tue, 03 Nov 2026 12:00:05 GMT",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Your child might already have a Trump account: 3 costly mistakes to avoid - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRFVYUjZydzlHOTB3UmxZTDU0MC1Tc0otUzluT1U2czNXNDlRY1dMZExrMVdhZkFhUHdOSWl2aDgtR1BmcGZJYjZ6UTBJcFVrbzNLYk1mNUNDUlpEMnBIV0JkQkJlbnZ3U0NpOEFpWk5WVjNXTzdsWVhtMU1BR01xRTEwZmIxOHdSc1VKT0s2U0p4dnAwM1BMS0paTGdMTFpiRTdKajZLZXZrUEt6a2k0UDZUQnlhUQ?oc=5",
-      "published": "Mon, 02 Nov 2026 13:17:00 GMT",
-      "source": "TheStreet"
-    },
-    {
-      "title": "Top CD rates today, Nov. 2, 2026: Lock in up to up to 5.05% - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyazZFZ2NFYlNXMnRpeFpSUGxpbzhXR3pTczlOd0dwaUZfd21TVEtROUpKLUJ3cC16Yjl2T2JGYkZHRGVNeUJoa0VoT3lBd1E3X0VxcEgyTEI?oc=5",
-      "published": "Mon, 02 Nov 2026 11:01:00 GMT",
-      "source": "Fortune"
+      "title": "Mortgage and refinance interest rates today, Tuesday, November 3, 2026: Mortgage rates continue to move lower ahead of election day - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOVUw2NlRfQlBUQzhFekRfRXA3d0xZLWtzdTFoUGgzb0RZX0dsWGc5NWl2bFBfNGdkZUlrSktIei1wcUstUks1bl9rcTBLQXI2RFY4OGNMdXNieV9IRjc5amJUR0llZ1R3SnpsOHNYTjN4cVpfRHVST0UzM1J2U2E3R1M5dmNxNHh1UUg0QXVHQ1dCZUkwZGc4RDBxcmxhdmpPZUJ4QXVsaXlkLWtfTEJVOG5OZnN6MjVsTDk5VmZsaFRWMkNEUm8tUEZTMWlZc0VIS21qNmFqUjIyNnlFR2Z5WldxVmNSYkExTW1ienB3RTJoUEEwSDRYR0NURGdKSzVXOWZQbVFndXdDTi1lTmJ2VzFVbERKb0hUakNBaGN3WHdYeWo2Z3lmMGR5Yw?oc=5",
+      "published": "Tue, 03 Nov 2026 11:00:00 GMT",
+      "source": "Yahoo Finance"
     },
     {
       "title": "Tech expert Jennifer Jolly shares must have holiday tech, budget-friendly tips - WIFR",
@@ -118,12 +118,6 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
       "published": "Tue, 13 Oct 2026 07:00:00 GMT",
       "source": "NerdWallet"
-    },
-    {
-      "title": "Healey gives households £100 to help navigate ‘global economic storms’ - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOV0pXaU1tdWR2aEIwOGJfMVBBUEtqNU8xRlREWVljSjF4d2ZKMjhaT2lxU3JSVXNBM0I2eGgwR1Y2YXRQNmw0cUVDcEhSTXpQeTdjRXZhV01iYTRackhuMUtHc0dVMHFpZXIyWmpQT0R6bU1KN3RzdlNTcUMzdXo3c3V5eTVqak44ZDNWLW9HMGxVcEdJOGhNajR6NmdDdHdkdTQ4c1BWM084X3Y1WGN0SlhMWmNjMkNKbExSZUhTMWJIS1U2LVAyN1cxalhhUnZwTEtTa3l6NnpMQ0RB?oc=5",
-      "published": "Wed, 28 Oct 2026 13:17:00 GMT",
-      "source": "The Guardian"
     },
     {
       "title": "Budgeting for teens: 18 tips for growing your money young - Credit Karma",
@@ -148,19 +142,16 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56V2VNcUs5Vk9xVUd5aE1feWJVVEJDZEM2emZqdXRKQldYM0NKbkx2YVRpcmRZNG9Nekp5NGhwdXdRMlpmeTJhX25wZzQ2V0FVRkdDeDNhcEJ0Q3Q4eUpz?oc=5",
       "published": "Fri, 04 Sep 2026 07:00:00 GMT",
       "source": "Business.com"
+    },
+    {
+      "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
+      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
+      "source": "Instacart"
     }
   ],
   "hn_stories": [],
-  "trending_searches": [
-    {
-      "term": "what time does the stock market open",
-      "source": "Google Trends US"
-    },
-    {
-      "term": "bill murray",
-      "source": "Google Trends US"
-    }
-  ],
+  "trending_searches": [],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",
     "reddit r/financialindependence: HTTP Error 403: Blocked"
