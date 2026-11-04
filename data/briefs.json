@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T13:29:27Z",
+  "generated_at": "2026-11-04T13:40:27Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -20,30 +20,57 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)",
         "Budgeting for teens: 18 tips for growing your money young - Credit Karma (Credit Karma)",
-        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)"
+        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
       ],
       "sources": [
-        {
-          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
-          "source": "NerdWallet"
-        },
         {
           "title": "Budgeting for teens: 18 tips for growing your money young - Credit Karma",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xdUw2SkNfeUprYm1lTXlOYVludUhBZFc0X2RCZGUzVm9GeUJneWUwd0ZXMXNja3JyVkpsYi1KTlUwazlzWmVJR1U1eWZlTlU4Z0RDLUtoZlRyaWpuSnVGZ2VMRU5WMk1DQzBlVWpraVRwcktNZG1J?oc=5",
           "source": "Credit Karma"
         },
         {
-          "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
-          "source": "Instacart"
+          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
+          "source": "NerdWallet"
         }
       ]
     },
     {
       "id": "t-1",
+      "kind": "trending-topic",
+      "headline_options": [
+        "Saving, explained in plain English",
+        "What you should actually know about saving",
+        "Saving: the honest beginner's guide"
+      ],
+      "angle": "Evergreen explainer on a topic people are actively reading about.",
+      "outline": [
+        "What saving means in plain English",
+        "Why it matters for your budget",
+        "What the current discussion is saying",
+        "Common mistakes",
+        "Sensible next steps"
+      ],
+      "key_points": [
+        "Today’s top high-yield savings rates: Up to 4.70% on Nov. 4, 2026 - Fortune (Fortune)",
+        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
+      ],
+      "sources": [
+        {
+          "title": "Today’s top high-yield savings rates: Up to 4.70% on Nov. 4, 2026 - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10c1NOcC14eV9OWVp5aVJfb2k0LWZBZlBXS1BLUmNDMzQ4aklNTzYya3paTWtQUnZWQWZZUmh1R3Bia3dsMHVWeW1OSlQwSXN2bHp0TXBFOEJ6NXVMbkxYWlBRYW9QQjNSQXZjSjNDa0lFU2c?oc=5",
+          "source": "Fortune"
+        },
+        {
+          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
+          "source": "NerdWallet"
+        }
+      ]
+    },
+    {
+      "id": "t-2",
       "kind": "trending-topic",
       "headline_options": [
         "Budgeting, explained in plain English",
@@ -61,8 +88,8 @@
       "key_points": [
         "Pittsburgh-area students get some eye-opening lessons about taxes, debt and budgeting - Pittsburgh Post-Gazette (Pittsburgh Post-Gazette)",
         "Budgeting for teens: 18 tips for growing your money young - Credit Karma (Credit Karma)",
-        "Business Budgeting: How to Plan a Budget - Business.com (Business.com)",
-        "How To Save Money on Groceries: 12 Budgeting Tips - Instacart (Instacart)"
+        "Christmas budgeting tips and words of wisdom - The Central App (The Central App)",
+        "Business Budgeting: How to Plan a Budget - Business.com (Business.com)"
       ],
       "sources": [
         {
@@ -76,53 +103,14 @@
           "source": "Credit Karma"
         },
         {
+          "title": "Christmas budgeting tips and words of wisdom - The Central App",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOVhWXzNOT200eXNtVnpENDRpMXpKZklzYlhVR1ZUend1SWFDVmZLMnlzOVFiRmw3R1lCaTJxVXpmU052QW1BVTBkVXZfWDFZeEZORmRUUUtwUThfQkJocUFlYVhzQThaeGx4ejFfdGE5YmFiS1d0THhUckdBcXZreEtKV2wxQURfcjhPSXFDdVBQLTBPa2FSanZUUDdrZGVja3Vr?oc=5",
+          "source": "The Central App"
+        },
+        {
           "title": "Business Budgeting: How to Plan a Budget - Business.com",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56V2VNcUs5Vk9xVUd5aE1feWJVVEJDZEM2emZqdXRKQldYM0NKbkx2YVRpcmRZNG9Nekp5NGhwdXdRMlpmeTJhX25wZzQ2V0FVRkdDeDNhcEJ0Q3Q4eUpz?oc=5",
           "source": "Business.com"
-        },
-        {
-          "title": "How To Save Money on Groceries: 12 Budgeting Tips - Instacart",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80a0pkM1F2eUx2YTVtbXdpY01kMEpwUVdQdEQ3Mjc1Z2I0QWllYnREcDY1ZkpKLUZVWUxIZlE1dF96Vm11Z2N2SkIwOTF0ZjAxQ2plRmp0U3VsNTdtU0ZFQVdsTVRFXzQ2dWZoX3dkMWNiZVFx?oc=5",
-          "source": "Instacart"
-        }
-      ]
-    },
-    {
-      "id": "t-2",
-      "kind": "trending-topic",
-      "headline_options": [
-        "Rates, explained in plain English",
-        "What you should actually know about rates",
-        "Rates: the honest beginner's guide"
-      ],
-      "angle": "Evergreen explainer on a topic people are actively reading about.",
-      "outline": [
-        "What rates means in plain English",
-        "Why it matters for your budget",
-        "What the current discussion is saying",
-        "Common mistakes",
-        "Sensible next steps"
-      ],
-      "key_points": [
-        "Today’s CD Rates for November 3, 2026: Highest APYs Range From 4.50% to 5.25% - WSJ (WSJ)",
-        "Current refi mortgage rates report for Nov. 3, 2026 - Fortune (Fortune)",
-        "Mortgage and refinance interest rates today, Tuesday, November 3, 2026: Mortgage rates continue to move lower ahead of election day - Yahoo Finance (Yahoo Finance)"
-      ],
-      "sources": [
-        {
-          "title": "Today’s CD Rates for November 3, 2026: Highest APYs Range From 4.50% to 5.25% - WSJ",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYldpRFkza1lxVHB4bzR5bWJDYWs5c0g0aXNwaUloQjJuYTFkeGJMZmY4MFhwUTh2ckdYY0N6ODRmaXJFbk9vdW9rWG11d1JmYVM5Xy1Ld3VhNi1XcnBTaU1jX3REMmVsWk90M0oyQ09Kd0w5Vi1jUDUyVmZCa1hveUhLZw?oc=5",
-          "source": "WSJ"
-        },
-        {
-          "title": "Current refi mortgage rates report for Nov. 3, 2026 - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13UHEzcFJ5QWtsMFdwdXp6eDFFNk96RXRmMG12UWZIVi10SVJBTnZmYjF6R29uOS0tRGNqTzd1a3F3R0JGLWxVQzFiS3dVa2ZzSHhENjZ5VXMtMTRWUnJCM2JER08teWZhT0tNbjdXWU1JLVBHU3c?oc=5",
-          "source": "Fortune"
-        },
-        {
-          "title": "Mortgage and refinance interest rates today, Tuesday, November 3, 2026: Mortgage rates continue to move lower ahead of election day - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOVUw2NlRfQlBUQzhFekRfRXA3d0xZLWtzdTFoUGgzb0RZX0dsWGc5NWl2bFBfNGdkZUlrSktIei1wcUstUks1bl9rcTBLQXI2RFY4OGNMdXNieV9IRjc5amJUR0llZ1R3SnpsOHNYTjN4cVpfRHVST0UzM1J2U2E3R1M5dmNxNHh1UUg0QXVHQ1dCZUkwZGc4RDBxcmxhdmpPZUJ4QXVsaXlkLWtfTEJVOG5OZnN6MjVsTDk5VmZsaFRWMkNEUm8tUEZTMWlZc0VIS21qNmFqUjIyNnlFR2Z5WldxVmNSYkExTW1ienB3RTJoUEEwSDRYR0NURGdKSzVXOWZQbVFndXdDTi1lTmJ2VzFVbERKb0hUakNBaGN3WHdYeWo2Z3lmMGR5Yw?oc=5",
-          "source": "Yahoo Finance"
         }
       ]
     }
