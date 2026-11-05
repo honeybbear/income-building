@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T13:40:27Z",
+  "generated_at": "2026-11-05T13:52:40Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -20,14 +20,14 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "Budgeting for teens: 18 tips for growing your money young - Credit Karma (Credit Karma)",
+        "Are Your Parents Hiding Their Money From You? - The Cut (The Cut)",
         "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
       ],
       "sources": [
         {
-          "title": "Budgeting for teens: 18 tips for growing your money young - Credit Karma",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xdUw2SkNfeUprYm1lTXlOYVludUhBZFc0X2RCZGUzVm9GeUJneWUwd0ZXMXNja3JyVkpsYi1KTlUwazlzWmVJR1U1eWZlTlU4Z0RDLUtoZlRyaWpuSnVGZ2VMRU5WMk1DQzBlVWpraVRwcktNZG1J?oc=5",
-          "source": "Credit Karma"
+          "title": "Are Your Parents Hiding Their Money From You? - The Cut",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYVF1T1hLa0JoY2NmWUx6ZEhCMGo3X1d1TzVzWGlqNWJSVG1icnJMOEFXYVpwZnZhMTM3R05YWXdxaUM0bkdMbThtdlI5OUVTamFKc19nSUxoTmdQUVZjMVYxeFE2NnFFVWFpRzhxQklXb1JJZDVGd0U4OTNlRlhuRUd4eWlOeE1DZkd6blZqamYyazJhNE1vM2hR?oc=5",
+          "source": "The Cut"
         },
         {
           "title": "12 Easy Money Saving Travel Tips - NerdWallet",
@@ -40,27 +40,39 @@
       "id": "t-1",
       "kind": "trending-topic",
       "headline_options": [
-        "Saving, explained in plain English",
-        "What you should actually know about saving",
-        "Saving: the honest beginner's guide"
+        "Tips, explained in plain English",
+        "What you should actually know about tips",
+        "Tips: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What saving means in plain English",
+        "What tips means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "Today’s top high-yield savings rates: Up to 4.70% on Nov. 4, 2026 - Fortune (Fortune)",
+        "Tips For Making The Most Of A Holiday Travel Budget - Yahoo Lifestyle Singapore (Yahoo Lifestyle Singapore)",
+        "Holiday shopping is right around the corner, here are budget tips experts recommend - CBS News (CBS News)",
+        "Budgeting Tips: How To Fix The $500 Problem - rova (rova)",
         "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
       ],
       "sources": [
         {
-          "title": "Today’s top high-yield savings rates: Up to 4.70% on Nov. 4, 2026 - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10c1NOcC14eV9OWVp5aVJfb2k0LWZBZlBXS1BLUmNDMzQ4aklNTzYya3paTWtQUnZWQWZZUmh1R3Bia3dsMHVWeW1OSlQwSXN2bHp0TXBFOEJ6NXVMbkxYWlBRYW9QQjNSQXZjSjNDa0lFU2c?oc=5",
-          "source": "Fortune"
+          "title": "Tips For Making The Most Of A Holiday Travel Budget - Yahoo Lifestyle Singapore",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5dWNzQndqaGpFX2FPQ19vTnU2eHk1V1pLVW1yQ2pteTJrYWtyT2VBVGJ6NERnX3JYa1owZldiRW9SbHlmeTVtSTdrVlFZQjJjMkx2cFFQZVFKV0FISmtvN1dSRmZEOVl4dkh6NkxmanQ5V3BTMURWUTFqemRIUQ?oc=5",
+          "source": "Yahoo Lifestyle Singapore"
+        },
+        {
+          "title": "Holiday shopping is right around the corner, here are budget tips experts recommend - CBS News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa3JRdWFpYkdnUmNNX3pucnhaUHcyQkU3OGFGRmFETkpOQzRaZ3hmV1g3a0NnYTZuRVVmWHNYd2hPcUxmaU5hTXFlSkN4U0txeHJnS2RGLXFsdW8yVS0yMG8ybExBZXRtUXFhU3ZTNEROeWd3OXJEWjZsTjhkY21DRjA2QWtsS192LXFKeDZHdVNJV3FEQ2NoRVFGUHB3UlBpSDViUTZPT0RDcHhTN1FVU1lzQ2c5RHJ6dXZR?oc=5",
+          "source": "CBS News"
+        },
+        {
+          "title": "Budgeting Tips: How To Fix The $500 Problem - rova",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01Qkt2eWJVUm5kSmlkVXhBY2trMXc5VGtQVHBhWXVTVVJLdU5GSHpFQkVpbE9qUkIzQkNOZTkxeXprS1FYZ1NZdHJZQ1hpRjJ1aDkw?oc=5",
+          "source": "rova"
         },
         {
           "title": "12 Easy Money Saving Travel Tips - NerdWallet",
@@ -87,9 +99,9 @@
       ],
       "key_points": [
         "Pittsburgh-area students get some eye-opening lessons about taxes, debt and budgeting - Pittsburgh Post-Gazette (Pittsburgh Post-Gazette)",
-        "Budgeting for teens: 18 tips for growing your money young - Credit Karma (Credit Karma)",
-        "Christmas budgeting tips and words of wisdom - The Central App (The Central App)",
-        "Business Budgeting: How to Plan a Budget - Business.com (Business.com)"
+        "Best Budgeting Apps Of 2026: Tested And Ranked - Forbes (Forbes)",
+        "Budgeting Tips: How To Fix The $500 Problem - rova (rova)",
+        "Christmas budgeting tips and words of wisdom - The Central App (The Central App)"
       ],
       "sources": [
         {
@@ -98,19 +110,19 @@
           "source": "Pittsburgh Post-Gazette"
         },
         {
-          "title": "Budgeting for teens: 18 tips for growing your money young - Credit Karma",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xdUw2SkNfeUprYm1lTXlOYVludUhBZFc0X2RCZGUzVm9GeUJneWUwd0ZXMXNja3JyVkpsYi1KTlUwazlzWmVJR1U1eWZlTlU4Z0RDLUtoZlRyaWpuSnVGZ2VMRU5WMk1DQzBlVWpraVRwcktNZG1J?oc=5",
-          "source": "Credit Karma"
+          "title": "Best Budgeting Apps Of 2026: Tested And Ranked - Forbes",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5",
+          "source": "Forbes"
+        },
+        {
+          "title": "Budgeting Tips: How To Fix The $500 Problem - rova",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01Qkt2eWJVUm5kSmlkVXhBY2trMXc5VGtQVHBhWXVTVVJLdU5GSHpFQkVpbE9qUkIzQkNOZTkxeXprS1FYZ1NZdHJZQ1hpRjJ1aDkw?oc=5",
+          "source": "rova"
         },
         {
           "title": "Christmas budgeting tips and words of wisdom - The Central App",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOVhWXzNOT200eXNtVnpENDRpMXpKZklzYlhVR1ZUend1SWFDVmZLMnlzOVFiRmw3R1lCaTJxVXpmU052QW1BVTBkVXZfWDFZeEZORmRUUUtwUThfQkJocUFlYVhzQThaeGx4ejFfdGE5YmFiS1d0THhUckdBcXZreEtKV2wxQURfcjhPSXFDdVBQLTBPa2FSanZUUDdrZGVja3Vr?oc=5",
           "source": "The Central App"
-        },
-        {
-          "title": "Business Budgeting: How to Plan a Budget - Business.com",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56V2VNcUs5Vk9xVUd5aE1feWJVVEJDZEM2emZqdXRKQldYM0NKbkx2YVRpcmRZNG9Nekp5NGhwdXdRMlpmeTJhX25wZzQ2V0FVRkdDeDNhcEJ0Q3Q4eUpz?oc=5",
-          "source": "Business.com"
         }
       ]
     }

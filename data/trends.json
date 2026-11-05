@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-04T13:40:27Z",
+  "fetched_at": "2026-11-05T13:52:39Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -9,50 +9,50 @@
   "topics": [
     {
       "keyword": "money",
-      "mentions": 10
+      "mentions": 6
     },
     {
-      "keyword": "saving",
-      "mentions": 7
+      "keyword": "tips",
+      "mentions": 6
     },
     {
       "keyword": "budgeting",
       "mentions": 5
     },
     {
-      "keyword": "tips",
-      "mentions": 5
+      "keyword": "savings",
+      "mentions": 4
+    },
+    {
+      "keyword": "saving",
+      "mentions": 4
+    },
+    {
+      "keyword": "financial",
+      "mentions": 4
+    },
+    {
+      "keyword": "cut",
+      "mentions": 3
     },
     {
       "keyword": "today",
-      "mentions": 4
+      "mentions": 3
     },
     {
       "keyword": "rates",
       "mentions": 3
     },
     {
-      "keyword": "business",
-      "mentions": 3
+      "keyword": "forcing",
+      "mentions": 2
     },
     {
-      "keyword": "save",
-      "mentions": 3
+      "keyword": "americans",
+      "mentions": 2
     },
     {
-      "keyword": "finds",
-      "mentions": 3
-    },
-    {
-      "keyword": "news",
-      "mentions": 3
-    },
-    {
-      "keyword": "energy",
-      "mentions": 3
-    },
-    {
-      "keyword": "top",
+      "keyword": "pay",
       "mentions": 2
     }
   ],
@@ -62,41 +62,47 @@
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "source": "Hacker News",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "score": 226,
-      "comments": 116
+      "score": 1222,
+      "comments": 712
     },
     {
-      "title": "Hackers hit French national blood bank",
+      "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
       "source": "Hacker News",
-      "url": "https://www.telegraph.co.uk/world-news/2026/11/04/hackers-hit-french-blood-bank/",
-      "score": 62,
-      "comments": 51
+      "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
+      "score": 141,
+      "comments": 351
     }
   ],
   "news": [
     {
-      "title": "Today’s top high-yield savings rates: Up to 4.70% on Nov. 4, 2026 - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10c1NOcC14eV9OWVp5aVJfb2k0LWZBZlBXS1BLUmNDMzQ4aklNTzYya3paTWtQUnZWQWZZUmh1R3Bia3dsMHVWeW1OSlQwSXN2bHp0TXBFOEJ6NXVMbkxYWlBRYW9QQjNSQXZjSjNDa0lFU2c?oc=5",
-      "published": "Wed, 04 Nov 2026 11:01:00 GMT",
-      "source": "Fortune"
+      "title": "Is inflation finally forcing Americans to cut back 401(k) savings? - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSE9xTkxlek1lOGowYnNkU3lOSDRWMG9jWFFOWGo2V2hCY1lzbHhsWEdWdk0tZ3lsREJmanFtbGdOcXBlSmMtSG1DbzM1V19BbFY3VTRLYmZvNXRYcEFSeXg1ei1lay1PWGVDM1B3dVBmN0J6UlE4bFhvcXRmd3V5VXltSWxCS0lIMHJLdTZGQXpTM0g1NWxFRXJWMkItbVl5bWZrb1cwdm93U2g2Y0Vlc1ZKY1dFWWhTTGlTeWZicTN0U2lLNXhKUnJjdEM?oc=5",
+      "published": "Thu, 05 Nov 2026 10:02:00 GMT",
+      "source": "USA Today"
     },
     {
-      "title": "Following the Crowd: Investing and Social Media - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQWNialFqOWlrYXZUbnZvMy1CUkxOOEwwZlhpbG9lbDBPNDg5UkFwREJTQVhmUEJ0dXZIbWxnekprejZoNlZhekkteGpCYXJCQ2ZfbzltRHplb0ZZWHktMXU5Y3BYMTI4V203LThhU2JMRndUYzJCMDl1NVFraXdjdjFheVM0V0pLOXJkcWxCNk94MzRORS1yWjNkTjJ3U3VTR1ViaFBn?oc=5",
-      "published": "Wed, 04 Nov 2026 11:20:00 GMT",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Today’s CD Rates for November 4, 2026: Highest APYs Range From 4.50% to 5.25% - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSkl3cU5Wd3ZtaVdhVnhzRklXM3drTnJGTmdIWFJfTDJ4UFBpbGdBWFhqLVBSRmxjRmlJRFR5NlNjZEJHM0s5TDN5cTZ1RGRzLXhucWNiNVF3QmxDYW9yZEQyUG9xREJTZDNxM3hTNXItdndzdVpEWkkyeVU3eDBpLVRCN21wRzVVYkQ5MlR0NjRMbnpJbUd0UHkwWms?oc=5",
-      "published": "Wed, 04 Nov 2026 10:00:00 GMT",
-      "source": "WSJ"
-    },
-    {
-      "title": "Her Husband's Spend-Down Will Be $190,000. One Move the Nursing Home Will Never Mention Will Turn It Into Monthly Income and Leave Him Eligible for Medicaid the Following Month - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQcGZwQ2lOb2U1UFFUVEFVdWoxNGh5Mlp6SjhHdHA4NXpGZEQ5a25RbU9SWnhfZ0tZOUFjczNhdVFYTHljNlBieXRvcXZJY3BOeEdTSnVPaVJZMnozOG5LZ2Y2MjlCZ05LbmtSMU1jcU04QmVBSEFwQXZqWFZXVWlNeWNYbnh2SnMyV3loNHlPMVNRaUQzMmh5Rm01RGhJckVBRWlSR3JRWW5sUFV5SGZ0N29Rcm1NTVV3NmN4TVlTMERvSGpjQklxVGM4QjZUNHBpOU5rSkR4bVNEd04yWEt3cGpFLXRmWG5tc2NSQnh0eG80WGhKc3o0QnJfdDNBdExXak9GaTZLY3AwaHFJWkZCcVRHTWVVR2dhV2hXbEFaNjFrWmZYMG0xN3pyZW9jckxjZTVNR041ejVzY3RPQkpCMzJuQldvcGRYN1dn?oc=5",
-      "published": "Wed, 04 Nov 2026 12:33:00 GMT",
+      "title": "At 66, They Will Pay Cash for the $450,000 Condo They Retire To From His IRA to Skip a Mortgage. Medicare Will Count the $450,000 as Income and Raise Both Their Premiums in 2028 - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQblBndmJKaUZDZ2VWeFBkQUxWcmpBVUtyMkJITFBVWVlPZzhJa1hHdWhVY3YyRzFJSjd0MkM3dldRd3BmZnRXSHZWYXRSMkRTVEdjMXZkRkpNcUYtSmxPMHNYRDRXMnh3MXBSRzhHVTMxQkN6ekJTZlNBUGlxMlpRZVhpZnBiRjM3YjlRNWRuV20tQlRIdTRuVlhyRDhBdUN4N2d6S2NqVVAwQ2RCUWdpUG9MWVA2TkNMUndFdnlpTWY1eGM0dWlPUjRuNHB2Rm1BWE9jSXA5LUFKREFZcFd1eVVDX0xjUXBVZ3pZU25HbHc3SFRfSzF3b0tVenM3RS1CdmQ3SmFIOExERVJwWDlLYjlHUXMyTnktbUc4MUlPRml6czctRms1MzFXVUZENEFCQm1hbEc0d2dMU0h2TElXb0tPZHY?oc=5",
+      "published": "Wed, 04 Nov 2026 21:13:00 GMT",
       "source": "24/7 Wall St."
+    },
+    {
+      "title": "Are Your Parents Hiding Their Money From You? - The Cut",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYVF1T1hLa0JoY2NmWUx6ZEhCMGo3X1d1TzVzWGlqNWJSVG1icnJMOEFXYVpwZnZhMTM3R05YWXdxaUM0bkdMbThtdlI5OUVTamFKc19nSUxoTmdQUVZjMVYxeFE2NnFFVWFpRzhxQklXb1JJZDVGd0U4OTNlRlhuRUd4eWlOeE1DZkd6blZqamYyazJhNE1vM2hR?oc=5",
+      "published": "Thu, 05 Nov 2026 13:00:14 GMT",
+      "source": "The Cut"
+    },
+    {
+      "title": "Alaska Permanent Fund Status: How to know if you get the $1,200 payment this month? - MARCA",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPS25aWklvOE1OajhOVXgzM2s0ZmdIdldMUVJmZDNJRWphMi13VTBSTjIwemEzNDZycVU1ZnU1Uk9ONlJETHFvYVVGTWZ4QU5mdkZQYkQ3V0FNM1hJdW82bl9jaExXQ0pHQUtJckxucTdUNWhxbWxPT1RRYlNNSFByLXF2eUlTUjRycWwxOWdBV3NWejlGa2lieTdTNVNmdFpMRkk5Z3RXdXpBN2JGODQxa2xBZExIa1N2M29xRDFsLThYVFhQcGt3d1NqaDREVVI2N0FLZmZzS19Tdi1FRWJJWVFMY2NfME84VTJPVNIB7AFBVV95cUxNcW5YZkI5M19LWXJuempIYXhsbUJJNFdRanRHWHJkZFRMN25hdkFmZEV5R01FS2gwWjFQOGxqUWdDUDVNbTdRTEN5WUppbXdWN2VtcU9PeUpPOXZYYk10Vmp2blhPQWExdjBOLUE4M0NqSnp4YUhEb0ctbjVGRk1PSkFGTzhqZGh5RXdHbVdweER6YlBOVTJlWnFyOWVVQkxRdHhLXy1VOWNoTW1TclNzTm1zQnZzM0RIZUtQWU9mT2FnV3JBdFJ5a00xOUV3aEVWeWlCWDVydi1RMWZYSXhYdjNOSFM3Q0RIeEhHbA?oc=5",
+      "published": "Thu, 05 Nov 2026 13:37:50 GMT",
+      "source": "MARCA"
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, Thursday, November 5, 2026: Rates still lower than a week ago - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPazY5RExqVVhXbEwxdlVLZDMtRVFFSFBvWjdiV3BWWU5WUWZ4MEQ2bndQNFFFSUxudmRzeUlHakxmbHNTNVNzVkp1Z01xZEowYVNQWFhqcnFpZ0JIRndzN0IzbnJJbnE2aDU2endWaDZ1Yk04S2lqQWRsa0lsLTM0OTB0amIzRnlKaTIwT2hMSlJpb2ZzelQxQkZYQWdSUk5vZWZuS1VMRGVGZFZfSXZpcHBXZ0VQNGR0b0V3LWQ2WE5LdG11MzJDWDZkZUFDNUtQbnB0SkRGdnZlTUw5clVWVUdrNEx6aUQzVThCOWlERmFvMFRXRW5rNDN2Q3hzRjBRUFl4b3JKdVQzZw?oc=5",
+      "published": "Thu, 05 Nov 2026 11:00:00 GMT",
+      "source": "Yahoo Finance"
     },
     {
       "title": "Pittsburgh-area students get some eye-opening lessons about taxes, debt and budgeting - Pittsburgh Post-Gazette",
@@ -105,34 +111,40 @@
       "source": "Pittsburgh Post-Gazette"
     },
     {
-      "title": "VA Unemployment Benefits: How much can you get and who is eligible to apply for extra benefits? - MARCA",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSWY5eFBCb0hfemFPUFdxRGMtemlYX2llUllRYVpTUlB1SV84VEF2cE1xZWFqQVR6MjRqTXg2WEg3ZjdmS0tsS0RTS1VXQVBmOTVLTjhDc1F4MUtXa3diZWMyZFBmUnlUa3RjM2FKLWVZbm84aTdDNUtBb2k4NGRlel9uTzlXNERhWUU1dmtQd1BlTS1PcVItbkpHTV9pMjBZWWwtYVZTbFNzZlVjM0RXTllhREVYR2dJVld0dndlSVN0STVBT3hRc0dfelNBZnhXNDdvbzZpQWgwV2F4NllhNUd6bzcycFdaNnNXRDZoaHNsU0JPajBkdXN30gH6AUFVX3lxTFByOWFUb0gtN2JvN3Ewd2VWdXNNLWFjemlnajlYZVNWX0wzUEVfYzdJNlhQZjRLZzlUUG9oTUNUMm52OTVZSEh2eEtodVY1SUV0RjZXenZzYVV2QlRBeG9rOVNtdjEyZ1ZlTDRFNkF2YnR5VDF5MkZOTndVMUxtN3dkZThmc2llNjF3a2R5aV9zcmI3NzI4R3FoRzNWVGFZTHZjMldZWldUN3kycklPY1dvdXRIUFpDQjJBUUpXYWFGbEZDTU5XbjViOVFsQm9qWlhXVEx4OW9oY1pNSmViZUJOdW1yaXllQktXWTlDUXFHS2JTNlQzUDZWRnc?oc=5",
-      "published": "Wed, 04 Nov 2026 11:56:52 GMT",
-      "source": "MARCA"
+      "title": "6 Tax Changes That Could Affect Your 2026 Tax Return - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU0d3dmlESFZfUl9IVFRKNXB0cGlSR2hVZnRjOEZzaVBZWFJ0dzVsYmN5X2d6bkFIM0pPVkt1YzdwanpDd2ZhZ1h0LVotLWk2ZHRFRm9JaUhMVl9NZ2NxZWtobDYwa0hia3kzN0g0NUpoSE9qUFRwVVlkR05GdVBoRDBhVWV4N1dTVkVkRzU0bnctZzl2NVFpOQ?oc=5",
+      "published": "Thu, 05 Nov 2026 13:12:31 GMT",
+      "source": "Morningstar"
     },
     {
-      "title": "Top CD rates today, Nov. 4, 2026: Lock in up to up to 5.05% - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nX0pTWmV3Si0xZ3dHaEhqdUVFU0wyM0F2OTVkQ0JuMnlxanBoR2VPQ19STXUxS2ZSRWtrQV9iX18yaVRxT0U1aFFkWGdxVTQ4OFlRa0FIRms?oc=5",
-      "published": "Wed, 04 Nov 2026 11:01:00 GMT",
+      "title": "Today’s top high-yield savings rates: Up to 4.70% on Nov. 5, 2026 - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UcVhvYk1lU1pSRUFxVFBJaGlEVUMzMGFTTGxzaHBzVVRvWnI5aWdfNUJiZWRoZUVPTF9XVWNYY1h5VHUyOV9hY2ttMDdvVWRFVHRBTWhERlVkNmVrNE4zeWxxd1ptVWk4WmVlcURwWnVpUGs?oc=5",
+      "published": "Thu, 05 Nov 2026 11:01:00 GMT",
       "source": "Fortune"
     },
     {
-      "title": "Gold price today, Wednesday, November 4, 2026: Gold prices rise in early trading, but limited gains expected - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdTEzRnU0WGNuVHEyUDhldzduei1xZWY5bk9DbTZxal9zcVZtTTgxQXhvc1cxeHQxYWotWnNObWpLX0NPZjljVnUyRUN1cURuVDJiZmNRLUgyTWQ1Umo3YjUyR0hpbnhSUnVlRkJzMlBuQVpraWppN1RJY0s1WkF3cldKTkoyNnhhV1k2aFJIV0pTTzdoMWt5V0JDR3BuOU5zdE1sckV6aUFJRFl0ekp0d3FremtfeXdWZ3oxSEFlc09xLWF2d1BCSkJkVlIzSTJkU2dSTlhVRktPVmw0MC16YUtndWg1S24wZWFtamV1LVE1TGZ6MlZkRzVQdzllbzE4UTA3VGpTV3FNcHc?oc=5",
-      "published": "Wed, 04 Nov 2026 12:25:44 GMT",
-      "source": "Yahoo Finance"
+      "title": "Tips For Making The Most Of A Holiday Travel Budget - Yahoo Lifestyle Singapore",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5dWNzQndqaGpFX2FPQ19vTnU2eHk1V1pLVW1yQ2pteTJrYWtyT2VBVGJ6NERnX3JYa1owZldiRW9SbHlmeTVtSTdrVlFZQjJjMkx2cFFQZVFKV0FISmtvN1dSRmZEOVl4dkh6NkxmanQ5V3BTMURWUTFqemRIUQ?oc=5",
+      "published": "Thu, 05 Nov 2026 11:59:00 GMT",
+      "source": "Yahoo Lifestyle Singapore"
     },
     {
-      "title": "Budgeting for teens: 18 tips for growing your money young - Credit Karma",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xdUw2SkNfeUprYm1lTXlOYVludUhBZFc0X2RCZGUzVm9GeUJneWUwd0ZXMXNja3JyVkpsYi1KTlUwazlzWmVJR1U1eWZlTlU4Z0RDLUtoZlRyaWpuSnVGZ2VMRU5WMk1DQzBlVWpraVRwcktNZG1J?oc=5",
-      "published": "Thu, 09 Jul 2026 07:00:00 GMT",
-      "source": "Credit Karma"
+      "title": "Holiday shopping is right around the corner, here are budget tips experts recommend - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa3JRdWFpYkdnUmNNX3pucnhaUHcyQkU3OGFGRmFETkpOQzRaZ3hmV1g3a0NnYTZuRVVmWHNYd2hPcUxmaU5hTXFlSkN4U0txeHJnS2RGLXFsdW8yVS0yMG8ybExBZXRtUXFhU3ZTNEROeWd3OXJEWjZsTjhkY21DRjA2QWtsS192LXFKeDZHdVNJV3FEQ2NoRVFGUHB3UlBpSDViUTZPT0RDcHhTN1FVU1lzQ2c5RHJ6dXZR?oc=5",
+      "published": "Wed, 04 Nov 2026 12:17:00 GMT",
+      "source": "CBS News"
     },
     {
-      "title": "6-Step Financial Plan for 2026 - The Department of Financial Protection and Innovation (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOVHhmMmc5bHNRbV9VZUtNNFFGRTlUeHVBZlA3N0prY1lDa2dEVHRXakRRcW1fT1R0a2JKU1lWY0gzNzU0LUVxenJYSERZcWNDckRlNExOSmhWUUxQeUxTT1ZfMDRnMWN6bld1MFlzamJOUnM?oc=5",
-      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "source": "The Department of Financial Protection and Innovation (.gov)"
+      "title": "Best Budgeting Apps Of 2026: Tested And Ranked - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5",
+      "published": "Tue, 03 Nov 2026 09:08:00 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Budgeting Tips: How To Fix The $500 Problem - rova",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01Qkt2eWJVUm5kSmlkVXhBY2trMXc5VGtQVHBhWXVTVVJLdU5GSHpFQkVpbE9qUkIzQkNOZTkxeXprS1FYZ1NZdHJZQ1hpRjJ1aDkw?oc=5",
+      "published": "Thu, 05 Nov 2026 11:18:37 GMT",
+      "source": "rova"
     },
     {
       "title": "12 Easy Money Saving Travel Tips - NerdWallet",
@@ -147,50 +159,29 @@
       "source": "The Central App"
     },
     {
-      "title": "13 Ways to Stick to Your Retirement Budget in 2026 - AARP",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qYUNJOVRfMWxPMjJtYkxURVZBUFFpVzdlR2N4UDRLNEdkSWx0ZGFxZ241S05RQUo3NzJ6OTlMcHVxV3NXaUQzMXY5ZHFFcGJqMmJsVFhlWGVrTHJLM2dNN2pid1U5T3VqeEV6dXVmeThUMmFMc2c?oc=5",
-      "published": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "source": "AARP"
-    },
-    {
-      "title": "Sneaky Costs of Youth Sports and Activities—And What to Do About It - Northwestern Mutual",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHdqYmVkRUZxUHhvVTI3dHBKenIxOHRzVk9fb2FieHBDc1ByajJQeGFVV0UzdEtXWHRsR3pXTzNYYXkyYXJfaG5VQW5Zc284d0pqM1NQZ1FZeVc1TVRLYjZKUHFCNFJUUE1rSVZpTTJLSl9fd2ZJUlMyajFXUm1Jb0ttNUdVVVBPbWVOXw?oc=5",
-      "published": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "source": "Northwestern Mutual"
-    },
-    {
-      "title": "Business Budgeting: How to Plan a Budget - Business.com",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56V2VNcUs5Vk9xVUd5aE1feWJVVEJDZEM2emZqdXRKQldYM0NKbkx2YVRpcmRZNG9Nekp5NGhwdXdRMlpmeTJhX25wZzQ2V0FVRkdDeDNhcEJ0Q3Q4eUpz?oc=5",
-      "published": "Fri, 04 Sep 2026 07:00:00 GMT",
-      "source": "Business.com"
+      "title": "6-Step Financial Plan for 2026 - The Department of Financial Protection and Innovation (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOVHhmMmc5bHNRbV9VZUtNNFFGRTlUeHVBZlA3N0prY1lDa2dEVHRXakRRcW1fT1R0a2JKU1lWY0gzNzU0LUVxenJYSERZcWNDckRlNExOSmhWUUxQeUxTT1ZfMDRnMWN6bld1MFlzamJOUnM?oc=5",
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "source": "The Department of Financial Protection and Innovation (.gov)"
     }
   ],
   "hn_stories": [
     {
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "score": 226,
-      "comments": 116,
+      "score": 1222,
+      "comments": 712,
       "source": "Hacker News"
     },
     {
-      "title": "Hackers hit French national blood bank",
-      "url": "https://www.telegraph.co.uk/world-news/2026/11/04/hackers-hit-french-blood-bank/",
-      "score": 62,
-      "comments": 51,
+      "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
+      "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
+      "score": 141,
+      "comments": 351,
       "source": "Hacker News"
     }
   ],
-  "trending_searches": [
-    {
-      "term": "trump media stock",
-      "source": "Google Trends US"
-    },
-    {
-      "term": "ddog stock",
-      "source": "Google Trends US"
-    }
-  ],
+  "trending_searches": [],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",
     "reddit r/financialindependence: HTTP Error 403: Blocked"
