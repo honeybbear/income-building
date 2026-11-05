@@ -45,6 +45,7 @@ TOPICS = {
     "fsa-use-it-or-lose-it-playbook": ["taxes", "saving"],
     "boomerang-budget-playbook": ["budgeting", "family"],
     "how-much-to-retire": ["retirement", "budgeting"],
+    "credit-score-playbook": ["debt", "getting started"],
 }
 
 
