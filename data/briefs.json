@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T13:52:40Z",
+  "generated_at": "2026-11-06T13:38:30Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -21,7 +21,8 @@
       ],
       "key_points": [
         "Are Your Parents Hiding Their Money From You? - The Cut (The Cut)",
-        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
+        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)",
+        "Budgeting for teens: 18 tips for growing your money young - Credit Karma (Credit Karma)"
       ],
       "sources": [
         {
@@ -33,6 +34,11 @@
           "title": "12 Easy Money Saving Travel Tips - NerdWallet",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
           "source": "NerdWallet"
+        },
+        {
+          "title": "Budgeting for teens: 18 tips for growing your money young - Credit Karma",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xdUw2SkNfeUprYm1lTXlOYVludUhBZFc0X2RCZGUzVm9GeUJneWUwd0ZXMXNja3JyVkpsYi1KTlUwazlzWmVJR1U1eWZlTlU4Z0RDLUtoZlRyaWpuSnVGZ2VMRU5WMk1DQzBlVWpraVRwcktNZG1J?oc=5",
+          "source": "Credit Karma"
         }
       ]
     },
@@ -53,31 +59,31 @@
         "Sensible next steps"
       ],
       "key_points": [
+        "Holiday shopping on a budget: Tips to manage spending and avoid debt - WKRC (WKRC)",
         "Tips For Making The Most Of A Holiday Travel Budget - Yahoo Lifestyle Singapore (Yahoo Lifestyle Singapore)",
-        "Holiday shopping is right around the corner, here are budget tips experts recommend - CBS News (CBS News)",
-        "Budgeting Tips: How To Fix The $500 Problem - rova (rova)",
-        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
+        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)",
+        "Christmas budgeting tips and words of wisdom - The Central App (The Central App)"
       ],
       "sources": [
+        {
+          "title": "Holiday shopping on a budget: Tips to manage spending and avoid debt - WKRC",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUkVRRVhDNmNqSjVOZkk0VkdiWkRRM2I4ajZmeXBYSTRhaDJTdHhlNTNsbTBBczNqa3hBek5zbi10RkJnWU5RLXZNclJ4aU5uN1FpZUlQaE94N0JrQUZDQXd0WWNUbWRJaldzRWlpTmpTSWVHNXMtQnR3VTZaaU9HY1MwcUs0V0g2ZTVJbXNEWU5qSnlIbEFyX2o0S0tmZnFNb2gtYk05bUw4UmRKdExEN25XdDJfVVdIa2ZvWWhYcEVjc0hOWXRjZDhaaHBYZERaTGNj?oc=5",
+          "source": "WKRC"
+        },
         {
           "title": "Tips For Making The Most Of A Holiday Travel Budget - Yahoo Lifestyle Singapore",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5dWNzQndqaGpFX2FPQ19vTnU2eHk1V1pLVW1yQ2pteTJrYWtyT2VBVGJ6NERnX3JYa1owZldiRW9SbHlmeTVtSTdrVlFZQjJjMkx2cFFQZVFKV0FISmtvN1dSRmZEOVl4dkh6NkxmanQ5V3BTMURWUTFqemRIUQ?oc=5",
           "source": "Yahoo Lifestyle Singapore"
         },
         {
-          "title": "Holiday shopping is right around the corner, here are budget tips experts recommend - CBS News",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa3JRdWFpYkdnUmNNX3pucnhaUHcyQkU3OGFGRmFETkpOQzRaZ3hmV1g3a0NnYTZuRVVmWHNYd2hPcUxmaU5hTXFlSkN4U0txeHJnS2RGLXFsdW8yVS0yMG8ybExBZXRtUXFhU3ZTNEROeWd3OXJEWjZsTjhkY21DRjA2QWtsS192LXFKeDZHdVNJV3FEQ2NoRVFGUHB3UlBpSDViUTZPT0RDcHhTN1FVU1lzQ2c5RHJ6dXZR?oc=5",
-          "source": "CBS News"
-        },
-        {
-          "title": "Budgeting Tips: How To Fix The $500 Problem - rova",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01Qkt2eWJVUm5kSmlkVXhBY2trMXc5VGtQVHBhWXVTVVJLdU5GSHpFQkVpbE9qUkIzQkNOZTkxeXprS1FYZ1NZdHJZQ1hpRjJ1aDkw?oc=5",
-          "source": "rova"
-        },
-        {
           "title": "12 Easy Money Saving Travel Tips - NerdWallet",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
           "source": "NerdWallet"
+        },
+        {
+          "title": "Christmas budgeting tips and words of wisdom - The Central App",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOVhWXzNOT200eXNtVnpENDRpMXpKZklzYlhVR1ZUend1SWFDVmZLMnlzOVFiRmw3R1lCaTJxVXpmU052QW1BVTBkVXZfWDFZeEZORmRUUUtwUThfQkJocUFlYVhzQThaeGx4ejFfdGE5YmFiS1d0THhUckdBcXZreEtKV2wxQURfcjhPSXFDdVBQLTBPa2FSanZUUDdrZGVja3Vr?oc=5",
+          "source": "The Central App"
         }
       ]
     },
@@ -85,44 +91,32 @@
       "id": "t-2",
       "kind": "trending-topic",
       "headline_options": [
-        "Budgeting, explained in plain English",
-        "What you should actually know about budgeting",
-        "Budgeting: the honest beginner's guide"
+        "Saving, explained in plain English",
+        "What you should actually know about saving",
+        "Saving: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What budgeting means in plain English",
+        "What saving means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "Pittsburgh-area students get some eye-opening lessons about taxes, debt and budgeting - Pittsburgh Post-Gazette (Pittsburgh Post-Gazette)",
-        "Best Budgeting Apps Of 2026: Tested And Ranked - Forbes (Forbes)",
-        "Budgeting Tips: How To Fix The $500 Problem - rova (rova)",
-        "Christmas budgeting tips and words of wisdom - The Central App (The Central App)"
+        "Is inflation finally forcing Americans to cut back 401(k) savings? - USA Today (USA Today)",
+        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
       ],
       "sources": [
         {
-          "title": "Pittsburgh-area students get some eye-opening lessons about taxes, debt and budgeting - Pittsburgh Post-Gazette",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWp6ZEN3YnNPdjh5bE1NbFlBc0ozNGhsdzI0VHpuRWZVQUhyWG9SME51elFhdmxDb1JQSmhaQWVveWlXMll5VlFkWThSLUNyOVQtREk3QmJBREs1UnFyN0JZdW01RmRRUTRuMUlZNE1FQW83YW9GcGFGVWpZVEVxSzlxVmV2czVWMDdXZ2xIUVE0MzdtNVVmbkJXMGhpR0pFZWdGcEhaV3ZoTEZkSkRWODZSR3R3bWNMdGI2QQ?oc=5",
-          "source": "Pittsburgh Post-Gazette"
+          "title": "Is inflation finally forcing Americans to cut back 401(k) savings? - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSE9xTkxlek1lOGowYnNkU3lOSDRWMG9jWFFOWGo2V2hCY1lzbHhsWEdWdk0tZ3lsREJmanFtbGdOcXBlSmMtSG1DbzM1V19BbFY3VTRLYmZvNXRYcEFSeXg1ei1lay1PWGVDM1B3dVBmN0J6UlE4bFhvcXRmd3V5VXltSWxCS0lIMHJLdTZGQXpTM0g1NWxFRXJWMkItbVl5bWZrb1cwdm93U2g2Y0Vlc1ZKY1dFWWhTTGlTeWZicTN0U2lLNXhKUnJjdEM?oc=5",
+          "source": "USA Today"
         },
         {
-          "title": "Best Budgeting Apps Of 2026: Tested And Ranked - Forbes",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5",
-          "source": "Forbes"
-        },
-        {
-          "title": "Budgeting Tips: How To Fix The $500 Problem - rova",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01Qkt2eWJVUm5kSmlkVXhBY2trMXc5VGtQVHBhWXVTVVJLdU5GSHpFQkVpbE9qUkIzQkNOZTkxeXprS1FYZ1NZdHJZQ1hpRjJ1aDkw?oc=5",
-          "source": "rova"
-        },
-        {
-          "title": "Christmas budgeting tips and words of wisdom - The Central App",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOVhWXzNOT200eXNtVnpENDRpMXpKZklzYlhVR1ZUend1SWFDVmZLMnlzOVFiRmw3R1lCaTJxVXpmU052QW1BVTBkVXZfWDFZeEZORmRUUUtwUThfQkJocUFlYVhzQThaeGx4ejFfdGE5YmFiS1d0THhUckdBcXZreEtKV2wxQURfcjhPSXFDdVBQLTBPa2FSanZUUDdrZGVja3Vr?oc=5",
-          "source": "The Central App"
+          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
+          "source": "NerdWallet"
         }
       ]
     }

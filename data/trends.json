@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-05T13:52:39Z",
+  "fetched_at": "2026-11-06T13:38:30Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -9,82 +9,100 @@
   "topics": [
     {
       "keyword": "money",
-      "mentions": 6
+      "mentions": 10
     },
     {
       "keyword": "tips",
       "mentions": 6
     },
     {
-      "keyword": "budgeting",
-      "mentions": 5
-    },
-    {
-      "keyword": "savings",
-      "mentions": 4
-    },
-    {
       "keyword": "saving",
+      "mentions": 6
+    },
+    {
+      "keyword": "finance",
       "mentions": 4
     },
     {
-      "keyword": "financial",
+      "keyword": "today",
       "mentions": 4
+    },
+    {
+      "keyword": "yahoo",
+      "mentions": 4
+    },
+    {
+      "keyword": "spending",
+      "mentions": 3
+    },
+    {
+      "keyword": "friday",
+      "mentions": 3
+    },
+    {
+      "keyword": "november",
+      "mentions": 3
     },
     {
       "keyword": "cut",
       "mentions": 3
     },
     {
-      "keyword": "today",
+      "keyword": "budget",
       "mentions": 3
     },
     {
-      "keyword": "rates",
+      "keyword": "budgeting",
       "mentions": 3
-    },
-    {
-      "keyword": "forcing",
-      "mentions": 2
-    },
-    {
-      "keyword": "americans",
-      "mentions": 2
-    },
-    {
-      "keyword": "pay",
-      "mentions": 2
     }
   ],
   "questions": [],
   "discussion_highlights": [
     {
-      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "title": "Britain to make salary disclosure in job ads mandatory",
       "source": "Hacker News",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "score": 1222,
-      "comments": 712
+      "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+      "score": 327,
+      "comments": 278
     },
     {
-      "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
+      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
       "source": "Hacker News",
-      "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
-      "score": 141,
-      "comments": 351
+      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+      "score": 290,
+      "comments": 178
     }
   ],
   "news": [
     {
-      "title": "Is inflation finally forcing Americans to cut back 401(k) savings? - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSE9xTkxlek1lOGowYnNkU3lOSDRWMG9jWFFOWGo2V2hCY1lzbHhsWEdWdk0tZ3lsREJmanFtbGdOcXBlSmMtSG1DbzM1V19BbFY3VTRLYmZvNXRYcEFSeXg1ei1lay1PWGVDM1B3dVBmN0J6UlE4bFhvcXRmd3V5VXltSWxCS0lIMHJLdTZGQXpTM0g1NWxFRXJWMkItbVl5bWZrb1cwdm93U2g2Y0Vlc1ZKY1dFWWhTTGlTeWZicTN0U2lLNXhKUnJjdEM?oc=5",
-      "published": "Thu, 05 Nov 2026 10:02:00 GMT",
-      "source": "USA Today"
+      "title": "Claude can now analyze your spending with its new Personal Finance tool - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZEtFZTdKVm5NbllXbVdGcTRrU3ZuZ3p4Q0VvS2hPRjJQWmJGUWlIRmlpaC1kV1l0WUJTbmRQSm5mVVhrYV9oRUE2c2xPZWpoRDRnWkJwQzFmVmg1REtTN0k4WkRVYjUyaUExOXUyaXlWZU9yei1Bd0ZqYWpGLTNlOXJubi1DQmZxekZWbG9Cd1Q1NE1rTnMzbm15bEw2TnJMNFZnMm9rOWxVdw?oc=5",
+      "published": "Thu, 05 Nov 2026 18:00:00 GMT",
+      "source": "TechCrunch"
     },
     {
-      "title": "At 66, They Will Pay Cash for the $450,000 Condo They Retire To From His IRA to Skip a Mortgage. Medicare Will Count the $450,000 as Income and Raise Both Their Premiums in 2028 - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQblBndmJKaUZDZ2VWeFBkQUxWcmpBVUtyMkJITFBVWVlPZzhJa1hHdWhVY3YyRzFJSjd0MkM3dldRd3BmZnRXSHZWYXRSMkRTVEdjMXZkRkpNcUYtSmxPMHNYRDRXMnh3MXBSRzhHVTMxQkN6ekJTZlNBUGlxMlpRZVhpZnBiRjM3YjlRNWRuV20tQlRIdTRuVlhyRDhBdUN4N2d6S2NqVVAwQ2RCUWdpUG9MWVA2TkNMUndFdnlpTWY1eGM0dWlPUjRuNHB2Rm1BWE9jSXA5LUFKREFZcFd1eVVDX0xjUXBVZ3pZU25HbHc3SFRfSzF3b0tVenM3RS1CdmQ3SmFIOExERVJwWDlLYjlHUXMyTnktbUc4MUlPRml6czctRms1MzFXVUZENEFCQm1hbEc0d2dMU0h2TElXb0tPZHY?oc=5",
-      "published": "Wed, 04 Nov 2026 21:13:00 GMT",
-      "source": "24/7 Wall St."
+      "title": "Mortgage and refinance interest rates today, Friday, November 6, 2026: 30-year rates drop below 7% for the first time since September - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPTVczX3UzbHNINTE4NHl2Vi1HUVdodk1mY3R2VnJhdkJmYWxjbURyalk0TF83eDRLSVMzSGJEb0l0bC1ZZ1poMXdtRzI3eGtNUHEtTFhpSDJkYnA4T3E4YUFoUjd2dDBVTW1CZHpES3lLQlRzWXVZTFBIaWtXYlZTVlR0QmZwU01LZnppZXY4MnI5V2Jwc1NiV19aTGRBV19rLUF4VkNSaS13WGV5cTZyakJpenpQZF9ISGpuazF4MDVLS21NU1R5MEQyX0s3eWo3cXgwMl9JdTREbGdkUWowOEU1c0xydU44MDllOHhZSnJYT3RHaGtvZnQyUkM5NUhSZWljdkdVWml2dFpMSG1XVXlubWo1NnJiNWdBNnBRUy1OREpoQnZSMjZ2WGw?oc=5",
+      "published": "Fri, 06 Nov 2026 11:00:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Silver price today, Friday, November 6, 2026: - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMWJ5bGtYODg1NUR3eGt2Q3BqU3NEektGRzMtNVlpSjRzbkoycVVtZzZhOHdXM2xacHdocTVJUHRaOGVWRjZvcWMwMElaa2NZWHBFYUc1QUxDTU16clBCX1NmRlRoRE52ZTdfQXc0UC0zZkVrV1RlR1ExUEV4ZlA4NjhPWWlJU2xRei1DcS1taEtkeFcxLWhFNzl6SGVTTlFzWE5ZUG5IcWF6bTl1VWhTMURPQS1OVUxZ?oc=5",
+      "published": "Fri, 06 Nov 2026 12:35:24 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Gold price today, Friday, November 6, 2026: Gold hovers above $4,000 ahead of jobs report - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZVdYenA1bFg5NlRGRWlVSG90cWRjeG54aXJXSWstYkZwbEN5X3FLT2ZTQ2VTNVlMZzVvOVpQYUZFYzg3NWZRYVY5dHNqeFJpa1dPT2ZmbnVaemswUWxPNlFwZTl1QnNpbWlPM1NJWUJkYllJdDRpN0RPUzVvN0dpZ0s2TF9uUWxtR051eVduTkhaaE1nbjZ0N3haWWFoT25Cb3FLWWE4d1MtYWp2TjdjZEZsMC1vTENvVW5RZXcwTVBNS2dQZDJSOUF3Z3MxQW95WDg1aWw5WDZTUmpDUDVJcFJGOVFHSkNqUGxLNVJlcjA?oc=5",
+      "published": "Fri, 06 Nov 2026 12:24:50 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "IRS announces bigger estate and gift tax exemption for 2027 - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMEplOExqLVdkWWN0RUR0TzhGTHp3Y2E1azBqbG83WVVhMTNrSXRHeEMtSko5U2s5T3hGNjhYSE1HbTNLUTl6QUJBdEVtRC1ZR1hHTkM1Wi0tbTV2QnItSElMVG9xYUlJdWdsRDBxeEM3NEE1WC15QkV1MkZkd215SWI3SGZHdWVpc0hFSGFrS2lDUdIBlwFBVV95cUxNeXVfMGZycngzTHFEdXE4NzJKTHFkMUhzVFpnMmNkOGxER0tLVGtkSGRDUVVUSmR1Skp6NHprUXZTbkoxeU9FY1JXR01uV3dqLU92Tmd6a0oycXp5dlRiTW55Wk9jbi1FOGlrX2xlbnhkcFhROFZHNUJNUVNmVEw2N2Q5Z1I3TXdGcjJFTmpWdTM5RGFGdFk0?oc=5",
+      "published": "Thu, 05 Nov 2026 19:24:21 GMT",
+      "source": "CNBC"
     },
     {
       "title": "Are Your Parents Hiding Their Money From You? - The Cut",
@@ -93,58 +111,28 @@
       "source": "The Cut"
     },
     {
-      "title": "Alaska Permanent Fund Status: How to know if you get the $1,200 payment this month? - MARCA",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPS25aWklvOE1OajhOVXgzM2s0ZmdIdldMUVJmZDNJRWphMi13VTBSTjIwemEzNDZycVU1ZnU1Uk9ONlJETHFvYVVGTWZ4QU5mdkZQYkQ3V0FNM1hJdW82bl9jaExXQ0pHQUtJckxucTdUNWhxbWxPT1RRYlNNSFByLXF2eUlTUjRycWwxOWdBV3NWejlGa2lieTdTNVNmdFpMRkk5Z3RXdXpBN2JGODQxa2xBZExIa1N2M29xRDFsLThYVFhQcGt3d1NqaDREVVI2N0FLZmZzS19Tdi1FRWJJWVFMY2NfME84VTJPVNIB7AFBVV95cUxNcW5YZkI5M19LWXJuempIYXhsbUJJNFdRanRHWHJkZFRMN25hdkFmZEV5R01FS2gwWjFQOGxqUWdDUDVNbTdRTEN5WUppbXdWN2VtcU9PeUpPOXZYYk10Vmp2blhPQWExdjBOLUE4M0NqSnp4YUhEb0ctbjVGRk1PSkFGTzhqZGh5RXdHbVdweER6YlBOVTJlWnFyOWVVQkxRdHhLXy1VOWNoTW1TclNzTm1zQnZzM0RIZUtQWU9mT2FnV3JBdFJ5a00xOUV3aEVWeWlCWDVydi1RMWZYSXhYdjNOSFM3Q0RIeEhHbA?oc=5",
-      "published": "Thu, 05 Nov 2026 13:37:50 GMT",
-      "source": "MARCA"
+      "title": "Is inflation finally forcing Americans to cut back 401(k) savings? - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSE9xTkxlek1lOGowYnNkU3lOSDRWMG9jWFFOWGo2V2hCY1lzbHhsWEdWdk0tZ3lsREJmanFtbGdOcXBlSmMtSG1DbzM1V19BbFY3VTRLYmZvNXRYcEFSeXg1ei1lay1PWGVDM1B3dVBmN0J6UlE4bFhvcXRmd3V5VXltSWxCS0lIMHJLdTZGQXpTM0g1NWxFRXJWMkItbVl5bWZrb1cwdm93U2g2Y0Vlc1ZKY1dFWWhTTGlTeWZicTN0U2lLNXhKUnJjdEM?oc=5",
+      "published": "Thu, 05 Nov 2026 22:35:00 GMT",
+      "source": "USA Today"
     },
     {
-      "title": "Mortgage and refinance interest rates today, Thursday, November 5, 2026: Rates still lower than a week ago - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPazY5RExqVVhXbEwxdlVLZDMtRVFFSFBvWjdiV3BWWU5WUWZ4MEQ2bndQNFFFSUxudmRzeUlHakxmbHNTNVNzVkp1Z01xZEowYVNQWFhqcnFpZ0JIRndzN0IzbnJJbnE2aDU2endWaDZ1Yk04S2lqQWRsa0lsLTM0OTB0amIzRnlKaTIwT2hMSlJpb2ZzelQxQkZYQWdSUk5vZWZuS1VMRGVGZFZfSXZpcHBXZ0VQNGR0b0V3LWQ2WE5LdG11MzJDWDZkZUFDNUtQbnB0SkRGdnZlTUw5clVWVUdrNEx6aUQzVThCOWlERmFvMFRXRW5rNDN2Q3hzRjBRUFl4b3JKdVQzZw?oc=5",
-      "published": "Thu, 05 Nov 2026 11:00:00 GMT",
-      "source": "Yahoo Finance"
+      "title": "The 25 Best Countries to Retire in 2026 (and How Much They Cost) - Visual Capitalist",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbzRDNmR6SEhsWUpZT24weVpmeFNGNWZIY2gwTmt5QmRMeWpGbjdWcnlHSHE1RHZuM00zMS11dWRpMG00bUVXcXZNVW9nN2dabnlyWmJpNnpiOG9mS1ZOUFdIc2RURDhwOHVKVG5CZDFtVHR2MmtrQnZtREUtX01vVU8xdmJOX3lpcnZBQnEycHhZM1QzMDNRNjZKOEw?oc=5",
+      "published": "Thu, 05 Nov 2026 14:10:33 GMT",
+      "source": "Visual Capitalist"
     },
     {
-      "title": "Pittsburgh-area students get some eye-opening lessons about taxes, debt and budgeting - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWp6ZEN3YnNPdjh5bE1NbFlBc0ozNGhsdzI0VHpuRWZVQUhyWG9SME51elFhdmxDb1JQSmhaQWVveWlXMll5VlFkWThSLUNyOVQtREk3QmJBREs1UnFyN0JZdW01RmRRUTRuMUlZNE1FQW83YW9GcGFGVWpZVEVxSzlxVmV2czVWMDdXZ2xIUVE0MzdtNVVmbkJXMGhpR0pFZWdGcEhaV3ZoTEZkSkRWODZSR3R3bWNMdGI2QQ?oc=5",
-      "published": "Mon, 02 Nov 2026 09:30:00 GMT",
-      "source": "Pittsburgh Post-Gazette"
-    },
-    {
-      "title": "6 Tax Changes That Could Affect Your 2026 Tax Return - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU0d3dmlESFZfUl9IVFRKNXB0cGlSR2hVZnRjOEZzaVBZWFJ0dzVsYmN5X2d6bkFIM0pPVkt1YzdwanpDd2ZhZ1h0LVotLWk2ZHRFRm9JaUhMVl9NZ2NxZWtobDYwa0hia3kzN0g0NUpoSE9qUFRwVVlkR05GdVBoRDBhVWV4N1dTVkVkRzU0bnctZzl2NVFpOQ?oc=5",
-      "published": "Thu, 05 Nov 2026 13:12:31 GMT",
-      "source": "Morningstar"
-    },
-    {
-      "title": "Today’s top high-yield savings rates: Up to 4.70% on Nov. 5, 2026 - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UcVhvYk1lU1pSRUFxVFBJaGlEVUMzMGFTTGxzaHBzVVRvWnI5aWdfNUJiZWRoZUVPTF9XVWNYY1h5VHUyOV9hY2ttMDdvVWRFVHRBTWhERlVkNmVrNE4zeWxxd1ptVWk4WmVlcURwWnVpUGs?oc=5",
-      "published": "Thu, 05 Nov 2026 11:01:00 GMT",
-      "source": "Fortune"
+      "title": "Holiday shopping on a budget: Tips to manage spending and avoid debt - WKRC",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUkVRRVhDNmNqSjVOZkk0VkdiWkRRM2I4ajZmeXBYSTRhaDJTdHhlNTNsbTBBczNqa3hBek5zbi10RkJnWU5RLXZNclJ4aU5uN1FpZUlQaE94N0JrQUZDQXd0WWNUbWRJaldzRWlpTmpTSWVHNXMtQnR3VTZaaU9HY1MwcUs0V0g2ZTVJbXNEWU5qSnlIbEFyX2o0S0tmZnFNb2gtYk05bUw4UmRKdExEN25XdDJfVVdIa2ZvWWhYcEVjc0hOWXRjZDhaaHBYZERaTGNj?oc=5",
+      "published": "Fri, 06 Nov 2026 05:50:19 GMT",
+      "source": "WKRC"
     },
     {
       "title": "Tips For Making The Most Of A Holiday Travel Budget - Yahoo Lifestyle Singapore",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5dWNzQndqaGpFX2FPQ19vTnU2eHk1V1pLVW1yQ2pteTJrYWtyT2VBVGJ6NERnX3JYa1owZldiRW9SbHlmeTVtSTdrVlFZQjJjMkx2cFFQZVFKV0FISmtvN1dSRmZEOVl4dkh6NkxmanQ5V3BTMURWUTFqemRIUQ?oc=5",
       "published": "Thu, 05 Nov 2026 11:59:00 GMT",
       "source": "Yahoo Lifestyle Singapore"
-    },
-    {
-      "title": "Holiday shopping is right around the corner, here are budget tips experts recommend - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa3JRdWFpYkdnUmNNX3pucnhaUHcyQkU3OGFGRmFETkpOQzRaZ3hmV1g3a0NnYTZuRVVmWHNYd2hPcUxmaU5hTXFlSkN4U0txeHJnS2RGLXFsdW8yVS0yMG8ybExBZXRtUXFhU3ZTNEROeWd3OXJEWjZsTjhkY21DRjA2QWtsS192LXFKeDZHdVNJV3FEQ2NoRVFGUHB3UlBpSDViUTZPT0RDcHhTN1FVU1lzQ2c5RHJ6dXZR?oc=5",
-      "published": "Wed, 04 Nov 2026 12:17:00 GMT",
-      "source": "CBS News"
-    },
-    {
-      "title": "Best Budgeting Apps Of 2026: Tested And Ranked - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5",
-      "published": "Tue, 03 Nov 2026 09:08:00 GMT",
-      "source": "Forbes"
-    },
-    {
-      "title": "Budgeting Tips: How To Fix The $500 Problem - rova",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01Qkt2eWJVUm5kSmlkVXhBY2trMXc5VGtQVHBhWXVTVVJLdU5GSHpFQkVpbE9qUkIzQkNOZTkxeXprS1FYZ1NZdHJZQ1hpRjJ1aDkw?oc=5",
-      "published": "Thu, 05 Nov 2026 11:18:37 GMT",
-      "source": "rova"
     },
     {
       "title": "12 Easy Money Saving Travel Tips - NerdWallet",
@@ -163,21 +151,33 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOVHhmMmc5bHNRbV9VZUtNNFFGRTlUeHVBZlA3N0prY1lDa2dEVHRXakRRcW1fT1R0a2JKU1lWY0gzNzU0LUVxenJYSERZcWNDckRlNExOSmhWUUxQeUxTT1ZfMDRnMWN6bld1MFlzamJOUnM?oc=5",
       "published": "Tue, 21 Jul 2026 07:00:00 GMT",
       "source": "The Department of Financial Protection and Innovation (.gov)"
+    },
+    {
+      "title": "Budgeting for teens: 18 tips for growing your money young - Credit Karma",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xdUw2SkNfeUprYm1lTXlOYVludUhBZFc0X2RCZGUzVm9GeUJneWUwd0ZXMXNja3JyVkpsYi1KTlUwazlzWmVJR1U1eWZlTlU4Z0RDLUtoZlRyaWpuSnVGZ2VMRU5WMk1DQzBlVWpraVRwcktNZG1J?oc=5",
+      "published": "Thu, 09 Jul 2026 07:00:00 GMT",
+      "source": "Credit Karma"
+    },
+    {
+      "title": "Sneaky Costs of Youth Sports and Activities—And What to Do About It - Northwestern Mutual",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHdqYmVkRUZxUHhvVTI3dHBKenIxOHRzVk9fb2FieHBDc1ByajJQeGFVV0UzdEtXWHRsR3pXTzNYYXkyYXJfaG5VQW5Zc284d0pqM1NQZ1FZeVc1TVRLYjZKUHFCNFJUUE1rSVZpTTJLSl9fd2ZJUlMyajFXUm1Jb0ttNUdVVVBPbWVOXw?oc=5",
+      "published": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "source": "Northwestern Mutual"
     }
   ],
   "hn_stories": [
     {
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "score": 1222,
-      "comments": 712,
+      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+      "score": 290,
+      "comments": 178,
       "source": "Hacker News"
     },
     {
-      "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
-      "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
-      "score": 141,
-      "comments": 351,
+      "title": "Britain to make salary disclosure in job ads mandatory",
+      "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+      "score": 327,
+      "comments": 278,
       "source": "Hacker News"
     }
   ],
