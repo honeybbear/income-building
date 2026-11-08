@@ -47,6 +47,7 @@ TOPICS = {
     "how-much-to-retire": ["retirement", "budgeting"],
     "credit-score-playbook": ["debt", "getting started"],
     "should-you-refinance-falling-rates": ["debt", "budgeting"],
+    "glp1-retirement-savings-playbook": ["retirement", "budgeting"],
 }
 
 
