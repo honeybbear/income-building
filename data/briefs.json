@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:18:41Z",
+  "generated_at": "2026-11-08T12:38:18Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -20,31 +20,31 @@
         "Sensible next steps"
       ],
       "key_points": [
+        "Many workers lose unused FSA money — but could still come out ahead. Here's how - CNBC (CNBC)",
         "Are Your Parents Hiding Their Money From You? - The Cut (The Cut)",
-        "Private bank challenges how wealthy Americans move money - TheStreet (TheStreet)",
-        "Money-saving energy tips to brave the cold months - Roanoke Times (Roanoke Times)",
-        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
+        "Anthropic prepares Claude Money for personal finance - TestingCatalog AI News (TestingCatalog AI News)",
+        "Money-saving energy tips to brave the cold months - Roanoke Times (Roanoke Times)"
       ],
       "sources": [
+        {
+          "title": "Many workers lose unused FSA money — but could still come out ahead. Here's how - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fZE5McTI4T0lyUTU2WWlKdmJmOGJGWTBMd0kxZm1yZTNhcmMyZWF2c3pVSy1xUjhiTjZ5Y2h0NGlIR0JkeFlBSFliOTZDa0FZTWhPUzE0N2F1TEot?oc=5",
+          "source": "CNBC"
+        },
         {
           "title": "Are Your Parents Hiding Their Money From You? - The Cut",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYVF1T1hLa0JoY2NmWUx6ZEhCMGo3X1d1TzVzWGlqNWJSVG1icnJMOEFXYVpwZnZhMTM3R05YWXdxaUM0bkdMbThtdlI5OUVTamFKc19nSUxoTmdQUVZjMVYxeFE2NnFFVWFpRzhxQklXb1JJZDVGd0U4OTNlRlhuRUd4eWlOeE1DZkd6blZqamYyazJhNE1vM2hR?oc=5",
           "source": "The Cut"
         },
         {
-          "title": "Private bank challenges how wealthy Americans move money - TheStreet",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTXlDSDUwYkZlNFBQbi1LRVJ6Z1pXRWNHQXI4YzhWb1Y1dXpiRDJuQk9fVmppOXdiT2NsR3JzdnM5ajVxblVEZm9NcElfNVBQMm9HcnBaVWVHanNSVTM1c1VzdkNZVWtSRE1leHFJZFJCY3BYVzRCMDFZbjNydkxQd3I2dG1JbkhvX3lvN3FQUm1ockZTbEJ3VzQ4ZDRKcGs?oc=5",
-          "source": "TheStreet"
+          "title": "Anthropic prepares Claude Money for personal finance - TestingCatalog AI News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNnZ6WnBySGZHMXFRMXEzVXdiaEdJaWY0TW94bnpZQk9ETG11UjFBYklmcVp2VHNJcFNsZGFsVHAwYzNkZjJRZENmTW11bmt2OGlsOGhDVDlDN1JzNDIxZXlmTzN6aXFwNWQ1WXRFRG1qNFZRNk9vaC1NOGM4d19xLWJlUmx5cC1TbGZnQw?oc=5",
+          "source": "TestingCatalog AI News"
         },
         {
           "title": "Money-saving energy tips to brave the cold months - Roanoke Times",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTI4b3pUd1VHMm5yeTlmYlhIVUtrSE92RnBJN0xXUmF6QVhkMDBVcDF3bFMtanpyNWNJbVpfXzBkZE96eU9UVFNjOGdpSDRSWmxNMHpMbWNyTFRKU1U1MzJvRmx6dW5RNUx0N29fRko0RjNScGY4RFpDTGVjQ2owa1FpcEZ0SFRBek5idzRCc01RSUh6b2x0Q3VJUEt6X0htNHJ5VkV6QktKN2FRWnpUQS00NA?oc=5",
           "source": "Roanoke Times"
-        },
-        {
-          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
-          "source": "NerdWallet"
         }
       ]
     },
@@ -52,32 +52,32 @@
       "id": "t-1",
       "kind": "trending-topic",
       "headline_options": [
-        "Saving, explained in plain English",
-        "What you should actually know about saving",
-        "Saving: the honest beginner's guide"
+        "Here, explained in plain English",
+        "What you should actually know about here",
+        "Here: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What saving means in plain English",
+        "What here means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "Money-saving energy tips to brave the cold months - Roanoke Times (Roanoke Times)",
-        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
+        "Many workers lose unused FSA money — but could still come out ahead. Here's how - CNBC (CNBC)",
+        "Dave Ramsey Says You'll \"Never Touch\" Your Retirement Principal If You Withdraw Less Than 12%. Here's the Catch - 24/7 Wall St. (24/7 Wall St.)"
       ],
       "sources": [
         {
-          "title": "Money-saving energy tips to brave the cold months - Roanoke Times",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTI4b3pUd1VHMm5yeTlmYlhIVUtrSE92RnBJN0xXUmF6QVhkMDBVcDF3bFMtanpyNWNJbVpfXzBkZE96eU9UVFNjOGdpSDRSWmxNMHpMbWNyTFRKU1U1MzJvRmx6dW5RNUx0N29fRko0RjNScGY4RFpDTGVjQ2owa1FpcEZ0SFRBek5idzRCc01RSUh6b2x0Q3VJUEt6X0htNHJ5VkV6QktKN2FRWnpUQS00NA?oc=5",
-          "source": "Roanoke Times"
+          "title": "Many workers lose unused FSA money — but could still come out ahead. Here's how - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fZE5McTI4T0lyUTU2WWlKdmJmOGJGWTBMd0kxZm1yZTNhcmMyZWF2c3pVSy1xUjhiTjZ5Y2h0NGlIR0JkeFlBSFliOTZDa0FZTWhPUzE0N2F1TEot?oc=5",
+          "source": "CNBC"
         },
         {
-          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
-          "source": "NerdWallet"
+          "title": "Dave Ramsey Says You'll \"Never Touch\" Your Retirement Principal If You Withdraw Less Than 12%. Here's the Catch - 24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRUJldG1LaDhmYTI4WlU4YjVOeVlSemJ4TmNIalVhNnJMb1lnMEJ6c0txQlNOWEtNazJzVGt2MjhvaVVVc2hpN1E5SDhhRXRHUnB4LWlFempMTm1iUlpqZXVjU3VodWkxaVpwak5fMW1lNVJYMno3YmJtZE5wejB3dUx5b01KOWl3ZjJNaURlSjJCWGNLMjN0ckdlSDFGMWtPNHhuQ01RSk9WQUpEVXdYNWJlWVplUXl2X0xnN3FudG1JWjJCY2s1eXJTanJwNUVzbTlHWGJSUlJjeVk3aVNmZHUxdnY0bndWUkp1Ng?oc=5",
+          "source": "24/7 Wall St."
         }
       ]
     },
@@ -85,44 +85,38 @@
       "id": "t-2",
       "kind": "trending-topic",
       "headline_options": [
-        "Tips, explained in plain English",
-        "What you should actually know about tips",
-        "Tips: the honest beginner's guide"
+        "Year, explained in plain English",
+        "What you should actually know about year",
+        "Year: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What tips means in plain English",
+        "What year means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "Money-saving energy tips to brave the cold months - Roanoke Times (Roanoke Times)",
-        "Tips For Making The Most Of A Holiday Travel Budget - Forbes (Forbes)",
-        "Holiday shopping on a budget: Tips to manage spending and avoid debt - WKRC (WKRC)",
-        "12 Easy Money Saving Travel Tips - NerdWallet (NerdWallet)"
+        "The hidden $1,500-a-year threat to your retirement - USA Today (USA Today)",
+        "Before You Click 'Same as Last Year' During Open Enrollment, Read This - Kiplinger (Kiplinger)",
+        "Mortgage and refinance interest rates today, Sunday, November 8, 2026: 30-year purchase rates down 24 basis points since last week - Yahoo Finance (Yahoo Finance)"
       ],
       "sources": [
         {
-          "title": "Money-saving energy tips to brave the cold months - Roanoke Times",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTI4b3pUd1VHMm5yeTlmYlhIVUtrSE92RnBJN0xXUmF6QVhkMDBVcDF3bFMtanpyNWNJbVpfXzBkZE96eU9UVFNjOGdpSDRSWmxNMHpMbWNyTFRKU1U1MzJvRmx6dW5RNUx0N29fRko0RjNScGY4RFpDTGVjQ2owa1FpcEZ0SFRBek5idzRCc01RSUh6b2x0Q3VJUEt6X0htNHJ5VkV6QktKN2FRWnpUQS00NA?oc=5",
-          "source": "Roanoke Times"
+          "title": "The hidden $1,500-a-year threat to your retirement - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnRXMlFJZ1FiX0ZqczVIR2VOZW1CU1JWblZCRGRVVGhkbmRibXEwVDA2aEQ2cDJPakV1WC1UVTFVUDh3Zi1sc3RadEpwY2hVdFYxVGFjVTNtU3JMUDRrOUwzbHFwNmlVUFAzdHduX1Z1T1F1TXpua3JOQWJGZEZVVjhmX0taWHJWdFhOdWtFYWtadjBXS2FCVUNaNTdFUFJLcGJZT2pPNlZ4aXEtLVNwNEc0dw?oc=5",
+          "source": "USA Today"
         },
         {
-          "title": "Tips For Making The Most Of A Holiday Travel Budget - Forbes",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUW1tanZVdEZPYzhoQkl4VmZPZmgxNEZ5TGVPZUdQTkc1UVBKUjYtMW0yUUxCczl2MnpBbGtEQkFqZ3E3QlVyTDNtZjVwX0M1TDEzbXJ4YzdSRlVNVjV2U1lMbFRhMGtsZ2c5WVlETXI1TllOdm1ZZDc0NDNtVVNoNFprQVlkLVVSVXZrdFJZRlNSQTA3Z0pneVZZRGFKYzJQUng3cWZB?oc=5",
-          "source": "Forbes"
+          "title": "Before You Click 'Same as Last Year' During Open Enrollment, Read This - Kiplinger",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOejh2Z1hoVlJTTkp0VGkwNXFJNmlabktvNXk0Q0lFZllULXJHMV91blY3M1pTdjZxVXRkOHphbjc4Z1N4eWJmOFJhV0hIb3ZVbkNjWndLWDhBMGZIbEdDb2NMZUZSYURhc0N6ZEZYREhKMmhINkdVb0w1YTFZWGxpcmpTOTJvT1picFpOWURsQlZRcmctZEExOTBNY1ZzTHpNSWIzRDBSY2Z4b1E5Y3c?oc=5",
+          "source": "Kiplinger"
         },
         {
-          "title": "Holiday shopping on a budget: Tips to manage spending and avoid debt - WKRC",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUkVRRVhDNmNqSjVOZkk0VkdiWkRRM2I4ajZmeXBYSTRhaDJTdHhlNTNsbTBBczNqa3hBek5zbi10RkJnWU5RLXZNclJ4aU5uN1FpZUlQaE94N0JrQUZDQXd0WWNUbWRJaldzRWlpTmpTSWVHNXMtQnR3VTZaaU9HY1MwcUs0V0g2ZTVJbXNEWU5qSnlIbEFyX2o0S0tmZnFNb2gtYk05bUw4UmRKdExEN25XdDJfVVdIa2ZvWWhYcEVjc0hOWXRjZDhaaHBYZERaTGNj?oc=5",
-          "source": "WKRC"
-        },
-        {
-          "title": "12 Easy Money Saving Travel Tips - NerdWallet",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
-          "source": "NerdWallet"
+          "title": "Mortgage and refinance interest rates today, Sunday, November 8, 2026: 30-year purchase rates down 24 basis points since last week - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQZFJDMEhQcF9NemVfeWlQN2NpVDFNRW9fTzdtNEJPSVZQYXJyZkk0aTBOSlVaSm1BaXR5Q28xRm5MYzk1X0lMNTAwMmw2U3p2aGFIVEVJWVJGU1I1VWNLcEV5elZMdmdBdlhfLUkyVXA1N3p1dWhpSDB0bmpIS1dKTGFJeGNZdlMtYjBnbnV2N3BHNHdfTm55S1J5bzdMVlJoU3pVci1qczhSZ2RxM2J1LXFhVldDNEhEaXNReUZfYVZ2NnpJX0JYcUJPUnAwWHRlaC0zQmM5RlEtd0FQLXRQbWI2LURYb21LSDROUU01WURjd29qLV9rMWxad3R2M0hNaFVScndTSTNZRXlvbjJBcVZpV3VJaklNOXVaQXZrNnowZ3c2aEd4MGlR?oc=5",
+          "source": "Yahoo Finance"
         }
       ]
     }

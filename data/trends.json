@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-07T12:18:41Z",
+  "fetched_at": "2026-11-08T12:38:18Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -12,31 +12,39 @@
       "mentions": 11
     },
     {
-      "keyword": "saving",
-      "mentions": 9
+      "keyword": "here",
+      "mentions": 4
     },
     {
-      "keyword": "tips",
-      "mentions": 8
+      "keyword": "year",
+      "mentions": 4
     },
     {
       "keyword": "budget",
       "mentions": 4
     },
     {
+      "keyword": "tips",
+      "mentions": 4
+    },
+    {
+      "keyword": "saving",
+      "mentions": 4
+    },
+    {
+      "keyword": "save",
+      "mentions": 4
+    },
+    {
+      "keyword": "finance",
+      "mentions": 3
+    },
+    {
       "keyword": "retirement",
       "mentions": 3
     },
     {
-      "keyword": "today",
-      "mentions": 3
-    },
-    {
-      "keyword": "here",
-      "mentions": 3
-    },
-    {
-      "keyword": "says",
+      "keyword": "news",
       "mentions": 3
     },
     {
@@ -46,24 +54,16 @@
     {
       "keyword": "budgeting",
       "mentions": 3
-    },
-    {
-      "keyword": "energy",
-      "mentions": 3
-    },
-    {
-      "keyword": "brave",
-      "mentions": 3
     }
   ],
   "questions": [],
   "discussion_highlights": [
     {
-      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "title": "Person of Interest",
       "source": "Hacker News",
-      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-      "score": 136,
-      "comments": 71
+      "url": "https://krthr.co/person-of-interest/",
+      "score": 74,
+      "comments": 34
     }
   ],
   "news": [
@@ -74,28 +74,28 @@
       "source": "Reuters"
     },
     {
+      "title": "Many workers lose unused FSA money — but could still come out ahead. Here's how - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fZE5McTI4T0lyUTU2WWlKdmJmOGJGWTBMd0kxZm1yZTNhcmMyZWF2c3pVSy1xUjhiTjZ5Y2h0NGlIR0JkeFlBSFliOTZDa0FZTWhPUzE0N2F1TEot?oc=5",
+      "published": "Sat, 07 Nov 2026 14:30:01 GMT",
+      "source": "CNBC"
+    },
+    {
       "title": "The hidden $1,500-a-year threat to your retirement - USA Today",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnRXMlFJZ1FiX0ZqczVIR2VOZW1CU1JWblZCRGRVVGhkbmRibXEwVDA2aEQ2cDJPakV1WC1UVTFVUDh3Zi1sc3RadEpwY2hVdFYxVGFjVTNtU3JMUDRrOUwzbHFwNmlVUFAzdHduX1Z1T1F1TXpua3JOQWJGZEZVVjhmX0taWHJWdFhOdWtFYWtadjBXS2FCVUNaNTdFUFJLcGJZT2pPNlZ4aXEtLVNwNEc0dw?oc=5",
       "published": "Sat, 07 Nov 2026 10:03:00 GMT",
       "source": "USA Today"
     },
     {
-      "title": "Mortgage and refinance interest rates today, Saturday, November 7, 2026: Mortgage rates continue to move lower compared to last week - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPcU5SZlRFMnZzX3N0TkdDSUdlMExSUXZrdThhVUVfNl9wTDBYeEpPdk9nczl5VG9wdDZiYVJBWWxQcklEQ1E5MFNhcU1MY0JibzFPZ3BHZjBKZlI1clhqRnNaeFNCSElvaXR2NTY4VndMMXBoVnJyM0FtTEEtX0YxczlPdUozajZycUwwWmk2UzBUWVc1MzRmQ2tfeDBrc0hTX1hua0dZTFRLS3FQS0hUN0RIbVBheXB6ek0weE5xS2R0VlktMWJmQkxTWmdvN1hncU5hZGNTT3YyY1lPZUZwUkxkMVE4a09qM1ZxeTF4TVVTR3k3Qlh5Sk1qc0ZrTVdPMGgwakNyU3ZvcHRvNklFUmE2bVhZNnlkV3czcHVWRDVwSjlzSzVOc2c0VFI?oc=5",
-      "published": "Sat, 07 Nov 2026 11:00:00 GMT",
+      "title": "Before You Click 'Same as Last Year' During Open Enrollment, Read This - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOejh2Z1hoVlJTTkp0VGkwNXFJNmlabktvNXk0Q0lFZllULXJHMV91blY3M1pTdjZxVXRkOHphbjc4Z1N4eWJmOFJhV0hIb3ZVbkNjWndLWDhBMGZIbEdDb2NMZUZSYURhc0N6ZEZYREhKMmhINkdVb0w1YTFZWGxpcmpTOTJvT1picFpOWURsQlZRcmctZEExOTBNY1ZzTHpNSWIzRDBSY2Z4b1E5Y3c?oc=5",
+      "published": "Sun, 08 Nov 2026 11:00:00 GMT",
+      "source": "Kiplinger"
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, Sunday, November 8, 2026: 30-year purchase rates down 24 basis points since last week - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQZFJDMEhQcF9NemVfeWlQN2NpVDFNRW9fTzdtNEJPSVZQYXJyZkk0aTBOSlVaSm1BaXR5Q28xRm5MYzk1X0lMNTAwMmw2U3p2aGFIVEVJWVJGU1I1VWNLcEV5elZMdmdBdlhfLUkyVXA1N3p1dWhpSDB0bmpIS1dKTGFJeGNZdlMtYjBnbnV2N3BHNHdfTm55S1J5bzdMVlJoU3pVci1qczhSZ2RxM2J1LXFhVldDNEhEaXNReUZfYVZ2NnpJX0JYcUJPUnAwWHRlaC0zQmM5RlEtd0FQLXRQbWI2LURYb21LSDROUU01WURjd29qLV9rMWxad3R2M0hNaFVScndTSTNZRXlvbjJBcVZpV3VJaklNOXVaQXZrNnowZ3c2aEd4MGlR?oc=5",
+      "published": "Sun, 08 Nov 2026 11:00:00 GMT",
       "source": "Yahoo Finance"
-    },
-    {
-      "title": "Here are 5 factors that could derail the 4% rule in retirement - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcC1ZTHNxLTBKdEdXUHhrb1R4UzJJeVRXcHl1YUtaWE9JUUdSUnRYajNJV2hiUkFfYXBSeUotZW92SzFMelpkR2RTYlVPbUVDSGJOU3B5NElpRmtfaDRkX2dlLW1mUzZjbG9kQ3NMdE0tTm94bzNibUFOVU9HT3hBZ2x0aFZ4bnVDektQeVdqSS1VN0VGazZGVmpyWnRQZDh4YXM2bDM2QnI4Tl9rd0IwVVZQWWFpYjFFc1RJUGhyZHc?oc=5",
-      "published": "Sat, 07 Nov 2026 10:01:00 GMT",
-      "source": "USA Today"
-    },
-    {
-      "title": "IRS announces bigger estate and gift tax exemption for 2027 - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMEplOExqLVdkWWN0RUR0TzhGTHp3Y2E1azBqbG83WVVhMTNrSXRHeEMtSko5U2s5T3hGNjhYSE1HbTNLUTl6QUJBdEVtRC1ZR1hHTkM1Wi0tbTV2QnItSElMVG9xYUlJdWdsRDBxeEM3NEE1WC15QkV1MkZkd215SWI3SGZHdWVpc0hFSGFrS2lDUdIBlwFBVV95cUxNeXVfMGZycngzTHFEdXE4NzJKTHFkMUhzVFpnMmNkOGxER0tLVGtkSGRDUVVUSmR1Skp6NHprUXZTbkoxeU9FY1JXR01uV3dqLU92Tmd6a0oycXp5dlRiTW55Wk9jbi1FOGlrX2xlbnhkcFhROFZHNUJNUVNmVEw2N2Q5Z1I3TXdGcjJFTmpWdTM5RGFGdFk0?oc=5",
-      "published": "Thu, 05 Nov 2026 19:24:21 GMT",
-      "source": "CNBC"
     },
     {
       "title": "Dave Ramsey Says You'll \"Never Touch\" Your Retirement Principal If You Withdraw Less Than 12%. Here's the Catch - 24/7 Wall St.",
@@ -110,22 +110,16 @@
       "source": "The Cut"
     },
     {
-      "title": "Private bank challenges how wealthy Americans move money - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTXlDSDUwYkZlNFBQbi1LRVJ6Z1pXRWNHQXI4YzhWb1Y1dXpiRDJuQk9fVmppOXdiT2NsR3JzdnM5ajVxblVEZm9NcElfNVBQMm9HcnBaVWVHanNSVTM1c1VzdkNZVWtSRE1leHFJZFJCY3BYVzRCMDFZbjNydkxQd3I2dG1JbkhvX3lvN3FQUm1ockZTbEJ3VzQ4ZDRKcGs?oc=5",
-      "published": "Fri, 06 Nov 2026 22:03:00 GMT",
-      "source": "TheStreet"
+      "title": "Anthropic prepares Claude Money for personal finance - TestingCatalog AI News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNnZ6WnBySGZHMXFRMXEzVXdiaEdJaWY0TW94bnpZQk9ETG11UjFBYklmcVp2VHNJcFNsZGFsVHAwYzNkZjJRZENmTW11bmt2OGlsOGhDVDlDN1JzNDIxZXlmTzN6aXFwNWQ1WXRFRG1qNFZRNk9vaC1NOGM4d19xLWJlUmx5cC1TbGZnQw?oc=5",
+      "published": "Mon, 14 Sep 2026 07:00:00 GMT",
+      "source": "TestingCatalog AI News"
     },
     {
       "title": "Ohio launches Holiday Budgeting Guide to stay on budget this season - Spectrum News",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSVNKQXBSOTVXNHcwaXk5eFgtM1BGaWltRDJOeDZDVU1TUlNKNHRDbF9HZ1VfNUVIMjVUUXNsSnhKT2t0YmFOcy1LTFVydzUtSVpMdlZrdXlWQmFmUDlwbkJzR05IT19tZjY1cDFGeTRDdUZpMXBOWG9fckZmYWVOT3RwWk93M1pWUVZlbEpRZHpTRWFPUWQ0VVE1MUdQVEgwSHdUZTI0MkJjSEJyVFcxc1NEYmRZZ2hrbDZGd0t3?oc=5",
       "published": "Fri, 06 Nov 2026 16:43:00 GMT",
       "source": "Spectrum News"
-    },
-    {
-      "title": "Money-saving energy tips to brave the cold months - Roanoke Times",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTI4b3pUd1VHMm5yeTlmYlhIVUtrSE92RnBJN0xXUmF6QVhkMDBVcDF3bFMtanpyNWNJbVpfXzBkZE96eU9UVFNjOGdpSDRSWmxNMHpMbWNyTFRKU1U1MzJvRmx6dW5RNUx0N29fRko0RjNScGY4RFpDTGVjQ2owa1FpcEZ0SFRBek5idzRCc01RSUh6b2x0Q3VJUEt6X0htNHJ5VkV6QktKN2FRWnpUQS00NA?oc=5",
-      "published": "Fri, 06 Nov 2026 16:41:19 GMT",
-      "source": "Roanoke Times"
     },
     {
       "title": "Tips For Making The Most Of A Holiday Travel Budget - Forbes",
@@ -140,30 +134,36 @@
       "source": "WKRC"
     },
     {
-      "title": "12 Easy Money Saving Travel Tips - NerdWallet",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWERhQnJPbFktSzFrT1Q4YXo2aXZCUG5oa1k5TlFRTlpJNFplMzZBZ245bE51dmMxbTdRVDBGTUNEaEdFQzRwN0tuQkdQZXN0ZWVZNzFjdE4xRFlvcjBSWWR0aU9wWVF0ZTJBX0p2VFdUWDRHTWtOWQ?oc=5",
-      "published": "Tue, 13 Oct 2026 07:00:00 GMT",
-      "source": "NerdWallet"
+      "title": "Money-saving energy tips to brave the cold months - Roanoke Times",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTI4b3pUd1VHMm5yeTlmYlhIVUtrSE92RnBJN0xXUmF6QVhkMDBVcDF3bFMtanpyNWNJbVpfXzBkZE96eU9UVFNjOGdpSDRSWmxNMHpMbWNyTFRKU1U1MzJvRmx6dW5RNUx0N29fRko0RjNScGY4RFpDTGVjQ2owa1FpcEZ0SFRBek5idzRCc01RSUh6b2x0Q3VJUEt6X0htNHJ5VkV6QktKN2FRWnpUQS00NA?oc=5",
+      "published": "Fri, 06 Nov 2026 16:41:19 GMT",
+      "source": "Roanoke Times"
     },
     {
-      "title": "Christmas budgeting tips and words of wisdom - The Central App",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOVhWXzNOT200eXNtVnpENDRpMXpKZklzYlhVR1ZUend1SWFDVmZLMnlzOVFiRmw3R1lCaTJxVXpmU052QW1BVTBkVXZfWDFZeEZORmRUUUtwUThfQkJocUFlYVhzQThaeGx4ejFfdGE5YmFiS1d0THhUckdBcXZreEtKV2wxQURfcjhPSXFDdVBQLTBPa2FSanZUUDdrZGVja3Vr?oc=5",
-      "published": "Tue, 03 Nov 2026 17:47:48 GMT",
-      "source": "The Central App"
+      "title": "Budgeting for teens: 18 tips for growing your money young - Credit Karma",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xdUw2SkNfeUprYm1lTXlOYVludUhBZFc0X2RCZGUzVm9GeUJneWUwd0ZXMXNja3JyVkpsYi1KTlUwazlzWmVJR1U1eWZlTlU4Z0RDLUtoZlRyaWpuSnVGZ2VMRU5WMk1DQzBlVWpraVRwcktNZG1J?oc=5",
+      "published": "Thu, 09 Jul 2026 07:00:00 GMT",
+      "source": "Credit Karma"
     },
     {
       "title": "6-Step Financial Plan for 2026 - The Department of Financial Protection and Innovation (.gov)",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOVHhmMmc5bHNRbV9VZUtNNFFGRTlUeHVBZlA3N0prY1lDa2dEVHRXakRRcW1fT1R0a2JKU1lWY0gzNzU0LUVxenJYSERZcWNDckRlNExOSmhWUUxQeUxTT1ZfMDRnMWN6bld1MFlzamJOUnM?oc=5",
       "published": "Tue, 21 Jul 2026 07:00:00 GMT",
       "source": "The Department of Financial Protection and Innovation (.gov)"
+    },
+    {
+      "title": "How to Make a Budget: A Step-By-Step Guide - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1meUZyZ3lmaFMtN1QzVWpjbkNBMVkySWpqeXI4TlRlb0lxS0RJNUNjNFlPR2ljZGw1YUJmT3ZnU3p1SmhxQlhMU0NZdm1Ba3l1TkZvT1pFR0xrOE1lU0s0Ykx2amg?oc=5",
+      "published": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "source": "NerdWallet"
     }
   ],
   "hn_stories": [
     {
-      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
-      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-      "score": 136,
-      "comments": 71,
+      "title": "Person of Interest",
+      "url": "https://krthr.co/person-of-interest/",
+      "score": 74,
+      "comments": 34,
       "source": "Hacker News"
     }
   ],
