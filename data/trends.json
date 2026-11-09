@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-08T12:38:18Z",
+  "fetched_at": "2026-11-09T14:57:19Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -9,38 +9,38 @@
   "topics": [
     {
       "keyword": "money",
-      "mentions": 11
-    },
-    {
-      "keyword": "here",
-      "mentions": 4
-    },
-    {
-      "keyword": "year",
-      "mentions": 4
-    },
-    {
-      "keyword": "budget",
-      "mentions": 4
+      "mentions": 8
     },
     {
       "keyword": "tips",
-      "mentions": 4
+      "mentions": 6
     },
     {
       "keyword": "saving",
-      "mentions": 4
-    },
-    {
-      "keyword": "save",
-      "mentions": 4
+      "mentions": 6
     },
     {
       "keyword": "finance",
-      "mentions": 3
+      "mentions": 5
     },
     {
-      "keyword": "retirement",
+      "keyword": "budget",
+      "mentions": 5
+    },
+    {
+      "keyword": "personal",
+      "mentions": 4
+    },
+    {
+      "keyword": "rates",
+      "mentions": 4
+    },
+    {
+      "keyword": "holiday",
+      "mentions": 4
+    },
+    {
+      "keyword": "claude",
       "mentions": 3
     },
     {
@@ -48,78 +48,76 @@
       "mentions": 3
     },
     {
-      "keyword": "holiday",
+      "keyword": "step",
       "mentions": 3
     },
     {
-      "keyword": "budgeting",
+      "keyword": "save",
       "mentions": 3
     }
   ],
   "questions": [],
-  "discussion_highlights": [
-    {
-      "title": "Person of Interest",
-      "source": "Hacker News",
-      "url": "https://krthr.co/person-of-interest/",
-      "score": 74,
-      "comments": 34
-    }
-  ],
+  "discussion_highlights": [],
   "news": [
     {
-      "title": "Anthropic rolls out personal finance feature for Claude - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdzdfa2NNWTVnNDd4OHQyUmZIN2RIRXVLbDJ3U2RJUHNXeHNiUzhpWU9NWTh2VEJ4SmNEUnRIQW5DTGZJM01WMGhGc2pSRjQ3QnpiWHR5Y3p5YW4wZ0w4c3F0WXlEZjM4RS1hNWVFV0U5U0NERUVGU3RWczR2aXJxdHpnaUI4Ty1HaGZ2WVNUM2NxNzdIVllXQTVvY0Q?oc=5",
-      "published": "Thu, 05 Nov 2026 18:03:44 GMT",
-      "source": "Reuters"
+      "title": "Claude Personal Finance Vs. ChatGPT Finances: What Sets Them Apart? - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORGNUWG9XV2JUWGNmcFAxa2V1VWp1TVVnVnd5SUh2cFFZMjg4YUFZT0NtNUh3WlR2dXVYeFpuTHlsWVpDdjN5LVVxdkpIVjl5dXppOFl3MEhXdnprdkF2YzdVTWtvX1NZdzRLWUpSSXZpTGxuejlxNjF5TDJsUHh4bmtzYkdTQQ?oc=5",
+      "published": "Sat, 07 Nov 2026 23:10:20 GMT",
+      "source": "Engadget"
     },
     {
-      "title": "Many workers lose unused FSA money — but could still come out ahead. Here's how - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fZE5McTI4T0lyUTU2WWlKdmJmOGJGWTBMd0kxZm1yZTNhcmMyZWF2c3pVSy1xUjhiTjZ5Y2h0NGlIR0JkeFlBSFliOTZDa0FZTWhPUzE0N2F1TEot?oc=5",
-      "published": "Sat, 07 Nov 2026 14:30:01 GMT",
-      "source": "CNBC"
+      "title": "How a Personal Finance Entrepreneur Lives on $130,000 a Year in Brooklyn - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWEU1eE8wRHBwYlNVa0JJUXRjUjl2N0cxSlFCOVkzTFBFZUVLY0pNN0dGOFVjcmZnVTU1eDR1eHd3TzRkZHptZnhBbjN2ZC1abU1nSEtfOEZhaE82Zi1vVERoZGxvWjhTc0NlaGFDb25lVjVISG81RktudUhLa1p0clZTQjNQNWh4aEtDOUR1MlQzRkpLWDlLRQ?oc=5",
+      "published": "Mon, 09 Nov 2026 10:09:14 GMT",
+      "source": "The New York Times"
     },
     {
-      "title": "The hidden $1,500-a-year threat to your retirement - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnRXMlFJZ1FiX0ZqczVIR2VOZW1CU1JWblZCRGRVVGhkbmRibXEwVDA2aEQ2cDJPakV1WC1UVTFVUDh3Zi1sc3RadEpwY2hVdFYxVGFjVTNtU3JMUDRrOUwzbHFwNmlVUFAzdHduX1Z1T1F1TXpua3JOQWJGZEZVVjhmX0taWHJWdFhOdWtFYWtadjBXS2FCVUNaNTdFUFJLcGJZT2pPNlZ4aXEtLVNwNEc0dw?oc=5",
-      "published": "Sat, 07 Nov 2026 10:03:00 GMT",
-      "source": "USA Today"
+      "title": "Today’s CD Rates for November 9, 2026: Highest APYs Range From 4.50% to 5.25% - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVUc3VS1RejhCRndUVmdheGx0NUFOcWtsOWctU0hkM3huWWtlRTNDV2FGaFFTWGNKdW5lVkk4MG1HZUE3VWxiZWxpOUpTckRubEVXVnhvc2R5WUx5ZGEzM0I2X2xjOGtYSFhvaWg1ZlFVSFBBcW0wVEh3ZVl4LUl5dDdlbw?oc=5",
+      "published": "Mon, 09 Nov 2026 13:51:29 GMT",
+      "source": "WSJ"
     },
     {
-      "title": "Before You Click 'Same as Last Year' During Open Enrollment, Read This - Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOejh2Z1hoVlJTTkp0VGkwNXFJNmlabktvNXk0Q0lFZllULXJHMV91blY3M1pTdjZxVXRkOHphbjc4Z1N4eWJmOFJhV0hIb3ZVbkNjWndLWDhBMGZIbEdDb2NMZUZSYURhc0N6ZEZYREhKMmhINkdVb0w1YTFZWGxpcmpTOTJvT1picFpOWURsQlZRcmctZEExOTBNY1ZzTHpNSWIzRDBSY2Z4b1E5Y3c?oc=5",
-      "published": "Sun, 08 Nov 2026 11:00:00 GMT",
-      "source": "Kiplinger"
+      "title": "Claude Personal Finance: Features, Privacy and ChatGPT Comparison - TechRepublic",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjFMRThlV2hKZ05pZ3c4QU5lWDdnbF9uT2syRW1EMzN4cXhPM181dkhxZTJHUmdhU0JBSE83bm0wQURrbUFnUE1HTnBIZ29QY2NCd0poMktPOWd4eHZBRFNrQVpXMzNzNVpTR2c0ZWVvR2V3MWlFWDR1LWZiWjlBLVp2MjNXLWxWNEZ6MjhqLVBYeUVqZUE?oc=5",
+      "published": "Fri, 06 Nov 2026 17:55:22 GMT",
+      "source": "TechRepublic"
     },
     {
-      "title": "Mortgage and refinance interest rates today, Sunday, November 8, 2026: 30-year purchase rates down 24 basis points since last week - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQZFJDMEhQcF9NemVfeWlQN2NpVDFNRW9fTzdtNEJPSVZQYXJyZkk0aTBOSlVaSm1BaXR5Q28xRm5MYzk1X0lMNTAwMmw2U3p2aGFIVEVJWVJGU1I1VWNLcEV5elZMdmdBdlhfLUkyVXA1N3p1dWhpSDB0bmpIS1dKTGFJeGNZdlMtYjBnbnV2N3BHNHdfTm55S1J5bzdMVlJoU3pVci1qczhSZ2RxM2J1LXFhVldDNEhEaXNReUZfYVZ2NnpJX0JYcUJPUnAwWHRlaC0zQmM5RlEtd0FQLXRQbWI2LURYb21LSDROUU01WURjd29qLV9rMWxad3R2M0hNaFVScndTSTNZRXlvbjJBcVZpV3VJaklNOXVaQXZrNnowZ3c2aEd4MGlR?oc=5",
-      "published": "Sun, 08 Nov 2026 11:00:00 GMT",
+      "title": "Mortgage and refinance interest rates today, Monday, November 9, 2026: Fixed purchase rates lower than refinance rates - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPc2hiUDEzVUFFNV84cWJ4RjA5bFp0SWhFbWFzcXc2QnVTZ2Zaai1tcERGclFfRjhUNmp6ZGVodnhNeWMtdTZHc0dpbEkzcTJLNVdhd0tkRWV2NWE0ZXBTNmZUeUNfb29nZUUzSndGZzN4YnJ2QkJLLUxjemhENDFjSVY2Y21BYTIzaEYyNXJnRloySHBVWENldW9ZX2RzbkFaZ2V1STRRQXpnMEx6OUdQVUdpNzhHNGN5XzV5bkItV2dwSF92MDV3Ymc1eVhqdEV2bHktRDlhZ3N4Nnp1endJRGtKcHJ3RUsxWFR3OEFzaXpMbWljS29pRmZHWkZzblRFRURtYVk0RFQwa2U4Sk9mbWFBNGpCTkRHb0E?oc=5",
+      "published": "Mon, 09 Nov 2026 11:00:00 GMT",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Dave Ramsey Says You'll \"Never Touch\" Your Retirement Principal If You Withdraw Less Than 12%. Here's the Catch - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRUJldG1LaDhmYTI4WlU4YjVOeVlSemJ4TmNIalVhNnJMb1lnMEJ6c0txQlNOWEtNazJzVGt2MjhvaVVVc2hpN1E5SDhhRXRHUnB4LWlFempMTm1iUlpqZXVjU3VodWkxaVpwak5fMW1lNVJYMno3YmJtZE5wejB3dUx5b01KOWl3ZjJNaURlSjJCWGNLMjN0ckdlSDFGMWtPNHhuQ01RSk9WQUpEVXdYNWJlWVplUXl2X0xnN3FudG1JWjJCY2s1eXJTanJwNUVzbTlHWGJSUlJjeVk3aVNmZHUxdnY0bndWUkp1Ng?oc=5",
-      "published": "Fri, 06 Nov 2026 23:08:00 GMT",
-      "source": "24/7 Wall St."
+      "title": "Is the 'couch economy' draining your bank account? - The Detroit News",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY3hRZWdRZWNjb28yeHE1LXVKcko2SlJDdFl1aFlrclZlbGZrWVpDVGlEZjY1VmM3c0MyODlYX214NmUtc3FIeXJYSFRxaVBhRXJGU0dxQjVFSTh1UzJnMnBPZ1Y0emt0Zkx1bnhVREtHZmJfSDUxQ2pxODdhZmJ2UlVGMUR3UGNTQWQ3QnVvbTNXNlRqVm1zQlNlSTNwRDBaWDRwUF81cDBaOFJIcGxZY1l4OVdzcVhPZkpVU25SYlJfRmlRS1IzYzJkVQ?oc=5",
+      "published": "Mon, 09 Nov 2026 05:01:00 GMT",
+      "source": "The Detroit News"
     },
     {
-      "title": "Are Your Parents Hiding Their Money From You? - The Cut",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYVF1T1hLa0JoY2NmWUx6ZEhCMGo3X1d1TzVzWGlqNWJSVG1icnJMOEFXYVpwZnZhMTM3R05YWXdxaUM0bkdMbThtdlI5OUVTamFKc19nSUxoTmdQUVZjMVYxeFE2NnFFVWFpRzhxQklXb1JJZDVGd0U4OTNlRlhuRUd4eWlOeE1DZkd6blZqamYyazJhNE1vM2hR?oc=5",
-      "published": "Thu, 05 Nov 2026 13:00:14 GMT",
-      "source": "The Cut"
+      "title": "How I Paid for a Week in Italy With Only Credit Card Points - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVU9SaHlSNnRRQ1VWUHBaVU15V0ZpRTRFSV9WaEw3VlM4S3VQUVNfUEJJSzluVWg2YnVXQW5oeHV5WU1uajNoSUNreWZBNmJ1anB2NFg2RVdXLWFuLXpETkxiTzNoZXg3SkhpdW5VVFpyZlZ6UGpDV1ZHaDB5R1d6OEJVN0FtbzZwRmF3QkJ4cEp5Wmc1RHNMS3lYaHNHUQ?oc=5",
+      "published": "Sun, 08 Nov 2026 18:00:00 GMT",
+      "source": "Kiplinger"
     },
     {
-      "title": "Anthropic prepares Claude Money for personal finance - TestingCatalog AI News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNnZ6WnBySGZHMXFRMXEzVXdiaEdJaWY0TW94bnpZQk9ETG11UjFBYklmcVp2VHNJcFNsZGFsVHAwYzNkZjJRZENmTW11bmt2OGlsOGhDVDlDN1JzNDIxZXlmTzN6aXFwNWQ1WXRFRG1qNFZRNk9vaC1NOGM4d19xLWJlUmx5cC1TbGZnQw?oc=5",
-      "published": "Mon, 14 Sep 2026 07:00:00 GMT",
-      "source": "TestingCatalog AI News"
+      "title": "Claude's personal finance tool analyzes accounts and spending patterns - Interesting Engineering",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLW1MZVo2ZHdSYXdHWXcwdVM2MmFiVW1GSnowb0dxbWJmZnJ4c3VDb0piWFYtSWdHeU9MNjlNVzAwekpqTG5tRGNtQUxDZHdhVEg1NUd1VEdiU2Z6eExzUnlBZlVUbUstUUJzZXpYSVlEamRFd0pxeWpVRE5mYm1fMndfVnFtN3VwTk91a1BEYUV3OUh1N2djQW1VV3lTRU9YQzhiRw?oc=5",
+      "published": "Fri, 06 Nov 2026 03:29:00 GMT",
+      "source": "Interesting Engineering"
     },
     {
       "title": "Ohio launches Holiday Budgeting Guide to stay on budget this season - Spectrum News",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSVNKQXBSOTVXNHcwaXk5eFgtM1BGaWltRDJOeDZDVU1TUlNKNHRDbF9HZ1VfNUVIMjVUUXNsSnhKT2t0YmFOcy1LTFVydzUtSVpMdlZrdXlWQmFmUDlwbkJzR05IT19tZjY1cDFGeTRDdUZpMXBOWG9fckZmYWVOT3RwWk93M1pWUVZlbEpRZHpTRWFPUWQ0VVE1MUdQVEgwSHdUZTI0MkJjSEJyVFcxc1NEYmRZZ2hrbDZGd0t3?oc=5",
       "published": "Fri, 06 Nov 2026 16:43:00 GMT",
       "source": "Spectrum News"
+    },
+    {
+      "title": "Winter Home Preparation on a Budget: Tips for Mitchell Residents - Mitchell Now",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3VNbm9UX2RmZV9ETWQ5bFZvX2F4azA1T2NDejhnN2R5eENTZXMxTHoyVG12MzlZOUNfNGdNVzYxelNZVVUzaGhQTEdaT0QyMXVuTGxFbXBPdU5nYXJWZEdFbVVsWGNWVXp6MUJ0bmdTNExERXZNZjN3VFNxVEZFRTN3?oc=5",
+      "published": "Mon, 09 Nov 2026 14:05:06 GMT",
+      "source": "Mitchell Now"
     },
     {
       "title": "Tips For Making The Most Of A Holiday Travel Budget - Forbes",
@@ -150,24 +148,19 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOVHhmMmc5bHNRbV9VZUtNNFFGRTlUeHVBZlA3N0prY1lDa2dEVHRXakRRcW1fT1R0a2JKU1lWY0gzNzU0LUVxenJYSERZcWNDckRlNExOSmhWUUxQeUxTT1ZfMDRnMWN6bld1MFlzamJOUnM?oc=5",
       "published": "Tue, 21 Jul 2026 07:00:00 GMT",
       "source": "The Department of Financial Protection and Innovation (.gov)"
+    }
+  ],
+  "hn_stories": [],
+  "trending_searches": [
+    {
+      "term": "vti stock",
+      "source": "Google Trends US"
     },
     {
-      "title": "How to Make a Budget: A Step-By-Step Guide - NerdWallet",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1meUZyZ3lmaFMtN1QzVWpjbkNBMVkySWpqeXI4TlRlb0lxS0RJNUNjNFlPR2ljZGw1YUJmT3ZnU3p1SmhxQlhMU0NZdm1Ba3l1TkZvT1pFR0xrOE1lU0s0Ykx2amg?oc=5",
-      "published": "Thu, 17 Sep 2026 07:00:00 GMT",
-      "source": "NerdWallet"
+      "term": "broadcom stock",
+      "source": "Google Trends US"
     }
   ],
-  "hn_stories": [
-    {
-      "title": "Person of Interest",
-      "url": "https://krthr.co/person-of-interest/",
-      "score": 74,
-      "comments": 34,
-      "source": "Hacker News"
-    }
-  ],
-  "trending_searches": [],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",
     "reddit r/financialindependence: HTTP Error 403: Blocked"
