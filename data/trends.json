@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-09T14:57:19Z",
+  "fetched_at": "2026-11-10T14:10:38Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -12,7 +12,7 @@
       "mentions": 8
     },
     {
-      "keyword": "tips",
+      "keyword": "rates",
       "mentions": 6
     },
     {
@@ -24,35 +24,35 @@
       "mentions": 5
     },
     {
+      "keyword": "mortgage",
+      "mentions": 4
+    },
+    {
       "keyword": "budget",
-      "mentions": 5
-    },
-    {
-      "keyword": "personal",
       "mentions": 4
     },
     {
-      "keyword": "rates",
+      "keyword": "tips",
       "mentions": 4
     },
     {
-      "keyword": "holiday",
-      "mentions": 4
-    },
-    {
-      "keyword": "claude",
+      "keyword": "times",
       "mentions": 3
     },
     {
-      "keyword": "news",
+      "keyword": "yahoo",
       "mentions": 3
     },
     {
-      "keyword": "step",
+      "keyword": "nov",
       "mentions": 3
     },
     {
-      "keyword": "save",
+      "keyword": "fortune",
+      "mentions": 3
+    },
+    {
+      "keyword": "financial",
       "mentions": 3
     }
   ],
@@ -60,52 +60,52 @@
   "discussion_highlights": [],
   "news": [
     {
+      "title": "How a Personal Finance Entrepreneur Lives on $130,000 a Year in Brooklyn - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWEU1eE8wRHBwYlNVa0JJUXRjUjl2N0cxSlFCOVkzTFBFZUVLY0pNN0dGOFVjcmZnVTU1eDR1eHd3TzRkZHptZnhBbjN2ZC1abU1nSEtfOEZhaE82Zi1vVERoZGxvWjhTc0NlaGFDb25lVjVISG81RktudUhLa1p0clZTQjNQNWh4aEtDOUR1MlQzRkpLWDlLRQ?oc=5",
+      "published": "Mon, 09 Nov 2026 06:38:35 GMT",
+      "source": "The New York Times"
+    },
+    {
+      "title": "California voters reject billionaire wealth tax: What to know about Prop 40 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ1R5Y3hiRlp3Z0MtTUxGM0MwY2I2SXdJbk81WjNFQzZFeUUzMl8zTmRJMWNOZTJhSll6dFRhc1hsNzdfYmY2OHpvTVdicWhqc2pmUElmNEEzQmxrUjFPczZDYWMyWUJib2VIX3U2ZllHMVYyVURGU2dWNDFyQldSQ3NfdFZ5U1FvLUVjWnd4aXNwcXhfalJZdzh2eXM3V0stV0FKblljSXJBRkFTTWw2SkhJRUxhM1BNNVVCczVBN29fd2FnaXp6MDQ2dkpiRmVPX2tPb1N6M2NqeXh1TGlN?oc=5",
+      "published": "Tue, 10 Nov 2026 13:07:27 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
       "title": "Claude Personal Finance Vs. ChatGPT Finances: What Sets Them Apart? - Engadget",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORGNUWG9XV2JUWGNmcFAxa2V1VWp1TVVnVnd5SUh2cFFZMjg4YUFZT0NtNUh3WlR2dXVYeFpuTHlsWVpDdjN5LVVxdkpIVjl5dXppOFl3MEhXdnprdkF2YzdVTWtvX1NZdzRLWUpSSXZpTGxuejlxNjF5TDJsUHh4bmtzYkdTQQ?oc=5",
       "published": "Sat, 07 Nov 2026 23:10:20 GMT",
       "source": "Engadget"
     },
     {
-      "title": "How a Personal Finance Entrepreneur Lives on $130,000 a Year in Brooklyn - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWEU1eE8wRHBwYlNVa0JJUXRjUjl2N0cxSlFCOVkzTFBFZUVLY0pNN0dGOFVjcmZnVTU1eDR1eHd3TzRkZHptZnhBbjN2ZC1abU1nSEtfOEZhaE82Zi1vVERoZGxvWjhTc0NlaGFDb25lVjVISG81RktudUhLa1p0clZTQjNQNWh4aEtDOUR1MlQzRkpLWDlLRQ?oc=5",
-      "published": "Mon, 09 Nov 2026 10:09:14 GMT",
-      "source": "The New York Times"
+      "title": "Current ARM mortgage rates report for Nov. 10, 2026 - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rRzA3V3VlNkpBUVhpZTBZa2tmWUg3MTlMdHFMVkhRXzQ5cEw0OGF6V0RjWmRTdmgyaVVsZWdfZm9Qcl9mbm1jLWhBbWtUVjg2LVowTlRnajJzX3RNVElCNDFCSnd6ak9Ld1FLOFU5ZFFYOUJ4?oc=5",
+      "published": "Tue, 10 Nov 2026 08:01:00 GMT",
+      "source": "Fortune"
     },
     {
-      "title": "Today’s CD Rates for November 9, 2026: Highest APYs Range From 4.50% to 5.25% - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVUc3VS1RejhCRndUVmdheGx0NUFOcWtsOWctU0hkM3huWWtlRTNDV2FGaFFTWGNKdW5lVkk4MG1HZUE3VWxiZWxpOUpTckRubEVXVnhvc2R5WUx5ZGEzM0I2X2xjOGtYSFhvaWg1ZlFVSFBBcW0wVEh3ZVl4LUl5dDdlbw?oc=5",
-      "published": "Mon, 09 Nov 2026 13:51:29 GMT",
-      "source": "WSJ"
+      "title": "Claude's New AI Money Tool: What Financial Advisers Want You to Know - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1ZITmdJQUM4ajlRc1d2QnMxMmFoLWZxbUtzU2NkV2FkenNMZGlueFVIbFMwbEJxMXdkYzUyRGlQMnRPQ1hyeVpxdGhHbGNjaEk4TGliX3A2N2thZ3lfaDVEV3pTbmgyb1U0OWh2bVNDZV9DbGRiOTZ0emw3MkNjdnlHb3NVWHJFUEFOOUc4LXJrRXJwN1JqNG5NMEllZw?oc=5",
+      "published": "Tue, 10 Nov 2026 03:07:00 GMT",
+      "source": "TheStreet"
     },
     {
-      "title": "Claude Personal Finance: Features, Privacy and ChatGPT Comparison - TechRepublic",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjFMRThlV2hKZ05pZ3c4QU5lWDdnbF9uT2syRW1EMzN4cXhPM181dkhxZTJHUmdhU0JBSE83bm0wQURrbUFnUE1HTnBIZ29QY2NCd0poMktPOWd4eHZBRFNrQVpXMzNzNVpTR2c0ZWVvR2V3MWlFWDR1LWZiWjlBLVp2MjNXLWxWNEZ6MjhqLVBYeUVqZUE?oc=5",
-      "published": "Fri, 06 Nov 2026 17:55:22 GMT",
-      "source": "TechRepublic"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, Monday, November 9, 2026: Fixed purchase rates lower than refinance rates - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPc2hiUDEzVUFFNV84cWJ4RjA5bFp0SWhFbWFzcXc2QnVTZ2Zaai1tcERGclFfRjhUNmp6ZGVodnhNeWMtdTZHc0dpbEkzcTJLNVdhd0tkRWV2NWE0ZXBTNmZUeUNfb29nZUUzSndGZzN4YnJ2QkJLLUxjemhENDFjSVY2Y21BYTIzaEYyNXJnRloySHBVWENldW9ZX2RzbkFaZ2V1STRRQXpnMEx6OUdQVUdpNzhHNGN5XzV5bkItV2dwSF92MDV3Ymc1eVhqdEV2bHktRDlhZ3N4Nnp1endJRGtKcHJ3RUsxWFR3OEFzaXpMbWljS29pRmZHWkZzblRFRURtYVk0RFQwa2U4Sk9mbWFBNGpCTkRHb0E?oc=5",
-      "published": "Mon, 09 Nov 2026 11:00:00 GMT",
+      "title": "Vanguard and Fidelity have a warning for retirement savers - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZThDckVWenA2Q3FrczZER05nSDVBTDlVaVhnQ3hVbWpsQlp0V0dzWUZsYVZRaTRRUlFJN1pYX19NT1F6MHYyQTJHVGRjZ21uMmlCTm1WWUxHMlBBVmZ0V184TGpTVkg2X0NIbk9ZblJfVUp1TUxjdVlSNUJxQ0ZzMlp3LXMwa2p3Z0hxc1lMczFzTjlELV9SSVU0cEo4WlN5bUtjdzRVQnJybXNSUHpvQ25DSzNSVjRIb2E0SkVrRmIxMEh3ZmE2UWlObUMtQXM?oc=5",
+      "published": "Mon, 09 Nov 2026 19:59:25 GMT",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Is the 'couch economy' draining your bank account? - The Detroit News",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY3hRZWdRZWNjb28yeHE1LXVKcko2SlJDdFl1aFlrclZlbGZrWVpDVGlEZjY1VmM3c0MyODlYX214NmUtc3FIeXJYSFRxaVBhRXJGU0dxQjVFSTh1UzJnMnBPZ1Y0emt0Zkx1bnhVREtHZmJfSDUxQ2pxODdhZmJ2UlVGMUR3UGNTQWQ3QnVvbTNXNlRqVm1zQlNlSTNwRDBaWDRwUF81cDBaOFJIcGxZY1l4OVdzcVhPZkpVU25SYlJfRmlRS1IzYzJkVQ?oc=5",
-      "published": "Mon, 09 Nov 2026 05:01:00 GMT",
-      "source": "The Detroit News"
+      "title": "Mortgage and refinance interest rates today, Tuesday, November 10, 2026: Purchase mortgage rates see first daily increase in two weeks - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQY0d5clFmMkFjWUpad280TkFhQmh3YU5Bb3FkVjQwc2F0ZXVPNGZRUHd1eWduV2FlRVdwSlVvYzhPZmZaMmp0QVNfOGxReXRaZTRaSDlENExxeVZaVXQtZVZPZ0pzbGozc01Wb1NCSmNyaW9MLXc2RS1qS2tpakpIRHU2NmRxT0dCVW11VlppVlVpVFFPc2ZHMTBEOGNabjN2OV9MakdoZzJrVS14bVlqYkQxc0hQTVBlMzRlMHNUN291QWViSzF3R21ia2VINjBHZzFfZFV6THBkdU9ieWhrM1RZWUhOVkZqRG9VMjVNUE40RmlkV2pZMzNRMmRJLUYxSnlkT1VUWEtuQUV0QzcyNXJzeUstSWhubk56Q0xBTmVCLWFpSHZuMU9IeHFJSW8?oc=5",
+      "published": "Tue, 10 Nov 2026 11:00:00 GMT",
+      "source": "Yahoo Finance"
     },
     {
-      "title": "How I Paid for a Week in Italy With Only Credit Card Points - Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVU9SaHlSNnRRQ1VWUHBaVU15V0ZpRTRFSV9WaEw3VlM4S3VQUVNfUEJJSzluVWg2YnVXQW5oeHV5WU1uajNoSUNreWZBNmJ1anB2NFg2RVdXLWFuLXpETkxiTzNoZXg3SkhpdW5VVFpyZlZ6UGpDV1ZHaDB5R1d6OEJVN0FtbzZwRmF3QkJ4cEp5Wmc1RHNMS3lYaHNHUQ?oc=5",
-      "published": "Sun, 08 Nov 2026 18:00:00 GMT",
-      "source": "Kiplinger"
-    },
-    {
-      "title": "Claude's personal finance tool analyzes accounts and spending patterns - Interesting Engineering",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLW1MZVo2ZHdSYXdHWXcwdVM2MmFiVW1GSnowb0dxbWJmZnJ4c3VDb0piWFYtSWdHeU9MNjlNVzAwekpqTG5tRGNtQUxDZHdhVEg1NUd1VEdiU2Z6eExzUnlBZlVUbUstUUJzZXpYSVlEamRFd0pxeWpVRE5mYm1fMndfVnFtN3VwTk91a1BEYUV3OUh1N2djQW1VV3lTRU9YQzhiRw?oc=5",
-      "published": "Fri, 06 Nov 2026 03:29:00 GMT",
-      "source": "Interesting Engineering"
+      "title": "Current refi mortgage rates report for Nov. 10, 2026 - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qRS1JSzV0Zmg2cDR6ZFJnRWpCWlI4N244UE51dEF1UWN3Mk53S3RlQmNnSWczVlFPNjRzMjVvWUNQV3ozNTRuZC1fNlNXdng3N3M2ZGhXQ2JpdjZoZmVlUUotck5ya3NXNHFHbEEydElqLUFrTnc?oc=5",
+      "published": "Tue, 10 Nov 2026 08:01:00 GMT",
+      "source": "Fortune"
     },
     {
       "title": "Ohio launches Holiday Budgeting Guide to stay on budget this season - Spectrum News",
@@ -116,13 +116,13 @@
     {
       "title": "Winter Home Preparation on a Budget: Tips for Mitchell Residents - Mitchell Now",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3VNbm9UX2RmZV9ETWQ5bFZvX2F4azA1T2NDejhnN2R5eENTZXMxTHoyVG12MzlZOUNfNGdNVzYxelNZVVUzaGhQTEdaT0QyMXVuTGxFbXBPdU5nYXJWZEdFbVVsWGNWVXp6MUJ0bmdTNExERXZNZjN3VFNxVEZFRTN3?oc=5",
-      "published": "Mon, 09 Nov 2026 14:05:06 GMT",
+      "published": "Mon, 09 Nov 2026 14:42:32 GMT",
       "source": "Mitchell Now"
     },
     {
-      "title": "Tips For Making The Most Of A Holiday Travel Budget - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUW1tanZVdEZPYzhoQkl4VmZPZmgxNEZ5TGVPZUdQTkc1UVBKUjYtMW0yUUxCczl2MnpBbGtEQkFqZ3E3QlVyTDNtZjVwX0M1TDEzbXJ4YzdSRlVNVjV2U1lMbFRhMGtsZ2c5WVlETXI1TllOdm1ZZDc0NDNtVVNoNFprQVlkLVVSVXZrdFJZRlNSQTA3Z0pneVZZRGFKYzJQUng3cWZB?oc=5",
-      "published": "Thu, 05 Nov 2026 11:59:00 GMT",
+      "title": "Best Budgeting Apps Of 2026: Tested And Ranked - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5",
+      "published": "Mon, 09 Nov 2026 13:55:00 GMT",
       "source": "Forbes"
     },
     {
@@ -151,16 +151,7 @@
     }
   ],
   "hn_stories": [],
-  "trending_searches": [
-    {
-      "term": "vti stock",
-      "source": "Google Trends US"
-    },
-    {
-      "term": "broadcom stock",
-      "source": "Google Trends US"
-    }
-  ],
+  "trending_searches": [],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",
     "reddit r/financialindependence: HTTP Error 403: Blocked"
