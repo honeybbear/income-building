@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:10:38Z",
+  "generated_at": "2026-11-11T13:26:08Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -20,69 +20,30 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "Claude's New AI Money Tool: What Financial Advisers Want You to Know - TheStreet (TheStreet)",
-        "Money-saving energy tips to brave the cold months - Roanoke Times (Roanoke Times)",
-        "Budgeting for teens: 18 tips for growing your money young - Credit Karma (Credit Karma)"
+        "Americans want to live to age 88, but their money dies at 83 - USA Today (USA Today)",
+        "Budgeting for teens: 18 tips for growing your money young - Credit Karma (Credit Karma)",
+        "Money-saving energy tips to brave the cold months - Roanoke Times (Roanoke Times)"
       ],
       "sources": [
         {
-          "title": "Claude's New AI Money Tool: What Financial Advisers Want You to Know - TheStreet",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1ZITmdJQUM4ajlRc1d2QnMxMmFoLWZxbUtzU2NkV2FkenNMZGlueFVIbFMwbEJxMXdkYzUyRGlQMnRPQ1hyeVpxdGhHbGNjaEk4TGliX3A2N2thZ3lfaDVEV3pTbmgyb1U0OWh2bVNDZV9DbGRiOTZ0emw3MkNjdnlHb3NVWHJFUEFOOUc4LXJrRXJwN1JqNG5NMEllZw?oc=5",
-          "source": "TheStreet"
-        },
-        {
-          "title": "Money-saving energy tips to brave the cold months - Roanoke Times",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTI4b3pUd1VHMm5yeTlmYlhIVUtrSE92RnBJN0xXUmF6QVhkMDBVcDF3bFMtanpyNWNJbVpfXzBkZE96eU9UVFNjOGdpSDRSWmxNMHpMbWNyTFRKU1U1MzJvRmx6dW5RNUx0N29fRko0RjNScGY4RFpDTGVjQ2owa1FpcEZ0SFRBek5idzRCc01RSUh6b2x0Q3VJUEt6X0htNHJ5VkV6QktKN2FRWnpUQS00NA?oc=5",
-          "source": "Roanoke Times"
+          "title": "Americans want to live to age 88, but their money dies at 83 - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZGhsYzB4VDNoSm8yZVV0VlNBX2lIejJzNW5LZENaUG5LNzN4Rno3b1hISWd2Tkhid0o5QzA3Q24tREExaEpSOUVsSXE4dXNmUGRFbkFtNHBsNEMtOEVHaTRNVDhWSXNVd0pHemNZM1NiX2JtdnR2WUZoMXZZSU1WZ0pGR2VCZzJxQXRvekw2X0lZTGkzamliUjh5dFBUUkZGRG9kdF9PdHZGN2VreHl4M2VleHhHd1M3Z3VtMUd0ZXd2bWU5QWI4dFB3?oc=5",
+          "source": "USA Today"
         },
         {
           "title": "Budgeting for teens: 18 tips for growing your money young - Credit Karma",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xdUw2SkNfeUprYm1lTXlOYVludUhBZFc0X2RCZGUzVm9GeUJneWUwd0ZXMXNja3JyVkpsYi1KTlUwazlzWmVJR1U1eWZlTlU4Z0RDLUtoZlRyaWpuSnVGZ2VMRU5WMk1DQzBlVWpraVRwcktNZG1J?oc=5",
           "source": "Credit Karma"
+        },
+        {
+          "title": "Money-saving energy tips to brave the cold months - Roanoke Times",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTI4b3pUd1VHMm5yeTlmYlhIVUtrSE92RnBJN0xXUmF6QVhkMDBVcDF3bFMtanpyNWNJbVpfXzBkZE96eU9UVFNjOGdpSDRSWmxNMHpMbWNyTFRKU1U1MzJvRmx6dW5RNUx0N29fRko0RjNScGY4RFpDTGVjQ2owa1FpcEZ0SFRBek5idzRCc01RSUh6b2x0Q3VJUEt6X0htNHJ5VkV6QktKN2FRWnpUQS00NA?oc=5",
+          "source": "Roanoke Times"
         }
       ]
     },
     {
       "id": "t-1",
-      "kind": "trending-topic",
-      "headline_options": [
-        "Rates, explained in plain English",
-        "What you should actually know about rates",
-        "Rates: the honest beginner's guide"
-      ],
-      "angle": "Evergreen explainer on a topic people are actively reading about.",
-      "outline": [
-        "What rates means in plain English",
-        "Why it matters for your budget",
-        "What the current discussion is saying",
-        "Common mistakes",
-        "Sensible next steps"
-      ],
-      "key_points": [
-        "Current ARM mortgage rates report for Nov. 10, 2026 - Fortune (Fortune)",
-        "Mortgage and refinance interest rates today, Tuesday, November 10, 2026: Purchase mortgage rates see first daily increase in two weeks - Yahoo Finance (Yahoo Finance)",
-        "Current refi mortgage rates report for Nov. 10, 2026 - Fortune (Fortune)"
-      ],
-      "sources": [
-        {
-          "title": "Current ARM mortgage rates report for Nov. 10, 2026 - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rRzA3V3VlNkpBUVhpZTBZa2tmWUg3MTlMdHFMVkhRXzQ5cEw0OGF6V0RjWmRTdmgyaVVsZWdfZm9Qcl9mbm1jLWhBbWtUVjg2LVowTlRnajJzX3RNVElCNDFCSnd6ak9Ld1FLOFU5ZFFYOUJ4?oc=5",
-          "source": "Fortune"
-        },
-        {
-          "title": "Mortgage and refinance interest rates today, Tuesday, November 10, 2026: Purchase mortgage rates see first daily increase in two weeks - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQY0d5clFmMkFjWUpad280TkFhQmh3YU5Bb3FkVjQwc2F0ZXVPNGZRUHd1eWduV2FlRVdwSlVvYzhPZmZaMmp0QVNfOGxReXRaZTRaSDlENExxeVZaVXQtZVZPZ0pzbGozc01Wb1NCSmNyaW9MLXc2RS1qS2tpakpIRHU2NmRxT0dCVW11VlppVlVpVFFPc2ZHMTBEOGNabjN2OV9MakdoZzJrVS14bVlqYkQxc0hQTVBlMzRlMHNUN291QWViSzF3R21ia2VINjBHZzFfZFV6THBkdU9ieWhrM1RZWUhOVkZqRG9VMjVNUE40RmlkV2pZMzNRMmRJLUYxSnlkT1VUWEtuQUV0QzcyNXJzeUstSWhubk56Q0xBTmVCLWFpSHZuMU9IeHFJSW8?oc=5",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Current refi mortgage rates report for Nov. 10, 2026 - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qRS1JSzV0Zmg2cDR6ZFJnRWpCWlI4N244UE51dEF1UWN3Mk53S3RlQmNnSWczVlFPNjRzMjVvWUNQV3ozNTRuZC1fNlNXdng3N3M2ZGhXQ2JpdjZoZmVlUUotck5ya3NXNHFHbEEydElqLUFrTnc?oc=5",
-          "source": "Fortune"
-        }
-      ]
-    },
-    {
-      "id": "t-2",
       "kind": "trending-topic",
       "headline_options": [
         "Saving, explained in plain English",
@@ -98,13 +59,52 @@
         "Sensible next steps"
       ],
       "key_points": [
+        "Today’s top high-yield savings rates: Up to 4.70% on Nov. 11, 2026 - Fortune (Fortune)",
         "Money-saving energy tips to brave the cold months - Roanoke Times (Roanoke Times)"
       ],
       "sources": [
         {
+          "title": "Today’s top high-yield savings rates: Up to 4.70% on Nov. 11, 2026 - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zcklWQTMwQjNLUmZ1cnpJNXBjcmsyNkU1WmdIUktrSDNVTGNQZ1dfajh4Q1hHWS1ob2NDZkZyNU8wLWZiYW0tXzdCa2xSbVJlTlhwWGtzSVVlclhMUFNObjZKUzRYYjJoZ2FHSEY5Wm8wdDBr?oc=5",
+          "source": "Fortune"
+        },
+        {
           "title": "Money-saving energy tips to brave the cold months - Roanoke Times",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTI4b3pUd1VHMm5yeTlmYlhIVUtrSE92RnBJN0xXUmF6QVhkMDBVcDF3bFMtanpyNWNJbVpfXzBkZE96eU9UVFNjOGdpSDRSWmxNMHpMbWNyTFRKU1U1MzJvRmx6dW5RNUx0N29fRko0RjNScGY4RFpDTGVjQ2owa1FpcEZ0SFRBek5idzRCc01RSUh6b2x0Q3VJUEt6X0htNHJ5VkV6QktKN2FRWnpUQS00NA?oc=5",
           "source": "Roanoke Times"
+        }
+      ]
+    },
+    {
+      "id": "t-2",
+      "kind": "trending-topic",
+      "headline_options": [
+        "Rates, explained in plain English",
+        "What you should actually know about rates",
+        "Rates: the honest beginner's guide"
+      ],
+      "angle": "Evergreen explainer on a topic people are actively reading about.",
+      "outline": [
+        "What rates means in plain English",
+        "Why it matters for your budget",
+        "What the current discussion is saying",
+        "Common mistakes",
+        "Sensible next steps"
+      ],
+      "key_points": [
+        "Mortgage and refinance interest rates today, Wednesday, November 11, 2026: Fixed purchase rates rise for the second straight day - Yahoo Finance (Yahoo Finance)",
+        "Today’s top high-yield savings rates: Up to 4.70% on Nov. 11, 2026 - Fortune (Fortune)"
+      ],
+      "sources": [
+        {
+          "title": "Mortgage and refinance interest rates today, Wednesday, November 11, 2026: Fixed purchase rates rise for the second straight day - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQb1h1c3R5YW1jVmNWQXFJOVg3SkRBSVgwUkw4aGJWTUR1cjJmQkRmSFQteGZuYWxVemU0QzA5bUxXejZ1RGRzeUszbXRGSlA1NDh5ZXE1VE5VTlFrQ0NIUHRvVHdkNEIyZlNvamY5ZTdjeGE2eUN6R1BhVGI3dUN2YmRfV2JWQmY3S19IdmQwbmhvcVY1T1JWaG9abFZZcWhIRUd1TTVEbGFTT01JWXNpZDhaY05zdk8xN29MRl9Bd1haZkR1RUJTcndCYjdlVmV1c0E3Q3dkZFBEN3hKcG5XeUEwMXBTRG9UcEJQSnFhWkU5bHQwOWVzWk91b3JJZEtrZEJRbS14c0VhV2JHMTBMak0tSFdvRkUxVGt3aGZnemVvZFB0eEpv?oc=5",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Today’s top high-yield savings rates: Up to 4.70% on Nov. 11, 2026 - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zcklWQTMwQjNLUmZ1cnpJNXBjcmsyNkU1WmdIUktrSDNVTGNQZ1dfajh4Q1hHWS1ob2NDZkZyNU8wLWZiYW0tXzdCa2xSbVJlTlhwWGtzSVVlclhMUFNObjZKUzRYYjJoZ2FHSEY5Wm8wdDBr?oc=5",
+          "source": "Fortune"
         }
       ]
     }
