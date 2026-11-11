@@ -50,6 +50,7 @@ TOPICS = {
     "glp1-retirement-savings-playbook": ["retirement", "budgeting"],
     "ramsey-12-percent-withdrawal": ["retirement", "investing"],
     "ai-personal-finance-tools": ["budgeting", "getting started"],
+    "zero-percent-capital-gains-2027": ["taxes", "investing"],
 }
 
 
