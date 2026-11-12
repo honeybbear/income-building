@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-11T13:26:07Z",
+  "fetched_at": "2026-11-12T14:30:14Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -9,22 +9,26 @@
   "topics": [
     {
       "keyword": "money",
-      "mentions": 7
+      "mentions": 11
     },
     {
-      "keyword": "saving",
+      "keyword": "finance",
       "mentions": 5
     },
     {
-      "keyword": "rates",
-      "mentions": 4
-    },
-    {
       "keyword": "budget",
+      "mentions": 5
+    },
+    {
+      "keyword": "saving",
       "mentions": 4
     },
     {
-      "keyword": "times",
+      "keyword": "personal",
+      "mentions": 3
+    },
+    {
+      "keyword": "financial",
       "mentions": 3
     },
     {
@@ -32,38 +36,58 @@
       "mentions": 3
     },
     {
-      "keyword": "tips",
+      "keyword": "yahoo",
       "mentions": 3
     },
     {
-      "keyword": "pay",
-      "mentions": 2
+      "keyword": "security",
+      "mentions": 3
     },
     {
-      "keyword": "personal",
-      "mentions": 2
+      "keyword": "market",
+      "mentions": 3
     },
     {
-      "keyword": "finance",
-      "mentions": 2
+      "keyword": "home",
+      "mentions": 3
     },
     {
       "keyword": "year",
-      "mentions": 2
-    },
-    {
-      "keyword": "rise",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "questions": [],
   "discussion_highlights": [],
   "news": [
     {
-      "title": "How much you can make in 2027 and still pay 0% capital gains tax - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IN1NIVTctdHZlY2M3UzZreDhzeHJKRUVseHB6VXFKN2xfXzRXWlRmZy1CanFMYkI3RE5kSEhPRkpwc3VRQUN2cTlnYmlPU2ZHTE54NW1hbjNGekNjajUyLU1ubE5QZkEtSk1US3dtcmtsdG8yRmlZSnJWNVM?oc=5",
-      "published": "Tue, 10 Nov 2026 14:12:02 GMT",
+      "title": "OpenAI’s personal finance features for ChatGPT expands to Mac app - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUU0aC0xSDlnZHZ6SVJsRWhOeU9sZXBMYmZTaTdnTkRwRzFHbWtJN1JmemFPeEhxMWwtaGt5cEdyVmVwV2EzZ2tQdksyOE5lRXU5R2pCNldYeTFLQV9Kcm9JSlI0NTlXR1lBNnEzS3drQk9CSnlTdzJKNUhyR1libE5oamtUZHFXWk5sZlcweXU4VkpCYjBWeDAxN0I?oc=5",
+      "published": "Wed, 11 Nov 2026 19:58:00 GMT",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Claude's New AI Money Tool: What Financial Advisers Want You to Know - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1ZITmdJQUM4ajlRc1d2QnMxMmFoLWZxbUtzU2NkV2FkenNMZGlueFVIbFMwbEJxMXdkYzUyRGlQMnRPQ1hyeVpxdGhHbGNjaEk4TGliX3A2N2thZ3lfaDVEV3pTbmgyb1U0OWh2bVNDZV9DbGRiOTZ0emw3MkNjdnlHb3NVWHJFUEFOOUc4LXJrRXJwN1JqNG5NMEllZw?oc=5",
+      "published": "Tue, 10 Nov 2026 03:07:00 GMT",
+      "source": "TheStreet"
+    },
+    {
+      "title": "Warren Buffett’s 90/10 rule to invest for retirement: Does it still hold up today? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNY1JSWDFMZ3p2WDRRQ2tEQ3FGa1kxMi1BTEhjeDNVZ1BtYko0RnRRTGNFMDA3UUpSYXB5MWd0REVuM0pKRGJ4SFRZb3Jrbl9xSzd0TTdUVUdSdFFPUzZicEtGaDBDbzJmM3NhYktPMEo0dkIxWmJ5RXpUblEwTjJocHNDcEYwaXo5cnFXQTBHZ0tQa1lBSkplY0FHM29lREdXRHVCLXdTSzZvM3Q5R3N4eDZzWXZxNWZLY2F5OU5rVWxCMXlIZGVOdWVON2tpWF9XcVVESTVKWEZzY2xSZk5nZ3RzQnJ1RnFWS1E?oc=5",
+      "published": "Wed, 11 Nov 2026 15:23:50 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Social Security could pay full benefits until 2059 if taxable payroll kept pace with GDP: AARP report - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd0lVTnFtUDNTa2tCWmVLM1RvelVqVU5QUDZvVGNYbmxaRzZHeDhnOTUtUWRFTk5wWDJrTjhCcENsYmNCTjlNV2tCSERNdDRkajRkalljcVlUMkpVRmN1NVQ4RmVUdktqdWh1U2dnRnF1Rk1ndnNuR1pXblVuWXFkLTdYQy1JaGs1?oc=5",
+      "published": "Wed, 11 Nov 2026 19:54:27 GMT",
       "source": "CNBC"
+    },
+    {
+      "title": "The housing market is in 'a standoff.' Here's how to sell your home - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTjBZaWdHaHJHcGpzY21IX2pVMm5Lc2tfWnludXpKRFJGUy15WTROYVV5TVhqXzVMSGNtNWM3bmhsZG95Rkk0N0E3QUtfUzgwYVBvTjBjdVVIdmUxYkQ3V2lMMk1iWDRVVTRuVUZyVXJPYjhFSkhtRGdFWngwd3JOMnB4UGstSkJSM2N4aDZMTTBZaDJXcmI2VFFfd2tDWkxlMlY4VXV6R2NfT2d0dWRhRmxmVkZVVEFtaXBmNjNFTzh5MEE?oc=5",
+      "published": "Thu, 12 Nov 2026 10:01:00 GMT",
+      "source": "USA Today"
     },
     {
       "title": "How a Personal Finance Entrepreneur Lives on $130,000 a Year in Brooklyn - The New York Times",
@@ -72,40 +96,22 @@
       "source": "The New York Times"
     },
     {
-      "title": "Mortgage and refinance interest rates today, Wednesday, November 11, 2026: Fixed purchase rates rise for the second straight day - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQb1h1c3R5YW1jVmNWQXFJOVg3SkRBSVgwUkw4aGJWTUR1cjJmQkRmSFQteGZuYWxVemU0QzA5bUxXejZ1RGRzeUszbXRGSlA1NDh5ZXE1VE5VTlFrQ0NIUHRvVHdkNEIyZlNvamY5ZTdjeGE2eUN6R1BhVGI3dUN2YmRfV2JWQmY3S19IdmQwbmhvcVY1T1JWaG9abFZZcWhIRUd1TTVEbGFTT01JWXNpZDhaY05zdk8xN29MRl9Bd1haZkR1RUJTcndCYjdlVmV1c0E3Q3dkZFBEN3hKcG5XeUEwMXBTRG9UcEJQSnFhWkU5bHQwOWVzWk91b3JJZEtrZEJRbS14c0VhV2JHMTBMak0tSFdvRkUxVGt3aGZnemVvZFB0eEpv?oc=5",
-      "published": "Wed, 11 Nov 2026 11:00:00 GMT",
+      "title": "Should personal finance be part of the liberal arts? : The Indicator from Planet Money - NPR",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdndjLURwc0dqV3FWMURVSTRfTjRpTXpVeE43ZERUTzZ2LU54ZjNBQy1DSlljRlU0SkZ5NnhVeWs5Tkt4RGhJMkFEM0lPUUhmMlU2MGJWd0VNVVJYckc3TjhFQ2FpNHFsRDc5MUtpUUhFNE1lZEM1elIzdktGNEhGREhXeTJTWjZjX1dTWjRKYUlZanRVZDJBd0FQN0U?oc=5",
+      "published": "Thu, 12 Nov 2026 08:00:00 GMT",
+      "source": "NPR"
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, Thursday, November 12, 2026: Mortgage rates rise as Fed suggests higher rates ahead - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNNjZvUF9EWjBXdC12djFKX2h6R1RjX0RIbElKMHlmYkRlWDBKQ0E5UVBpZDh1NlJKTGk5dXgzNjBuU3JJOHhVNFBBSWZXWTYwOG1fZ005SWY2MWhNd2RxZWw1ZkZiZW12aUNUTDRrTDlPMkh2ZG9sWDI2akJFTEU5cjV4MV9GcklIZGdPeUM4a2xidUdkR0xWbWp0bWlTTWd4OURISkIzSmRaSnZCa192aXJuSTZsVkwtd3lnWk1QcGJMdnJMU2RlMlBjUXo1S1BTc0JrZWxWVnZvbDU1UTJDQnBNRVhtd052QUxmTDAxQmYzZUJ2NTBKaTZyeVE1SEtRVFlpVlVQTXdydFJJbkZDWFQ3RktJMWdnRVRsVFI0RFNfSmhPcEJz?oc=5",
+      "published": "Thu, 12 Nov 2026 11:00:00 GMT",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Today’s top high-yield savings rates: Up to 4.70% on Nov. 11, 2026 - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zcklWQTMwQjNLUmZ1cnpJNXBjcmsyNkU1WmdIUktrSDNVTGNQZ1dfajh4Q1hHWS1ob2NDZkZyNU8wLWZiYW0tXzdCa2xSbVJlTlhwWGtzSVVlclhMUFNObjZKUzRYYjJoZ2FHSEY5Wm8wdDBr?oc=5",
-      "published": "Wed, 11 Nov 2026 11:01:00 GMT",
-      "source": "Fortune"
-    },
-    {
-      "title": "Americans want to live to age 88, but their money dies at 83 - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZGhsYzB4VDNoSm8yZVV0VlNBX2lIejJzNW5LZENaUG5LNzN4Rno3b1hISWd2Tkhid0o5QzA3Q24tREExaEpSOUVsSXE4dXNmUGRFbkFtNHBsNEMtOEVHaTRNVDhWSXNVd0pHemNZM1NiX2JtdnR2WUZoMXZZSU1WZ0pGR2VCZzJxQXRvekw2X0lZTGkzamliUjh5dFBUUkZGRG9kdF9PdHZGN2VreHl4M2VleHhHd1M3Z3VtMUd0ZXd2bWU5QWI4dFB3?oc=5",
-      "published": "Wed, 11 Nov 2026 10:12:34 GMT",
-      "source": "USA Today"
-    },
-    {
-      "title": "I Tried Incogni to Remove My Personal Information Online. Here's What Happened - Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcFI5Q2lBM2RWOXpPeVpYYTFubWNHQWgwYUMwcUdta1hyUHFvRnNMa2lwemZrcVVVUlpkRzFFbDBMblJPWmVOaDJBQ1JFa3ZVTWxOY0l3TFJrWUk3MUhJeXozbFJOU0M2ejlCam1ORnlhckp5WXA5WnRIV0UwVnIwMDMybWRIR3ljV1VV?oc=5",
-      "published": "Tue, 10 Nov 2026 14:55:43 GMT",
-      "source": "Kiplinger"
-    },
-    {
-      "title": "Ranked: Countries With the Best Pensions in 2026 - Visual Capitalist",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa1MxUDdQaHFZeGQ1M2FYaGZqUzdjNEdvZGZPMDF0Njdmd0FKZFNoUVZuVnBFYVFYVDZMVzROYW5TWUlSd0Y2UU5UQW9hN1lpdDV6UF9EN0ZIeTVhTDZ6TjZDYWpKODZFQzN1VC1LcWUzdUNoM3AyWUtOcS13SmZfVmprcw?oc=5",
-      "published": "Tue, 10 Nov 2026 14:08:42 GMT",
-      "source": "Visual Capitalist"
-    },
-    {
-      "title": "Veterans: Are you overlooking retirement and disability benefits? - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYllKaTdocExsemN1ckpuRWJRWmxxSnRELU51ZkZ4THJmTG9KQVNibEE1R19hZUQ2LTAtcU5Ed2FING5LNjZhM09EdGVhd0dNNmJFeU0zVk9KNW5tcDZlMGF6Nmt6QmRrZTM1MkdlYkprR0d3dXRwZVZ5NkYyV2Jwd01UWS1uc1pxNFB1OXJRMVpQc2FxbUJQWjJhQ3h0RTdqb3NhVV9NSk4?oc=5",
-      "published": "Wed, 11 Nov 2026 09:03:00 GMT",
-      "source": "TheStreet"
+      "title": "How to Build a Holiday Budget That Works Every Year - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWFhBRjZPYmhKY1dqNnl3VlpkcU9XNkZKUXFLZFJGejM4TGsydk5ESmpyR1BMeENJeDdVYk85SlBrNjF6V2VDTWpJVVBLcEV0WXdzQXN4T3lqRDdoLWp5Q0ZGVmdtMU16V2NTSzJkSGtQbkVTeThUV0t6ZHF3YnhKNnJjeU4xUTZMYWdRaEFLc0VmNm5hUUJv?oc=5",
+      "published": "Wed, 04 Nov 2026 08:00:00 GMT",
+      "source": "NerdWallet"
     },
     {
       "title": "A CISO’s guide to trimming waste from a flat security budget - Help Net Security",
@@ -120,10 +126,10 @@
       "source": "Mitchell Now"
     },
     {
-      "title": "How to Build a Holiday Budget That Works Every Year - NerdWallet",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWFhBRjZPYmhKY1dqNnl3VlpkcU9XNkZKUXFLZFJGejM4TGsydk5ESmpyR1BMeENJeDdVYk85SlBrNjF6V2VDTWpJVVBLcEV0WXdzQXN4T3lqRDdoLWp5Q0ZGVmdtMU16V2NTSzJkSGtQbkVTeThUV0t6ZHF3YnhKNnJjeU4xUTZMYWdRaEFLc0VmNm5hUUJv?oc=5",
-      "published": "Wed, 04 Nov 2026 08:00:00 GMT",
-      "source": "NerdWallet"
+      "title": "Best Budgeting Apps Of 2026: Tested And Ranked - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5",
+      "published": "Mon, 09 Nov 2026 13:55:00 GMT",
+      "source": "Forbes"
     },
     {
       "title": "Budgeting for teens: 18 tips for growing your money young - Credit Karma",
@@ -138,12 +144,6 @@
       "source": "The Department of Financial Protection and Innovation (.gov)"
     },
     {
-      "title": "Money-saving energy tips to brave the cold months - Roanoke Times",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTI4b3pUd1VHMm5yeTlmYlhIVUtrSE92RnBJN0xXUmF6QVhkMDBVcDF3bFMtanpyNWNJbVpfXzBkZE96eU9UVFNjOGdpSDRSWmxNMHpMbWNyTFRKU1U1MzJvRmx6dW5RNUx0N29fRko0RjNScGY4RFpDTGVjQ2owa1FpcEZ0SFRBek5idzRCc01RSUh6b2x0Q3VJUEt6X0htNHJ5VkV6QktKN2FRWnpUQS00NA?oc=5",
-      "published": "Fri, 06 Nov 2026 16:41:19 GMT",
-      "source": "Roanoke Times"
-    },
-    {
       "title": "How Oklahoma families can budget for Christmas without overspending - News 9",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVhrQjBwMXVkVEUzUC1UN19HYUtOZW4tN0JIcDBmRkNsTEdsVy1hVFVkaU5xMjFBSHZ6cXlXa3ZmZjFZT2FHWlA2LXNldVlzT3dmb0VBQUhaVERzcGt1OEVVcWVXeWJZdUt2RHd0X2FuRFFkT0g0NUNzaUFqb0JzTUZWMG8tLVhDMjNsbHBGVTRVTFhZb2FLWGlXZDA5bV9kTXBn?oc=5",
       "published": "Fri, 30 Oct 2026 07:00:00 GMT",
@@ -151,7 +151,20 @@
     }
   ],
   "hn_stories": [],
-  "trending_searches": [],
+  "trending_searches": [
+    {
+      "term": "should i buy nvidia stock now",
+      "source": "Google Trends US"
+    },
+    {
+      "term": "what time does stock market open",
+      "source": "Google Trends US"
+    },
+    {
+      "term": "when does the stock market open",
+      "source": "Google Trends US"
+    }
+  ],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",
     "reddit r/financialindependence: HTTP Error 403: Blocked"
