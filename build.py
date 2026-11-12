@@ -51,6 +51,7 @@ TOPICS = {
     "ramsey-12-percent-withdrawal": ["retirement", "investing"],
     "ai-personal-finance-tools": ["budgeting", "getting started"],
     "zero-percent-capital-gains-2027": ["taxes", "investing"],
+    "veterans-benefits-playbook": ["retirement", "taxes"],
 }
 
 
