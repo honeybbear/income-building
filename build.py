@@ -52,6 +52,7 @@ TOPICS = {
     "ai-personal-finance-tools": ["budgeting", "getting started"],
     "zero-percent-capital-gains-2027": ["taxes", "investing"],
     "veterans-benefits-playbook": ["retirement", "taxes"],
+    "buffett-90-10-rule": ["retirement", "investing"],
 }
 
 
