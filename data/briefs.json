@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T14:30:14Z",
+  "generated_at": "2026-11-13T13:48:18Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -20,25 +20,19 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "Claude's New AI Money Tool: What Financial Advisers Want You to Know - TheStreet (TheStreet)",
-        "Should personal finance be part of the liberal arts? : The Indicator from Planet Money - NPR (NPR)",
-        "Budgeting for teens: 18 tips for growing your money young - Credit Karma (Credit Karma)"
+        "IRS announces 2027 401(k) contribution limits, raises savings cap: What it means for your money - CNBC (CNBC)",
+        "Should personal finance be part of the liberal arts? : The Indicator from Planet Money - NPR (NPR)"
       ],
       "sources": [
         {
-          "title": "Claude's New AI Money Tool: What Financial Advisers Want You to Know - TheStreet",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1ZITmdJQUM4ajlRc1d2QnMxMmFoLWZxbUtzU2NkV2FkenNMZGlueFVIbFMwbEJxMXdkYzUyRGlQMnRPQ1hyeVpxdGhHbGNjaEk4TGliX3A2N2thZ3lfaDVEV3pTbmgyb1U0OWh2bVNDZV9DbGRiOTZ0emw3MkNjdnlHb3NVWHJFUEFOOUc4LXJrRXJwN1JqNG5NMEllZw?oc=5",
-          "source": "TheStreet"
+          "title": "IRS announces 2027 401(k) contribution limits, raises savings cap: What it means for your money - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PNnQ2ZjdES2JqbkMzMTBmOEJsbWhHYW9EdmF2S214MHByNFNrVXZWUlJmVE9wcXNjS2s1RENQa19zLVItMm94WVk3WUEtT3NnanFqLWg0OHA4RW1fT0Z0bWFwTWItVVhGMFBodXVxZnVVV1lV0gF6QVVfeXFMT1ZwbjQxa3hua19oTWY4QzVDXzdZNmZjd3dHVWwzZFpiaEozNjF5dGdrNzBzcW1ldjNCYm5BRUlvZERjWGd6cktZdTE2OVpKSXJDLVJrS2gtbjZodHFqS21kd3JtNkpHdDhpdmd2eUVpX25VaWxianpxcEE?oc=5",
+          "source": "CNBC"
         },
         {
           "title": "Should personal finance be part of the liberal arts? : The Indicator from Planet Money - NPR",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdndjLURwc0dqV3FWMURVSTRfTjRpTXpVeE43ZERUTzZ2LU54ZjNBQy1DSlljRlU0SkZ5NnhVeWs5Tkt4RGhJMkFEM0lPUUhmMlU2MGJWd0VNVVJYckc3TjhFQ2FpNHFsRDc5MUtpUUhFNE1lZEM1elIzdktGNEhGREhXeTJTWjZjX1dTWjRKYUlZanRVZDJBd0FQN0U?oc=5",
           "source": "NPR"
-        },
-        {
-          "title": "Budgeting for teens: 18 tips for growing your money young - Credit Karma",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xdUw2SkNfeUprYm1lTXlOYVludUhBZFc0X2RCZGUzVm9GeUJneWUwd0ZXMXNja3JyVkpsYi1KTlUwazlzWmVJR1U1eWZlTlU4Z0RDLUtoZlRyaWpuSnVGZ2VMRU5WMk1DQzBlVWpraVRwcktNZG1J?oc=5",
-          "source": "Credit Karma"
         }
       ]
     },
@@ -46,44 +40,44 @@
       "id": "t-1",
       "kind": "trending-topic",
       "headline_options": [
-        "Finance, explained in plain English",
-        "What you should actually know about finance",
-        "Finance: the honest beginner's guide"
+        "Tips, explained in plain English",
+        "What you should actually know about tips",
+        "Tips: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What finance means in plain English",
+        "What tips means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "OpenAI’s personal finance features for ChatGPT expands to Mac app - 9to5Mac (9to5Mac)",
-        "Warren Buffett’s 90/10 rule to invest for retirement: Does it still hold up today? - Yahoo Finance (Yahoo Finance)",
-        "How a Personal Finance Entrepreneur Lives on $130,000 a Year in Brooklyn - The New York Times (The New York Times)",
-        "Should personal finance be part of the liberal arts? : The Indicator from Planet Money - NPR (NPR)"
+        "Mario Armstrong shares game picks, budgeting hacks and Travel Tuesday deal tips - KOKH (KOKH)",
+        "Financial Fitness: Tips for budget Thanksgiving meal - WAVY.com (WAVY.com)",
+        "E-commerce expert shares tips for managing holiday shopping budgets - KTXS (KTXS)",
+        "Tips for eating healthy on a budget: What to look for at the grocery store - 9News (9News)"
       ],
       "sources": [
         {
-          "title": "OpenAI’s personal finance features for ChatGPT expands to Mac app - 9to5Mac",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUU0aC0xSDlnZHZ6SVJsRWhOeU9sZXBMYmZTaTdnTkRwRzFHbWtJN1JmemFPeEhxMWwtaGt5cEdyVmVwV2EzZ2tQdksyOE5lRXU5R2pCNldYeTFLQV9Kcm9JSlI0NTlXR1lBNnEzS3drQk9CSnlTdzJKNUhyR1libE5oamtUZHFXWk5sZlcweXU4VkpCYjBWeDAxN0I?oc=5",
-          "source": "9to5Mac"
+          "title": "Mario Armstrong shares game picks, budgeting hacks and Travel Tuesday deal tips - KOKH",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0JNU0k3ZmlLV2FLbTlEdldOV3FLaTk5ZlNDSHk1UjB1M2pvcExhS2YzRGtSRFVJdm5RUFV5R3hpbENiZHlfTW52YnFTakpSN1VrMmdPQ09yaDZZajJ0NnZaWndwTFVzbU9qM3lPdV8weE02TDVzMTlHSmwzbUtISE1qWk13ZmQ2YjYwMmktUzBxdXo3emdMd0I1dGJZWjFiZUgzQkcwN0x6dDIwcFlhVng3VGt3T2dQcDA0X0I1Yw?oc=5",
+          "source": "KOKH"
         },
         {
-          "title": "Warren Buffett’s 90/10 rule to invest for retirement: Does it still hold up today? - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNY1JSWDFMZ3p2WDRRQ2tEQ3FGa1kxMi1BTEhjeDNVZ1BtYko0RnRRTGNFMDA3UUpSYXB5MWd0REVuM0pKRGJ4SFRZb3Jrbl9xSzd0TTdUVUdSdFFPUzZicEtGaDBDbzJmM3NhYktPMEo0dkIxWmJ5RXpUblEwTjJocHNDcEYwaXo5cnFXQTBHZ0tQa1lBSkplY0FHM29lREdXRHVCLXdTSzZvM3Q5R3N4eDZzWXZxNWZLY2F5OU5rVWxCMXlIZGVOdWVON2tpWF9XcVVESTVKWEZzY2xSZk5nZ3RzQnJ1RnFWS1E?oc=5",
-          "source": "Yahoo Finance"
+          "title": "Financial Fitness: Tips for budget Thanksgiving meal - WAVY.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaHNabE5ORW9icFJIZGYxanEtNTNGc2dKNkV5N2NxMzREcndXS2pqMWF4UEJUSlV1emtVYzBHTF9lRl9Na0lINERuSGhXWkp6OVNIdkFnQU9TRjFjZ2JJUlJMTnpPZ085TFZYR3hjZC1manVyUWNLWU4wN0ljTzJJaG54VE5IMmtHU2Jnd0tqenhKZw?oc=5",
+          "source": "WAVY.com"
         },
         {
-          "title": "How a Personal Finance Entrepreneur Lives on $130,000 a Year in Brooklyn - The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWEU1eE8wRHBwYlNVa0JJUXRjUjl2N0cxSlFCOVkzTFBFZUVLY0pNN0dGOFVjcmZnVTU1eDR1eHd3TzRkZHptZnhBbjN2ZC1abU1nSEtfOEZhaE82Zi1vVERoZGxvWjhTc0NlaGFDb25lVjVISG81RktudUhLa1p0clZTQjNQNWh4aEtDOUR1MlQzRkpLWDlLRQ?oc=5",
-          "source": "The New York Times"
+          "title": "E-commerce expert shares tips for managing holiday shopping budgets - KTXS",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTFlValAzY3lqOXNYQU1SZ055VXR6b3d1cGU2U09SYlozMXhQRl9YSTJHR2JMVzhDX1ZRR3N0YkhTaHFUYlhuMGo5WlQ5Rm5SUEtWUFFkS2dUZG9hWUlPazdGU0VXeEQ2bVk2UDZ2eWZrc01VVHdHelAzTUF4YTQ2TEYtakw4SmVWVmFrVU04ZVFXUnRURmhKMDBzVQ?oc=5",
+          "source": "KTXS"
         },
         {
-          "title": "Should personal finance be part of the liberal arts? : The Indicator from Planet Money - NPR",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdndjLURwc0dqV3FWMURVSTRfTjRpTXpVeE43ZERUTzZ2LU54ZjNBQy1DSlljRlU0SkZ5NnhVeWs5Tkt4RGhJMkFEM0lPUUhmMlU2MGJWd0VNVVJYckc3TjhFQ2FpNHFsRDc5MUtpUUhFNE1lZEM1elIzdktGNEhGREhXeTJTWjZjX1dTWjRKYUlZanRVZDJBd0FQN0U?oc=5",
-          "source": "NPR"
+          "title": "Tips for eating healthy on a budget: What to look for at the grocery store - 9News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRkljVk93R01LWW82QTV1a3VDeVhGc296MkNjSUpSWlR4RERJMlhYa2RVSURqeTlmWW9wcVk3U3lfeE9vUjY0aW95aHhsZFlSUmlNTTNtdkhEOHBXYV95TmFQLVpFNHdwaXRob05oV3ZEdTEzc0dsVWJkdUxxU3gtNnY3SWJQUnN0dUdMeDktbXVITjZBaXdjSmswaTNvczhBSmRNNF9ZbnQtOVNFRXc?oc=5",
+          "source": "9News"
         }
       ]
     },
@@ -104,31 +98,31 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "How to Build a Holiday Budget That Works Every Year - NerdWallet (NerdWallet)",
-        "A CISO’s guide to trimming waste from a flat security budget - Help Net Security (Help Net Security)",
-        "Winter Home Preparation on a Budget: Tips for Mitchell Residents - Mitchell Now (Mitchell Now)",
-        "Best Budgeting Apps Of 2026: Tested And Ranked - Forbes (Forbes)"
+        "How AI Can Transform Your Budget and Grow Your Savings: Stop Stressing Over Spreadsheets - Kiplinger (Kiplinger)",
+        "Mario Armstrong shares game picks, budgeting hacks and Travel Tuesday deal tips - KOKH (KOKH)",
+        "Financial Fitness: Tips for budget Thanksgiving meal - WAVY.com (WAVY.com)",
+        "E-commerce expert shares tips for managing holiday shopping budgets - KTXS (KTXS)"
       ],
       "sources": [
         {
-          "title": "How to Build a Holiday Budget That Works Every Year - NerdWallet",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWFhBRjZPYmhKY1dqNnl3VlpkcU9XNkZKUXFLZFJGejM4TGsydk5ESmpyR1BMeENJeDdVYk85SlBrNjF6V2VDTWpJVVBLcEV0WXdzQXN4T3lqRDdoLWp5Q0ZGVmdtMU16V2NTSzJkSGtQbkVTeThUV0t6ZHF3YnhKNnJjeU4xUTZMYWdRaEFLc0VmNm5hUUJv?oc=5",
-          "source": "NerdWallet"
+          "title": "How AI Can Transform Your Budget and Grow Your Savings: Stop Stressing Over Spreadsheets - Kiplinger",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNmR1ZS1YY1FISjM3WnhmdGZtTVhGVGdOT1FiTkpVd2hsSlVsN01teHVmd3lnWHIza0d0OEx3cFF3UjRfRVBOdzhRRExOS3VZbnR4NDFtNzAzaFRISmxJcG44RHh0WjlMbmllQTdGRHphcmdUTUNiVGwwRWNXUlBydkg5aWxLc2dUM2JV?oc=5",
+          "source": "Kiplinger"
         },
         {
-          "title": "A CISO’s guide to trimming waste from a flat security budget - Help Net Security",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MWnY4cVprd0U2dDN3dk0wRHBQR0VKcjVST3FuZ1NwM19qeFR3SkYwYmNLTS02SWxLSVhZQnRDMVllSHJrbUMzYnhncVl0bjVMRFFldHRHZURydEhNWGRQbFl1NFBteGl3R0lBbmlRcGY3RmQ0MjVZdVdn?oc=5",
-          "source": "Help Net Security"
+          "title": "Mario Armstrong shares game picks, budgeting hacks and Travel Tuesday deal tips - KOKH",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0JNU0k3ZmlLV2FLbTlEdldOV3FLaTk5ZlNDSHk1UjB1M2pvcExhS2YzRGtSRFVJdm5RUFV5R3hpbENiZHlfTW52YnFTakpSN1VrMmdPQ09yaDZZajJ0NnZaWndwTFVzbU9qM3lPdV8weE02TDVzMTlHSmwzbUtISE1qWk13ZmQ2YjYwMmktUzBxdXo3emdMd0I1dGJZWjFiZUgzQkcwN0x6dDIwcFlhVng3VGt3T2dQcDA0X0I1Yw?oc=5",
+          "source": "KOKH"
         },
         {
-          "title": "Winter Home Preparation on a Budget: Tips for Mitchell Residents - Mitchell Now",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3VNbm9UX2RmZV9ETWQ5bFZvX2F4azA1T2NDejhnN2R5eENTZXMxTHoyVG12MzlZOUNfNGdNVzYxelNZVVUzaGhQTEdaT0QyMXVuTGxFbXBPdU5nYXJWZEdFbVVsWGNWVXp6MUJ0bmdTNExERXZNZjN3VFNxVEZFRTN3?oc=5",
-          "source": "Mitchell Now"
+          "title": "Financial Fitness: Tips for budget Thanksgiving meal - WAVY.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaHNabE5ORW9icFJIZGYxanEtNTNGc2dKNkV5N2NxMzREcndXS2pqMWF4UEJUSlV1emtVYzBHTF9lRl9Na0lINERuSGhXWkp6OVNIdkFnQU9TRjFjZ2JJUlJMTnpPZ085TFZYR3hjZC1manVyUWNLWU4wN0ljTzJJaG54VE5IMmtHU2Jnd0tqenhKZw?oc=5",
+          "source": "WAVY.com"
         },
         {
-          "title": "Best Budgeting Apps Of 2026: Tested And Ranked - Forbes",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5",
-          "source": "Forbes"
+          "title": "E-commerce expert shares tips for managing holiday shopping budgets - KTXS",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTFlValAzY3lqOXNYQU1SZ055VXR6b3d1cGU2U09SYlozMXhQRl9YSTJHR2JMVzhDX1ZRR3N0YkhTaHFUYlhuMGo5WlQ5Rm5SUEtWUFFkS2dUZG9hWUlPazdGU0VXeEQ2bVk2UDZ2eWZrc01VVHdHelAzTUF4YTQ2TEYtakw4SmVWVmFrVU04ZVFXUnRURmhKMDBzVQ?oc=5",
+          "source": "KTXS"
         }
       ]
     }
