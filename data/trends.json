@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-15T13:19:41Z",
+  "fetched_at": "2026-11-16T14:34:00Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -9,18 +9,18 @@
   "topics": [
     {
       "keyword": "money",
-      "mentions": 9
+      "mentions": 8
     },
     {
-      "keyword": "tips",
-      "mentions": 6
+      "keyword": "budget",
+      "mentions": 5
     },
     {
-      "keyword": "saving",
-      "mentions": 6
+      "keyword": "rates",
+      "mentions": 4
     },
     {
-      "keyword": "finance",
+      "keyword": "financial",
       "mentions": 4
     },
     {
@@ -28,37 +28,57 @@
       "mentions": 4
     },
     {
-      "keyword": "shares",
+      "keyword": "saving",
       "mentions": 4
+    },
+    {
+      "keyword": "kiplinger",
+      "mentions": 3
     },
     {
       "keyword": "google",
       "mentions": 3
     },
     {
-      "keyword": "personal",
+      "keyword": "finance",
       "mentions": 3
     },
     {
-      "keyword": "com",
+      "keyword": "help",
       "mentions": 3
     },
     {
-      "keyword": "budget",
+      "keyword": "tips",
       "mentions": 3
     },
     {
       "keyword": "energy",
       "mentions": 3
-    },
-    {
-      "keyword": "debt",
-      "mentions": 2
     }
   ],
   "questions": [],
-  "discussion_highlights": [],
+  "discussion_highlights": [
+    {
+      "title": "Amazon's Discount Illusion: 1 in 3 \"Deals\" Offered No Savings– 1 in 10 Cost More",
+      "source": "Hacker News",
+      "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+      "score": 22,
+      "comments": 18
+    }
+  ],
   "news": [
+    {
+      "title": "Social Security and the blue wave: What could happen to payroll taxes and senior tax breaks - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSHlKbUJJd1VGNzRWMWd1Wl9UOTlTUWdhNGNKVkM4d2ZPcEgzVjRGbFhrNVhSb0k3UHF0WV9rczNhOE5fWUtmaDZvbFB0T1lXWjMzMnJqSlZqOHZFbmFPZGJfa0dyaThjNk54ejM3STBOTjNEMUQyTVN5YmFqaW9Pdy1mRy1SajJs0gGOAUFVX3lxTE5NUThpczRXb2xhaF9uWURhaGN6UGxZRUYxMmtkdW1YTE40WWtJSVJuOUZSX3RIWXJ0THUybDhsbm1aLV9ocHpCVFEwTy1UWUpBUmFiYnRhSHNsUndPNFFaNEJpSk4tbzdiQ0RZdjNyVVdVQWt5Wnp2YUVDbTN6MlpIRXY0dl85a1RMR1E2cnc?oc=5",
+      "published": "Sun, 15 Nov 2026 14:30:01 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "I Spent Years Editing Kiplinger Magazine. Here’s the Retirement Advice I Actually Use. - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMTAzeE0zaTBqZXRlcTJ6aVZwME9kZGtRY1Z5akZOOGZlekw4eXZSbFdwOW1HclN6dHotNW1tWERnU21LLXdDV1ZVbHpUMG04elhWZE9KbHhhT3dRNVRkVHZuektkbVZXMXpSS09IZERfckZ2dm1Ecmt4c2dhd1dEVE1ORjFZUXQyT0dReUtrWHhDRGJEa0JvR2RrUk5YQ0VaM0pz?oc=5",
+      "published": "Sun, 15 Nov 2026 13:30:00 GMT",
+      "source": "Kiplinger"
+    },
     {
       "title": "Connect Google Wallet to Gemini for personal finance insights - blog.google",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaVBtU2pIREI2VkItNWF5TEhZNHVPR2dOb0hXNXBBUmowWUZQdEduYnpfbHBrQzB2OHlkejFmN0pDa3RZYjUzUUNYTzlsWW1OLUR3c2M4b0lTWkU2bF82OWJuZ0swUWJlYm9pbndYRXdXU1d2aVBBQWx3VWhLbnNfOWVVMVdyWmVQYThR?oc=5",
@@ -66,34 +86,16 @@
       "source": "blog.google"
     },
     {
-      "title": "Death is driving Americans into debt - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ0doRkwtd3B6WjVzdDBuR2NFMjltalZiMmZRYko0SHppYjlUVk00LUpGWlBHTDZhbjljM25mNGxGY1pXcWJfTWFKT3c5c0lWR3poZ283eW5sa2I0Q1NwSXF0UHdnei1CakEycG5aNlNNeWlaNGxuRXNxXzJiQ2JSdVg5WkpWRXpocEZkSlk3OU5kUVVoNXNVVmFzekY2LVRUYVprQUttOHB4VnZSV0NoT2ZOeGo0eFBLMmVRcEJSYTMwOVF1SWlDM1FUcw?oc=5",
-      "published": "Sun, 15 Nov 2026 10:02:00 GMT",
-      "source": "USA Today"
-    },
-    {
-      "title": "QCD Rules Have Changed: Why Taxpayers Still Bear the Burden of Proof and How Advisers Can Help - Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQak0yLVROalY5TVZiZ1BmR2xzZG5ZVUlhM0M1ZDByRXVCdmxvQnBmWXc5SlFETnVQZW9GczJfQTFacTFwZUxzZ0poNm1OT1RZN2RUc292RDl0R1Zid0Rwb05tSW80MmpXU3lwM1hpbjNpdFEweU94bUs0UExqbGtscVVLZG90cW45bWE1WDZTT21aV3EwZXlCMWh4LUNvQzMwSE1B?oc=5",
-      "published": "Sun, 15 Nov 2026 11:00:00 GMT",
-      "source": "Kiplinger"
-    },
-    {
-      "title": "Average job search hits 24.8 weeks in 2026, and 27% of workers take even longer to land a new role - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXVSVzl5cjdrcjNoY3duZ0lKS09iV2tnNWdjLWlYeGhoRGlfYWVHZ2xXazBCSE9ianpENmhEdl9FMWZCWVhwdWtGZUtyS1V5YnJXS2xkQWh2ak5Uc0xCSHZrdFViVk5SRFRITnBfZVo3cWFSNGhrU0N3QzJyeVhBXzhTNWVMS3NnZVJvLQ?oc=5",
-      "published": "Sun, 15 Nov 2026 12:00:00 GMT",
+      "title": "Mortgage and refinance interest rates today, Monday, November 16, 2026: 30-year purchase rates higher than refinance rates - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQTXpXZ2dsanFmZzE0UGpENXpNMUhxOWRNZ01KdElQaGp5V1RMbDhoM0JSX2xzR2ZweDNpbDFmZWwxMlB5NGFHYXNfNGhudFhoVkpPVERCSFp6S3pRZ2hqLUZMajQxcFMwYmJJRWZIb3JxMDRZQVFVQnZ3UzVjRVdMamRkOXFxOThsSGtuTDRhWi1GZ3hfdGdabEtWdmh6M2ltLVFySUtoTUpETUFiU1BKQkJDSms2aG5Pc2k5d0c0QzJsNlNGYkZRM3p2N2c0dVFZYjktS1AtcThDOTVMMUFFbXBJcl9iZmQtOTlGdHIwWExYbXlubjFTUlI0OTg2VnlkenR4RHZzd2VwZVAyczh5LWpFb0tVNnZGNE5NYXFORQ?oc=5",
+      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Liz Weston: Does a debt-free retiree with no dependents really need life insurance? - OregonLive.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNEFWYXhUWU03alhKbjBURUVZSUp5aS1nMXl6MjM4a3FYV2w5NEVxSmR4cTVuNGF2YmJjc3R5ck8tTlF0TzY3QUR6RHU4WFRBVmY5RHBabGZNSHZEYTl0Z0xGcFZuT3hqblNhSkM2ZlR0NzFmTmRLUmlFNXBiTWY4SG9OQ1lia2JMd0pCeVAxdkg3M1g0TnpJOFQ1a2t2bWJkbGpFY25sbE9lRUY0RjlyU3E5Yi03TnEyYlVSNDJWRTM4TmFGeWhtVWJB0gHeAUFVX3lxTFAwV21WR3RKay1VQXlyUlZIWUYyTFBoNDA0LTItelZtcDhkNGZaQThkNEtpQjFlMzZSTEtnclU5em1RbExfWHByMnR5STNPNm1NeTFhNlJaM1VJaGdmWE1WS0ZJellSVUt6X2VXRmVrUkcySVowU0NhbUd5RlotTk9EMXlwZk1nVi1GTVI1Y2loMUZaa1c5LWpLYm9wcEdzRFBJSWd0WVRiM1EwX3g5MldfY253T3F6ZUF3dGRONkJCeWNfRERjOXA1UEc1QlFWa3loZzZvNkNhVDIzSkNVUQ?oc=5",
-      "published": "Sat, 14 Nov 2026 15:00:00 GMT",
-      "source": "OregonLive.com"
-    },
-    {
-      "title": "Should I name a trust as my IRA beneficiary? - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR2lzU3NEVE56Q3g2NkNIUDNhRjhfTWFCcnNVc3dJX1FsMU1PRmRQWS1zUFFqWGFGZ3ZJSUJ1d3paSnA1cTJraWZHTEVwZUU5azFSZWh5am1NVFZfRE8tZmNpendneTJDbHlHQ21CSzNwR1RRM0dlYVY1V0x1ZkI1SFRVd0JXRFhPSjRSbWJ4MjBZQTE2OEE?oc=5",
-      "published": "Sun, 15 Nov 2026 11:00:00 GMT",
-      "source": "Los Angeles Times"
+      "title": "Top CD rates today, Nov. 16, 2026: Lock in up to up to 5.00% - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54UlRBUktIcjQ4RXFvTUp1bnhGdG9xYS1KWkhrMWNkYTNtTzhQZGtGMDc3MkRock5lTTE0RFlBVFQ1OVBXUDBSdG5Qa2Y0UjdpWDNqTDhWUXFjZw?oc=5",
+      "published": "Mon, 16 Nov 2026 11:01:00 GMT",
+      "source": "Fortune"
     },
     {
       "title": "Justice admonished for missing personal finance filing deadlines - WV MetroNews",
@@ -102,10 +104,22 @@
       "source": "WV MetroNews"
     },
     {
-      "title": "Should personal finance be part of the liberal arts? : The Indicator from Planet Money - NPR",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdndjLURwc0dqV3FWMURVSTRfTjRpTXpVeE43ZERUTzZ2LU54ZjNBQy1DSlljRlU0SkZ5NnhVeWs5Tkt4RGhJMkFEM0lPUUhmMlU2MGJWd0VNVVJYckc3TjhFQ2FpNHFsRDc5MUtpUUhFNE1lZEM1elIzdktGNEhGREhXeTJTWjZjX1dTWjRKYUlZanRVZDJBd0FQN0U?oc=5",
-      "published": "Thu, 12 Nov 2026 08:00:00 GMT",
-      "source": "NPR"
+      "title": "How Retirees Over 70½ Can Cut RMD Taxes With a QCD - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWEVMX3BIdEExVjJmelZWQ2xBZnBTbjRybFJLOUZrbDRiSFEyQjlHUmZGblhwZWpsVmxjMHBKR3pTcXF5akxITWY0MU5NSC1IMHpXcHJ1dFNFeDVqQ21ZeU52c1VJTGYySTBUX01qQWNka2lMdERWWFllQTVqaHFBSlhGMFBybmZEajc2NlhvdXNuRUN0cWtOWnQ0SW9ycDA?oc=5",
+      "published": "Mon, 16 Nov 2026 13:17:00 GMT",
+      "source": "TheStreet"
+    },
+    {
+      "title": "What 42 Years as a Financial Adviser Has Taught Me About Financial Confidence - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTnhjRjhnekdvaHVYc2xITG5PT0lrMVNFWWl2cVlXRTRxWHlUTTZob2wzM2dKNWFOanZ0Y1lZeElfTkRmcTRJNVNwWWgzaHF5Ynk3R0w3bWJmdW5MZ2hUck1DZmdrcGo2ZGhxREk2Z0JyMGZ2R3NjeGhWNE9PdlhMWEJqMk5lQnd6VEZ2WnV2ZE9OVnBIX3YxZEY1bHhiOFRZMWp0QjdZN0FYc2tNbEVn?oc=5",
+      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
+      "source": "Kiplinger"
+    },
+    {
+      "title": "Ohio Department of Commerce unveils new holiday budgeting guide to help Ohioans plan for a budget-friendly season - The Highland County Press",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlpmams1MEdlOFJnVHB0b3B5cjRFMFJ2dF9JSDdzcl9vNUl6SXZwMVZmVmRZNExwLUJKcm4xNTR5d1VGRVhmTEpWUW5jSTlSc3llOFJ6Zk0yRXB1WnlHQTJaWGIxR2lFbHpfZUc4ZlZWT2NZNGNfWXFSa2NmZ0hxVWo4LTRnRFRjVDBCV0ZySmRlSWdWU1dldURoRTgyZkZOdlNpUkE3Nm1KQkthOV9FYkhyV3FXTG45MkVvWTctdGpqR1dXdlE?oc=5",
+      "published": "Mon, 16 Nov 2026 02:26:18 GMT",
+      "source": "The Highland County Press"
     },
     {
       "title": "Budget Worksheet: Free Template to Help You Start Budgeting - NerdWallet",
@@ -114,44 +128,51 @@
       "source": "NerdWallet"
     },
     {
-      "title": "Ohio Department of Commerce Unveils holiday budgeting guide - Delaware Gazette",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU0xDNmpUanlHWkZsdGlEQjYyQ1UzdXlhOHJyYU9qLW1qSWctWlB6clNBYkJwbVdNZlZsNFJERjExNklDaUZZYlNBaWlWeUd3NHBHSUhIMnByc0tqTjNWWjZVcHIzSHk4djBScWYzQ3BhLWFzRHM2WU81bklkcldzQnF0M3VwQkc1NlFMdkF2OUhiTzFuY2JWUURLY3FmenM?oc=5",
-      "published": "Sat, 14 Nov 2026 11:00:00 GMT",
-      "source": "Delaware Gazette"
-    },
-    {
-      "title": "Mario Armstrong shares game picks, budgeting hacks and Travel Tuesday deal tips - KOKH",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0JNU0k3ZmlLV2FLbTlEdldOV3FLaTk5ZlNDSHk1UjB1M2pvcExhS2YzRGtSRFVJdm5RUFV5R3hpbENiZHlfTW52YnFTakpSN1VrMmdPQ09yaDZZajJ0NnZaWndwTFVzbU9qM3lPdV8weE02TDVzMTlHSmwzbUtISE1qWk13ZmQ2YjYwMmktUzBxdXo3emdMd0I1dGJZWjFiZUgzQkcwN0x6dDIwcFlhVng3VGt3T2dQcDA0X0I1Yw?oc=5",
-      "published": "Thu, 12 Nov 2026 16:05:52 GMT",
-      "source": "KOKH"
-    },
-    {
-      "title": "E-commerce expert shares tips for managing holiday shopping budgets - KTXS",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTFlValAzY3lqOXNYQU1SZ055VXR6b3d1cGU2U09SYlozMXhQRl9YSTJHR2JMVzhDX1ZRR3N0YkhTaHFUYlhuMGo5WlQ5Rm5SUEtWUFFkS2dUZG9hWUlPazdGU0VXeEQ2bVk2UDZ2eWZrc01VVHdHelAzTUF4YTQ2TEYtakw4SmVWVmFrVU04ZVFXUnRURmhKMDBzVQ?oc=5",
-      "published": "Thu, 12 Nov 2026 16:07:39 GMT",
-      "source": "KTXS"
-    },
-    {
       "title": "6 ways to stay on budget with Google Ads Smart Bidding - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWxreVJqbUgyQkplSS1xWUMyQnBXS1hNOEJxdUtVdS1FZlJuOHpvTTZVcVVPMXVuN1hLX3M0THYxdkZkakJydlplNE1QY0JTVkd4THlwcDkzQVhiSEtvTlhpWnl6NTB2WVlIRFZETWdnRE8wSlJzOTMydlgyamJ0Mw?oc=5",
       "published": "Fri, 13 Nov 2026 16:00:00 GMT",
       "source": "Search Engine Land"
     },
     {
-      "title": "Flint workshop offers practical tips for saving money - WJRT ABC12",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNl9fTU0ya3VwdTFTRUFTckgzeVU4SzVmZ1dJUHpfMXZWa2dCc1l1ZzNZQmVjWlZGdnlFUEt4amhUOWdVNWF1SnNzWVdSWERVYm5LRDJjRDdKQWpkNmNQa1h3VTY4YlhTd2pKcTlhS0Q1OFN0eDJGQ0FWZGh4TE9Cc3hScVNraktya0NuRlRULS1NcnNmQVhaLTZxeVk1SXFBeFBwbW1CaC1yUUZ0T01RYjVxaDZqcVpwWmxhbS1tY3RsS1FEYzA0ekwyZF9hMFNnUkE?oc=5",
-      "published": "Fri, 13 Nov 2026 04:14:00 GMT",
-      "source": "WJRT ABC12"
+      "title": "Budgeting for teens: 18 tips for growing your money young - Credit Karma",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xdUw2SkNfeUprYm1lTXlOYVludUhBZFc0X2RCZGUzVm9GeUJneWUwd0ZXMXNja3JyVkpsYi1KTlUwazlzWmVJR1U1eWZlTlU4Z0RDLUtoZlRyaWpuSnVGZ2VMRU5WMk1DQzBlVWpraVRwcktNZG1J?oc=5",
+      "published": "Thu, 09 Jul 2026 07:00:00 GMT",
+      "source": "Credit Karma"
     },
     {
-      "title": "Tips for eating healthy on a budget: What to look for at the grocery store - 9NEWS",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRkljVk93R01LWW82QTV1a3VDeVhGc296MkNjSUpSWlR4RERJMlhYa2RVSURqeTlmWW9wcVk3U3lfeE9vUjY0aW95aHhsZFlSUmlNTTNtdkhEOHBXYV95TmFQLVpFNHdwaXRob05oV3ZEdTEzc0dsVWJkdUxxU3gtNnY3SWJQUnN0dUdMeDktbXVITjZBaXdjSmswaTNvczhBSmRNNF9ZbnQtOVNFRXc?oc=5",
-      "published": "Tue, 10 Nov 2026 15:30:00 GMT",
-      "source": "9NEWS"
+      "title": "6-Step Financial Plan for 2026 - The Department of Financial Protection and Innovation (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOVHhmMmc5bHNRbV9VZUtNNFFGRTlUeHVBZlA3N0prY1lDa2dEVHRXakRRcW1fT1R0a2JKU1lWY0gzNzU0LUVxenJYSERZcWNDckRlNExOSmhWUUxQeUxTT1ZfMDRnMWN6bld1MFlzamJOUnM?oc=5",
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "source": "The Department of Financial Protection and Innovation (.gov)"
+    },
+    {
+      "title": "How to Build a Holiday Budget That Works Every Year - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWFhBRjZPYmhKY1dqNnl3VlpkcU9XNkZKUXFLZFJGejM4TGsydk5ESmpyR1BMeENJeDdVYk85SlBrNjF6V2VDTWpJVVBLcEV0WXdzQXN4T3lqRDdoLWp5Q0ZGVmdtMU16V2NTSzJkSGtQbkVTeThUV0t6ZHF3YnhKNnJjeU4xUTZMYWdRaEFLc0VmNm5hUUJv?oc=5",
+      "published": "Wed, 04 Nov 2026 08:00:00 GMT",
+      "source": "NerdWallet"
+    },
+    {
+      "title": "Best Budgeting Apps Of 2026: Tested And Ranked - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5",
+      "published": "Mon, 09 Nov 2026 13:55:00 GMT",
+      "source": "Forbes"
     }
   ],
-  "hn_stories": [],
-  "trending_searches": [],
+  "hn_stories": [
+    {
+      "title": "Amazon's Discount Illusion: 1 in 3 \"Deals\" Offered No Savings– 1 in 10 Cost More",
+      "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+      "score": 22,
+      "comments": 18,
+      "source": "Hacker News"
+    }
+  ],
+  "trending_searches": [
+    {
+      "term": "greg abel berkshire hathaway stock sales",
+      "source": "Google Trends US"
+    }
+  ],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",
     "reddit r/financialindependence: HTTP Error 403: Blocked"
