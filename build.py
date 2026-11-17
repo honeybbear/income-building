@@ -55,6 +55,7 @@ TOPICS = {
     "buffett-90-10-rule": ["retirement", "investing"],
     "401k-loans-playbook": ["retirement", "debt"],
     "retirement-drift-playbook": ["retirement", "budgeting"],
+    "fake-black-friday-deals": ["saving", "budgeting"],
 }
 
 
