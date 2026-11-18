@@ -56,6 +56,7 @@ TOPICS = {
     "401k-loans-playbook": ["retirement", "debt"],
     "retirement-drift-playbook": ["retirement", "budgeting"],
     "fake-black-friday-deals": ["saving", "budgeting"],
+    "budgeting-for-teens-playbook": ["budgeting", "family"],
 }
 
 
