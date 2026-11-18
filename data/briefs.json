@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:23:56Z",
+  "generated_at": "2026-11-18T14:58:15Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -20,30 +20,63 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "8 Ways to Cut Back on Unnecessary Spending at Costco | Personal Finance - US News Money (US News Money)",
-        "Money Monday: Holiday Season Spending and Budgeting Tips - WEEK | 25 News Now (WEEK | 25 News Now)",
-        "Budgeting for teens: 18 tips for growing your money young - Credit Karma (Credit Karma)"
+        "Bank outage: How to protect your money when your bank goes offline - Yahoo Finance (Yahoo Finance)"
       ],
       "sources": [
         {
-          "title": "8 Ways to Cut Back on Unnecessary Spending at Costco | Personal Finance - US News Money",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM1VCTVhMVl9yM0xsLTFZd28xbXRrTmZqdnBEcDZOVDZYcE0yZ3ZKZ2l4UlYyaGlTVjlRR1ZoS2szLXh1ZU9zajRkQThReUwxUWs3c240c3FSbHlsbVM2TFBSVHRQT0xlMUwwOGpvMDEtT29OdTlpZ2RsLUtVU1QzbEIwdV82a21XczhtM21jelhSREp1bmRQZFRfdldiVUpEdkJsLWVMSm9EYTZsV2c?oc=5",
-          "source": "US News Money"
-        },
-        {
-          "title": "Money Monday: Holiday Season Spending and Budgeting Tips - WEEK | 25 News Now",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHFLTmV2YnFfbVNjSkxYeEZCTlZuRWFEallGMmxHVzFhc042SzFFZ0M4dzhBM0dfZ0xaNWhUdk05WVdBTkt1Yks0NnpFRWVMaDljSWx1aXpsXy05NEI2a0Y2TW0wN0hwbGtnMmdZWm15NFh5VV84WUpGWGJsaVcwSjY2bFowbktub3pQY0luREllU1VXeUtHbmlNdw?oc=5",
-          "source": "WEEK | 25 News Now"
-        },
-        {
-          "title": "Budgeting for teens: 18 tips for growing your money young - Credit Karma",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xdUw2SkNfeUprYm1lTXlOYVludUhBZFc0X2RCZGUzVm9GeUJneWUwd0ZXMXNja3JyVkpsYi1KTlUwazlzWmVJR1U1eWZlTlU4Z0RDLUtoZlRyaWpuSnVGZ2VMRU5WMk1DQzBlVWpraVRwcktNZG1J?oc=5",
-          "source": "Credit Karma"
+          "title": "Bank outage: How to protect your money when your bank goes offline - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUEJMS1g5dG1VZGR4d3NfZWEzVVQyOExtZ08zM2wxS3ZtRE1MRzQ5RWZyYlJobXJMSnF3ZlozRUFNQWd5YlRGR21FZ2lFSm5Nc0h5U3RreTc1aUY3WFJIcTNVWk9wWFFyaHZNTGhEbmxzc1AwX1RtS2RSbnhWU3I0bFAwRjhDMEdZa2Z4bTFxTTh3WFFJOFdhc3d0WDdUQXZpQVRkajk3a3VNaDllOXFMeWdaY2dHS0gtQ1ktYTh2b18tNjh6eVFpdjdTY2tYS0J5RnE0LU1B?oc=5",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "id": "t-1",
+      "kind": "trending-topic",
+      "headline_options": [
+        "Finance, explained in plain English",
+        "What you should actually know about finance",
+        "Finance: the honest beginner's guide"
+      ],
+      "angle": "Evergreen explainer on a topic people are actively reading about.",
+      "outline": [
+        "What finance means in plain English",
+        "Why it matters for your budget",
+        "What the current discussion is saying",
+        "Common mistakes",
+        "Sensible next steps"
+      ],
+      "key_points": [
+        "Bank outage: How to protect your money when your bank goes offline - Yahoo Finance (Yahoo Finance)",
+        "Gold price today, Wednesday, November 18, 2026: Gold prices open again at year-plus lows, falling further - Yahoo Finance (Yahoo Finance)",
+        "Mortgage and refinance interest rates today, Wednesday, November 18, 2026: Purchase and refinance rates move in different directions - Yahoo Finance (Yahoo Finance)",
+        "Claude can now analyze your spending with its new Personal Finance tool - TechCrunch (TechCrunch)"
+      ],
+      "sources": [
+        {
+          "title": "Bank outage: How to protect your money when your bank goes offline - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUEJMS1g5dG1VZGR4d3NfZWEzVVQyOExtZ08zM2wxS3ZtRE1MRzQ5RWZyYlJobXJMSnF3ZlozRUFNQWd5YlRGR21FZ2lFSm5Nc0h5U3RreTc1aUY3WFJIcTNVWk9wWFFyaHZNTGhEbmxzc1AwX1RtS2RSbnhWU3I0bFAwRjhDMEdZa2Z4bTFxTTh3WFFJOFdhc3d0WDdUQXZpQVRkajk3a3VNaDllOXFMeWdaY2dHS0gtQ1ktYTh2b18tNjh6eVFpdjdTY2tYS0J5RnE0LU1B?oc=5",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Gold price today, Wednesday, November 18, 2026: Gold prices open again at year-plus lows, falling further - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWXlIT0Z6Y0U2RW5CRUx1d0lnZlMtMkwyQms4VlFSZ1k3OTVRdlQwRzIxaUw1YTM0bm94YlZYV3FIV1lsTng3eEhJSzJzSEpvQlRHSUdGNnZDQ2IteTRUSG9vc3NkbWh6WUdCa2UwNGMtMXJVRmZZWUdJbURaQUZ5WlZodHU5V0lsR2JKSjBrQkRURkExanFHSXprLUc1RmluLWMzX09ZYWU5WWRsZWhpZ25aLWJBX3dDa1gzMjIyQlJVM0xhX1IwREpqbkFUbTE1UnI3LTZZcGdKUE1ZYlEwTG51aU84d1Jyd24zckVKQXh6NjBrLWJoN2owdUN6cTNHd2JQZnFmaw?oc=5",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Mortgage and refinance interest rates today, Wednesday, November 18, 2026: Purchase and refinance rates move in different directions - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxORnZXQjJXdGhzX0pRUmNNLUphN0cySHpZNC1uTzdnNVlVUjlVNFN3WjUtcU1uWFY3dnZXWmNzOFpzbVk2UHRvWGxacjktTmQ5eW9oSGQ1NXg3YTR0ekZ0cXIwNkhBZnZ1V05sdnp0c0hKWjFrNnM4dGdFM2o5OHN2ZE1icHRNVHM5SWFkRXdGZ29UbWdTT2FYWE1KOHRiYWlscnBiNWZJMGdfMFcyMVJvZ21ubVMxaTN3aUdMYmM2ZkNuM0tSck9saUt0LS1iRjB2eG56RDJESGZTei1iTTZfTUo1X2d4cnc0NnpYRVpOd2VfelZhUFFreWUtQUJSc1FtTjI1di1yQlA4NUhlNm9uSjJFX2t3VW40OVp0dzFweDdHMDNMVkhfektNZDE?oc=5",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Claude can now analyze your spending with its new Personal Finance tool - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZEtFZTdKVm5NbllXbVdGcTRrU3ZuZ3p4Q0VvS2hPRjJQWmJGUWlIRmlpaC1kV1l0WUJTbmRQSm5mVVhrYV9oRUE2c2xPZWpoRDRnWkJwQzFmVmg1REtTN0k4WkRVYjUyaUExOXUyaXlWZU9yei1Bd0ZqYWpGLTNlOXJubi1DQmZxekZWbG9Cd1Q1NE1rTnMzbm15bEw2TnJMNFZnMm9rOWxVdw?oc=5",
+          "source": "TechCrunch"
+        }
+      ]
+    },
+    {
+      "id": "t-2",
       "kind": "trending-topic",
       "headline_options": [
         "Tips, explained in plain English",
@@ -59,76 +92,31 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "Money Monday: Holiday Season Spending and Budgeting Tips - WEEK | 25 News Now (WEEK | 25 News Now)",
-        "Mario Armstrong shares game picks, budgeting hacks and Travel Tuesday deal tips - KOKH (KOKH)",
-        "E-commerce expert shares tips for managing holiday shopping budgets - KTXS (KTXS)",
-        "Budgeting for teens: 18 tips for growing your money young - Credit Karma (Credit Karma)"
+        "Kids, Chaos & Coffee: Expert tips on summer camp budgeting - WCNC (WCNC)",
+        "Holiday budgeting tips to help avoid unwanted debt - KUTV (KUTV)",
+        "Budgeting tips for your Thanksgiving dinner - wandtv.com (wandtv.com)",
+        "Holiday shopping budgeting tips - wandtv.com (wandtv.com)"
       ],
       "sources": [
         {
-          "title": "Money Monday: Holiday Season Spending and Budgeting Tips - WEEK | 25 News Now",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHFLTmV2YnFfbVNjSkxYeEZCTlZuRWFEallGMmxHVzFhc042SzFFZ0M4dzhBM0dfZ0xaNWhUdk05WVdBTkt1Yks0NnpFRWVMaDljSWx1aXpsXy05NEI2a0Y2TW0wN0hwbGtnMmdZWm15NFh5VV84WUpGWGJsaVcwSjY2bFowbktub3pQY0luREllU1VXeUtHbmlNdw?oc=5",
-          "source": "WEEK | 25 News Now"
+          "title": "Kids, Chaos & Coffee: Expert tips on summer camp budgeting - WCNC",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPamxITktqUjBza09qLTFkYUpoOXhGTC1VdVhXeWktWk5PZnJrOXlDMldJV2JYSXRBcXEtOHVzcGktZmNvWVc4Q0FKRjBuc2FSLW1ndGc1ekFVS2dxTk1hdzZod2tKMmN5NDNFeDhqSkZKZnpnZGlET19UZEc0TlZ1Xy0zX25xZWhKM2Q0c2xLcjNXVDVSdkJHTVM5YzRzOUNrYVUzOVhYNXVjdHZKWUhlWHBhZl9hUDk0RUxqUFVRU0l4TnNnZHIxNWxXMl9ZcWdZcjJhM1V2aw?oc=5",
+          "source": "WCNC"
         },
         {
-          "title": "Mario Armstrong shares game picks, budgeting hacks and Travel Tuesday deal tips - KOKH",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0JNU0k3ZmlLV2FLbTlEdldOV3FLaTk5ZlNDSHk1UjB1M2pvcExhS2YzRGtSRFVJdm5RUFV5R3hpbENiZHlfTW52YnFTakpSN1VrMmdPQ09yaDZZajJ0NnZaWndwTFVzbU9qM3lPdV8weE02TDVzMTlHSmwzbUtISE1qWk13ZmQ2YjYwMmktUzBxdXo3emdMd0I1dGJZWjFiZUgzQkcwN0x6dDIwcFlhVng3VGt3T2dQcDA0X0I1Yw?oc=5",
-          "source": "KOKH"
+          "title": "Holiday budgeting tips to help avoid unwanted debt - KUTV",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLWgxMERCa3JDRDljNzBWektRRUNQa0hiSEFPdkZOSXRpZ0hrZC1XOWJyLTNyZm5SZ0V4bFVGNFE2WkMydHI3ZTRVRmdvRXJmSGxhZXlRQmJ4TlhkcFBxbm52NUVFamVfRTBYekRxMWZpaHFQZUNyVlJfYkEtZG1BYThxaEdKUUJzY0gwb1A4WU5sZXM?oc=5",
+          "source": "KUTV"
         },
         {
-          "title": "E-commerce expert shares tips for managing holiday shopping budgets - KTXS",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTFlValAzY3lqOXNYQU1SZ055VXR6b3d1cGU2U09SYlozMXhQRl9YSTJHR2JMVzhDX1ZRR3N0YkhTaHFUYlhuMGo5WlQ5Rm5SUEtWUFFkS2dUZG9hWUlPazdGU0VXeEQ2bVk2UDZ2eWZrc01VVHdHelAzTUF4YTQ2TEYtakw4SmVWVmFrVU04ZVFXUnRURmhKMDBzVQ?oc=5",
-          "source": "KTXS"
+          "title": "Budgeting tips for your Thanksgiving dinner - wandtv.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVDQ5QldwcjluOGhScVAwSE9kSHhSNHVTekVlMXhtRUxOeFlpTlBsZWo1ZW9IbGpKZnlpWUxVZDJBcjdEdlJ2a3dJUUZ0RzFjRE5DS05VTnhELTdWMzdBWTFQVmc4RUJhdXpyelRaR2sxejVhdnVaN0pwQ2pqR2lUbnNfdmI2VG8?oc=5",
+          "source": "wandtv.com"
         },
         {
-          "title": "Budgeting for teens: 18 tips for growing your money young - Credit Karma",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xdUw2SkNfeUprYm1lTXlOYVludUhBZFc0X2RCZGUzVm9GeUJneWUwd0ZXMXNja3JyVkpsYi1KTlUwazlzWmVJR1U1eWZlTlU4Z0RDLUtoZlRyaWpuSnVGZ2VMRU5WMk1DQzBlVWpraVRwcktNZG1J?oc=5",
-          "source": "Credit Karma"
-        }
-      ]
-    },
-    {
-      "id": "t-2",
-      "kind": "trending-topic",
-      "headline_options": [
-        "Budgeting, explained in plain English",
-        "What you should actually know about budgeting",
-        "Budgeting: the honest beginner's guide"
-      ],
-      "angle": "Evergreen explainer on a topic people are actively reading about.",
-      "outline": [
-        "What budgeting means in plain English",
-        "Why it matters for your budget",
-        "What the current discussion is saying",
-        "Common mistakes",
-        "Sensible next steps"
-      ],
-      "key_points": [
-        "Money Monday: Holiday Season Spending and Budgeting Tips - WEEK | 25 News Now (WEEK | 25 News Now)",
-        "Best Budgeting Apps Of 2026: Tested And Ranked - Forbes (Forbes)",
-        "Budget Worksheet: Free Template to Help You Start Budgeting - NerdWallet (NerdWallet)",
-        "Mario Armstrong shares game picks, budgeting hacks and Travel Tuesday deal tips - KOKH (KOKH)"
-      ],
-      "sources": [
-        {
-          "title": "Money Monday: Holiday Season Spending and Budgeting Tips - WEEK | 25 News Now",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHFLTmV2YnFfbVNjSkxYeEZCTlZuRWFEallGMmxHVzFhc042SzFFZ0M4dzhBM0dfZ0xaNWhUdk05WVdBTkt1Yks0NnpFRWVMaDljSWx1aXpsXy05NEI2a0Y2TW0wN0hwbGtnMmdZWm15NFh5VV84WUpGWGJsaVcwSjY2bFowbktub3pQY0luREllU1VXeUtHbmlNdw?oc=5",
-          "source": "WEEK | 25 News Now"
-        },
-        {
-          "title": "Best Budgeting Apps Of 2026: Tested And Ranked - Forbes",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5",
-          "source": "Forbes"
-        },
-        {
-          "title": "Budget Worksheet: Free Template to Help You Start Budgeting - NerdWallet",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oaXpJN1FCUElQNDkwNENmejNJcEkzbll3OUR4QXAzYkgtX3JwT3B5cnhuQzQtZ2wxMXAwM1NIbVRlOHZ3cmsyWDhxN1lEY080RGpva1BiUGJKaTdVVWdDSFdmSVZ3Qy1o?oc=5",
-          "source": "NerdWallet"
-        },
-        {
-          "title": "Mario Armstrong shares game picks, budgeting hacks and Travel Tuesday deal tips - KOKH",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0JNU0k3ZmlLV2FLbTlEdldOV3FLaTk5ZlNDSHk1UjB1M2pvcExhS2YzRGtSRFVJdm5RUFV5R3hpbENiZHlfTW52YnFTakpSN1VrMmdPQ09yaDZZajJ0NnZaWndwTFVzbU9qM3lPdV8weE02TDVzMTlHSmwzbUtISE1qWk13ZmQ2YjYwMmktUzBxdXo3emdMd0I1dGJZWjFiZUgzQkcwN0x6dDIwcFlhVng3VGt3T2dQcDA0X0I1Yw?oc=5",
-          "source": "KOKH"
+          "title": "Holiday shopping budgeting tips - wandtv.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WMzM2eGFpbkp6cnphZXc1RDFqaVJoUnpFbHVuaGNXbC1ZNWpPSjN0VXNKVDRrRW84emRaWjA1MG5oVTRLZ1VkVUQ5SWVwN2lCTW1PYjlVRUVMejJEbGF1WHd5SUV6WEU2bC1idUN4U2t0Uk1WNVlvUXd6N2I?oc=5",
+          "source": "wandtv.com"
         }
       ]
     }
