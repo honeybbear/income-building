@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-18T14:58:15Z",
+  "fetched_at": "2026-11-19T15:06:04Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -12,11 +12,11 @@
       "mentions": 8
     },
     {
-      "keyword": "finance",
-      "mentions": 6
+      "keyword": "tips",
+      "mentions": 8
     },
     {
-      "keyword": "tips",
+      "keyword": "budget",
       "mentions": 5
     },
     {
@@ -24,11 +24,11 @@
       "mentions": 5
     },
     {
-      "keyword": "com",
+      "keyword": "rates",
       "mentions": 4
     },
     {
-      "keyword": "save",
+      "keyword": "year",
       "mentions": 4
     },
     {
@@ -36,19 +36,19 @@
       "mentions": 4
     },
     {
-      "keyword": "yahoo",
-      "mentions": 3
-    },
-    {
-      "keyword": "rates",
-      "mentions": 3
-    },
-    {
       "keyword": "today",
       "mentions": 3
     },
     {
-      "keyword": "personal",
+      "keyword": "november",
+      "mentions": 3
+    },
+    {
+      "keyword": "yahoo",
+      "mentions": 3
+    },
+    {
+      "keyword": "finance",
       "mentions": 3
     },
     {
@@ -57,25 +57,52 @@
     }
   ],
   "questions": [],
-  "discussion_highlights": [],
-  "news": [
+  "discussion_highlights": [
     {
-      "title": "Bank outage: How to protect your money when your bank goes offline - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUEJMS1g5dG1VZGR4d3NfZWEzVVQyOExtZ08zM2wxS3ZtRE1MRzQ5RWZyYlJobXJMSnF3ZlozRUFNQWd5YlRGR21FZ2lFSm5Nc0h5U3RreTc1aUY3WFJIcTNVWk9wWFFyaHZNTGhEbmxzc1AwX1RtS2RSbnhWU3I0bFAwRjhDMEdZa2Z4bTFxTTh3WFFJOFdhc3d0WDdUQXZpQVRkajk3a3VNaDllOXFMeWdaY2dHS0gtQ1ktYTh2b18tNjh6eVFpdjdTY2tYS0J5RnE0LU1B?oc=5",
-      "published": "Wed, 18 Nov 2026 09:23:02 GMT",
-      "source": "Yahoo Finance"
+      "title": "Inside Deutsche Bank",
+      "source": "Hacker News",
+      "url": "https://www.inside-db.com/",
+      "score": 744,
+      "comments": 247
     },
     {
-      "title": "I Spent Years Editing Kiplinger Magazine. Here’s the Retirement Advice I Actually Use. - Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMTAzeE0zaTBqZXRlcTJ6aVZwME9kZGtRY1Z5akZOOGZlekw4eXZSbFdwOW1HclN6dHotNW1tWERnU21LLXdDV1ZVbHpUMG04elhWZE9KbHhhT3dRNVRkVHZuektkbVZXMXpSS09IZERfckZ2dm1Ecmt4c2dhd1dEVE1ORjFZUXQyT0dReUtrWHhDRGJEa0JvR2RrUk5YQ0VaM0pz?oc=5",
-      "published": "Sun, 15 Nov 2026 13:30:00 GMT",
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "source": "Hacker News",
+      "url": "https://verialabs.com/ruby2shell/",
+      "score": 263,
+      "comments": 103
+    }
+  ],
+  "news": [
+    {
+      "title": "Mortgage Rates Today, November 19, 2026: 30-Year Rates Climb to 7.40% - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFNjcUxReG0wZU9xTEJtUEg5MEpLdlhaVjZ5Q1VMZGxfSlFSR2NWMGp6MTRPUUMycTlxWlltMGxtT1BUTW5LWVVhTFRiZ2thZi1xVzFYUDRETHZqbkZCcWk2M3RyalZfdzVxeWstYm9BdHo3S0FkVUpZc1c0Um43SmQxaFQ4bklIcHVWaFpR?oc=5",
+      "published": "Thu, 19 Nov 2026 13:51:06 GMT",
+      "source": "WSJ"
+    },
+    {
+      "title": "If Your Finances Are Stressed, Here’s How to Build Cash Flow Resilience and Avoid a Full-Blown Crisis - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWHp4dDZnZ0FlMEYxR21uZUYxYnFtVHRqdkh3Mlk5ODhZOU4wVkE1LVZzU200VVljd2pmWl9rckZRazdVbURadmtzc3g0Tkx5UG55eURSWDVQWFR4NnJqU3RCZGY5cEh6b2xucDZPSnZqbjMxSzdteFdBeHlNVzVOakpZeFlYcjBPWEE?oc=5",
+      "published": "Thu, 19 Nov 2026 13:00:00 GMT",
       "source": "Kiplinger"
     },
     {
-      "title": "Top CD rates today, Nov. 18, 2026: Lock in up to up to 5.10% - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10c2JFRHkyWEZPUFlXQnhhaDVBUElzYkJOQzhqaFdSQ29hcWx6cWlmV0owblptaWtrRnJjQUp5Wi1GdURNcUl4VkRvRnZuYXZHUkFrTldXekpnZw?oc=5",
-      "published": "Wed, 18 Nov 2026 11:01:00 GMT",
-      "source": "Fortune"
+      "title": "How does Anthropic make money? Inside the business of AI. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZE5vcUdvQk40ZHhGMjJJYlN1ZmZrT3IxLVNlSFh4N0F3TkJlVXRsNk9Hd3d1Q215VFg5LVBJQjhpVGtMLVN2NEx6RVpFWW9BV295bF82WVRrS3VydlpLWnFuSDBQWHJSWnVVcjE1M05WTVR4bGNGTDlXenRuQTN3T0Y1YUhmVmZiTDg1aVpsT0JiMGtDMDNrUWhtUnFXcVNodl9uUU9XWEpvNFF4alN0MWRjZXhMR0ZXSnJNZ080Qlc1a2lPVnhROExDYw?oc=5",
+      "published": "Thu, 19 Nov 2026 14:00:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Handle These 5 Tax Items Before the End of the Year - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTmpYdlVTSEhFbDlUYjFkdFQxUWd3TEdYQkh1aE9Ca2x6aFIyM0ZVa20tdW9XcUNLMTZEWXUycHZ6clVIUUduZ2pCY3l0VUg4cHhnTzJDZGNCcGltSndxTll0NkNzWnVjNFlwd3UtVHJxeFhkc1MzbkZiakc4VVk4MDV6TTBsSjM4ZTJTeW9hang?oc=5",
+      "published": "Thu, 19 Nov 2026 12:01:26 GMT",
+      "source": "Morningstar"
+    },
+    {
+      "title": "Flooded car? Here’s what California auto insurance may cover - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMUJ4RFIwZ2duN2gzZW1Vc2hlM25CVGtDMWY0U0FJNWZWMmZkNmM4Rk5VNXFGYWRmY3FWSmZQNUJPdHIyQWhsbTlVeUJWbHd5Q09uQm9lWGNLTXAwWDlWaGt3b1NmN0ZIWEp6Ymo4cXRXUFFweVdXRnBsM01MV19tQXNORFZ6NUtTdlVRMXdWSnVJWXk2OGhzSGJmV0E?oc=5",
+      "published": "Thu, 19 Nov 2026 12:03:44 GMT",
+      "source": "San Francisco Chronicle"
     },
     {
       "title": "Gold price today, Wednesday, November 18, 2026: Gold prices open again at year-plus lows, falling further - Yahoo Finance",
@@ -84,34 +111,22 @@
       "source": "Yahoo Finance"
     },
     {
-      "title": "Mortgage and refinance interest rates today, Wednesday, November 18, 2026: Purchase and refinance rates move in different directions - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxORnZXQjJXdGhzX0pRUmNNLUphN0cySHpZNC1uTzdnNVlVUjlVNFN3WjUtcU1uWFY3dnZXWmNzOFpzbVk2UHRvWGxacjktTmQ5eW9oSGQ1NXg3YTR0ekZ0cXIwNkhBZnZ1V05sdnp0c0hKWjFrNnM4dGdFM2o5OHN2ZE1icHRNVHM5SWFkRXdGZ29UbWdTT2FYWE1KOHRiYWlscnBiNWZJMGdfMFcyMVJvZ21ubVMxaTN3aUdMYmM2ZkNuM0tSck9saUt0LS1iRjB2eG56RDJESGZTei1iTTZfTUo1X2d4cnc0NnpYRVpOd2VfelZhUFFreWUtQUJSc1FtTjI1di1yQlA4NUhlNm9uSjJFX2t3VW40OVp0dzFweDdHMDNMVkhfektNZDE?oc=5",
-      "published": "Wed, 18 Nov 2026 11:00:00 GMT",
+      "title": "The 11 Retirement-Planning Milestones Everyone Over 50 Needs to Know - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSDBFYThFQlRHdF8wRk9JblVfWmxTd3k3UnpuUUFETXhGajhVSkZ4eG5EOXhQR2FrOW1xR1hFYW5uM2g5dlRFVjRVMVFtTWVhWHJmZzZ3RUlWd1huRUZtcGt3ZldHeDdiTWdRV2RFTjU0eGhjUUV4SFpOWjhmTmRCQVh1S3gxQkpvRzg1eklGTmJnR2pWX0R1dkl3RTY?oc=5",
+      "published": "Thu, 19 Nov 2026 11:02:07 GMT",
+      "source": "WSJ"
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, Thursday, November 19, 2026: Daily fixed rates fall across the board - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPbGNVZ2tlTWM1R1U4V1luVUlSOXlsOE45cV9faUNQYW9hRkRaY3JyREZxcWFIZXZ5OGZLSWRaSEJLY1EyLWdTRHBRRGJ3clBWcV9KektFeGJlQnhIVEh2WE9tTFVXT2RJT3NzRHhCdnNEbnA0YVlpR0VraVJKS04wLS11ZGZMc01xbW1aWFl4ZTFVOUUxcEN0bFJNbURPbjU1WlAyZ1dTSXRiMll1SjUyaW5pdEQ3Yzd4RHZaQ0JOd2d2dENIZF9JYlhfX0xqLXVNOXg2ckkwQU5QT1pfc3JQSDJiQWxnUFMtMVhxektPWEJOc3lyWHpzaUc1SjJJZ2wyVjU2VDhkbks4SjRSRVpPRUZ5SQ?oc=5",
+      "published": "Thu, 19 Nov 2026 11:00:00 GMT",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Claude can now analyze your spending with its new Personal Finance tool - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZEtFZTdKVm5NbllXbVdGcTRrU3ZuZ3p4Q0VvS2hPRjJQWmJGUWlIRmlpaC1kV1l0WUJTbmRQSm5mVVhrYV9oRUE2c2xPZWpoRDRnWkJwQzFmVmg1REtTN0k4WkRVYjUyaUExOXUyaXlWZU9yei1Bd0ZqYWpGLTNlOXJubi1DQmZxekZWbG9Cd1Q1NE1rTnMzbm15bEw2TnJMNFZnMm9rOWxVdw?oc=5",
-      "published": "Thu, 05 Nov 2026 08:00:00 GMT",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Connect Google Wallet to Gemini for personal finance insights - blog.google",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaVBtU2pIREI2VkItNWF5TEhZNHVPR2dOb0hXNXBBUmowWUZQdEduYnpfbHBrQzB2OHlkejFmN0pDa3RZYjUzUUNYTzlsWW1OLUR3c2M4b0lTWkU2bF82OWJuZ0swUWJlYm9pbndYRXdXU1d2aVBBQWx3VWhLbnNfOWVVMVdyWmVQYThR?oc=5",
-      "published": "Fri, 13 Nov 2026 17:06:05 GMT",
-      "source": "blog.google"
-    },
-    {
-      "title": "OpenAI’s personal finance features for ChatGPT expands to Mac app - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUU0aC0xSDlnZHZ6SVJsRWhOeU9sZXBMYmZTaTdnTkRwRzFHbWtJN1JmemFPeEhxMWwtaGt5cEdyVmVwV2EzZ2tQdksyOE5lRXU5R2pCNldYeTFLQV9Kcm9JSlI0NTlXR1lBNnEzS3drQk9CSnlTdzJKNUhyR1libE5oamtUZHFXWk5sZlcweXU4VkpCYjBWeDAxN0I?oc=5",
-      "published": "Wed, 11 Nov 2026 19:58:00 GMT",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Kids, Chaos & Coffee: Expert tips on summer camp budgeting - WCNC",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPamxITktqUjBza09qLTFkYUpoOXhGTC1VdVhXeWktWk5PZnJrOXlDMldJV2JYSXRBcXEtOHVzcGktZmNvWVc4Q0FKRjBuc2FSLW1ndGc1ekFVS2dxTk1hdzZod2tKMmN5NDNFeDhqSkZKZnpnZGlET19UZEc0TlZ1Xy0zX25xZWhKM2Q0c2xLcjNXVDVSdkJHTVM5YzRzOUNrYVUzOVhYNXVjdHZKWUhlWHBhZl9hUDk0RUxqUFVRU0l4TnNnZHIxNWxXMl9ZcWdZcjJhM1V2aw?oc=5",
-      "published": "Wed, 18 Nov 2026 14:48:00 GMT",
-      "source": "WCNC"
+      "title": "OnPoint shares five tips for hosting Thanksgiving dinner on a budget - KTVZ",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVZ4QW9oYzhRMUN2bUdwTjZwNkpsOGRhMG95akk5YkdkZFBEalk1dWVWYzJyWHJ5TFRNXzlPb081bVdleEluRVBNYVNuU2hYNG9OVGVRMDN2azdfcE55ME9QZDZfZ21WN2FTYW55emNOS2JSS3VobkRtNU9OTHFmT1NIODAzczNLX2pmcmIxamxxNUFfb1FfamxwRk1USS1tX29rM0V3WGJnOTNIWTVUYmlFMA?oc=5",
+      "published": "Wed, 18 Nov 2026 23:33:42 GMT",
+      "source": "KTVZ"
     },
     {
       "title": "Holiday budgeting tips to help avoid unwanted debt - KUTV",
@@ -120,10 +135,16 @@
       "source": "KUTV"
     },
     {
-      "title": "Budgeting tips for your Thanksgiving dinner - wandtv.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVDQ5QldwcjluOGhScVAwSE9kSHhSNHVTekVlMXhtRUxOeFlpTlBsZWo1ZW9IbGpKZnlpWUxVZDJBcjdEdlJ2a3dJUUZ0RzFjRE5DS05VTnhELTdWMzdBWTFQVmc4RUJhdXpyelRaR2sxejVhdnVaN0pwQ2pqR2lUbnNfdmI2VG8?oc=5",
-      "published": "Sun, 15 Nov 2026 21:11:00 GMT",
-      "source": "wandtv.com"
+      "title": "Tips to stay on budget through the holiday season - WREG.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSEN1MmdqZnhQaUphOHFvQTBTZmVnS201ZkN6T3pMWldBS0JFWVBCZTZCbGp3Y2F4WkViby1CYkpWVnFUMXhmVVRvaGx4LUtJQVhvSXUzLUhXQnlWZVp4dTQ2aGtUVmpGMjVMR29lWEVySm5aQTQ0aUtEd05QeWtGNElmc1TSAYoBQVVfeXFMTzlMeGU4MGE4eGc2QkV1R0NXUXM1SlhRM0l1cy1Kc0pWRkxOYVRDWGtLMFZWLWxteC1tQmgxUzdyUEk3NFR2ZVgxM1ZMWlZmdko2U0JaZFJGLWw3YzRtNkVDdHE1MnhlSGdHbl9QNERqbVpyMGI4X0hsR2MzaVE5OEEtVHJwaE9ObHN3?oc=5",
+      "published": "Wed, 18 Nov 2026 16:24:27 GMT",
+      "source": "WREG.com"
+    },
+    {
+      "title": "Kids, Chaos & Coffee: Expert tips on summer camp budgeting - WCNC",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPamxITktqUjBza09qLTFkYUpoOXhGTC1VdVhXeWktWk5PZnJrOXlDMldJV2JYSXRBcXEtOHVzcGktZmNvWVc4Q0FKRjBuc2FSLW1ndGc1ekFVS2dxTk1hdzZod2tKMmN5NDNFeDhqSkZKZnpnZGlET19UZEc0TlZ1Xy0zX25xZWhKM2Q0c2xLcjNXVDVSdkJHTVM5YzRzOUNrYVUzOVhYNXVjdHZKWUhlWHBhZl9hUDk0RUxqUFVRU0l4TnNnZHIxNWxXMl9ZcWdZcjJhM1V2aw?oc=5",
+      "published": "Wed, 18 Nov 2026 14:48:00 GMT",
+      "source": "WCNC"
     },
     {
       "title": "Best Budgeting Apps Of 2026: Tested And Ranked - Forbes",
@@ -138,25 +159,29 @@
       "source": "NerdWallet"
     },
     {
-      "title": "Holiday shopping budgeting tips - wandtv.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WMzM2eGFpbkp6cnphZXc1RDFqaVJoUnpFbHVuaGNXbC1ZNWpPSjN0VXNKVDRrRW84emRaWjA1MG5oVTRLZ1VkVUQ5SWVwN2lCTW1PYjlVRUVMejJEbGF1WHd5SUV6WEU2bC1idUN4U2t0Uk1WNVlvUXd6N2I?oc=5",
-      "published": "Thu, 12 Nov 2026 17:23:00 GMT",
-      "source": "wandtv.com"
+      "title": "The 10 Best Budgeting Apps for Your Finances - Intuit",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VNXFTNDdQamR0OVRVcEgwQlEtZmtNaVJZbTBuV2FJZFJfc2J5dnFjWmpkMTk2aEhjTFRVUW51OXNqSEtiTF9KaHIwaTRvWWpRZUVRdU9BcUtZdDZDNVoyVzhOWQ?oc=5",
+      "published": "Tue, 17 Nov 2026 08:00:00 GMT",
+      "source": "Intuit"
+    }
+  ],
+  "hn_stories": [
+    {
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "url": "https://verialabs.com/ruby2shell/",
+      "score": 263,
+      "comments": 103,
+      "source": "Hacker News"
     },
     {
-      "title": "How to zero your financial guilt this festive season - SMH.com.au",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUmFQM2FpdW1ic1RMQTByOHdNaUQ0eUcwSTJCc0lJWl9oYU5jQ2d2d0xRRVByZnNCY0pnMlVxSWVMNFIwSXFsY2w1NzhzSzZ6U0ZTRU1CeEVoaE5ncFhnUHFMY3VLVklwRmllM3A4Qk5MMzhoaUlWYXhyY2tuZGlDdGU3OVRHNzhvc3pwM0lDUWJjOUtXbW82TlpHOXQzczZhUHNVYkp0bkxmMHRmWm84THRUSUU2ZzdfV3AyNUdqeHI?oc=5",
-      "published": "Tue, 17 Nov 2026 17:30:00 GMT",
-      "source": "SMH.com.au"
+      "title": "Inside Deutsche Bank",
+      "url": "https://www.inside-db.com/",
+      "score": 744,
+      "comments": 247,
+      "source": "Hacker News"
     }
   ],
-  "hn_stories": [],
-  "trending_searches": [
-    {
-      "term": "take two interactive stock",
-      "source": "Google Trends US"
-    }
-  ],
+  "trending_searches": [],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",
     "reddit r/financialindependence: HTTP Error 403: Blocked"
