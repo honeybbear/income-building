@@ -1,37 +1,10 @@
 {
-  "generated_at": "2026-11-19T15:06:04Z",
+  "generated_at": "2026-11-20T14:46:59Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
     {
       "id": "t-0",
-      "kind": "trending-topic",
-      "headline_options": [
-        "Money, explained in plain English",
-        "What you should actually know about money",
-        "Money: the honest beginner's guide"
-      ],
-      "angle": "Evergreen explainer on a topic people are actively reading about.",
-      "outline": [
-        "What money means in plain English",
-        "Why it matters for your budget",
-        "What the current discussion is saying",
-        "Common mistakes",
-        "Sensible next steps"
-      ],
-      "key_points": [
-        "How does Anthropic make money? Inside the business of AI. - Yahoo Finance (Yahoo Finance)"
-      ],
-      "sources": [
-        {
-          "title": "How does Anthropic make money? Inside the business of AI. - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZE5vcUdvQk40ZHhGMjJJYlN1ZmZrT3IxLVNlSFh4N0F3TkJlVXRsNk9Hd3d1Q215VFg5LVBJQjhpVGtMLVN2NEx6RVpFWW9BV295bF82WVRrS3VydlpLWnFuSDBQWHJSWnVVcjE1M05WTVR4bGNGTDlXenRuQTN3T0Y1YUhmVmZiTDg1aVpsT0JiMGtDMDNrUWhtUnFXcVNodl9uUU9XWEpvNFF4alN0MWRjZXhMR0ZXSnJNZ080Qlc1a2lPVnhROExDYw?oc=5",
-          "source": "Yahoo Finance"
-        }
-      ]
-    },
-    {
-      "id": "t-1",
       "kind": "trending-topic",
       "headline_options": [
         "Tips, explained in plain English",
@@ -47,16 +20,16 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "OnPoint shares five tips for hosting Thanksgiving dinner on a budget - KTVZ (KTVZ)",
+        "Mother of four shares tips for Thanksgiving grocery budget - FOX 5 Atlanta (FOX 5 Atlanta)",
         "Holiday budgeting tips to help avoid unwanted debt - KUTV (KUTV)",
         "Tips to stay on budget through the holiday season - WREG.com (WREG.com)",
-        "Kids, Chaos & Coffee: Expert tips on summer camp budgeting - WCNC (WCNC)"
+        "Budgeting tips for your Thanksgiving dinner - wandtv.com (wandtv.com)"
       ],
       "sources": [
         {
-          "title": "OnPoint shares five tips for hosting Thanksgiving dinner on a budget - KTVZ",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVZ4QW9oYzhRMUN2bUdwTjZwNkpsOGRhMG95akk5YkdkZFBEalk1dWVWYzJyWHJ5TFRNXzlPb081bVdleEluRVBNYVNuU2hYNG9OVGVRMDN2azdfcE55ME9QZDZfZ21WN2FTYW55emNOS2JSS3VobkRtNU9OTHFmT1NIODAzczNLX2pmcmIxamxxNUFfb1FfamxwRk1USS1tX29rM0V3WGJnOTNIWTVUYmlFMA?oc=5",
-          "source": "KTVZ"
+          "title": "Mother of four shares tips for Thanksgiving grocery budget - FOX 5 Atlanta",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xb05vRFhTNktHRWlPbmJvU294XzBwS2RVM2FKQTV1NVBHc18tWWhVNmVobjQ0V29UanBKQWVfQnBYV2xUZk1icFhpLTkzc1RFRzF5SjR5TlJkTHh6ZWR0cFZhclDSAWpBVV95cUxPVlVBdWg5VXlCaGlwUDc3Rm5uS3NaWkNUSUQ3bDNyRHVaVnYzQzFEVWVvSk44SzFETHBKOWZReHdhTWtsYmo4bWFwZVJqOWlVVnpfUTlMbzh0YVVpMmVKb3dlaVM0eTl3QU5B?oc=5",
+          "source": "FOX 5 Atlanta"
         },
         {
           "title": "Holiday budgeting tips to help avoid unwanted debt - KUTV",
@@ -69,9 +42,36 @@
           "source": "WREG.com"
         },
         {
-          "title": "Kids, Chaos & Coffee: Expert tips on summer camp budgeting - WCNC",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPamxITktqUjBza09qLTFkYUpoOXhGTC1VdVhXeWktWk5PZnJrOXlDMldJV2JYSXRBcXEtOHVzcGktZmNvWVc4Q0FKRjBuc2FSLW1ndGc1ekFVS2dxTk1hdzZod2tKMmN5NDNFeDhqSkZKZnpnZGlET19UZEc0TlZ1Xy0zX25xZWhKM2Q0c2xLcjNXVDVSdkJHTVM5YzRzOUNrYVUzOVhYNXVjdHZKWUhlWHBhZl9hUDk0RUxqUFVRU0l4TnNnZHIxNWxXMl9ZcWdZcjJhM1V2aw?oc=5",
-          "source": "WCNC"
+          "title": "Budgeting tips for your Thanksgiving dinner - wandtv.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVDQ5QldwcjluOGhScVAwSE9kSHhSNHVTekVlMXhtRUxOeFlpTlBsZWo1ZW9IbGpKZnlpWUxVZDJBcjdEdlJ2a3dJUUZ0RzFjRE5DS05VTnhELTdWMzdBWTFQVmc4RUJhdXpyelRaR2sxejVhdnVaN0pwQ2pqR2lUbnNfdmI2VG8?oc=5",
+          "source": "wandtv.com"
+        }
+      ]
+    },
+    {
+      "id": "t-1",
+      "kind": "trending-topic",
+      "headline_options": [
+        "Money, explained in plain English",
+        "What you should actually know about money",
+        "Money: the honest beginner's guide"
+      ],
+      "angle": "Evergreen explainer on a topic people are actively reading about.",
+      "outline": [
+        "What money means in plain English",
+        "Why it matters for your budget",
+        "What the current discussion is saying",
+        "Common mistakes",
+        "Sensible next steps"
+      ],
+      "key_points": [
+        "How to Save Money: 28 Ways - NerdWallet (NerdWallet)"
+      ],
+      "sources": [
+        {
+          "title": "How to Save Money: 28 Ways - NerdWallet",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfRmx2UEk3TFNIeXRHdWJaOHNkTkg5QWFmY1g1aUpSNkNONzZyRk1lczZoRUxBaXB2RXdkeE0yVHUydzMwTkpPUkxsSlBSU1V2ZGoydWRfNTQxeGd6d1EwSVdMR0dNY0xJcnc?oc=5",
+          "source": "NerdWallet"
         }
       ]
     },
@@ -79,30 +79,25 @@
       "id": "t-2",
       "kind": "trending-topic",
       "headline_options": [
-        "Budget, explained in plain English",
-        "What you should actually know about budget",
-        "Budget: the honest beginner's guide"
+        "Holiday, explained in plain English",
+        "What you should actually know about holiday",
+        "Holiday: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What budget means in plain English",
+        "What holiday means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "OnPoint shares five tips for hosting Thanksgiving dinner on a budget - KTVZ (KTVZ)",
         "Holiday budgeting tips to help avoid unwanted debt - KUTV (KUTV)",
         "Tips to stay on budget through the holiday season - WREG.com (WREG.com)",
-        "Kids, Chaos & Coffee: Expert tips on summer camp budgeting - WCNC (WCNC)"
+        "Budget-friendly holiday shopping tips - nny360.com (nny360.com)",
+        "7 budgeting tips for the holiday season - techlifetoday (techlifetoday)"
       ],
       "sources": [
-        {
-          "title": "OnPoint shares five tips for hosting Thanksgiving dinner on a budget - KTVZ",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVZ4QW9oYzhRMUN2bUdwTjZwNkpsOGRhMG95akk5YkdkZFBEalk1dWVWYzJyWHJ5TFRNXzlPb081bVdleEluRVBNYVNuU2hYNG9OVGVRMDN2azdfcE55ME9QZDZfZ21WN2FTYW55emNOS2JSS3VobkRtNU9OTHFmT1NIODAzczNLX2pmcmIxamxxNUFfb1FfamxwRk1USS1tX29rM0V3WGJnOTNIWTVUYmlFMA?oc=5",
-          "source": "KTVZ"
-        },
         {
           "title": "Holiday budgeting tips to help avoid unwanted debt - KUTV",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLWgxMERCa3JDRDljNzBWektRRUNQa0hiSEFPdkZOSXRpZ0hrZC1XOWJyLTNyZm5SZ0V4bFVGNFE2WkMydHI3ZTRVRmdvRXJmSGxhZXlRQmJ4TlhkcFBxbm52NUVFamVfRTBYekRxMWZpaHFQZUNyVlJfYkEtZG1BYThxaEdKUUJzY0gwb1A4WU5sZXM?oc=5",
@@ -114,9 +109,14 @@
           "source": "WREG.com"
         },
         {
-          "title": "Kids, Chaos & Coffee: Expert tips on summer camp budgeting - WCNC",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPamxITktqUjBza09qLTFkYUpoOXhGTC1VdVhXeWktWk5PZnJrOXlDMldJV2JYSXRBcXEtOHVzcGktZmNvWVc4Q0FKRjBuc2FSLW1ndGc1ekFVS2dxTk1hdzZod2tKMmN5NDNFeDhqSkZKZnpnZGlET19UZEc0TlZ1Xy0zX25xZWhKM2Q0c2xLcjNXVDVSdkJHTVM5YzRzOUNrYVUzOVhYNXVjdHZKWUhlWHBhZl9hUDk0RUxqUFVRU0l4TnNnZHIxNWxXMl9ZcWdZcjJhM1V2aw?oc=5",
-          "source": "WCNC"
+          "title": "Budget-friendly holiday shopping tips - nny360.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZTE3SnZvNnVKV0hVaXdMSV9BdDFfcUpYYkctTElrcklsNmstS1VPQWVELURZVDZqWVNzMEQ2bHVBRUxveGdXdEFLNEtQT3BzTkhRcC16VEo3V1dDUTI0OVU0UVF3bkVNczEyQmpFbHJHam9NWGxUY0k2S096QUZYTnBqSkNFb0YzQkpEdmhzdDU1UkY0S0h6bURMOUxYSWdLbEtGWlZ6MjBQSklraC1z?oc=5",
+          "source": "nny360.com"
+        },
+        {
+          "title": "7 budgeting tips for the holiday season - techlifetoday",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYMWozdGlDN1dJSzJBbFBaQXZnYklxSjBCTGs3dXJwelo3Q2dTZVJmdnNXVEQ2REtGQ0xVNnRnTnUtMWJGS09TenpXcHFMQjdzaVBGOHRiRmk5Qml3ZG04MVJ6dWVycmUxSUdz?oc=5",
+          "source": "techlifetoday"
         }
       ]
     }
