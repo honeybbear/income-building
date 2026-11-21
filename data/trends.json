@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T14:46:59Z",
+  "fetched_at": "2026-11-21T14:02:45Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -9,18 +9,22 @@
   "topics": [
     {
       "keyword": "tips",
-      "mentions": 9
+      "mentions": 8
     },
     {
       "keyword": "money",
       "mentions": 7
     },
     {
-      "keyword": "holiday",
-      "mentions": 5
+      "keyword": "thanksgiving",
+      "mentions": 6
     },
     {
-      "keyword": "thanksgiving",
+      "keyword": "save",
+      "mentions": 4
+    },
+    {
+      "keyword": "holiday",
       "mentions": 4
     },
     {
@@ -28,15 +32,11 @@
       "mentions": 4
     },
     {
-      "keyword": "saving",
-      "mentions": 4
-    },
-    {
-      "keyword": "finance",
+      "keyword": "gold",
       "mentions": 3
     },
     {
-      "keyword": "save",
+      "keyword": "grocery",
       "mentions": 3
     },
     {
@@ -44,41 +44,46 @@
       "mentions": 3
     },
     {
-      "keyword": "com",
-      "mentions": 3
-    },
-    {
       "keyword": "dinner",
       "mentions": 3
     },
     {
-      "keyword": "insurance",
+      "keyword": "saving",
+      "mentions": 3
+    },
+    {
+      "keyword": "finance",
       "mentions": 2
     }
   ],
   "questions": [],
   "discussion_highlights": [
     {
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
       "source": "Hacker News",
-      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "score": 319,
-      "comments": 171
-    },
-    {
-      "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-      "source": "Hacker News",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "score": 43,
-      "comments": 14
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "score": 218,
+      "comments": 58
     }
   ],
   "news": [
     {
-      "title": "Some FHA borrowers pay mortgage insurance for a decade or more. There's an industry push to change the rules - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYlpmVFA5aXJmTFN5dmllNVFzQjJwZGZHOUZ1eWt1WUFEWEtpLURtWTVMa0YwM0ZoVUpxaWY5LXJSNmdGWXhaRWxjMzE0M3N3a1RrTzRaWHExMnBVc3BhRUlIRG1PU1NaalVnbFJWRW9jbTRzM3E1S1BEcXFybzNkb2pjONIBiAFBVV95cUxPc1NLc0hZT1NLRTk3WUNTak9oU2NSSHJid0VfazdILW5qM0JERFNfLTI2dDlyNGlTSnMzaEFCM01GWlhvQjF5RXZEeXZIc204eTltUnpkSkdpLUtLNks4UEZ1VEFYRXNYbzdUUzR1TFlNU1FEZTh0ZVNhOXpGLVYwNjl4R1JyYUtN?oc=5",
-      "published": "Fri, 20 Nov 2026 13:35:01 GMT",
-      "source": "CNBC"
+      "title": "‘If He Knew How Much Stuff I Was Buying, He’d See Me Differently’ - The Cut",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUVk2RDlUaGoySy12LWZRYWUzMkxTdHVLc3ZSR1VhRGpacDFOQnZNYU1MWEVab1ZMaWtIRWxTLWtrV1J5b1J0a191LVJfeWlkQ1ZwQ0VodUJ2MlpqQXAtZGIxaENSNU12elpTLXlPbGdiaWt1bXFWbjJ3QjNWU3hOWQ?oc=5",
+      "published": "Thu, 19 Nov 2026 18:35:44 GMT",
+      "source": "The Cut"
+    },
+    {
+      "title": "Even Personal-Finance Devotees Struggle With Roth Conversions and IRS Rules - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPczdnRWd5SFI0bExkcW1BS0xBTFU0Ukd1eDlWdnpFeGJJWnA5bjA1Q0tCWU1nbTI1UWU5TURWNW85dnRKWk1zVXhSVkxiRFhiSURZLTZGaU9WdzJndEp0R3BCQmx1TUYzYzFITDBWUVFLM0VDcURKdENZbDVaeDI0Yy1XX01nb0xCR3ExbzljRHJRLW1MSHVxY3FUY01PVm5CRGVEdFFCcFJMUnhGRllpbHZMUUZCTVNjZFM3WUtNNWZDeXlmc0E?oc=5",
+      "published": "Fri, 20 Nov 2026 10:30:00 GMT",
+      "source": "WSJ"
+    },
+    {
+      "title": "Why 'SNL' 'Sister' caregiving sketch hits so painfully close to home - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNmJPZFk1NkRad0I5LVdDOUV5d1VLQ3VfWGpNR1hzcW5xSGY3ZzEtWDdxVGFLZ09uTW85UWw2aXZGdjJhZGp4b0F1Q0FmQ0NIS2w3bTlSWmp4WG1KUkM3OFFSeUZtVE04NUlnSGlNcWlMbHlJRUU2T2d1a01vNGJDRThyQWk0YTRWMno0Q2kzVGQ0emtkMkVBSVk3elNWOVQ3X25ZMU9QLVFqS2hZaU5iNA?oc=5",
+      "published": "Sat, 21 Nov 2026 10:03:00 GMT",
+      "source": "USA Today"
     },
     {
       "title": "Gold price today, Friday, November 20, 2026: Gold prices continue to fall as rate hike expectations crystallize - Yahoo Finance",
@@ -87,16 +92,16 @@
       "source": "Yahoo Finance"
     },
     {
-      "title": "Silver price today, Friday, November 20, 2026: Silver opens at its lowest point in 14 months - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbEpaVkhLenBPN25zZHlxYnNfdXJZZUlDcGZSTG8xNlVWTkNYSHl5T0JldWlodUZCdC0zeXdiUF9QYXlDZ01QTTd4SVVNZ1AtUUpoYnpxSlpZcjJ3ZzVRMXkzZjZfMExoczJkbVBYazdtc01YbzRCaWp1dHhqTG1FS1U1Z2FXT1gySXRKMEE5R0NpMnZ0bHJkSU5BZ1AwNHI1aC1xYVo5WjBtdXFJbWhKU1JidERxSUdPQU9CVTZBVWQwNE9qT0NlZC12OXEwVV9BdXNINW85M3c5Vjk1V2JDV3NCcDBWUWxUWWNCUU12TzkyNUhsVE5N?oc=5",
-      "published": "Fri, 20 Nov 2026 12:26:18 GMT",
-      "source": "Yahoo Finance"
+      "title": "Some FHA borrowers pay mortgage insurance for a decade or more. There's an industry push to change the rules - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYlpmVFA5aXJmTFN5dmllNVFzQjJwZGZHOUZ1eWt1WUFEWEtpLURtWTVMa0YwM0ZoVUpxaWY5LXJSNmdGWXhaRWxjMzE0M3N3a1RrTzRaWHExMnBVc3BhRUlIRG1PU1NaalVnbFJWRW9jbTRzM3E1S1BEcXFybzNkb2pjONIBiAFBVV95cUxPc1NLc0hZT1NLRTk3WUNTak9oU2NSSHJid0VfazdILW5qM0JERFNfLTI2dDlyNGlTSnMzaEFCM01GWlhvQjF5RXZEeXZIc204eTltUnpkSkdpLUtLNks4UEZ1VEFYRXNYbzdUUzR1TFlNU1FEZTh0ZVNhOXpGLVYwNjl4R1JyYUtN?oc=5",
+      "published": "Fri, 20 Nov 2026 13:35:01 GMT",
+      "source": "CNBC"
     },
     {
-      "title": "‘If He Knew How Much Stuff I Was Buying, He’d See Me Differently’ - The Cut",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUVk2RDlUaGoySy12LWZRYWUzMkxTdHVLc3ZSR1VhRGpacDFOQnZNYU1MWEVab1ZMaWtIRWxTLWtrV1J5b1J0a191LVJfeWlkQ1ZwQ0VodUJ2MlpqQXAtZGIxaENSNU12elpTLXlPbGdiaWt1bXFWbjJ3QjNWU3hOWQ?oc=5",
-      "published": "Thu, 19 Nov 2026 18:35:44 GMT",
-      "source": "The Cut"
+      "title": "What to Buy at Costco for Thanksgiving – and What to Buy Elsewhere - US News Money",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTGNHc19JV0plYTl0T1YxZTNXMjhVNHlTNkpieWlBLUhONGd2N3NUdUQ2WHp6c19ZN19GQXEyM2dWYUVKMXRfS1MxbEZ2Szl5eXVPaHY2dmVpZHYwUnNCc0lZU2tfemVrdFR4WGFoalBUcEVqUmQtQVRBUjBDRE1pdENfR2xZYkIyR21ZTmNGS0I5QmtaZy1tSWNDZ090YXhfTzY4TkRtYmRzTUh4M0VuMVhrNGIyYUg4Vjd2eUN3?oc=5",
+      "published": "Fri, 20 Nov 2026 14:23:00 GMT",
+      "source": "US News Money"
     },
     {
       "title": "California wants all high schoolers to learn financial literacy. It’s already happening in Fresno. - KVPR",
@@ -105,22 +110,10 @@
       "source": "KVPR"
     },
     {
-      "title": "Even Personal-Finance Devotees Struggle With Roth Conversions and IRS Rules - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPczdnRWd5SFI0bExkcW1BS0xBTFU0Ukd1eDlWdnpFeGJJWnA5bjA1Q0tCWU1nbTI1UWU5TURWNW85dnRKWk1zVXhSVkxiRFhiSURZLTZGaU9WdzJndEp0R3BCQmx1TUYzYzFITDBWUVFLM0VDcURKdENZbDVaeDI0Yy1XX01nb0xCR3ExbzljRHJRLW1MSHVxY3FUY01PVm5CRGVEdFFCcFJMUnhGRllpbHZMUUZCTVNjZFM3WUtNNWZDeXlmc0E?oc=5",
-      "published": "Fri, 20 Nov 2026 10:31:41 GMT",
-      "source": "WSJ"
-    },
-    {
-      "title": "Let’s Talk Numbers: The one savings mistake many beginners make - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVERJWW92eDNRYjQ0ZGxoZ2Vsc1plT21XLWdRaXN2bV9NQmZyY3huVnY0YUs5a0hQdlotT3lKTzdGdTNOendGVF8tbmQ2UWxOZ19MVEZUU2RnZkQ0WTAyaVdxUEhJa0FnUnowOWhVVDcwazl3dDcyOWRRUWdzX0hHU19PYU5ETVJhWFlDTkw3MWw1UG5ObzBCRHZfU3RIdnkzM2J2UGZUeHVTNGY3ZElVTg?oc=5",
-      "published": "Fri, 20 Nov 2026 14:08:34 GMT",
-      "source": "The Washington Post"
-    },
-    {
-      "title": "Don’t Let an Outdated Policy Leave You Exposed: Why Your Homeowners Insurance Needs a Modern Makeover - Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdzd6bVpId1NFYVhBbHRNZS04UGhfMGY5dU5XUzRhRHp0SHZOVkZmWFlIT21HcTZmTWt6b1lqVDgyWEFQNzA4Ym5LRmtpU2stZ2U4SWtlMk53bkJiT0x3R2pHYzF2Y3dYd0x1SkhYcU9PRUpmRWh1b0dncGZ2TkhTY3pFNzZMVndfamtvcWJpQjRUU3BORnFHWGVac0JUWDJyRkxkcnV0SmhiRjdwSDRocg?oc=5",
-      "published": "Fri, 20 Nov 2026 14:00:00 GMT",
-      "source": "Kiplinger"
+      "title": "He Handed His Daughter 50 Ounces of Gold in January, Worth $265,920 at the Record Close. It's Down to About $177,000 Now, and if He Needs Medicaid, His Penalty Will Still Be Figured on $265,920 - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQd0JLMEhfcmt2dFptcURqWGpfQXUydXJxdExHOG45eVpib0poeHljSy1vMU54QjhWQ3pjN1VBbW9NVmVadk1INF9nN1pVYnI5UkRhSUg5WENIWW5tTWlORWY1cTljZ2l5NVJtbmlDdDBjMG9nRmpZaU5kOW9zMWJzZ2o5RTZ6THRJLXdDOWU0a1AyNWVDeDNxSW9DZWMzejNiVUpMbkdybmZkQmsxYmxUWjlBMV9TSHlWcTZtRVZNSnVXc0ZwMTJxTUkwZ0xOMllTSWd1Q0xCOUtzWFBYZkNaOE9Xaks1eGRZTklYRmNrVGpLbGFldWRQN2hYTVNOdkh4OUdHbF90VXVoUDdQQ2o1ZTVweUhGbERfMy1mLUY4MzRoVUQ3VDNpVGtwaXJ6OEhYM1pTR2FBOG1Rckk1ZERBbGhTOTVSbnJzNkRRY0VwU3liZ3M?oc=5",
+      "published": "Sat, 21 Nov 2026 01:01:00 GMT",
+      "source": "24/7 Wall St."
     },
     {
       "title": "How to Save Money: 28 Ways - NerdWallet",
@@ -129,16 +122,22 @@
       "source": "NerdWallet"
     },
     {
-      "title": "Mother of four shares tips for Thanksgiving grocery budget - FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xb05vRFhTNktHRWlPbmJvU294XzBwS2RVM2FKQTV1NVBHc18tWWhVNmVobjQ0V29UanBKQWVfQnBYV2xUZk1icFhpLTkzc1RFRzF5SjR5TlJkTHh6ZWR0cFZhclDSAWpBVV95cUxPVlVBdWg5VXlCaGlwUDc3Rm5uS3NaWkNUSUQ3bDNyRHVaVnYzQzFEVWVvSk44SzFETHBKOWZReHdhTWtsYmo4bWFwZVJqOWlVVnpfUTlMbzh0YVVpMmVKb3dlaVM0eTl3QU5B?oc=5",
-      "published": "Thu, 19 Nov 2026 21:47:04 GMT",
-      "source": "FOX 5 Atlanta"
+      "title": "How to trim your Thanksgiving grocery budget: Tips to save on your holiday meal - Click2Houston",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa2YzM2NSUUlrY19WNm5MRTBPMFJZM2Jtb1ZFOWUtTzh6Vm1xZmJqcjZrb28wZHo2VjgwbVhTa1h0VXpuQWMzaklqSzZ4WmhSRFY3ZXp3RGJ0RjRpbVBKV2wydzdDQl8yRGFYMm5oeHBGZkcyMVNpVTFCaHhmWGNDOE9ueTg1Rm9hTl9WaDQ4cWRPdVBCRjRhS2Y5MWJIdTNIekFvckZoUnJKOFcxOVJuUVVmcW1RV3BWdnQ3MEhGYUI1RkpfWjBsUXZObw?oc=5",
+      "published": "Sat, 21 Nov 2026 00:06:57 GMT",
+      "source": "Click2Houston"
     },
     {
       "title": "Holiday budgeting tips to help avoid unwanted debt - KUTV",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLWgxMERCa3JDRDljNzBWektRRUNQa0hiSEFPdkZOSXRpZ0hrZC1XOWJyLTNyZm5SZ0V4bFVGNFE2WkMydHI3ZTRVRmdvRXJmSGxhZXlRQmJ4TlhkcFBxbm52NUVFamVfRTBYekRxMWZpaHFQZUNyVlJfYkEtZG1BYThxaEdKUUJzY0gwb1A4WU5sZXM?oc=5",
       "published": "Tue, 17 Nov 2026 20:20:18 GMT",
       "source": "KUTV"
+    },
+    {
+      "title": "Money Monday: Holiday Season Spending and Budgeting Tips - WEEK | 25 News Now",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHFLTmV2YnFfbVNjSkxYeEZCTlZuRWFEallGMmxHVzFhc042SzFFZ0M4dzhBM0dfZ0xaNWhUdk05WVdBTkt1Yks0NnpFRWVMaDljSWx1aXpsXy05NEI2a0Y2TW0wN0hwbGtnMmdZWm15NFh5VV84WUpGWGJsaVcwSjY2bFowbktub3pQY0luREllU1VXeUtHbmlNdw?oc=5",
+      "published": "Mon, 16 Nov 2026 18:18:00 GMT",
+      "source": "WEEK | 25 News Now"
     },
     {
       "title": "Tips to stay on budget through the holiday season - WREG.com",
@@ -153,31 +152,18 @@
       "source": "wandtv.com"
     },
     {
-      "title": "Budget-friendly holiday shopping tips - nny360.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZTE3SnZvNnVKV0hVaXdMSV9BdDFfcUpYYkctTElrcklsNmstS1VPQWVELURZVDZqWVNzMEQ2bHVBRUxveGdXdEFLNEtQT3BzTkhRcC16VEo3V1dDUTI0OVU0UVF3bkVNczEyQmpFbHJHam9NWGxUY0k2S096QUZYTnBqSkNFb0YzQkpEdmhzdDU1UkY0S0h6bURMOUxYSWdLbEtGWlZ6MjBQSklraC1z?oc=5",
-      "published": "Thu, 19 Nov 2026 18:20:00 GMT",
-      "source": "nny360.com"
-    },
-    {
-      "title": "7 budgeting tips for the holiday season - techlifetoday",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYMWozdGlDN1dJSzJBbFBaQXZnYklxSjBCTGs3dXJwelo3Q2dTZVJmdnNXVEQ2REtGQ0xVNnRnTnUtMWJGS09TenpXcHFMQjdzaVBGOHRiRmk5Qml3ZG04MVJ6dWVycmUxSUdz?oc=5",
-      "published": "Thu, 19 Nov 2026 17:45:24 GMT",
-      "source": "techlifetoday"
+      "title": "Mother of four shares tips for Thanksgiving grocery budget - FOX 5 Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xb05vRFhTNktHRWlPbmJvU294XzBwS2RVM2FKQTV1NVBHc18tWWhVNmVobjQ0V29UanBKQWVfQnBYV2xUZk1icFhpLTkzc1RFRzF5SjR5TlJkTHh6ZWR0cFZhclDSAWpBVV95cUxPVlVBdWg5VXlCaGlwUDc3Rm5uS3NaWkNUSUQ3bDNyRHVaVnYzQzFEVWVvSk44SzFETHBKOWZReHdhTWtsYmo4bWFwZVJqOWlVVnpfUTlMbzh0YVVpMmVKb3dlaVM0eTl3QU5B?oc=5",
+      "published": "Thu, 19 Nov 2026 21:47:04 GMT",
+      "source": "FOX 5 Atlanta"
     }
   ],
   "hn_stories": [
     {
-      "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "score": 43,
-      "comments": 14,
-      "source": "Hacker News"
-    },
-    {
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "score": 319,
-      "comments": 171,
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "score": 218,
+      "comments": 58,
       "source": "Hacker News"
     }
   ],
