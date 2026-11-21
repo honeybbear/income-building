@@ -6,7 +6,7 @@ Reviewed: November 21, 2026
 
 ## What MIP is — and why FHA loans have it
 
-FHA loans let buyers purchase a home with as little as 3.5% down, which is why they're popular with first-time buyers. The trade-off is mortgage insurance premium, or MIP. It protects the lender — not you — if you stop paying. It pays nothing toward your loan balance and nothing to your family.
+FHA loans let buyers purchase a home with as little as 3.5% down. The trade-off is mortgage insurance premium, or MIP. It protects the lender — not you — if you stop paying.
 
 Every FHA loan carries two MIP charges:
 
@@ -18,7 +18,7 @@ Every FHA loan carries two MIP charges:
 How long you pay annual MIP depends on when your loan was originated and how much you put down. For FHA case numbers assigned on or after June 3, 2013 — which covers nearly every FHA borrower today — the rules are:
 
 - **Less than 10% down:** MIP lasts for the **life of the loan**. There is no equity milestone that cancels it. You can pay the balance down to half the home's value and the premium keeps coming.
-- **10% or more down:** MIP lasts **11 years**, then cancels automatically.
+**10% or more down:** MIP lasts **11 years**, then cancels automatically.
 
 That is the core difference from a conventional loan. With a conventional loan, private mortgage insurance (PMI) can be cancelled when your balance falls below 80% of the home's original value, and it must be cancelled automatically at 78%. FHA MIP has no such equity trigger — building equity does not end it.
 
