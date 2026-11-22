@@ -1,55 +1,10 @@
 {
-  "generated_at": "2026-11-21T14:02:45Z",
+  "generated_at": "2026-11-22T13:56:03Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
     {
       "id": "t-0",
-      "kind": "trending-topic",
-      "headline_options": [
-        "Tips, explained in plain English",
-        "What you should actually know about tips",
-        "Tips: the honest beginner's guide"
-      ],
-      "angle": "Evergreen explainer on a topic people are actively reading about.",
-      "outline": [
-        "What tips means in plain English",
-        "Why it matters for your budget",
-        "What the current discussion is saying",
-        "Common mistakes",
-        "Sensible next steps"
-      ],
-      "key_points": [
-        "How to trim your Thanksgiving grocery budget: Tips to save on your holiday meal - Click2Houston (Click2Houston)",
-        "Holiday budgeting tips to help avoid unwanted debt - KUTV (KUTV)",
-        "Money Monday: Holiday Season Spending and Budgeting Tips - WEEK | 25 News Now (WEEK | 25 News Now)",
-        "Tips to stay on budget through the holiday season - WREG.com (WREG.com)"
-      ],
-      "sources": [
-        {
-          "title": "How to trim your Thanksgiving grocery budget: Tips to save on your holiday meal - Click2Houston",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa2YzM2NSUUlrY19WNm5MRTBPMFJZM2Jtb1ZFOWUtTzh6Vm1xZmJqcjZrb28wZHo2VjgwbVhTa1h0VXpuQWMzaklqSzZ4WmhSRFY3ZXp3RGJ0RjRpbVBKV2wydzdDQl8yRGFYMm5oeHBGZkcyMVNpVTFCaHhmWGNDOE9ueTg1Rm9hTl9WaDQ4cWRPdVBCRjRhS2Y5MWJIdTNIekFvckZoUnJKOFcxOVJuUVVmcW1RV3BWdnQ3MEhGYUI1RkpfWjBsUXZObw?oc=5",
-          "source": "Click2Houston"
-        },
-        {
-          "title": "Holiday budgeting tips to help avoid unwanted debt - KUTV",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLWgxMERCa3JDRDljNzBWektRRUNQa0hiSEFPdkZOSXRpZ0hrZC1XOWJyLTNyZm5SZ0V4bFVGNFE2WkMydHI3ZTRVRmdvRXJmSGxhZXlRQmJ4TlhkcFBxbm52NUVFamVfRTBYekRxMWZpaHFQZUNyVlJfYkEtZG1BYThxaEdKUUJzY0gwb1A4WU5sZXM?oc=5",
-          "source": "KUTV"
-        },
-        {
-          "title": "Money Monday: Holiday Season Spending and Budgeting Tips - WEEK | 25 News Now",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHFLTmV2YnFfbVNjSkxYeEZCTlZuRWFEallGMmxHVzFhc042SzFFZ0M4dzhBM0dfZ0xaNWhUdk05WVdBTkt1Yks0NnpFRWVMaDljSWx1aXpsXy05NEI2a0Y2TW0wN0hwbGtnMmdZWm15NFh5VV84WUpGWGJsaVcwSjY2bFowbktub3pQY0luREllU1VXeUtHbmlNdw?oc=5",
-          "source": "WEEK | 25 News Now"
-        },
-        {
-          "title": "Tips to stay on budget through the holiday season - WREG.com",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSEN1MmdqZnhQaUphOHFvQTBTZmVnS201ZkN6T3pMWldBS0JFWVBCZTZCbGp3Y2F4WkViby1CYkpWVnFUMXhmVVRvaGx4LUtJQVhvSXUzLUhXQnlWZVp4dTQ2aGtUVmpGMjVMR29lWEVySm5aQTQ0aUtEd05QeWtGNElmc1TSAYoBQVVfeXFMTzlMeGU4MGE4eGc2QkV1R0NXUXM1SlhRM0l1cy1Kc0pWRkxOYVRDWGtLMFZWLWxteC1tQmgxUzdyUEk3NFR2ZVgxM1ZMWlZmdko2U0JaZFJGLWw3YzRtNkVDdHE1MnhlSGdHbl9QNERqbVpyMGI4X0hsR2MzaVE5OEEtVHJwaE9ObHN3?oc=5",
-          "source": "WREG.com"
-        }
-      ]
-    },
-    {
-      "id": "t-1",
       "kind": "trending-topic",
       "headline_options": [
         "Money, explained in plain English",
@@ -65,15 +20,21 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "What to Buy at Costco for Thanksgiving – and What to Buy Elsewhere - US News Money (US News Money)",
+        "\"If You're A Millionaire You're Broke.\" Grant Cardone Says A Million Dollars Was A Lot Of Money In 1960, But Not Anymore. Here's What It Really Takes To Be Rich - 24/7 Wall St. (24/7 Wall St.)",
+        "15 Budgeting Tips for Beginners to Manage Your Money Better - Ramsey Solutions (Ramsey Solutions)",
         "How to Save Money: 28 Ways - NerdWallet (NerdWallet)",
         "Money Monday: Holiday Season Spending and Budgeting Tips - WEEK | 25 News Now (WEEK | 25 News Now)"
       ],
       "sources": [
         {
-          "title": "What to Buy at Costco for Thanksgiving – and What to Buy Elsewhere - US News Money",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTGNHc19JV0plYTl0T1YxZTNXMjhVNHlTNkpieWlBLUhONGd2N3NUdUQ2WHp6c19ZN19GQXEyM2dWYUVKMXRfS1MxbEZ2Szl5eXVPaHY2dmVpZHYwUnNCc0lZU2tfemVrdFR4WGFoalBUcEVqUmQtQVRBUjBDRE1pdENfR2xZYkIyR21ZTmNGS0I5QmtaZy1tSWNDZ090YXhfTzY4TkRtYmRzTUh4M0VuMVhrNGIyYUg4Vjd2eUN3?oc=5",
-          "source": "US News Money"
+          "title": "\"If You're A Millionaire You're Broke.\" Grant Cardone Says A Million Dollars Was A Lot Of Money In 1960, But Not Anymore. Here's What It Really Takes To Be Rich - 24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPVGk1VVlhblpqSEFXLV95cUtGLXZxanRjMld5TzlOUW1OekFOb0JQLVRsR2YwRDlhcm5SaWdKamdWLVhMZWNOUkc1aDZJYzlwdTJGWGc2SkFqNEJCVlFmQ2tGR28zeWZiSnZvdktTeGFRTWkwQTVjU210MlJscVRUMUlqaTRHMmdHZUpCN2hrRWNyeHEyVVhyWDBIZ3FGbW1NYlJYcXhSbF82Y1p1X0NLa1BXVk5jMTJOejdFVzJTeUZFTS1WNjNXb292SXdIYl9xRzJ2a240bXlLdU5wbVl0NHo5SjJ3WGlTaHE1TTJadGtqUFhoa3dvYTU1M1hjZ2tzOHU1VnZLa3VINGt3TjZJYlF6SnZvejJWVThaSGdtWTVid0M0UmZqWGY0Yw?oc=5",
+          "source": "24/7 Wall St."
+        },
+        {
+          "title": "15 Budgeting Tips for Beginners to Manage Your Money Better - Ramsey Solutions",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YSTFYbmhsNm45QkV6d1ZJVTdKZGt5SU4xNkJrdjUwdW1rQXJBcGtTSXRaZXJNZlZVUHNnakpnVm1HMTBzSjlDLTFzQ0dObFNYY2M1bUFGUV9neC1hYXJFd2R2c2l5ZDBRRURXLVAwWl8wTzNKOUE?oc=5",
+          "source": "Ramsey Solutions"
         },
         {
           "title": "How to Save Money: 28 Ways - NerdWallet",
@@ -88,47 +49,92 @@
       ]
     },
     {
-      "id": "t-2",
+      "id": "t-1",
       "kind": "trending-topic",
       "headline_options": [
-        "Thanksgiving, explained in plain English",
-        "What you should actually know about thanksgiving",
-        "Thanksgiving: the honest beginner's guide"
+        "Tips, explained in plain English",
+        "What you should actually know about tips",
+        "Tips: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What thanksgiving means in plain English",
+        "What tips means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "What to Buy at Costco for Thanksgiving – and What to Buy Elsewhere - US News Money (US News Money)",
-        "How to trim your Thanksgiving grocery budget: Tips to save on your holiday meal - Click2Houston (Click2Houston)",
-        "Budgeting tips for your Thanksgiving dinner - wandtv.com (wandtv.com)",
-        "Mother of four shares tips for Thanksgiving grocery budget - FOX 5 Atlanta (FOX 5 Atlanta)"
+        "15 Budgeting Tips for Beginners to Manage Your Money Better - Ramsey Solutions (Ramsey Solutions)",
+        "Holiday budgeting tips to help avoid unwanted debt - KUTV (KUTV)",
+        "Tips to stay on budget through the holiday season - WREG.com (WREG.com)",
+        "Money Monday: Holiday Season Spending and Budgeting Tips - WEEK | 25 News Now (WEEK | 25 News Now)"
       ],
       "sources": [
         {
-          "title": "What to Buy at Costco for Thanksgiving – and What to Buy Elsewhere - US News Money",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTGNHc19JV0plYTl0T1YxZTNXMjhVNHlTNkpieWlBLUhONGd2N3NUdUQ2WHp6c19ZN19GQXEyM2dWYUVKMXRfS1MxbEZ2Szl5eXVPaHY2dmVpZHYwUnNCc0lZU2tfemVrdFR4WGFoalBUcEVqUmQtQVRBUjBDRE1pdENfR2xZYkIyR21ZTmNGS0I5QmtaZy1tSWNDZ090YXhfTzY4TkRtYmRzTUh4M0VuMVhrNGIyYUg4Vjd2eUN3?oc=5",
-          "source": "US News Money"
+          "title": "15 Budgeting Tips for Beginners to Manage Your Money Better - Ramsey Solutions",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YSTFYbmhsNm45QkV6d1ZJVTdKZGt5SU4xNkJrdjUwdW1rQXJBcGtTSXRaZXJNZlZVUHNnakpnVm1HMTBzSjlDLTFzQ0dObFNYY2M1bUFGUV9neC1hYXJFd2R2c2l5ZDBRRURXLVAwWl8wTzNKOUE?oc=5",
+          "source": "Ramsey Solutions"
         },
         {
-          "title": "How to trim your Thanksgiving grocery budget: Tips to save on your holiday meal - Click2Houston",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa2YzM2NSUUlrY19WNm5MRTBPMFJZM2Jtb1ZFOWUtTzh6Vm1xZmJqcjZrb28wZHo2VjgwbVhTa1h0VXpuQWMzaklqSzZ4WmhSRFY3ZXp3RGJ0RjRpbVBKV2wydzdDQl8yRGFYMm5oeHBGZkcyMVNpVTFCaHhmWGNDOE9ueTg1Rm9hTl9WaDQ4cWRPdVBCRjRhS2Y5MWJIdTNIekFvckZoUnJKOFcxOVJuUVVmcW1RV3BWdnQ3MEhGYUI1RkpfWjBsUXZObw?oc=5",
-          "source": "Click2Houston"
+          "title": "Holiday budgeting tips to help avoid unwanted debt - KUTV",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLWgxMERCa3JDRDljNzBWektRRUNQa0hiSEFPdkZOSXRpZ0hrZC1XOWJyLTNyZm5SZ0V4bFVGNFE2WkMydHI3ZTRVRmdvRXJmSGxhZXlRQmJ4TlhkcFBxbm52NUVFamVfRTBYekRxMWZpaHFQZUNyVlJfYkEtZG1BYThxaEdKUUJzY0gwb1A4WU5sZXM?oc=5",
+          "source": "KUTV"
         },
         {
-          "title": "Budgeting tips for your Thanksgiving dinner - wandtv.com",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVDQ5QldwcjluOGhScVAwSE9kSHhSNHVTekVlMXhtRUxOeFlpTlBsZWo1ZW9IbGpKZnlpWUxVZDJBcjdEdlJ2a3dJUUZ0RzFjRE5DS05VTnhELTdWMzdBWTFQVmc4RUJhdXpyelRaR2sxejVhdnVaN0pwQ2pqR2lUbnNfdmI2VG8?oc=5",
-          "source": "wandtv.com"
+          "title": "Tips to stay on budget through the holiday season - WREG.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSEN1MmdqZnhQaUphOHFvQTBTZmVnS201ZkN6T3pMWldBS0JFWVBCZTZCbGp3Y2F4WkViby1CYkpWVnFUMXhmVVRvaGx4LUtJQVhvSXUzLUhXQnlWZVp4dTQ2aGtUVmpGMjVMR29lWEVySm5aQTQ0aUtEd05QeWtGNElmc1TSAYoBQVVfeXFMTzlMeGU4MGE4eGc2QkV1R0NXUXM1SlhRM0l1cy1Kc0pWRkxOYVRDWGtLMFZWLWxteC1tQmgxUzdyUEk3NFR2ZVgxM1ZMWlZmdko2U0JaZFJGLWw3YzRtNkVDdHE1MnhlSGdHbl9QNERqbVpyMGI4X0hsR2MzaVE5OEEtVHJwaE9ObHN3?oc=5",
+          "source": "WREG.com"
         },
         {
-          "title": "Mother of four shares tips for Thanksgiving grocery budget - FOX 5 Atlanta",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xb05vRFhTNktHRWlPbmJvU294XzBwS2RVM2FKQTV1NVBHc18tWWhVNmVobjQ0V29UanBKQWVfQnBYV2xUZk1icFhpLTkzc1RFRzF5SjR5TlJkTHh6ZWR0cFZhclDSAWpBVV95cUxPVlVBdWg5VXlCaGlwUDc3Rm5uS3NaWkNUSUQ3bDNyRHVaVnYzQzFEVWVvSk44SzFETHBKOWZReHdhTWtsYmo4bWFwZVJqOWlVVnpfUTlMbzh0YVVpMmVKb3dlaVM0eTl3QU5B?oc=5",
-          "source": "FOX 5 Atlanta"
+          "title": "Money Monday: Holiday Season Spending and Budgeting Tips - WEEK | 25 News Now",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHFLTmV2YnFfbVNjSkxYeEZCTlZuRWFEallGMmxHVzFhc042SzFFZ0M4dzhBM0dfZ0xaNWhUdk05WVdBTkt1Yks0NnpFRWVMaDljSWx1aXpsXy05NEI2a0Y2TW0wN0hwbGtnMmdZWm15NFh5VV84WUpGWGJsaVcwSjY2bFowbktub3pQY0luREllU1VXeUtHbmlNdw?oc=5",
+          "source": "WEEK | 25 News Now"
+        }
+      ]
+    },
+    {
+      "id": "t-2",
+      "kind": "trending-topic",
+      "headline_options": [
+        "Budgeting, explained in plain English",
+        "What you should actually know about budgeting",
+        "Budgeting: the honest beginner's guide"
+      ],
+      "angle": "Evergreen explainer on a topic people are actively reading about.",
+      "outline": [
+        "What budgeting means in plain English",
+        "Why it matters for your budget",
+        "What the current discussion is saying",
+        "Common mistakes",
+        "Sensible next steps"
+      ],
+      "key_points": [
+        "15 Budgeting Tips for Beginners to Manage Your Money Better - Ramsey Solutions (Ramsey Solutions)",
+        "Can reverse budgeting help boost your finances? - Yahoo Finance UK (Yahoo Finance UK)",
+        "Holiday budgeting tips to help avoid unwanted debt - KUTV (KUTV)",
+        "Money Monday: Holiday Season Spending and Budgeting Tips - WEEK | 25 News Now (WEEK | 25 News Now)"
+      ],
+      "sources": [
+        {
+          "title": "15 Budgeting Tips for Beginners to Manage Your Money Better - Ramsey Solutions",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YSTFYbmhsNm45QkV6d1ZJVTdKZGt5SU4xNkJrdjUwdW1rQXJBcGtTSXRaZXJNZlZVUHNnakpnVm1HMTBzSjlDLTFzQ0dObFNYY2M1bUFGUV9neC1hYXJFd2R2c2l5ZDBRRURXLVAwWl8wTzNKOUE?oc=5",
+          "source": "Ramsey Solutions"
+        },
+        {
+          "title": "Can reverse budgeting help boost your finances? - Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdHhPUVNxb3VCVFNlNWVyYmdwVjFwSTNGMm5jUl9ucEtMUE9YQXl1bFRzTXlrUkJtWXlldHRlem5pbk9kMi1uWGFfM0E2aW9jN0N1eVRNczZpQVBHY0V4d2NLbXBhTWxjVzUweGV3WVVUeFplNllwY2VKYzFCZkNXR1lFaTh1RC1GN2FMZlBTNA?oc=5",
+          "source": "Yahoo Finance UK"
+        },
+        {
+          "title": "Holiday budgeting tips to help avoid unwanted debt - KUTV",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLWgxMERCa3JDRDljNzBWektRRUNQa0hiSEFPdkZOSXRpZ0hrZC1XOWJyLTNyZm5SZ0V4bFVGNFE2WkMydHI3ZTRVRmdvRXJmSGxhZXlRQmJ4TlhkcFBxbm52NUVFamVfRTBYekRxMWZpaHFQZUNyVlJfYkEtZG1BYThxaEdKUUJzY0gwb1A4WU5sZXM?oc=5",
+          "source": "KUTV"
+        },
+        {
+          "title": "Money Monday: Holiday Season Spending and Budgeting Tips - WEEK | 25 News Now",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHFLTmV2YnFfbVNjSkxYeEZCTlZuRWFEallGMmxHVzFhc042SzFFZ0M4dzhBM0dfZ0xaNWhUdk05WVdBTkt1Yks0NnpFRWVMaDljSWx1aXpsXy05NEI2a0Y2TW0wN0hwbGtnMmdZWm15NFh5VV84WUpGWGJsaVcwSjY2bFowbktub3pQY0luREllU1VXeUtHbmlNdw?oc=5",
+          "source": "WEEK | 25 News Now"
         }
       ]
     }

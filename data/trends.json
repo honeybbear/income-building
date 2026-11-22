@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T14:02:45Z",
+  "fetched_at": "2026-11-22T13:56:03Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -8,71 +8,57 @@
   ],
   "topics": [
     {
+      "keyword": "money",
+      "mentions": 9
+    },
+    {
       "keyword": "tips",
       "mentions": 8
     },
     {
-      "keyword": "money",
-      "mentions": 7
-    },
-    {
-      "keyword": "thanksgiving",
-      "mentions": 6
-    },
-    {
-      "keyword": "save",
-      "mentions": 4
-    },
-    {
-      "keyword": "holiday",
-      "mentions": 4
-    },
-    {
       "keyword": "budgeting",
-      "mentions": 4
-    },
-    {
-      "keyword": "gold",
-      "mentions": 3
-    },
-    {
-      "keyword": "grocery",
-      "mentions": 3
-    },
-    {
-      "keyword": "budget",
-      "mentions": 3
-    },
-    {
-      "keyword": "dinner",
-      "mentions": 3
+      "mentions": 5
     },
     {
       "keyword": "saving",
-      "mentions": 3
+      "mentions": 5
+    },
+    {
+      "keyword": "thanksgiving",
+      "mentions": 4
     },
     {
       "keyword": "finance",
+      "mentions": 3
+    },
+    {
+      "keyword": "wsj",
+      "mentions": 3
+    },
+    {
+      "keyword": "retirement",
+      "mentions": 3
+    },
+    {
+      "keyword": "holiday",
+      "mentions": 3
+    },
+    {
+      "keyword": "com",
+      "mentions": 3
+    },
+    {
+      "keyword": "mortgage",
+      "mentions": 2
+    },
+    {
+      "keyword": "today",
       "mentions": 2
     }
   ],
   "questions": [],
-  "discussion_highlights": [
-    {
-      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-      "source": "Hacker News",
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-      "score": 218,
-      "comments": 58
-    }
-  ],
+  "discussion_highlights": [],
   "news": [
-    {
-      "title": "‘If He Knew How Much Stuff I Was Buying, He’d See Me Differently’ - The Cut",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUVk2RDlUaGoySy12LWZRYWUzMkxTdHVLc3ZSR1VhRGpacDFOQnZNYU1MWEVab1ZMaWtIRWxTLWtrV1J5b1J0a191LVJfeWlkQ1ZwQ0VodUJ2MlpqQXAtZGIxaENSNU12elpTLXlPbGdiaWt1bXFWbjJ3QjNWU3hOWQ?oc=5",
-      "published": "Thu, 19 Nov 2026 18:35:44 GMT",
-      "source": "The Cut"
-    },
     {
       "title": "Even Personal-Finance Devotees Struggle With Roth Conversions and IRS Rules - WSJ",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPczdnRWd5SFI0bExkcW1BS0xBTFU0Ukd1eDlWdnpFeGJJWnA5bjA1Q0tCWU1nbTI1UWU5TURWNW85dnRKWk1zVXhSVkxiRFhiSURZLTZGaU9WdzJndEp0R3BCQmx1TUYzYzFITDBWUVFLM0VDcURKdENZbDVaeDI0Yy1XX01nb0xCR3ExbzljRHJRLW1MSHVxY3FUY01PVm5CRGVEdFFCcFJMUnhGRllpbHZMUUZCTVNjZFM3WUtNNWZDeXlmc0E?oc=5",
@@ -80,40 +66,52 @@
       "source": "WSJ"
     },
     {
-      "title": "Why 'SNL' 'Sister' caregiving sketch hits so painfully close to home - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNmJPZFk1NkRad0I5LVdDOUV5d1VLQ3VfWGpNR1hzcW5xSGY3ZzEtWDdxVGFLZ09uTW85UWw2aXZGdjJhZGp4b0F1Q0FmQ0NIS2w3bTlSWmp4WG1KUkM3OFFSeUZtVE04NUlnSGlNcWlMbHlJRUU2T2d1a01vNGJDRThyQWk0YTRWMno0Q2kzVGQ0emtkMkVBSVk3elNWOVQ3X25ZMU9QLVFqS2hZaU5iNA?oc=5",
-      "published": "Sat, 21 Nov 2026 10:03:00 GMT",
-      "source": "USA Today"
-    },
-    {
-      "title": "Gold price today, Friday, November 20, 2026: Gold prices continue to fall as rate hike expectations crystallize - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTWVucXBjLXNwR3NFaDRBOEtsSTVNUnFfeXRCb3hndUlvT0V4VGpuV0ZLbnI1dzEzZmtOTnNMMlFZdVVkaFFTQ0M2aXY1S3dFOFRja1FwRFpYUFpXM0J4dGxCV0pMcEhoclJfa0NxR1loR2NEalljdjNMZEpVdkNzeS1QWUtZS1laRHYydWRGTFQwNi01MDdaNmhpZzlDTGZtUExVUURYWHJ0bTNiY3R5ZXhhbThvQmtadWtOOGxmc1EzeTdVSl9keGJxdGxvTzZkNHVTQjhZQWtlY0w0M1gtOFd1VlhLRXo0aFNTdEszb0ltQ0NZOXJfVXRqdE43TERBR0U2bWUzb3U4TVRwQ3hOdw?oc=5",
-      "published": "Fri, 20 Nov 2026 12:11:16 GMT",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Some FHA borrowers pay mortgage insurance for a decade or more. There's an industry push to change the rules - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYlpmVFA5aXJmTFN5dmllNVFzQjJwZGZHOUZ1eWt1WUFEWEtpLURtWTVMa0YwM0ZoVUpxaWY5LXJSNmdGWXhaRWxjMzE0M3N3a1RrTzRaWHExMnBVc3BhRUlIRG1PU1NaalVnbFJWRW9jbTRzM3E1S1BEcXFybzNkb2pjONIBiAFBVV95cUxPc1NLc0hZT1NLRTk3WUNTak9oU2NSSHJid0VfazdILW5qM0JERFNfLTI2dDlyNGlTSnMzaEFCM01GWlhvQjF5RXZEeXZIc204eTltUnpkSkdpLUtLNks4UEZ1VEFYRXNYbzdUUzR1TFlNU1FEZTh0ZVNhOXpGLVYwNjl4R1JyYUtN?oc=5",
-      "published": "Fri, 20 Nov 2026 13:35:01 GMT",
+      "title": "Retirees face a looming deadline for required withdrawals — missing it could trigger a tax penalty - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0azZHYWVmMW8wWXhacnh3MXFIZTQ5dGtJRmZuUmlWRWZxbWRCZ3RaV0Q3RUE4QWZJZHY0VnVKRXRMbTBVbXhGQW1mNHpvTE1vVkNFbFdiZ25fRm5lbTVEZFZ0Z0dfSTRuOE1uaUp0Z9IBdEFVX3lxTE5iQmt0dU1QTDhQLWNtLTJla0cybFkwQVBuLWtraVItaXhhamgwaDNBWlZTMmtJeDFHSVpSR2xab3hKV00xRlo0Q0RxTTR1bXp5YjZtbWVFNThHR2dsVW8xdXREVExUVHZnQkN4YUI5NndyTE1L?oc=5",
+      "published": "Sat, 21 Nov 2026 14:30:02 GMT",
       "source": "CNBC"
     },
     {
-      "title": "What to Buy at Costco for Thanksgiving – and What to Buy Elsewhere - US News Money",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTGNHc19JV0plYTl0T1YxZTNXMjhVNHlTNkpieWlBLUhONGd2N3NUdUQ2WHp6c19ZN19GQXEyM2dWYUVKMXRfS1MxbEZ2Szl5eXVPaHY2dmVpZHYwUnNCc0lZU2tfemVrdFR4WGFoalBUcEVqUmQtQVRBUjBDRE1pdENfR2xZYkIyR21ZTmNGS0I5QmtaZy1tSWNDZ090YXhfTzY4TkRtYmRzTUh4M0VuMVhrNGIyYUg4Vjd2eUN3?oc=5",
-      "published": "Fri, 20 Nov 2026 14:23:00 GMT",
-      "source": "US News Money"
+      "title": "Forget the mortgage. Behold the hidden costs of homeownership - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLUdwUEtyTGlZTWM0bl9uSjJkV1B3WGNxcko4ODJNZU9JaTJUM2EzRXk0Y3oyMmJodE5WREZnNVFNOTkyQjJaQnJHa3JjckloNWI5ZmVVUW9Wa0cwTmRWa1NrT0pSR0stNklNQzVONmNEOGh5YzR0SG5ocndVcC0tanpqU1JyWVhHeV9RQ0ZOd3E0dFBzN2NQNTBBQVRNZktLMnNKbmVreWhiTFYyX0xRdzNqYjA3OWZOdG1feHNvM21IbE5SSkhOanVrUjU1R3NSMVFPZnc0ZWlZdw?oc=5",
+      "published": "Sun, 22 Nov 2026 10:02:00 GMT",
+      "source": "USA Today"
     },
     {
-      "title": "California wants all high schoolers to learn financial literacy. It’s already happening in Fresno. - KVPR",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcTJoTTFKT3RLbHZ4MzYzUDEwanQ4QVAwVHp3a0dTTHpPbHlCdWlmZGtXRDV5VFpDbEs4VktjUkh6bUluNG1WYndPMjZsUUZjdS0yQklwcXNrR2hER3dBQlNtc1g2MFhDNkdyMUxIVTVtUmh5Sl9POUJtVnkzNkMyWXotYWluZDhWbnFsU0ZBOU5XU3pTa0g0QU43M2lhT0RpZVY3c3NFbTRJZ0hCUzVFS2U1LXBVeTZXaFpILU9KdzZoTFRHSGNxRHZieU9vS3ZMRnBHQUN3LW12akFm?oc=5",
-      "published": "Wed, 18 Nov 2026 20:05:00 GMT",
-      "source": "KVPR"
-    },
-    {
-      "title": "He Handed His Daughter 50 Ounces of Gold in January, Worth $265,920 at the Record Close. It's Down to About $177,000 Now, and if He Needs Medicaid, His Penalty Will Still Be Figured on $265,920 - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQd0JLMEhfcmt2dFptcURqWGpfQXUydXJxdExHOG45eVpib0poeHljSy1vMU54QjhWQ3pjN1VBbW9NVmVadk1INF9nN1pVYnI5UkRhSUg5WENIWW5tTWlORWY1cTljZ2l5NVJtbmlDdDBjMG9nRmpZaU5kOW9zMWJzZ2o5RTZ6THRJLXdDOWU0a1AyNWVDeDNxSW9DZWMzejNiVUpMbkdybmZkQmsxYmxUWjlBMV9TSHlWcTZtRVZNSnVXc0ZwMTJxTUkwZ0xOMllTSWd1Q0xCOUtzWFBYZkNaOE9Xaks1eGRZTklYRmNrVGpLbGFldWRQN2hYTVNOdkh4OUdHbF90VXVoUDdQQ2o1ZTVweUhGbERfMy1mLUY4MzRoVUQ3VDNpVGtwaXJ6OEhYM1pTR2FBOG1Rckk1ZERBbGhTOTVSbnJzNkRRY0VwU3liZ3M?oc=5",
-      "published": "Sat, 21 Nov 2026 01:01:00 GMT",
+      "title": "\"If You're A Millionaire You're Broke.\" Grant Cardone Says A Million Dollars Was A Lot Of Money In 1960, But Not Anymore. Here's What It Really Takes To Be Rich - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPVGk1VVlhblpqSEFXLV95cUtGLXZxanRjMld5TzlOUW1OekFOb0JQLVRsR2YwRDlhcm5SaWdKamdWLVhMZWNOUkc1aDZJYzlwdTJGWGc2SkFqNEJCVlFmQ2tGR28zeWZiSnZvdktTeGFRTWkwQTVjU210MlJscVRUMUlqaTRHMmdHZUpCN2hrRWNyeHEyVVhyWDBIZ3FGbW1NYlJYcXhSbF82Y1p1X0NLa1BXVk5jMTJOejdFVzJTeUZFTS1WNjNXb292SXdIYl9xRzJ2a240bXlLdU5wbVl0NHo5SjJ3WGlTaHE1TTJadGtqUFhoa3dvYTU1M1hjZ2tzOHU1VnZLa3VINGt3TjZJYlF6SnZvejJWVThaSGdtWTVid0M0UmZqWGY0Yw?oc=5",
+      "published": "Sun, 22 Nov 2026 09:46:00 GMT",
       "source": "24/7 Wall St."
+    },
+    {
+      "title": "AI Is Making Retirement Planning Smarter and More Personalized. What Does That Mean for Your Portfolio? - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2hiMllXanJWZW96eU1QZ1E2MGJoMTI0M3Jxdk9kSzZGTWhrSWh2LVhHZ3dUOE5uNjdVNHkzMnNIRkRudFlHN0V4VGtSLWxiRFFYenptdElkQWtsa19zX3R1Z2FYZ3NfNU9vR2NVUl9PbXFjOTctWURLdk5pREFmc3FMYW9XSzJQZVpJY28tbmdqMmE1M3dVYXhMcTJ6OUxnSy1kSXUySV90Xzg?oc=5",
+      "published": "Sun, 22 Nov 2026 11:00:00 GMT",
+      "source": "Kiplinger"
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, Sunday, November 22, 2026: 5/1 ARM purchase rates down the most this past week - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOMXNaM2haQm0yUEljYWhySjdIZWZfRGFwMnptNk1NMVoyLUpnSkFOQWN4RFlJRm5JZnB1c2ZvamlucGM0bDJhcXdLVHEtNF9CVWp0MkRDdmFzMEZ5TUJiVkN0TkJfM2ZyU2paVW9PejhSSTU1OTU5ZFJ0QXJxczNjaDFKOXhNX3NFSi01cC1TTzNhRHFvdERmbkVBd3BWenp0cmo4T3pZaHFPejVoYy1pa2NQQzQ3bmR1aGxZSDhPWExxSGtraVZZNjdQUWJ5X0dhTmpXVFBLb2taQ3FVUWpyNlFZUy0wMVlJUW5XdXROR3hwUjlCWkh0X0Y1TkxpU3hEQTd3QTdHdWJ6bEJYYzNybzVoZjBMLUFfX05Lb0Rtbw?oc=5",
+      "published": "Sun, 22 Nov 2026 11:00:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "What It’s Like to Retire in Thailand - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNblNxd3ZNcTU3TVhPNFVJRkh3ekZVeE5EM2FvR2JlNnYtZjY4T2J4bHl2Vm10aU5NV3E0Y2o3T3oxY1g2dDhiN1M2UTlMWi1xdFZVZF9Fbm0zdHRjT3pVdk4xemdQYmJ1YWxJQnFFVEJMdlRZT1Fwd0U1Zk9tUlRBcg?oc=5",
+      "published": "Sat, 21 Nov 2026 17:00:00 GMT",
+      "source": "WSJ"
+    },
+    {
+      "title": "What to Do Now to Prepare for the Next Bank Outage - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BV3JpZ0Y3QnVhNjgxLVNLcldqX0diZVYtN0hQNy1GQjVJOXFnUFFCbWhqRWxvaDh3VkwzTGJBVGc5dS11MmJ4MmlHR3gtQUh1Z2lkVGFVYmJ4Qzk2MmVjbWN4WFJscERPbmE1OUo0Zw?oc=5",
+      "published": "Sun, 22 Nov 2026 02:00:00 GMT",
+      "source": "WSJ"
+    },
+    {
+      "title": "15 Budgeting Tips for Beginners to Manage Your Money Better - Ramsey Solutions",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YSTFYbmhsNm45QkV6d1ZJVTdKZGt5SU4xNkJrdjUwdW1rQXJBcGtTSXRaZXJNZlZVUHNnakpnVm1HMTBzSjlDLTFzQ0dObFNYY2M1bUFGUV9neC1hYXJFd2R2c2l5ZDBRRURXLVAwWl8wTzNKOUE?oc=5",
+      "published": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "source": "Ramsey Solutions"
     },
     {
       "title": "How to Save Money: 28 Ways - NerdWallet",
@@ -122,10 +120,10 @@
       "source": "NerdWallet"
     },
     {
-      "title": "How to trim your Thanksgiving grocery budget: Tips to save on your holiday meal - Click2Houston",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa2YzM2NSUUlrY19WNm5MRTBPMFJZM2Jtb1ZFOWUtTzh6Vm1xZmJqcjZrb28wZHo2VjgwbVhTa1h0VXpuQWMzaklqSzZ4WmhSRFY3ZXp3RGJ0RjRpbVBKV2wydzdDQl8yRGFYMm5oeHBGZkcyMVNpVTFCaHhmWGNDOE9ueTg1Rm9hTl9WaDQ4cWRPdVBCRjRhS2Y5MWJIdTNIekFvckZoUnJKOFcxOVJuUVVmcW1RV3BWdnQ3MEhGYUI1RkpfWjBsUXZObw?oc=5",
-      "published": "Sat, 21 Nov 2026 00:06:57 GMT",
-      "source": "Click2Houston"
+      "title": "Can reverse budgeting help boost your finances? - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdHhPUVNxb3VCVFNlNWVyYmdwVjFwSTNGMm5jUl9ucEtMUE9YQXl1bFRzTXlrUkJtWXlldHRlem5pbk9kMi1uWGFfM0E2aW9jN0N1eVRNczZpQVBHY0V4d2NLbXBhTWxjVzUweGV3WVVUeFplNllwY2VKYzFCZkNXR1lFaTh1RC1GN2FMZlBTNA?oc=5",
+      "published": "Fri, 20 Nov 2026 08:00:07 GMT",
+      "source": "Yahoo Finance UK"
     },
     {
       "title": "Holiday budgeting tips to help avoid unwanted debt - KUTV",
@@ -134,22 +132,16 @@
       "source": "KUTV"
     },
     {
-      "title": "Money Monday: Holiday Season Spending and Budgeting Tips - WEEK | 25 News Now",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHFLTmV2YnFfbVNjSkxYeEZCTlZuRWFEallGMmxHVzFhc042SzFFZ0M4dzhBM0dfZ0xaNWhUdk05WVdBTkt1Yks0NnpFRWVMaDljSWx1aXpsXy05NEI2a0Y2TW0wN0hwbGtnMmdZWm15NFh5VV84WUpGWGJsaVcwSjY2bFowbktub3pQY0luREllU1VXeUtHbmlNdw?oc=5",
-      "published": "Mon, 16 Nov 2026 18:18:00 GMT",
-      "source": "WEEK | 25 News Now"
-    },
-    {
       "title": "Tips to stay on budget through the holiday season - WREG.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSEN1MmdqZnhQaUphOHFvQTBTZmVnS201ZkN6T3pMWldBS0JFWVBCZTZCbGp3Y2F4WkViby1CYkpWVnFUMXhmVVRvaGx4LUtJQVhvSXUzLUhXQnlWZVp4dTQ2aGtUVmpGMjVMR29lWEVySm5aQTQ0aUtEd05QeWtGNElmc1TSAYoBQVVfeXFMTzlMeGU4MGE4eGc2QkV1R0NXUXM1SlhRM0l1cy1Kc0pWRkxOYVRDWGtLMFZWLWxteC1tQmgxUzdyUEk3NFR2ZVgxM1ZMWlZmdko2U0JaZFJGLWw3YzRtNkVDdHE1MnhlSGdHbl9QNERqbVpyMGI4X0hsR2MzaVE5OEEtVHJwaE9ObHN3?oc=5",
       "published": "Wed, 18 Nov 2026 16:24:27 GMT",
       "source": "WREG.com"
     },
     {
-      "title": "Budgeting tips for your Thanksgiving dinner - wandtv.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVDQ5QldwcjluOGhScVAwSE9kSHhSNHVTekVlMXhtRUxOeFlpTlBsZWo1ZW9IbGpKZnlpWUxVZDJBcjdEdlJ2a3dJUUZ0RzFjRE5DS05VTnhELTdWMzdBWTFQVmc4RUJhdXpyelRaR2sxejVhdnVaN0pwQ2pqR2lUbnNfdmI2VG8?oc=5",
-      "published": "Sun, 15 Nov 2026 21:11:00 GMT",
-      "source": "wandtv.com"
+      "title": "Money Monday: Holiday Season Spending and Budgeting Tips - WEEK | 25 News Now",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHFLTmV2YnFfbVNjSkxYeEZCTlZuRWFEallGMmxHVzFhc042SzFFZ0M4dzhBM0dfZ0xaNWhUdk05WVdBTkt1Yks0NnpFRWVMaDljSWx1aXpsXy05NEI2a0Y2TW0wN0hwbGtnMmdZWm15NFh5VV84WUpGWGJsaVcwSjY2bFowbktub3pQY0luREllU1VXeUtHbmlNdw?oc=5",
+      "published": "Mon, 16 Nov 2026 18:18:00 GMT",
+      "source": "WEEK | 25 News Now"
     },
     {
       "title": "Mother of four shares tips for Thanksgiving grocery budget - FOX 5 Atlanta",
@@ -158,15 +150,7 @@
       "source": "FOX 5 Atlanta"
     }
   ],
-  "hn_stories": [
-    {
-      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-      "score": 218,
-      "comments": 58,
-      "source": "Hacker News"
-    }
-  ],
+  "hn_stories": [],
   "trending_searches": [],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",
