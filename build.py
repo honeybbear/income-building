@@ -57,6 +57,7 @@ TOPICS = {
     "retirement-drift-playbook": ["retirement", "budgeting"],
     "fake-black-friday-deals": ["saving", "budgeting"],
     "budgeting-for-teens-playbook": ["budgeting", "family"],
+    "thanksgiving-dinner-budget": ["saving", "budgeting"],
 }
 
 
