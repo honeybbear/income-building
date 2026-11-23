@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T13:56:03Z",
+  "fetched_at": "2026-11-23T17:10:23Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -9,51 +9,51 @@
   "topics": [
     {
       "keyword": "money",
-      "mentions": 9
-    },
-    {
-      "keyword": "tips",
       "mentions": 8
     },
     {
-      "keyword": "budgeting",
+      "keyword": "tips",
+      "mentions": 7
+    },
+    {
+      "keyword": "holiday",
+      "mentions": 6
+    },
+    {
+      "keyword": "save",
       "mentions": 5
     },
     {
-      "keyword": "saving",
-      "mentions": 5
+      "keyword": "finance",
+      "mentions": 4
+    },
+    {
+      "keyword": "news",
+      "mentions": 4
+    },
+    {
+      "keyword": "budgeting",
+      "mentions": 4
+    },
+    {
+      "keyword": "budget",
+      "mentions": 4
     },
     {
       "keyword": "thanksgiving",
       "mentions": 4
     },
     {
-      "keyword": "finance",
+      "keyword": "personal",
       "mentions": 3
     },
     {
-      "keyword": "wsj",
+      "keyword": "rates",
       "mentions": 3
     },
     {
-      "keyword": "retirement",
+      "keyword": "fox",
       "mentions": 3
-    },
-    {
-      "keyword": "holiday",
-      "mentions": 3
-    },
-    {
-      "keyword": "com",
-      "mentions": 3
-    },
-    {
-      "keyword": "mortgage",
-      "mentions": 2
-    },
-    {
-      "keyword": "today",
-      "mentions": 2
     }
   ],
   "questions": [],
@@ -72,40 +72,40 @@
       "source": "CNBC"
     },
     {
-      "title": "Forget the mortgage. Behold the hidden costs of homeownership - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLUdwUEtyTGlZTWM0bl9uSjJkV1B3WGNxcko4ODJNZU9JaTJUM2EzRXk0Y3oyMmJodE5WREZnNVFNOTkyQjJaQnJHa3JjckloNWI5ZmVVUW9Wa0cwTmRWa1NrT0pSR0stNklNQzVONmNEOGh5YzR0SG5ocndVcC0tanpqU1JyWVhHeV9RQ0ZOd3E0dFBzN2NQNTBBQVRNZktLMnNKbmVreWhiTFYyX0xRdzNqYjA3OWZOdG1feHNvM21IbE5SSkhOanVrUjU1R3NSMVFPZnc0ZWlZdw?oc=5",
-      "published": "Sun, 22 Nov 2026 10:02:00 GMT",
-      "source": "USA Today"
+      "title": "President Nicole Farmer Hurd will leave Lafayette to lead Next Gen Personal Finance - News · Lafayette College",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHVpUlhfeTZRYW1iZkN6QXlRQWE3d2RGcGJtRUpZeGx4ZG5oblpWWUVlVkI4ZkRwemIwZEtWbDczSFdqZVJtNnpzM1hZTGt5bGpzSnVUa2N3amFSMnR0ZGI0OHJ0NFNjWm9FSHF5Yk82Q0tiSS1VSHhveGdRNFF6TUt4NDlpcU91dXJkQVIyM2dSLWtPeTlhckNzbTNqMlRqV2tObGpYQUs0b1gxbFBWMmVPR1NKT2diYWhwY0h0QQ?oc=5",
+      "published": "Sun, 22 Nov 2026 22:07:43 GMT",
+      "source": "News · Lafayette College"
     },
     {
-      "title": "\"If You're A Millionaire You're Broke.\" Grant Cardone Says A Million Dollars Was A Lot Of Money In 1960, But Not Anymore. Here's What It Really Takes To Be Rich - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPVGk1VVlhblpqSEFXLV95cUtGLXZxanRjMld5TzlOUW1OekFOb0JQLVRsR2YwRDlhcm5SaWdKamdWLVhMZWNOUkc1aDZJYzlwdTJGWGc2SkFqNEJCVlFmQ2tGR28zeWZiSnZvdktTeGFRTWkwQTVjU210MlJscVRUMUlqaTRHMmdHZUpCN2hrRWNyeHEyVVhyWDBIZ3FGbW1NYlJYcXhSbF82Y1p1X0NLa1BXVk5jMTJOejdFVzJTeUZFTS1WNjNXb292SXdIYl9xRzJ2a240bXlLdU5wbVl0NHo5SjJ3WGlTaHE1TTJadGtqUFhoa3dvYTU1M1hjZ2tzOHU1VnZLa3VINGt3TjZJYlF6SnZvejJWVThaSGdtWTVid0M0UmZqWGY0Yw?oc=5",
-      "published": "Sun, 22 Nov 2026 09:46:00 GMT",
-      "source": "24/7 Wall St."
-    },
-    {
-      "title": "AI Is Making Retirement Planning Smarter and More Personalized. What Does That Mean for Your Portfolio? - Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2hiMllXanJWZW96eU1QZ1E2MGJoMTI0M3Jxdk9kSzZGTWhrSWh2LVhHZ3dUOE5uNjdVNHkzMnNIRkRudFlHN0V4VGtSLWxiRFFYenptdElkQWtsa19zX3R1Z2FYZ3NfNU9vR2NVUl9PbXFjOTctWURLdk5pREFmc3FMYW9XSzJQZVpJY28tbmdqMmE1M3dVYXhMcTJ6OUxnSy1kSXUySV90Xzg?oc=5",
-      "published": "Sun, 22 Nov 2026 11:00:00 GMT",
+      "title": "Which Money Moment Had the Biggest Impact Over the Last 80 Years? Weigh In - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR0ZnbXpTWFhGcmdsQTlFMTZDZkZCLWF5RU5HX3FvUk9PVTVvUlNyeGdaYmhycE0yaHl0MHpuanVkNGhHbmFCMGhLZ3liRWc2b2pWTXRzOFNJYzhZeGQySDZMV3RWYjRja0NCajlfTEVVQ09UZ3V2ckEzcXJuMzlhN1pVTVlOQWIxTEVPUVhqWWUwSm8xT0NKU3BWTWVPWkRTLWZsVVFKdmZmbWs?oc=5",
+      "published": "Mon, 23 Nov 2026 16:00:00 GMT",
       "source": "Kiplinger"
     },
     {
-      "title": "Mortgage and refinance interest rates today, Sunday, November 22, 2026: 5/1 ARM purchase rates down the most this past week - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOMXNaM2haQm0yUEljYWhySjdIZWZfRGFwMnptNk1NMVoyLUpnSkFOQWN4RFlJRm5JZnB1c2ZvamlucGM0bDJhcXdLVHEtNF9CVWp0MkRDdmFzMEZ5TUJiVkN0TkJfM2ZyU2paVW9PejhSSTU1OTU5ZFJ0QXJxczNjaDFKOXhNX3NFSi01cC1TTzNhRHFvdERmbkVBd3BWenp0cmo4T3pZaHFPejVoYy1pa2NQQzQ3bmR1aGxZSDhPWExxSGtraVZZNjdQUWJ5X0dhTmpXVFBLb2taQ3FVUWpyNlFZUy0wMVlJUW5XdXROR3hwUjlCWkh0X0Y1TkxpU3hEQTd3QTdHdWJ6bEJYYzNybzVoZjBMLUFfX05Lb0Rtbw?oc=5",
-      "published": "Sun, 22 Nov 2026 11:00:00 GMT",
+      "title": "Mortgage and refinance interest rates today, Monday, November 23, 2026: Purchase mortgage rates lower than refinance rates - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOQkZCQWRzZXVBTW9SRnd1YklkZWhXSlpxRTVhMTNyR3cwT2hEUGxYLXJFeEZyMElTeHNoODh0SWJBS0JmQk1QdEt3RE9ETmswV1JGby01c21GTllrd24zYkJ6TEhzcXota3N3SnYxcjBVY1ItTzlvX0dSWU01UHNGbkw0cWVlZDhXWHFVdlFKaE91S0tYVmRpMVFwNXBsX3p3ZExCWEhLY3R0YnZiNEJLT3lzOThlSEVzbHVocWlxSDB4R1VFX2FEajA3NXZXbTNDVEZIekI3OGVGRnFJYVRCUDE5amRpV2x0RFNPTko1Y2MyRG5nT1ZEemtEYllxZE9Rd3ZwZGd4VWlkb3FKblY3QmVsb3lFX1p3V2F1QlNsaw?oc=5",
+      "published": "Mon, 23 Nov 2026 11:00:00 GMT",
       "source": "Yahoo Finance"
     },
     {
-      "title": "What It’s Like to Retire in Thailand - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNblNxd3ZNcTU3TVhPNFVJRkh3ekZVeE5EM2FvR2JlNnYtZjY4T2J4bHl2Vm10aU5NV3E0Y2o3T3oxY1g2dDhiN1M2UTlMWi1xdFZVZF9Fbm0zdHRjT3pVdk4xemdQYmJ1YWxJQnFFVEJMdlRZT1Fwd0U1Zk9tUlRBcg?oc=5",
-      "published": "Sat, 21 Nov 2026 17:00:00 GMT",
+      "title": "Next Gen Personal Finance Names Nicole Hurd Chief Executive Officer - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeHdENjR5N2hVQzhRNlRDVzFMaXhHelZZQ25welVUeU0xNllBYUdJbVlGeE5CdU1fQ2IwZjBlTThjc21URHNfNnJGS1RwM0hiVWo3TXZPYW1nQjI0cmNTUU5tVlp5MDh1QU43UEh3Rlp5V1d0bElOVnc3ZE1reFlIVzlfSjZqUS1YYmFNWTY3NzFXZUc1c25adTB4VFNIMVlhQ19OT2RUcDYwaGJleXEtV0hJZDhIU2hmeFJoSTFYUF9qSDN1QTVHSg?oc=5",
+      "published": "Sun, 22 Nov 2026 23:00:00 GMT",
+      "source": "Morningstar"
+    },
+    {
+      "title": "How to Support Your Grandchildren Without Straining Your Finances - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcFZIYnJLUmZ2LUhhRG1MWjlteHlNRURYZHZ1YnpjWVlHa1lDQTI3NzBiN2g3X1FlRllPTjI4V1Nud29Qa09saE5aYlJLSVNrdVJuUXVveHZMRFJ3dk1TbWtPRFlKRjFmLTZDY0FEdzhtSGpUQ0V0NWs1X1Q4VjVaSDNR?oc=5",
+      "published": "Fri, 20 Nov 2026 18:00:00 GMT",
       "source": "WSJ"
     },
     {
-      "title": "What to Do Now to Prepare for the Next Bank Outage - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BV3JpZ0Y3QnVhNjgxLVNLcldqX0diZVYtN0hQNy1GQjVJOXFnUFFCbWhqRWxvaDh3VkwzTGJBVGc5dS11MmJ4MmlHR3gtQUh1Z2lkVGFVYmJ4Qzk2MmVjbWN4WFJscERPbmE1OUo0Zw?oc=5",
-      "published": "Sun, 22 Nov 2026 02:00:00 GMT",
-      "source": "WSJ"
+      "title": "Are Black Friday Travel Bargains a Steal or a Trap? Here’s How to Tell - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeWx2bnRUMUpTYk1Tc3k0Zk1RY2JhSXM4aEd6RjhCa0NPVmZfNUxpV3VEWVI3bG1HaHBSbFFtNzJISFVlOTkxODVGbkpXc1lPV2J2eHJzUFZBbURjTERhcnhmR2dqamRxVm9wajcyb0FTeDQ3ZGpUQUV0VnFfd3lCLWFuOXlTX0wzTTJ3a09vbW5HN3REc3VfTXhnaEdZQzZOcmc?oc=5",
+      "published": "Mon, 23 Nov 2026 16:40:00 GMT",
+      "source": "Kiplinger"
     },
     {
       "title": "15 Budgeting Tips for Beginners to Manage Your Money Better - Ramsey Solutions",
@@ -114,16 +114,22 @@
       "source": "Ramsey Solutions"
     },
     {
+      "title": "Best Budgeting Apps Of 2026: Tested And Ranked - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5",
+      "published": "Mon, 23 Nov 2026 13:53:00 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Planning and budgeting tips for holiday shopping - LiveNOW from FOX",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xTDhUeDJueWZ0TG4zeHNHZE9NR1NoQWtfdnhNOEY4WW01OXV2NXZJQVpmX1Rwc2VqTUx5NTNybVIyUGwxa1RLV0E1VzZGUDAzZXY3ams3NnNUUFRSY1laUS1kUdIBaEFVX3lxTFA2ci04ekhYUzBGZ3BGZGVmRl9Cb3RnclEyZGtON055NXFlaHg5Y0RRdlBWWlNBSWc3czVfdkE4OElpLUZScTJvT2xvcGZCN09MYkxSWkZnYmRXYUlaSU9BdjVGNEVUQzRF?oc=5",
+      "published": "Sun, 22 Nov 2026 14:07:25 GMT",
+      "source": "LiveNOW from FOX"
+    },
+    {
       "title": "How to Save Money: 28 Ways - NerdWallet",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfRmx2UEk3TFNIeXRHdWJaOHNkTkg5QWFmY1g1aUpSNkNONzZyRk1lczZoRUxBaXB2RXdkeE0yVHUydzMwTkpPUkxsSlBSU1V2ZGoydWRfNTQxeGd6d1EwSVdMR0dNY0xJcnc?oc=5",
       "published": "Wed, 18 Nov 2026 08:00:00 GMT",
       "source": "NerdWallet"
-    },
-    {
-      "title": "Can reverse budgeting help boost your finances? - Yahoo Finance UK",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdHhPUVNxb3VCVFNlNWVyYmdwVjFwSTNGMm5jUl9ucEtMUE9YQXl1bFRzTXlrUkJtWXlldHRlem5pbk9kMi1uWGFfM0E2aW9jN0N1eVRNczZpQVBHY0V4d2NLbXBhTWxjVzUweGV3WVVUeFplNllwY2VKYzFCZkNXR1lFaTh1RC1GN2FMZlBTNA?oc=5",
-      "published": "Fri, 20 Nov 2026 08:00:07 GMT",
-      "source": "Yahoo Finance UK"
     },
     {
       "title": "Holiday budgeting tips to help avoid unwanted debt - KUTV",
@@ -136,12 +142,6 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSEN1MmdqZnhQaUphOHFvQTBTZmVnS201ZkN6T3pMWldBS0JFWVBCZTZCbGp3Y2F4WkViby1CYkpWVnFUMXhmVVRvaGx4LUtJQVhvSXUzLUhXQnlWZVp4dTQ2aGtUVmpGMjVMR29lWEVySm5aQTQ0aUtEd05QeWtGNElmc1TSAYoBQVVfeXFMTzlMeGU4MGE4eGc2QkV1R0NXUXM1SlhRM0l1cy1Kc0pWRkxOYVRDWGtLMFZWLWxteC1tQmgxUzdyUEk3NFR2ZVgxM1ZMWlZmdko2U0JaZFJGLWw3YzRtNkVDdHE1MnhlSGdHbl9QNERqbVpyMGI4X0hsR2MzaVE5OEEtVHJwaE9ObHN3?oc=5",
       "published": "Wed, 18 Nov 2026 16:24:27 GMT",
       "source": "WREG.com"
-    },
-    {
-      "title": "Money Monday: Holiday Season Spending and Budgeting Tips - WEEK | 25 News Now",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHFLTmV2YnFfbVNjSkxYeEZCTlZuRWFEallGMmxHVzFhc042SzFFZ0M4dzhBM0dfZ0xaNWhUdk05WVdBTkt1Yks0NnpFRWVMaDljSWx1aXpsXy05NEI2a0Y2TW0wN0hwbGtnMmdZWm15NFh5VV84WUpGWGJsaVcwSjY2bFowbktub3pQY0luREllU1VXeUtHbmlNdw?oc=5",
-      "published": "Mon, 16 Nov 2026 18:18:00 GMT",
-      "source": "WEEK | 25 News Now"
     },
     {
       "title": "Mother of four shares tips for Thanksgiving grocery budget - FOX 5 Atlanta",
