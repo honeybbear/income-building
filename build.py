@@ -58,6 +58,7 @@ TOPICS = {
     "fake-black-friday-deals": ["saving", "budgeting"],
     "budgeting-for-teens-playbook": ["budgeting", "family"],
     "thanksgiving-dinner-budget": ["saving", "budgeting"],
+    "black-friday-travel-deals": ["saving", "budgeting"],
 }
 
 
