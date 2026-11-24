@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T17:10:23Z",
+  "generated_at": "2026-11-24T16:53:16Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -7,38 +7,26 @@
       "id": "t-0",
       "kind": "trending-topic",
       "headline_options": [
-        "Money, explained in plain English",
-        "What you should actually know about money",
-        "Money: the honest beginner's guide"
+        "Washington, explained in plain English",
+        "What you should actually know about washington",
+        "Washington: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What money means in plain English",
+        "What washington means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "Which Money Moment Had the Biggest Impact Over the Last 80 Years? Weigh In - Kiplinger (Kiplinger)",
-        "15 Budgeting Tips for Beginners to Manage Your Money Better - Ramsey Solutions (Ramsey Solutions)",
-        "How to Save Money: 28 Ways - NerdWallet (NerdWallet)"
+        "Who in Washington owns and trades Nvidia stock (Hacker News)"
       ],
       "sources": [
         {
-          "title": "Which Money Moment Had the Biggest Impact Over the Last 80 Years? Weigh In - Kiplinger",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR0ZnbXpTWFhGcmdsQTlFMTZDZkZCLWF5RU5HX3FvUk9PVTVvUlNyeGdaYmhycE0yaHl0MHpuanVkNGhHbmFCMGhLZ3liRWc2b2pWTXRzOFNJYzhZeGQySDZMV3RWYjRja0NCajlfTEVVQ09UZ3V2ckEzcXJuMzlhN1pVTVlOQWIxTEVPUVhqWWUwSm8xT0NKU3BWTWVPWkRTLWZsVVFKdmZmbWs?oc=5",
-          "source": "Kiplinger"
-        },
-        {
-          "title": "15 Budgeting Tips for Beginners to Manage Your Money Better - Ramsey Solutions",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YSTFYbmhsNm45QkV6d1ZJVTdKZGt5SU4xNkJrdjUwdW1rQXJBcGtTSXRaZXJNZlZVUHNnakpnVm1HMTBzSjlDLTFzQ0dObFNYY2M1bUFGUV9neC1hYXJFd2R2c2l5ZDBRRURXLVAwWl8wTzNKOUE?oc=5",
-          "source": "Ramsey Solutions"
-        },
-        {
-          "title": "How to Save Money: 28 Ways - NerdWallet",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfRmx2UEk3TFNIeXRHdWJaOHNkTkg5QWFmY1g1aUpSNkNONzZyRk1lczZoRUxBaXB2RXdkeE0yVHUydzMwTkpPUkxsSlBSU1V2ZGoydWRfNTQxeGd6d1EwSVdMR0dNY0xJcnc?oc=5",
-          "source": "NerdWallet"
+          "title": "Who in Washington owns and trades Nvidia stock",
+          "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
+          "source": "Hacker News"
         }
       ]
     },
@@ -46,44 +34,26 @@
       "id": "t-1",
       "kind": "trending-topic",
       "headline_options": [
-        "Tips, explained in plain English",
-        "What you should actually know about tips",
-        "Tips: the honest beginner's guide"
+        "Owns, explained in plain English",
+        "What you should actually know about owns",
+        "Owns: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What tips means in plain English",
+        "What owns means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "15 Budgeting Tips for Beginners to Manage Your Money Better - Ramsey Solutions (Ramsey Solutions)",
-        "Planning and budgeting tips for holiday shopping - LiveNOW from FOX (LiveNOW from FOX)",
-        "Holiday budgeting tips to help avoid unwanted debt - KUTV (KUTV)",
-        "Tips to stay on budget through the holiday season - WREG.com (WREG.com)"
+        "Who in Washington owns and trades Nvidia stock (Hacker News)"
       ],
       "sources": [
         {
-          "title": "15 Budgeting Tips for Beginners to Manage Your Money Better - Ramsey Solutions",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YSTFYbmhsNm45QkV6d1ZJVTdKZGt5SU4xNkJrdjUwdW1rQXJBcGtTSXRaZXJNZlZVUHNnakpnVm1HMTBzSjlDLTFzQ0dObFNYY2M1bUFGUV9neC1hYXJFd2R2c2l5ZDBRRURXLVAwWl8wTzNKOUE?oc=5",
-          "source": "Ramsey Solutions"
-        },
-        {
-          "title": "Planning and budgeting tips for holiday shopping - LiveNOW from FOX",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xTDhUeDJueWZ0TG4zeHNHZE9NR1NoQWtfdnhNOEY4WW01OXV2NXZJQVpmX1Rwc2VqTUx5NTNybVIyUGwxa1RLV0E1VzZGUDAzZXY3ams3NnNUUFRSY1laUS1kUdIBaEFVX3lxTFA2ci04ekhYUzBGZ3BGZGVmRl9Cb3RnclEyZGtON055NXFlaHg5Y0RRdlBWWlNBSWc3czVfdkE4OElpLUZScTJvT2xvcGZCN09MYkxSWkZnYmRXYUlaSU9BdjVGNEVUQzRF?oc=5",
-          "source": "LiveNOW from FOX"
-        },
-        {
-          "title": "Holiday budgeting tips to help avoid unwanted debt - KUTV",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLWgxMERCa3JDRDljNzBWektRRUNQa0hiSEFPdkZOSXRpZ0hrZC1XOWJyLTNyZm5SZ0V4bFVGNFE2WkMydHI3ZTRVRmdvRXJmSGxhZXlRQmJ4TlhkcFBxbm52NUVFamVfRTBYekRxMWZpaHFQZUNyVlJfYkEtZG1BYThxaEdKUUJzY0gwb1A4WU5sZXM?oc=5",
-          "source": "KUTV"
-        },
-        {
-          "title": "Tips to stay on budget through the holiday season - WREG.com",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSEN1MmdqZnhQaUphOHFvQTBTZmVnS201ZkN6T3pMWldBS0JFWVBCZTZCbGp3Y2F4WkViby1CYkpWVnFUMXhmVVRvaGx4LUtJQVhvSXUzLUhXQnlWZVp4dTQ2aGtUVmpGMjVMR29lWEVySm5aQTQ0aUtEd05QeWtGNElmc1TSAYoBQVVfeXFMTzlMeGU4MGE4eGc2QkV1R0NXUXM1SlhRM0l1cy1Kc0pWRkxOYVRDWGtLMFZWLWxteC1tQmgxUzdyUEk3NFR2ZVgxM1ZMWlZmdko2U0JaZFJGLWw3YzRtNkVDdHE1MnhlSGdHbl9QNERqbVpyMGI4X0hsR2MzaVE5OEEtVHJwaE9ObHN3?oc=5",
-          "source": "WREG.com"
+          "title": "Who in Washington owns and trades Nvidia stock",
+          "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
+          "source": "Hacker News"
         }
       ]
     },
@@ -91,38 +61,26 @@
       "id": "t-2",
       "kind": "trending-topic",
       "headline_options": [
-        "Holiday, explained in plain English",
-        "What you should actually know about holiday",
-        "Holiday: the honest beginner's guide"
+        "Trades, explained in plain English",
+        "What you should actually know about trades",
+        "Trades: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What holiday means in plain English",
+        "What trades means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "Planning and budgeting tips for holiday shopping - LiveNOW from FOX (LiveNOW from FOX)",
-        "Holiday budgeting tips to help avoid unwanted debt - KUTV (KUTV)",
-        "Tips to stay on budget through the holiday season - WREG.com (WREG.com)"
+        "Who in Washington owns and trades Nvidia stock (Hacker News)"
       ],
       "sources": [
         {
-          "title": "Planning and budgeting tips for holiday shopping - LiveNOW from FOX",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xTDhUeDJueWZ0TG4zeHNHZE9NR1NoQWtfdnhNOEY4WW01OXV2NXZJQVpmX1Rwc2VqTUx5NTNybVIyUGwxa1RLV0E1VzZGUDAzZXY3ams3NnNUUFRSY1laUS1kUdIBaEFVX3lxTFA2ci04ekhYUzBGZ3BGZGVmRl9Cb3RnclEyZGtON055NXFlaHg5Y0RRdlBWWlNBSWc3czVfdkE4OElpLUZScTJvT2xvcGZCN09MYkxSWkZnYmRXYUlaSU9BdjVGNEVUQzRF?oc=5",
-          "source": "LiveNOW from FOX"
-        },
-        {
-          "title": "Holiday budgeting tips to help avoid unwanted debt - KUTV",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLWgxMERCa3JDRDljNzBWektRRUNQa0hiSEFPdkZOSXRpZ0hrZC1XOWJyLTNyZm5SZ0V4bFVGNFE2WkMydHI3ZTRVRmdvRXJmSGxhZXlRQmJ4TlhkcFBxbm52NUVFamVfRTBYekRxMWZpaHFQZUNyVlJfYkEtZG1BYThxaEdKUUJzY0gwb1A4WU5sZXM?oc=5",
-          "source": "KUTV"
-        },
-        {
-          "title": "Tips to stay on budget through the holiday season - WREG.com",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSEN1MmdqZnhQaUphOHFvQTBTZmVnS201ZkN6T3pMWldBS0JFWVBCZTZCbGp3Y2F4WkViby1CYkpWVnFUMXhmVVRvaGx4LUtJQVhvSXUzLUhXQnlWZVp4dTQ2aGtUVmpGMjVMR29lWEVySm5aQTQ0aUtEd05QeWtGNElmc1TSAYoBQVVfeXFMTzlMeGU4MGE4eGc2QkV1R0NXUXM1SlhRM0l1cy1Kc0pWRkxOYVRDWGtLMFZWLWxteC1tQmgxUzdyUEk3NFR2ZVgxM1ZMWlZmdko2U0JaZFJGLWw3YzRtNkVDdHE1MnhlSGdHbl9QNERqbVpyMGI4X0hsR2MzaVE5OEEtVHJwaE9ObHN3?oc=5",
-          "source": "WREG.com"
+          "title": "Who in Washington owns and trades Nvidia stock",
+          "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
+          "source": "Hacker News"
         }
       ]
     }

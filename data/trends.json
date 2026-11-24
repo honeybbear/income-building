@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-23T17:10:23Z",
+  "fetched_at": "2026-11-24T16:53:16Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -8,152 +8,52 @@
   ],
   "topics": [
     {
-      "keyword": "money",
-      "mentions": 8
+      "keyword": "washington",
+      "mentions": 1
     },
     {
-      "keyword": "tips",
-      "mentions": 7
+      "keyword": "owns",
+      "mentions": 1
     },
     {
-      "keyword": "holiday",
-      "mentions": 6
+      "keyword": "trades",
+      "mentions": 1
     },
     {
-      "keyword": "save",
-      "mentions": 5
+      "keyword": "nvidia",
+      "mentions": 1
     },
     {
-      "keyword": "finance",
-      "mentions": 4
-    },
-    {
-      "keyword": "news",
-      "mentions": 4
-    },
-    {
-      "keyword": "budgeting",
-      "mentions": 4
-    },
-    {
-      "keyword": "budget",
-      "mentions": 4
-    },
-    {
-      "keyword": "thanksgiving",
-      "mentions": 4
-    },
-    {
-      "keyword": "personal",
-      "mentions": 3
-    },
-    {
-      "keyword": "rates",
-      "mentions": 3
-    },
-    {
-      "keyword": "fox",
-      "mentions": 3
+      "keyword": "stock",
+      "mentions": 1
     }
   ],
   "questions": [],
-  "discussion_highlights": [],
-  "news": [
+  "discussion_highlights": [
     {
-      "title": "Even Personal-Finance Devotees Struggle With Roth Conversions and IRS Rules - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPczdnRWd5SFI0bExkcW1BS0xBTFU0Ukd1eDlWdnpFeGJJWnA5bjA1Q0tCWU1nbTI1UWU5TURWNW85dnRKWk1zVXhSVkxiRFhiSURZLTZGaU9WdzJndEp0R3BCQmx1TUYzYzFITDBWUVFLM0VDcURKdENZbDVaeDI0Yy1XX01nb0xCR3ExbzljRHJRLW1MSHVxY3FUY01PVm5CRGVEdFFCcFJMUnhGRllpbHZMUUZCTVNjZFM3WUtNNWZDeXlmc0E?oc=5",
-      "published": "Fri, 20 Nov 2026 10:30:00 GMT",
-      "source": "WSJ"
-    },
-    {
-      "title": "Retirees face a looming deadline for required withdrawals — missing it could trigger a tax penalty - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0azZHYWVmMW8wWXhacnh3MXFIZTQ5dGtJRmZuUmlWRWZxbWRCZ3RaV0Q3RUE4QWZJZHY0VnVKRXRMbTBVbXhGQW1mNHpvTE1vVkNFbFdiZ25fRm5lbTVEZFZ0Z0dfSTRuOE1uaUp0Z9IBdEFVX3lxTE5iQmt0dU1QTDhQLWNtLTJla0cybFkwQVBuLWtraVItaXhhamgwaDNBWlZTMmtJeDFHSVpSR2xab3hKV00xRlo0Q0RxTTR1bXp5YjZtbWVFNThHR2dsVW8xdXREVExUVHZnQkN4YUI5NndyTE1L?oc=5",
-      "published": "Sat, 21 Nov 2026 14:30:02 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "President Nicole Farmer Hurd will leave Lafayette to lead Next Gen Personal Finance - News · Lafayette College",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHVpUlhfeTZRYW1iZkN6QXlRQWE3d2RGcGJtRUpZeGx4ZG5oblpWWUVlVkI4ZkRwemIwZEtWbDczSFdqZVJtNnpzM1hZTGt5bGpzSnVUa2N3amFSMnR0ZGI0OHJ0NFNjWm9FSHF5Yk82Q0tiSS1VSHhveGdRNFF6TUt4NDlpcU91dXJkQVIyM2dSLWtPeTlhckNzbTNqMlRqV2tObGpYQUs0b1gxbFBWMmVPR1NKT2diYWhwY0h0QQ?oc=5",
-      "published": "Sun, 22 Nov 2026 22:07:43 GMT",
-      "source": "News · Lafayette College"
-    },
-    {
-      "title": "Which Money Moment Had the Biggest Impact Over the Last 80 Years? Weigh In - Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR0ZnbXpTWFhGcmdsQTlFMTZDZkZCLWF5RU5HX3FvUk9PVTVvUlNyeGdaYmhycE0yaHl0MHpuanVkNGhHbmFCMGhLZ3liRWc2b2pWTXRzOFNJYzhZeGQySDZMV3RWYjRja0NCajlfTEVVQ09UZ3V2ckEzcXJuMzlhN1pVTVlOQWIxTEVPUVhqWWUwSm8xT0NKU3BWTWVPWkRTLWZsVVFKdmZmbWs?oc=5",
-      "published": "Mon, 23 Nov 2026 16:00:00 GMT",
-      "source": "Kiplinger"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, Monday, November 23, 2026: Purchase mortgage rates lower than refinance rates - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOQkZCQWRzZXVBTW9SRnd1YklkZWhXSlpxRTVhMTNyR3cwT2hEUGxYLXJFeEZyMElTeHNoODh0SWJBS0JmQk1QdEt3RE9ETmswV1JGby01c21GTllrd24zYkJ6TEhzcXota3N3SnYxcjBVY1ItTzlvX0dSWU01UHNGbkw0cWVlZDhXWHFVdlFKaE91S0tYVmRpMVFwNXBsX3p3ZExCWEhLY3R0YnZiNEJLT3lzOThlSEVzbHVocWlxSDB4R1VFX2FEajA3NXZXbTNDVEZIekI3OGVGRnFJYVRCUDE5amRpV2x0RFNPTko1Y2MyRG5nT1ZEemtEYllxZE9Rd3ZwZGd4VWlkb3FKblY3QmVsb3lFX1p3V2F1QlNsaw?oc=5",
-      "published": "Mon, 23 Nov 2026 11:00:00 GMT",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Next Gen Personal Finance Names Nicole Hurd Chief Executive Officer - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeHdENjR5N2hVQzhRNlRDVzFMaXhHelZZQ25welVUeU0xNllBYUdJbVlGeE5CdU1fQ2IwZjBlTThjc21URHNfNnJGS1RwM0hiVWo3TXZPYW1nQjI0cmNTUU5tVlp5MDh1QU43UEh3Rlp5V1d0bElOVnc3ZE1reFlIVzlfSjZqUS1YYmFNWTY3NzFXZUc1c25adTB4VFNIMVlhQ19OT2RUcDYwaGJleXEtV0hJZDhIU2hmeFJoSTFYUF9qSDN1QTVHSg?oc=5",
-      "published": "Sun, 22 Nov 2026 23:00:00 GMT",
-      "source": "Morningstar"
-    },
-    {
-      "title": "How to Support Your Grandchildren Without Straining Your Finances - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcFZIYnJLUmZ2LUhhRG1MWjlteHlNRURYZHZ1YnpjWVlHa1lDQTI3NzBiN2g3X1FlRllPTjI4V1Nud29Qa09saE5aYlJLSVNrdVJuUXVveHZMRFJ3dk1TbWtPRFlKRjFmLTZDY0FEdzhtSGpUQ0V0NWs1X1Q4VjVaSDNR?oc=5",
-      "published": "Fri, 20 Nov 2026 18:00:00 GMT",
-      "source": "WSJ"
-    },
-    {
-      "title": "Are Black Friday Travel Bargains a Steal or a Trap? Here’s How to Tell - Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeWx2bnRUMUpTYk1Tc3k0Zk1RY2JhSXM4aEd6RjhCa0NPVmZfNUxpV3VEWVI3bG1HaHBSbFFtNzJISFVlOTkxODVGbkpXc1lPV2J2eHJzUFZBbURjTERhcnhmR2dqamRxVm9wajcyb0FTeDQ3ZGpUQUV0VnFfd3lCLWFuOXlTX0wzTTJ3a09vbW5HN3REc3VfTXhnaEdZQzZOcmc?oc=5",
-      "published": "Mon, 23 Nov 2026 16:40:00 GMT",
-      "source": "Kiplinger"
-    },
-    {
-      "title": "15 Budgeting Tips for Beginners to Manage Your Money Better - Ramsey Solutions",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YSTFYbmhsNm45QkV6d1ZJVTdKZGt5SU4xNkJrdjUwdW1rQXJBcGtTSXRaZXJNZlZVUHNnakpnVm1HMTBzSjlDLTFzQ0dObFNYY2M1bUFGUV9neC1hYXJFd2R2c2l5ZDBRRURXLVAwWl8wTzNKOUE?oc=5",
-      "published": "Wed, 18 Nov 2026 08:00:00 GMT",
-      "source": "Ramsey Solutions"
-    },
-    {
-      "title": "Best Budgeting Apps Of 2026: Tested And Ranked - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5",
-      "published": "Mon, 23 Nov 2026 13:53:00 GMT",
-      "source": "Forbes"
-    },
-    {
-      "title": "Planning and budgeting tips for holiday shopping - LiveNOW from FOX",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xTDhUeDJueWZ0TG4zeHNHZE9NR1NoQWtfdnhNOEY4WW01OXV2NXZJQVpmX1Rwc2VqTUx5NTNybVIyUGwxa1RLV0E1VzZGUDAzZXY3ams3NnNUUFRSY1laUS1kUdIBaEFVX3lxTFA2ci04ekhYUzBGZ3BGZGVmRl9Cb3RnclEyZGtON055NXFlaHg5Y0RRdlBWWlNBSWc3czVfdkE4OElpLUZScTJvT2xvcGZCN09MYkxSWkZnYmRXYUlaSU9BdjVGNEVUQzRF?oc=5",
-      "published": "Sun, 22 Nov 2026 14:07:25 GMT",
-      "source": "LiveNOW from FOX"
-    },
-    {
-      "title": "How to Save Money: 28 Ways - NerdWallet",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfRmx2UEk3TFNIeXRHdWJaOHNkTkg5QWFmY1g1aUpSNkNONzZyRk1lczZoRUxBaXB2RXdkeE0yVHUydzMwTkpPUkxsSlBSU1V2ZGoydWRfNTQxeGd6d1EwSVdMR0dNY0xJcnc?oc=5",
-      "published": "Wed, 18 Nov 2026 08:00:00 GMT",
-      "source": "NerdWallet"
-    },
-    {
-      "title": "Holiday budgeting tips to help avoid unwanted debt - KUTV",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLWgxMERCa3JDRDljNzBWektRRUNQa0hiSEFPdkZOSXRpZ0hrZC1XOWJyLTNyZm5SZ0V4bFVGNFE2WkMydHI3ZTRVRmdvRXJmSGxhZXlRQmJ4TlhkcFBxbm52NUVFamVfRTBYekRxMWZpaHFQZUNyVlJfYkEtZG1BYThxaEdKUUJzY0gwb1A4WU5sZXM?oc=5",
-      "published": "Tue, 17 Nov 2026 20:20:18 GMT",
-      "source": "KUTV"
-    },
-    {
-      "title": "Tips to stay on budget through the holiday season - WREG.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSEN1MmdqZnhQaUphOHFvQTBTZmVnS201ZkN6T3pMWldBS0JFWVBCZTZCbGp3Y2F4WkViby1CYkpWVnFUMXhmVVRvaGx4LUtJQVhvSXUzLUhXQnlWZVp4dTQ2aGtUVmpGMjVMR29lWEVySm5aQTQ0aUtEd05QeWtGNElmc1TSAYoBQVVfeXFMTzlMeGU4MGE4eGc2QkV1R0NXUXM1SlhRM0l1cy1Kc0pWRkxOYVRDWGtLMFZWLWxteC1tQmgxUzdyUEk3NFR2ZVgxM1ZMWlZmdko2U0JaZFJGLWw3YzRtNkVDdHE1MnhlSGdHbl9QNERqbVpyMGI4X0hsR2MzaVE5OEEtVHJwaE9ObHN3?oc=5",
-      "published": "Wed, 18 Nov 2026 16:24:27 GMT",
-      "source": "WREG.com"
-    },
-    {
-      "title": "Mother of four shares tips for Thanksgiving grocery budget - FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xb05vRFhTNktHRWlPbmJvU294XzBwS2RVM2FKQTV1NVBHc18tWWhVNmVobjQ0V29UanBKQWVfQnBYV2xUZk1icFhpLTkzc1RFRzF5SjR5TlJkTHh6ZWR0cFZhclDSAWpBVV95cUxPVlVBdWg5VXlCaGlwUDc3Rm5uS3NaWkNUSUQ3bDNyRHVaVnYzQzFEVWVvSk44SzFETHBKOWZReHdhTWtsYmo4bWFwZVJqOWlVVnpfUTlMbzh0YVVpMmVKb3dlaVM0eTl3QU5B?oc=5",
-      "published": "Thu, 19 Nov 2026 21:47:04 GMT",
-      "source": "FOX 5 Atlanta"
+      "title": "Who in Washington owns and trades Nvidia stock",
+      "source": "Hacker News",
+      "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
+      "score": 253,
+      "comments": 134
     }
   ],
-  "hn_stories": [],
+  "news": [],
+  "hn_stories": [
+    {
+      "title": "Who in Washington owns and trades Nvidia stock",
+      "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
+      "score": 253,
+      "comments": 134,
+      "source": "Hacker News"
+    }
+  ],
   "trending_searches": [],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",
-    "reddit r/financialindependence: HTTP Error 403: Blocked"
+    "reddit r/financialindependence: HTTP Error 403: Blocked",
+    "google news 'personal finance': HTTP Error 503: Service Unavailable",
+    "google news 'budgeting tips': HTTP Error 503: Service Unavailable",
+    "google news 'saving money': HTTP Error 503: Service Unavailable"
   ]
 }
