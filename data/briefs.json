@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T16:53:16Z",
+  "generated_at": "2026-11-25T16:40:51Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
@@ -7,25 +7,43 @@
       "id": "t-0",
       "kind": "trending-topic",
       "headline_options": [
-        "Washington, explained in plain English",
-        "What you should actually know about washington",
-        "Washington: the honest beginner's guide"
+        "Money, explained in plain English",
+        "What you should actually know about money",
+        "Money: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What washington means in plain English",
+        "What money means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "Who in Washington owns and trades Nvidia stock (Hacker News)"
+        "This Game of Tradeoffs Will Test Whether You Can Secure Your Money for Old Age - WSJ (WSJ)",
+        "Is It a Good Idea to Use the Same Financial Advisor as Your Parents? - MONEY (MONEY)",
+        "How to Save Money: 28 Ways - NerdWallet (NerdWallet)",
+        "Launch HN: Versine (YC F26) – MCP to send and receive money (Hacker News)"
       ],
       "sources": [
         {
-          "title": "Who in Washington owns and trades Nvidia stock",
-          "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
+          "title": "This Game of Tradeoffs Will Test Whether You Can Secure Your Money for Old Age - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc1FFdkI5bXJ0eS0tMVk0TGRqRHpzMjR0czQ3aGpMSVVxWTlMUGswcURaZ05hT3RPSjNYc3VfQXVzVXR4OHZFbzdDb0ZnTUswWU8xYzNKZkstRGhSYzdsVVJDdXZ1UE5mVl8zMndzRE9QZ0JreWU4cWtnaUNZc2pFbFpB?oc=5",
+          "source": "WSJ"
+        },
+        {
+          "title": "Is It a Good Idea to Use the Same Financial Advisor as Your Parents? - MONEY",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tUkxVWlpKSnpiek8xNTUtNTdRYkJQM05UUFhfSzUxV0kxSlRxNnBVeTdLa2xSQU9VSnlmZkVGTEZFWE1zTzJ6TlFzV0JWQnJURlRoVXZjSXd1ZVVnUXNVcnF4MElIdw?oc=5",
+          "source": "MONEY"
+        },
+        {
+          "title": "How to Save Money: 28 Ways - NerdWallet",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfRmx2UEk3TFNIeXRHdWJaOHNkTkg5QWFmY1g1aUpSNkNONzZyRk1lczZoRUxBaXB2RXdkeE0yVHUydzMwTkpPUkxsSlBSU1V2ZGoydWRfNTQxeGd6d1EwSVdMR0dNY0xJcnc?oc=5",
+          "source": "NerdWallet"
+        },
+        {
+          "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+          "url": "https://news.ycombinator.com/item?id=50634426",
           "source": "Hacker News"
         }
       ]
@@ -34,26 +52,44 @@
       "id": "t-1",
       "kind": "trending-topic",
       "headline_options": [
-        "Owns, explained in plain English",
-        "What you should actually know about owns",
-        "Owns: the honest beginner's guide"
+        "Tips, explained in plain English",
+        "What you should actually know about tips",
+        "Tips: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What owns means in plain English",
+        "What tips means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "Who in Washington owns and trades Nvidia stock (Hacker News)"
+        "Will gas prices continue going down? Colorado expert speaks on budgeting tips for the holidays - KKTV (KKTV)",
+        "M&A Lawyer Fees in France 2026: Fee Models, Costs and Budgeting Tips - Global Advisory Experts (Global Advisory Experts)",
+        "Planning and budgeting tips for holiday shopping - LiveNOW from FOX (LiveNOW from FOX)",
+        "Second-hand shopping for the holidays | Tips for gifting on a budget - WUSA9 (WUSA9)"
       ],
       "sources": [
         {
-          "title": "Who in Washington owns and trades Nvidia stock",
-          "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
-          "source": "Hacker News"
+          "title": "Will gas prices continue going down? Colorado expert speaks on budgeting tips for the holidays - KKTV",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSzZBUC1mRnFHM1ptcTlsdnp5UXZma1VVNnc1NWFUUENEbDNRUl90ZXFRZDBISkt5UU40bDZtREFJREFUMThQMVhBX2tkQVpaY3NXa25lUEpMQU93WXRsUHBtZFZWN0NieEFwVFlZVXdMWkV0SUtTbUEybDl2NHhPQUJrQXkxWDE0NXdOWGZnVkdGTUxqcEpDS0NxTkdSTXpUNkVFdzk1b01aT1VIOFpxdng3dVhaUdIBygFBVV95cUxOakpLcHU3elZ2Q0lFNWhCekNvWFI3M0hURGpBd1FiLUYwUXY2Z2JYUTFhdmpJWkVIemxIVkFKcEZrQW5MTGF2UHo2S2JCcWNSR1l3V2VYcE80Tmxab25LODJqb3FnWVVxblg4Q0xId2twVHlEOXFKWTNkdF8xdGRNS1B0QWlXQk53VENyVnAwUDlQdldjUWJUbmNqUjlIdHZxZlV6T0VXc2xDWDJxV2dOYkZjNzB6VjU0aFpzZFMwZGw0ZEx0bXU3QXpR?oc=5",
+          "source": "KKTV"
+        },
+        {
+          "title": "M&A Lawyer Fees in France 2026: Fee Models, Costs and Budgeting Tips - Global Advisory Experts",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rNVluYngtenJBZ1B6bWpyUlA4dnIyR0xjMHUwTVFjZEZnV1o3bENJOGkzbWw4X3FLVGMtTXUwN211b20wNGZfaGR5azQ3X0NwUXFKZG54R1VBaHI0THh6UWp4RzhsZTBwRFJzNU1KU1JTRHhFTHI3UVhCRms?oc=5",
+          "source": "Global Advisory Experts"
+        },
+        {
+          "title": "Planning and budgeting tips for holiday shopping - LiveNOW from FOX",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xTDhUeDJueWZ0TG4zeHNHZE9NR1NoQWtfdnhNOEY4WW01OXV2NXZJQVpmX1Rwc2VqTUx5NTNybVIyUGwxa1RLV0E1VzZGUDAzZXY3ams3NnNUUFRSY1laUS1kUdIBaEFVX3lxTFA2ci04ekhYUzBGZ3BGZGVmRl9Cb3RnclEyZGtON055NXFlaHg5Y0RRdlBWWlNBSWc3czVfdkE4OElpLUZScTJvT2xvcGZCN09MYkxSWkZnYmRXYUlaSU9BdjVGNEVUQzRF?oc=5",
+          "source": "LiveNOW from FOX"
+        },
+        {
+          "title": "Second-hand shopping for the holidays | Tips for gifting on a budget - WUSA9",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVV9va0ZoYmwwWlczWF9KWWtKT2xpLV9qN1JFTWlkTktXbWF0N1hGc2xpZEZJWTdoVGJwSkg0UzlRdm9Sam8yalA3RW42cHV1Qy1Eenh6a2Jpbm9ySVZKOXlRNER2VGNSdUVRQUxrRkhwYmFVZllsQlRRU2pOdmU1YUhEZm9qN0tacVR1QUFuZXVIWF84RUZleVc5VzVQMjZRRjZIVjhHaVBuZ3ZvZ3VxQUNYbWhacGt4cGdkR0dMTzFrUQ?oc=5",
+          "source": "WUSA9"
         }
       ]
     },
@@ -61,26 +97,32 @@
       "id": "t-2",
       "kind": "trending-topic",
       "headline_options": [
-        "Trades, explained in plain English",
-        "What you should actually know about trades",
-        "Trades: the honest beginner's guide"
+        "Save, explained in plain English",
+        "What you should actually know about save",
+        "Save: the honest beginner's guide"
       ],
       "angle": "Evergreen explainer on a topic people are actively reading about.",
       "outline": [
-        "What trades means in plain English",
+        "What save means in plain English",
         "Why it matters for your budget",
         "What the current discussion is saying",
         "Common mistakes",
         "Sensible next steps"
       ],
       "key_points": [
-        "Who in Washington owns and trades Nvidia stock (Hacker News)"
+        "How to Save Money: 28 Ways - NerdWallet (NerdWallet)",
+        "How to trim your Thanksgiving grocery budget: Tips to save on your holiday meal - Click2Houston (Click2Houston)"
       ],
       "sources": [
         {
-          "title": "Who in Washington owns and trades Nvidia stock",
-          "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
-          "source": "Hacker News"
+          "title": "How to Save Money: 28 Ways - NerdWallet",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfRmx2UEk3TFNIeXRHdWJaOHNkTkg5QWFmY1g1aUpSNkNONzZyRk1lczZoRUxBaXB2RXdkeE0yVHUydzMwTkpPUkxsSlBSU1V2ZGoydWRfNTQxeGd6d1EwSVdMR0dNY0xJcnc?oc=5",
+          "source": "NerdWallet"
+        },
+        {
+          "title": "How to trim your Thanksgiving grocery budget: Tips to save on your holiday meal - Click2Houston",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa2YzM2NSUUlrY19WNm5MRTBPMFJZM2Jtb1ZFOWUtTzh6Vm1xZmJqcjZrb28wZHo2VjgwbVhTa1h0VXpuQWMzaklqSzZ4WmhSRFY3ZXp3RGJ0RjRpbVBKV2wydzdDQl8yRGFYMm5oeHBGZkcyMVNpVTFCaHhmWGNDOE9ueTg1Rm9hTl9WaDQ4cWRPdVBCRjRhS2Y5MWJIdTNIekFvckZoUnJKOFcxOVJuUVVmcW1RV3BWdnQ3MEhGYUI1RkpfWjBsUXZObw?oc=5",
+          "source": "Click2Houston"
         }
       ]
     }

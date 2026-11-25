@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-24T16:53:16Z",
+  "fetched_at": "2026-11-25T16:40:51Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -8,52 +8,191 @@
   ],
   "topics": [
     {
-      "keyword": "washington",
-      "mentions": 1
+      "keyword": "money",
+      "mentions": 9
     },
     {
-      "keyword": "owns",
-      "mentions": 1
+      "keyword": "tips",
+      "mentions": 6
     },
     {
-      "keyword": "trades",
-      "mentions": 1
+      "keyword": "save",
+      "mentions": 6
     },
     {
-      "keyword": "nvidia",
-      "mentions": 1
+      "keyword": "budgeting",
+      "mentions": 5
     },
     {
-      "keyword": "stock",
-      "mentions": 1
+      "keyword": "news",
+      "mentions": 4
+    },
+    {
+      "keyword": "holiday",
+      "mentions": 4
+    },
+    {
+      "keyword": "next",
+      "mentions": 3
+    },
+    {
+      "keyword": "personal",
+      "mentions": 3
+    },
+    {
+      "keyword": "finance",
+      "mentions": 3
+    },
+    {
+      "keyword": "prices",
+      "mentions": 3
+    },
+    {
+      "keyword": "financial",
+      "mentions": 3
+    },
+    {
+      "keyword": "using",
+      "mentions": 3
     }
   ],
   "questions": [],
   "discussion_highlights": [
     {
-      "title": "Who in Washington owns and trades Nvidia stock",
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
       "source": "Hacker News",
-      "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
-      "score": 253,
-      "comments": 134
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "score": 193,
+      "comments": 77
+    },
+    {
+      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "score": 98,
+      "comments": 92
     }
   ],
-  "news": [],
+  "news": [
+    {
+      "title": "Next Gen Personal Finance Names Nicole Hurd Chief Executive Officer - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZFFmSUpZWHBPNnpuOHdwYU5JVDJJN2w2NjRPRV9Ea3YtVlR0VUpiRUJlVzV5LUtidDl4bnRXWmdYajI2R3Y4Y1JLNXYwWmlJWUZHd1d1MzdRbW5EWnBqaEUxSWtxZDl4T0ZyZUd4bm1kcGI0MjY4Z2RKMFo5NTBaeUI3THYyZkI3djVZcWNHeVdBTGl4WGtkZG82elRRYVdKXzNHeDVPNjB4UFcyeVN2WWdkX0U4d3lpNkJoVGJHOG8tdw?oc=5",
+      "published": "Sun, 22 Nov 2026 23:00:00 GMT",
+      "source": "Business Wire"
+    },
+    {
+      "title": "Gold price today, Wednesday, November 25, 2026: Gold prices fall as inflation data and potential new tariffs loom - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPb3dFeUN5SkJCNHNoN2FGTDYzdHNOcXJtS0NVRlBDWUJtOFNiMndWMXBHNHJ0SHFRbm1ORkdDTUtBVEQ4ZUJlRC1QeU5xZ2VPVHVNTVNMa3E2SHpheU5XSGY0YVJEcS1OSmpKM21nTGx4QS1zVUxKWHVNeFd4Wko5NUltTHNTQTU2am1tRjZkX3dGTUttQ09DcUJaYmloUXExakZRUnFCVURWUy1sbENFdXFubllDSXVvZVgtVk5WejVKQzVZY1Nvbkx5N2hxNzhhelVheFlVTUFzNkJhMV9ISm9sR3cxanB0RXhlRGVyNmswd09EOXZuVU5kR3hJVXV4Vk9Wal9ReWY4M29mTGR1bHdhbw?oc=5",
+      "published": "Wed, 25 Nov 2026 12:15:48 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "President Nicole Farmer Hurd will leave Lafayette to lead Next Gen Personal Finance - News · Lafayette College",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHVpUlhfeTZRYW1iZkN6QXlRQWE3d2RGcGJtRUpZeGx4ZG5oblpWWUVlVkI4ZkRwemIwZEtWbDczSFdqZVJtNnpzM1hZTGt5bGpzSnVUa2N3amFSMnR0ZGI0OHJ0NFNjWm9FSHF5Yk82Q0tiSS1VSHhveGdRNFF6TUt4NDlpcU91dXJkQVIyM2dSLWtPeTlhckNzbTNqMlRqV2tObGpYQUs0b1gxbFBWMmVPR1NKT2diYWhwY0h0QQ?oc=5",
+      "published": "Sun, 22 Nov 2026 22:07:43 GMT",
+      "source": "News · Lafayette College"
+    },
+    {
+      "title": "This Game of Tradeoffs Will Test Whether You Can Secure Your Money for Old Age - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc1FFdkI5bXJ0eS0tMVk0TGRqRHpzMjR0czQ3aGpMSVVxWTlMUGswcURaZ05hT3RPSjNYc3VfQXVzVXR4OHZFbzdDb0ZnTUswWU8xYzNKZkstRGhSYzdsVVJDdXZ1UE5mVl8zMndzRE9QZ0JreWU4cWtnaUNZc2pFbFpB?oc=5",
+      "published": "Wed, 25 Nov 2026 15:01:13 GMT",
+      "source": "WSJ"
+    },
+    {
+      "title": "Is Your Financial Professional Using AI (and Your Personal Data) Responsibly? - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYTJqTC1Yc1VLeFVkcDVQUlp4OHJKdUlSdDBRdURUOXpqdlNBNW41SFZySzZWTXpRbmlHMDRmOXlqMXQtaUlEX1pfSVBBaTY2TmR4UXlZaTR5NGpibUw4NmRRdFZPS2tHZVc4SlJHbWtZZmFkS2had2JOYW1IRnZqT0pYZ19OelM4dFBBNmtmcmxld243LVRDRXhiRDRybkhLYkJKWDNpT080YUZiOUltM2xWa3drSnYxamp2Nm84S2Y0Y2lyeWdMRlo3Yw?oc=5",
+      "published": "Wed, 25 Nov 2026 11:00:00 GMT",
+      "source": "Kiplinger"
+    },
+    {
+      "title": "Today’s top high-yield savings rates: Up to 4.70% on Nov. 25, 2026 - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SNHVVbzdCeDJ6WW1fVU0wQjJzRVZxYzV2eW85eWN6NDgwSU9aVlNLLUFDcTVyRlM2NXV0VE9aY0xSUGNtZ1BPWHVLR2tmRlhpc25nQnBiSkFCTDhKMUdzb0ZncHhVN2lzWG5yeW53S1UyTk90?oc=5",
+      "published": "Wed, 25 Nov 2026 11:01:00 GMT",
+      "source": "Fortune"
+    },
+    {
+      "title": "Is It a Good Idea to Use the Same Financial Advisor as Your Parents? - MONEY",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tUkxVWlpKSnpiek8xNTUtNTdRYkJQM05UUFhfSzUxV0kxSlRxNnBVeTdLa2xSQU9VSnlmZkVGTEZFWE1zTzJ6TlFzV0JWQnJURlRoVXZjSXd1ZVVnUXNVcnF4MElIdw?oc=5",
+      "published": "Wed, 25 Nov 2026 12:26:00 GMT",
+      "source": "MONEY"
+    },
+    {
+      "title": "5 Financial Products We Should All Be Thankful For - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdUFPVmtJUDQyUS1xMXEzZkVrNWtuTGJMMkNic3lKVEswLXBhaEc1VksyRnd1Rk5Ha21QdUVLTVMyaXhLYURVLUlhamltTGxpZGJYY2xkX2JmcHpyVUE2cVVuV1E1RW1YZ29tYkdnNlJKMTRiWkxfdDBVNTZ6d09IZkMyX25XTDFYRlUyTHkzV25OZnpUQ2tnbg?oc=5",
+      "published": "Wed, 25 Nov 2026 14:33:00 GMT",
+      "source": "TheStreet"
+    },
+    {
+      "title": "Will gas prices continue going down? Colorado expert speaks on budgeting tips for the holidays - KKTV",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSzZBUC1mRnFHM1ptcTlsdnp5UXZma1VVNnc1NWFUUENEbDNRUl90ZXFRZDBISkt5UU40bDZtREFJREFUMThQMVhBX2tkQVpaY3NXa25lUEpMQU93WXRsUHBtZFZWN0NieEFwVFlZVXdMWkV0SUtTbUEybDl2NHhPQUJrQXkxWDE0NXdOWGZnVkdGTUxqcEpDS0NxTkdSTXpUNkVFdzk1b01aT1VIOFpxdng3dVhaUdIBygFBVV95cUxOakpLcHU3elZ2Q0lFNWhCekNvWFI3M0hURGpBd1FiLUYwUXY2Z2JYUTFhdmpJWkVIemxIVkFKcEZrQW5MTGF2UHo2S2JCcWNSR1l3V2VYcE80Tmxab25LODJqb3FnWVVxblg4Q0xId2twVHlEOXFKWTNkdF8xdGRNS1B0QWlXQk53VENyVnAwUDlQdldjUWJUbmNqUjlIdHZxZlV6T0VXc2xDWDJxV2dOYkZjNzB6VjU0aFpzZFMwZGw0ZEx0bXU3QXpR?oc=5",
+      "published": "Wed, 25 Nov 2026 05:19:00 GMT",
+      "source": "KKTV"
+    },
+    {
+      "title": "M&A Lawyer Fees in France 2026: Fee Models, Costs and Budgeting Tips - Global Advisory Experts",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rNVluYngtenJBZ1B6bWpyUlA4dnIyR0xjMHUwTVFjZEZnV1o3bENJOGkzbWw4X3FLVGMtTXUwN211b20wNGZfaGR5azQ3X0NwUXFKZG54R1VBaHI0THh6UWp4RzhsZTBwRFJzNU1KU1JTRHhFTHI3UVhCRms?oc=5",
+      "published": "Wed, 25 Nov 2026 07:39:41 GMT",
+      "source": "Global Advisory Experts"
+    },
+    {
+      "title": "Planning and budgeting tips for holiday shopping - LiveNOW from FOX",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xTDhUeDJueWZ0TG4zeHNHZE9NR1NoQWtfdnhNOEY4WW01OXV2NXZJQVpmX1Rwc2VqTUx5NTNybVIyUGwxa1RLV0E1VzZGUDAzZXY3ams3NnNUUFRSY1laUS1kUdIBaEFVX3lxTFA2ci04ekhYUzBGZ3BGZGVmRl9Cb3RnclEyZGtON055NXFlaHg5Y0RRdlBWWlNBSWc3czVfdkE4OElpLUZScTJvT2xvcGZCN09MYkxSWkZnYmRXYUlaSU9BdjVGNEVUQzRF?oc=5",
+      "published": "Sun, 22 Nov 2026 14:07:25 GMT",
+      "source": "LiveNOW from FOX"
+    },
+    {
+      "title": "Second-hand shopping for the holidays | Tips for gifting on a budget - WUSA9",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVV9va0ZoYmwwWlczWF9KWWtKT2xpLV9qN1JFTWlkTktXbWF0N1hGc2xpZEZJWTdoVGJwSkg0UzlRdm9Sam8yalA3RW42cHV1Qy1Eenh6a2Jpbm9ySVZKOXlRNER2VGNSdUVRQUxrRkhwYmFVZllsQlRRU2pOdmU1YUhEZm9qN0tacVR1QUFuZXVIWF84RUZleVc5VzVQMjZRRjZIVjhHaVBuZ3ZvZ3VxQUNYbWhacGt4cGdkR0dMTzFrUQ?oc=5",
+      "published": "Tue, 24 Nov 2026 13:53:00 GMT",
+      "source": "WUSA9"
+    },
+    {
+      "title": "WATCH: Will gas prices continue going down? Colorado expert speaks on budgeting tips for the holidays - KKTV",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS0p6Ym56UnFEYmFpbW9sbjZncEcwNVZ4RkdFUlNLSWtnSjloSG9mWVpDamtPVWNvUW1UV3JTWjFOQ2FJZ21vbWVmc0lxVHNHNTFPUG1yZ24zTVZ4anBmN1ViZktDLWhCRnhzQzdMaWV1TnNpQ0xGNDdXWDFpb3NteXZUbU9WMjR5R3YzZzdEVy1IQTB5Mm5CQlB4b1c2TWdrOFBPY0VsVVFXQTBjNTJENmE2SFdsTW1wZS1sNVJLT2JQeXphdHc?oc=5",
+      "published": "Wed, 25 Nov 2026 00:20:29 GMT",
+      "source": "KKTV"
+    },
+    {
+      "title": "How to Save Money: 28 Ways - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfRmx2UEk3TFNIeXRHdWJaOHNkTkg5QWFmY1g1aUpSNkNONzZyRk1lczZoRUxBaXB2RXdkeE0yVHUydzMwTkpPUkxsSlBSU1V2ZGoydWRfNTQxeGd6d1EwSVdMR0dNY0xJcnc?oc=5",
+      "published": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "source": "NerdWallet"
+    },
+    {
+      "title": "How to trim your Thanksgiving grocery budget: Tips to save on your holiday meal - Click2Houston",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa2YzM2NSUUlrY19WNm5MRTBPMFJZM2Jtb1ZFOWUtTzh6Vm1xZmJqcjZrb28wZHo2VjgwbVhTa1h0VXpuQWMzaklqSzZ4WmhSRFY3ZXp3RGJ0RjRpbVBKV2wydzdDQl8yRGFYMm5oeHBGZkcyMVNpVTFCaHhmWGNDOE9ueTg1Rm9hTl9WaDQ4cWRPdVBCRjRhS2Y5MWJIdTNIekFvckZoUnJKOFcxOVJuUVVmcW1RV3BWdnQ3MEhGYUI1RkpfWjBsUXZObw?oc=5",
+      "published": "Sat, 21 Nov 2026 00:06:57 GMT",
+      "source": "Click2Houston"
+    }
+  ],
   "hn_stories": [
     {
-      "title": "Who in Washington owns and trades Nvidia stock",
-      "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
-      "score": 253,
-      "comments": 134,
+      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "score": 98,
+      "comments": 92,
+      "source": "Hacker News"
+    },
+    {
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "score": 193,
+      "comments": 77,
       "source": "Hacker News"
     }
   ],
-  "trending_searches": [],
+  "trending_searches": [
+    {
+      "term": "spcx stock",
+      "source": "Google Trends US"
+    },
+    {
+      "term": "voo stock",
+      "source": "Google Trends US"
+    }
+  ],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",
-    "reddit r/financialindependence: HTTP Error 403: Blocked",
-    "google news 'personal finance': HTTP Error 503: Service Unavailable",
-    "google news 'budgeting tips': HTTP Error 503: Service Unavailable",
-    "google news 'saving money': HTTP Error 503: Service Unavailable"
+    "reddit r/financialindependence: HTTP Error 403: Blocked"
   ]
 }
