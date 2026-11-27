@@ -59,6 +59,7 @@ TOPICS = {
     "budgeting-for-teens-playbook": ["budgeting", "family"],
     "thanksgiving-dinner-budget": ["saving", "budgeting"],
     "black-friday-travel-deals": ["saving", "budgeting"],
+    "buy-now-pay-later-black-friday": ["debt", "budgeting"],
 }
 
 
