@@ -1,55 +1,10 @@
 {
-  "generated_at": "2026-11-26T16:14:25Z",
+  "generated_at": "2026-11-27T15:59:32Z",
   "mode": "briefs-only",
   "note": "No GEMINI_API_KEY set. These are structured briefs awaiting the Creator — not finished articles. See README for the 2-minute key setup.",
   "briefs": [
     {
       "id": "t-0",
-      "kind": "trending-topic",
-      "headline_options": [
-        "Budgeting, explained in plain English",
-        "What you should actually know about budgeting",
-        "Budgeting: the honest beginner's guide"
-      ],
-      "angle": "Evergreen explainer on a topic people are actively reading about.",
-      "outline": [
-        "What budgeting means in plain English",
-        "Why it matters for your budget",
-        "What the current discussion is saying",
-        "Common mistakes",
-        "Sensible next steps"
-      ],
-      "key_points": [
-        "Holiday budgeting tips to help keep spending on track this season - WBBJ-TV (WBBJ-TV)",
-        "15 Budgeting Tips for Beginners to Manage Your Money Better - Ramsey Solutions (Ramsey Solutions)",
-        "Will gas prices continue going down? Colorado expert speaks on budgeting tips for the holidays - KKTV (KKTV)",
-        "Planning and budgeting tips for holiday shopping - LiveNOW from FOX (LiveNOW from FOX)"
-      ],
-      "sources": [
-        {
-          "title": "Holiday budgeting tips to help keep spending on track this season - WBBJ-TV",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM19aSkhKOXkwNDB6cWtpc2JIOFhCUURPNzdSamNhQ3c2enBvMzl1em9uMHgxZWZxZXpKZERpQ1E2ME1mM1ZubUsxcGdwelRWWnBMYVd5N2FTR2g0WFJVVzJqRjIzMk1LN3BiWW5qZjR2VjdVTjhzUkdsMFYwNXNVcHFsSEVYcG14YWhPN0s0RFoxTFQzUDdWY0h30gGuAUFVX3lxTE9uUmxfMkM5cU9zRGVIU29PSF9GNUliSnFyeDl5TDdKYW9sQklqWklSQ3pvN0JsaXNVV1VzZFhaUnhPY212WU1qZ2JZbnZadE5kcDNfaEZyclZ1cHBVd1pIRWpOYlkya1pud0VDT3NmSnE0eThHTDR6a1BSazVoWG92cUFlX2xQWHlSeE1PZkhDUnMySS1sT3U0ZkpBX2lWX1dFa2NjTkZZd25TYjNzQQ?oc=5",
-          "source": "WBBJ-TV"
-        },
-        {
-          "title": "15 Budgeting Tips for Beginners to Manage Your Money Better - Ramsey Solutions",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YSTFYbmhsNm45QkV6d1ZJVTdKZGt5SU4xNkJrdjUwdW1rQXJBcGtTSXRaZXJNZlZVUHNnakpnVm1HMTBzSjlDLTFzQ0dObFNYY2M1bUFGUV9neC1hYXJFd2R2c2l5ZDBRRURXLVAwWl8wTzNKOUE?oc=5",
-          "source": "Ramsey Solutions"
-        },
-        {
-          "title": "Will gas prices continue going down? Colorado expert speaks on budgeting tips for the holidays - KKTV",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSzZBUC1mRnFHM1ptcTlsdnp5UXZma1VVNnc1NWFUUENEbDNRUl90ZXFRZDBISkt5UU40bDZtREFJREFUMThQMVhBX2tkQVpaY3NXa25lUEpMQU93WXRsUHBtZFZWN0NieEFwVFlZVXdMWkV0SUtTbUEybDl2NHhPQUJrQXkxWDE0NXdOWGZnVkdGTUxqcEpDS0NxTkdSTXpUNkVFdzk1b01aT1VIOFpxdng3dVhaUdIBygFBVV95cUxOakpLcHU3elZ2Q0lFNWhCekNvWFI3M0hURGpBd1FiLUYwUXY2Z2JYUTFhdmpJWkVIemxIVkFKcEZrQW5MTGF2UHo2S2JCcWNSR1l3V2VYcE80Tmxab25LODJqb3FnWVVxblg4Q0xId2twVHlEOXFKWTNkdF8xdGRNS1B0QWlXQk53VENyVnAwUDlQdldjUWJUbmNqUjlIdHZxZlV6T0VXc2xDWDJxV2dOYkZjNzB6VjU0aFpzZFMwZGw0ZEx0bXU3QXpR?oc=5",
-          "source": "KKTV"
-        },
-        {
-          "title": "Planning and budgeting tips for holiday shopping - LiveNOW from FOX",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xTDhUeDJueWZ0TG4zeHNHZE9NR1NoQWtfdnhNOEY4WW01OXV2NXZJQVpmX1Rwc2VqTUx5NTNybVIyUGwxa1RLV0E1VzZGUDAzZXY3ams3NnNUUFRSY1laUS1kUdIBaEFVX3lxTFA2ci04ekhYUzBGZ3BGZGVmRl9Cb3RnclEyZGtON055NXFlaHg5Y0RRdlBWWlNBSWc3czVfdkE4OElpLUZScTJvT2xvcGZCN09MYkxSWkZnYmRXYUlaSU9BdjVGNEVUQzRF?oc=5",
-          "source": "LiveNOW from FOX"
-        }
-      ]
-    },
-    {
-      "id": "t-1",
       "kind": "trending-topic",
       "headline_options": [
         "Tips, explained in plain English",
@@ -65,36 +20,36 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "Holiday budgeting tips to help keep spending on track this season - WBBJ-TV (WBBJ-TV)",
-        "15 Budgeting Tips for Beginners to Manage Your Money Better - Ramsey Solutions (Ramsey Solutions)",
-        "Will gas prices continue going down? Colorado expert speaks on budgeting tips for the holidays - KKTV (KKTV)",
-        "Planning and budgeting tips for holiday shopping - LiveNOW from FOX (LiveNOW from FOX)"
+        "The Wealthy Barber retires and shares his final top 3 personal finance tips and mistakes - Yahoo! Finance Canada (Yahoo! Finance Canada)",
+        "Holiday budgeting tips to help keep spending on track this season - wbbjtv.com (wbbjtv.com)",
+        "Financial expert shares tips for avoiding holiday shopping debt - WSMV (WSMV)",
+        "Will gas prices continue going down? Colorado expert speaks on budgeting tips for the holidays - KKTV (KKTV)"
       ],
       "sources": [
         {
-          "title": "Holiday budgeting tips to help keep spending on track this season - WBBJ-TV",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM19aSkhKOXkwNDB6cWtpc2JIOFhCUURPNzdSamNhQ3c2enBvMzl1em9uMHgxZWZxZXpKZERpQ1E2ME1mM1ZubUsxcGdwelRWWnBMYVd5N2FTR2g0WFJVVzJqRjIzMk1LN3BiWW5qZjR2VjdVTjhzUkdsMFYwNXNVcHFsSEVYcG14YWhPN0s0RFoxTFQzUDdWY0h30gGuAUFVX3lxTE9uUmxfMkM5cU9zRGVIU29PSF9GNUliSnFyeDl5TDdKYW9sQklqWklSQ3pvN0JsaXNVV1VzZFhaUnhPY212WU1qZ2JZbnZadE5kcDNfaEZyclZ1cHBVd1pIRWpOYlkya1pud0VDT3NmSnE0eThHTDR6a1BSazVoWG92cUFlX2xQWHlSeE1PZkhDUnMySS1sT3U0ZkpBX2lWX1dFa2NjTkZZd25TYjNzQQ?oc=5",
-          "source": "WBBJ-TV"
+          "title": "The Wealthy Barber retires and shares his final top 3 personal finance tips and mistakes - Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPODQ2Y1F2dnF1ci00a1hyMFNQb29rdVZSbUZyUXp3Z29sNHJtcUZVQnA5WGR0ZlRlTUFJOEJZemRIdUJzRHFhTV85Y1JVa29GWWhFN3JsbkJKeGlaZzVUZXJaS2Zac1BvbUZSTU5QSzl0SzlzbjRkRlAyS0l1X1hqeEhhY3hiV0dNaUdrcQ?oc=5",
+          "source": "Yahoo! Finance Canada"
         },
         {
-          "title": "15 Budgeting Tips for Beginners to Manage Your Money Better - Ramsey Solutions",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YSTFYbmhsNm45QkV6d1ZJVTdKZGt5SU4xNkJrdjUwdW1rQXJBcGtTSXRaZXJNZlZVUHNnakpnVm1HMTBzSjlDLTFzQ0dObFNYY2M1bUFGUV9neC1hYXJFd2R2c2l5ZDBRRURXLVAwWl8wTzNKOUE?oc=5",
-          "source": "Ramsey Solutions"
+          "title": "Holiday budgeting tips to help keep spending on track this season - wbbjtv.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYm42cDdlMjBpRjNLMWZqM04tc1VqQU9wOWVnX2x3WDhEOGZ0N1FnQjFZMDI3cDFmTml0WDB5M0FGVXNFN3Jrd3l0d2tfbTR4OTg5Wm9MekZqSGd0dTAxdk5WamlKamFjSGYza3U4OE9ISjlKcVFmcWZkeFBIZUxoWUEza2FGTEtkblJhNnI5OEhkbkFBYjZrQVhVUmlDRXhtTWc?oc=5",
+          "source": "wbbjtv.com"
+        },
+        {
+          "title": "Financial expert shares tips for avoiding holiday shopping debt - WSMV",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYTJ4d1cxTXVMMkM4elB2Ni0tV3lEelJiYUI2ZVhqYjUwekpVS01xUkgyOWpJeXdkUlRyQnRjM0U5b2Vtci1obzlUVjZuM0lYLW94OWNHeGh1cWkxLVpudWJxd2ZjUDV4a3pQb2REWW50U1F2TjRETExmcEdWZDl2M1R4M2szbmlfZUl4VzRyREI3cHlBb2hj?oc=5",
+          "source": "WSMV"
         },
         {
           "title": "Will gas prices continue going down? Colorado expert speaks on budgeting tips for the holidays - KKTV",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSzZBUC1mRnFHM1ptcTlsdnp5UXZma1VVNnc1NWFUUENEbDNRUl90ZXFRZDBISkt5UU40bDZtREFJREFUMThQMVhBX2tkQVpaY3NXa25lUEpMQU93WXRsUHBtZFZWN0NieEFwVFlZVXdMWkV0SUtTbUEybDl2NHhPQUJrQXkxWDE0NXdOWGZnVkdGTUxqcEpDS0NxTkdSTXpUNkVFdzk1b01aT1VIOFpxdng3dVhaUdIBygFBVV95cUxOakpLcHU3elZ2Q0lFNWhCekNvWFI3M0hURGpBd1FiLUYwUXY2Z2JYUTFhdmpJWkVIemxIVkFKcEZrQW5MTGF2UHo2S2JCcWNSR1l3V2VYcE80Tmxab25LODJqb3FnWVVxblg4Q0xId2twVHlEOXFKWTNkdF8xdGRNS1B0QWlXQk53VENyVnAwUDlQdldjUWJUbmNqUjlIdHZxZlV6T0VXc2xDWDJxV2dOYkZjNzB6VjU0aFpzZFMwZGw0ZEx0bXU3QXpR?oc=5",
           "source": "KKTV"
-        },
-        {
-          "title": "Planning and budgeting tips for holiday shopping - LiveNOW from FOX",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xTDhUeDJueWZ0TG4zeHNHZE9NR1NoQWtfdnhNOEY4WW01OXV2NXZJQVpmX1Rwc2VqTUx5NTNybVIyUGwxa1RLV0E1VzZGUDAzZXY3ams3NnNUUFRSY1laUS1kUdIBaEFVX3lxTFA2ci04ekhYUzBGZ3BGZGVmRl9Cb3RnclEyZGtON055NXFlaHg5Y0RRdlBWWlNBSWc3czVfdkE4OElpLUZScTJvT2xvcGZCN09MYkxSWkZnYmRXYUlaSU9BdjVGNEVUQzRF?oc=5",
-          "source": "LiveNOW from FOX"
         }
       ]
     },
     {
-      "id": "t-2",
+      "id": "t-1",
       "kind": "trending-topic",
       "headline_options": [
         "Money, explained in plain English",
@@ -110,19 +65,58 @@
         "Sensible next steps"
       ],
       "key_points": [
-        "15 Budgeting Tips for Beginners to Manage Your Money Better - Ramsey Solutions (Ramsey Solutions)",
         "How to Save Money: 28 Ways - NerdWallet (NerdWallet)"
       ],
       "sources": [
         {
-          "title": "15 Budgeting Tips for Beginners to Manage Your Money Better - Ramsey Solutions",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YSTFYbmhsNm45QkV6d1ZJVTdKZGt5SU4xNkJrdjUwdW1rQXJBcGtTSXRaZXJNZlZVUHNnakpnVm1HMTBzSjlDLTFzQ0dObFNYY2M1bUFGUV9neC1hYXJFd2R2c2l5ZDBRRURXLVAwWl8wTzNKOUE?oc=5",
-          "source": "Ramsey Solutions"
-        },
-        {
           "title": "How to Save Money: 28 Ways - NerdWallet",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfRmx2UEk3TFNIeXRHdWJaOHNkTkg5QWFmY1g1aUpSNkNONzZyRk1lczZoRUxBaXB2RXdkeE0yVHUydzMwTkpPUkxsSlBSU1V2ZGoydWRfNTQxeGd6d1EwSVdMR0dNY0xJcnc?oc=5",
           "source": "NerdWallet"
+        }
+      ]
+    },
+    {
+      "id": "t-2",
+      "kind": "trending-topic",
+      "headline_options": [
+        "Budgeting, explained in plain English",
+        "What you should actually know about budgeting",
+        "Budgeting: the honest beginner's guide"
+      ],
+      "angle": "Evergreen explainer on a topic people are actively reading about.",
+      "outline": [
+        "What budgeting means in plain English",
+        "Why it matters for your budget",
+        "What the current discussion is saying",
+        "Common mistakes",
+        "Sensible next steps"
+      ],
+      "key_points": [
+        "Holiday budgeting tips to help keep spending on track this season - wbbjtv.com (wbbjtv.com)",
+        "Will gas prices continue going down? Colorado expert speaks on budgeting tips for the holidays - KKTV (KKTV)",
+        "Planning and budgeting tips for holiday shopping - LiveNOW from FOX (LiveNOW from FOX)",
+        "Holiday budgeting tips to help keep spending on track this season - WBBJ-TV (WBBJ-TV)"
+      ],
+      "sources": [
+        {
+          "title": "Holiday budgeting tips to help keep spending on track this season - wbbjtv.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYm42cDdlMjBpRjNLMWZqM04tc1VqQU9wOWVnX2x3WDhEOGZ0N1FnQjFZMDI3cDFmTml0WDB5M0FGVXNFN3Jrd3l0d2tfbTR4OTg5Wm9MekZqSGd0dTAxdk5WamlKamFjSGYza3U4OE9ISjlKcVFmcWZkeFBIZUxoWUEza2FGTEtkblJhNnI5OEhkbkFBYjZrQVhVUmlDRXhtTWc?oc=5",
+          "source": "wbbjtv.com"
+        },
+        {
+          "title": "Will gas prices continue going down? Colorado expert speaks on budgeting tips for the holidays - KKTV",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSzZBUC1mRnFHM1ptcTlsdnp5UXZma1VVNnc1NWFUUENEbDNRUl90ZXFRZDBISkt5UU40bDZtREFJREFUMThQMVhBX2tkQVpaY3NXa25lUEpMQU93WXRsUHBtZFZWN0NieEFwVFlZVXdMWkV0SUtTbUEybDl2NHhPQUJrQXkxWDE0NXdOWGZnVkdGTUxqcEpDS0NxTkdSTXpUNkVFdzk1b01aT1VIOFpxdng3dVhaUdIBygFBVV95cUxOakpLcHU3elZ2Q0lFNWhCekNvWFI3M0hURGpBd1FiLUYwUXY2Z2JYUTFhdmpJWkVIemxIVkFKcEZrQW5MTGF2UHo2S2JCcWNSR1l3V2VYcE80Tmxab25LODJqb3FnWVVxblg4Q0xId2twVHlEOXFKWTNkdF8xdGRNS1B0QWlXQk53VENyVnAwUDlQdldjUWJUbmNqUjlIdHZxZlV6T0VXc2xDWDJxV2dOYkZjNzB6VjU0aFpzZFMwZGw0ZEx0bXU3QXpR?oc=5",
+          "source": "KKTV"
+        },
+        {
+          "title": "Planning and budgeting tips for holiday shopping - LiveNOW from FOX",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xTDhUeDJueWZ0TG4zeHNHZE9NR1NoQWtfdnhNOEY4WW01OXV2NXZJQVpmX1Rwc2VqTUx5NTNybVIyUGwxa1RLV0E1VzZGUDAzZXY3ams3NnNUUFRSY1laUS1kUdIBaEFVX3lxTFA2ci04ekhYUzBGZ3BGZGVmRl9Cb3RnclEyZGtON055NXFlaHg5Y0RRdlBWWlNBSWc3czVfdkE4OElpLUZScTJvT2xvcGZCN09MYkxSWkZnYmRXYUlaSU9BdjVGNEVUQzRF?oc=5",
+          "source": "LiveNOW from FOX"
+        },
+        {
+          "title": "Holiday budgeting tips to help keep spending on track this season - WBBJ-TV",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM19aSkhKOXkwNDB6cWtpc2JIOFhCUURPNzdSamNhQ3c2enBvMzl1em9uMHgxZWZxZXpKZERpQ1E2ME1mM1ZubUsxcGdwelRWWnBMYVd5N2FTR2g0WFJVVzJqRjIzMk1LN3BiWW5qZjR2VjdVTjhzUkdsMFYwNXNVcHFsSEVYcG14YWhPN0s0RFoxTFQzUDdWY0h30gGuAUFVX3lxTE9uUmxfMkM5cU9zRGVIU29PSF9GNUliSnFyeDl5TDdKYW9sQklqWklSQ3pvN0JsaXNVV1VzZFhaUnhPY212WU1qZ2JZbnZadE5kcDNfaEZyclZ1cHBVd1pIRWpOYlkya1pud0VDT3NmSnE0eThHTDR6a1BSazVoWG92cUFlX2xQWHlSeE1PZkhDUnMySS1sT3U0ZkpBX2lWX1dFa2NjTkZZd25TYjNzQQ?oc=5",
+          "source": "WBBJ-TV"
         }
       ]
     }

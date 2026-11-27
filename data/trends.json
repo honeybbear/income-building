@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-26T16:14:25Z",
+  "fetched_at": "2026-11-27T15:59:32Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -8,51 +8,51 @@
   ],
   "topics": [
     {
+      "keyword": "tips",
+      "mentions": 8
+    },
+    {
+      "keyword": "money",
+      "mentions": 7
+    },
+    {
       "keyword": "budgeting",
       "mentions": 6
     },
     {
-      "keyword": "tips",
-      "mentions": 5
-    },
-    {
-      "keyword": "money",
+      "keyword": "holiday",
       "mentions": 5
     },
     {
       "keyword": "save",
+      "mentions": 5
+    },
+    {
+      "keyword": "saving",
       "mentions": 4
     },
     {
-      "keyword": "says",
+      "keyword": "his",
       "mentions": 3
     },
     {
-      "keyword": "age",
+      "keyword": "planning",
+      "mentions": 3
+    },
+    {
+      "keyword": "shopping",
+      "mentions": 3
+    },
+    {
+      "keyword": "retirement",
       "mentions": 2
     },
     {
-      "keyword": "retire",
+      "keyword": "retires",
       "mentions": 2
     },
     {
-      "keyword": "now",
-      "mentions": 2
-    },
-    {
-      "keyword": "have",
-      "mentions": 2
-    },
-    {
-      "keyword": "yahoo",
-      "mentions": 2
-    },
-    {
-      "keyword": "finance",
-      "mentions": 2
-    },
-    {
-      "keyword": "ranked",
+      "keyword": "shares",
       "mentions": 2
     }
   ],
@@ -60,64 +60,64 @@
   "discussion_highlights": [],
   "news": [
     {
+      "title": "The 'magic number' for a comfortable retirement got bigger - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQREltb0o0TW00WEx6Y1FhMUMxNDN1R3Zva3dkeEFhMVYyc0RzcDZZTnA0OVZ5UU9Nek1Qd01MeWJaUllYQ1l0SXVIb09VM0pNX3FUNndOa2hFd2llczdEZGxEcExFSlVlLURqOE1WbjlKNVdmUkZWZmR4UEZyclZYM0RXOWM5NzB2dXdxa1ZHN3czMUFkVEpJdDBjTXNhNjlkLVNncXhPbEZYclJnaGJuNVVzbnF1UQ?oc=5",
+      "published": "Fri, 27 Nov 2026 10:01:00 GMT",
+      "source": "USA Today"
+    },
+    {
+      "title": "The Wealthy Barber retires and shares his final top 3 personal finance tips and mistakes - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPODQ2Y1F2dnF1ci00a1hyMFNQb29rdVZSbUZyUXp3Z29sNHJtcUZVQnA5WGR0ZlRlTUFJOEJZemRIdUJzRHFhTV85Y1JVa29GWWhFN3JsbkJKeGlaZzVUZXJaS2Zac1BvbUZSTU5QSzl0SzlzbjRkRlAyS0l1X1hqeEhhY3hiV0dNaUdrcQ?oc=5",
+      "published": "Thu, 26 Nov 2026 18:15:24 GMT",
+      "source": "Yahoo! Finance Canada"
+    },
+    {
+      "title": "Use Trump Accounts to Teach Your Kids Investing - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNGIwTGVuN3VFcjUtcDlhQWF3MmphMTdndjdHQ1AxcGp6OF93R1BHMUFlMUZBZ2U5b0JVN1NlaXVzcHNnYkJNQWhZN3NiclJwT0hWeDV3VXI1TjJTdXVIS292SWdPbHE5Y3NWeERyMDdoZFVCemNiMk45WERXdUtOMFYtekZab0k1SC0w?oc=5",
+      "published": "Fri, 27 Nov 2026 14:00:00 GMT",
+      "source": "Kiplinger"
+    },
+    {
+      "title": "Retirement Researchers Call Delaying Social Security the Cheapest Annuity You Can Buy. A 62-Year-Old With $700,000 Will Get It by Waiting Until 70 - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPQ2l5c2Y4YUplaEpuUVo0SmhEV3MtVDlIckd4OGxLS1NuS2Y0d01LV3pMSzA5TG50WGcxWHptLU94TzhSeU9LYTVidTc1SzlmNnZEOUJBSDNDLWQ1cF93R0ZBWGxET3R4UW43M2h1SGNvZmlNb1ByNlQwbDRJYnhneTBnaFFuUHRYa0pvd0JJM0RpTjV4LVkzQlhHejM3NjBUZUx0VU43VU1YQ0w1em05UDhic01YX3NVc3FiOVNVa21JekhfUGVsQ2dDMkJBVTdjWEVrdTE4dTh0a3F6cmNTME1wbkJLSUFPWXJNZ0g5Z0tZVFY0Y2RUUGdlREIxU2lXbHpEYUowMGlVVkZBNEwtU08wWTVQXzV5SFBSWVgzSQ?oc=5",
+      "published": "Fri, 27 Nov 2026 13:03:00 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Burned Out After 40 Years of 60-Hour Weeks, He Retires at 62 and Claims a $2,380 Social Security Check. Sick Within Months, He Qualifies for Disability, Restoring Most of His Full $3,400 Check: About $300,000 Over 25 Years - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPbFVqVktYTGdsNkU3aDI2WVRROWtIRGQwNUhDR1BiWVNrc0tIQ1pueHJOUGRLYXlUU1pNdy1XaXVfWW5hYnJpVVN1ckd6cXJqcVRYbmtzRTRXb2hzSHdkY2ZGT0NEOHFpaFNoY1BGZVJSYzFINWpxOVI3ZXVwM1VQYTFDQzMxMTBmazZmM2pSWV91UUFST1FmWklieEdvQjhFSWVRVDRYM2dhMThXcC1sNWJiajVPZktzMnRLcWdpWDlfT1FSbm9fTmo4cmZ6VjFMdWs1SmdiUjlLdnY1dkJlRzRWWHpYMXhQcGctUUFaRHFRTzhlZ1VVZlhyNVQtQ3czdU1CQndhdk5DcTFrVzJjNjZ2cEpNZ0ZsS240Y3VKNXNqUVlpdERVcWZhdElKSDJEUDdTR04wSDBzaUhsY1JTalJLT1N0blpnemxER0RBTDhEWmxDZzZZNEpqTW1QNnplLVRXUEM1bEFITW50OWpNUmhUOA?oc=5",
+      "published": "Fri, 27 Nov 2026 00:03:00 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
       "title": "Essay | I Tried to Figure Out the Right Age to Retire. Now I Have to Work Forever. - WSJ",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSnI1U1NWQmE4aElGWEFCd2tDV25FVGMtMjhQRV9PNmc3bk55OXVjYTh6eTlYLUdyUHpmR2tOT2lMRFJFWVBVN3dzYzl6X2Joa0tjSkY4SU14aV9Cb2lvWjBFQk5lTmJLdV9ZdFp5SXliN2JEMjZLcmFleTA4UGllYQ?oc=5",
       "published": "Thu, 26 Nov 2026 16:00:00 GMT",
       "source": "WSJ"
     },
     {
-      "title": "7 Good Things in Life to Be Thankful for as We Celebrate Thanksgiving - Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbkVTY25xa2Q0cVVNSzZCQTY1bkw4WFhVV2czSDBVN2VIeTVJSHl4QTZ5ekwyNklmeDF4OEJxUExVNlNWTnBpZk5TUXctTUFmSlJkSEtaMHZia2JQdmRXZWQ2WkFKcUotYTdYUkFRTXdmR0JtSGltVVJsczkzQk1rZUFIMEFMNmZsb2RFTA?oc=5",
-      "published": "Thu, 26 Nov 2026 15:00:00 GMT",
+      "title": "How New Tax Rules Could Change How You Give This Giving Tuesday - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOUFjRmtCSG1PZ1NSTjRYV3BCeGhJb29zdmlhcW5NUk1ZaW4wQzNkemhTTWNyckVmVEsyYldIeGUzOGduTzZHNFNPejBqNmlXSjRWT0JLWWhvTGswX3VQUWMwQ2dhS1NUY0cxaEVCLU5vNjVJZkU5ZEtrRFloel83bkE5QnVsV1BnQVhDTmJiSGoycGhl?oc=5",
+      "published": "Fri, 27 Nov 2026 14:00:00 GMT",
       "source": "Kiplinger"
     },
     {
-      "title": "Gold is having a rough year. Does it still belong in your portfolio? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS0l5TjFXc1RMcVYzV05tYS1jRUk4NlRSaHFmaTBURHhfWlFMWG5sQkkyLXpIaXMzcld1U0JRcHYzSHhySlYtZVluZktpcjM0WS03RGhvOG1OWlAzc0phakpMRVBKSWxSTXYzbTlXZ0I2TTNlTUZxRHZFekV3NURHTzVvQ0p6QW84azF1eTFxNC16NnlBbUJhdGhGVmdaOUFmYk9ta2RTOEZYbExhMEplUzdOVDVyd2RpNnEtcVZKVGlaQUNMdnI2NGRQeTJDeHplSWl5T0FCQk9QZw?oc=5",
-      "published": "Mon, 23 Nov 2026 17:46:52 GMT",
-      "source": "Yahoo Finance"
+      "title": "He Lost His Wife—Then Devised an Estate-Planning Fix Anyone Can Do - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rc0lxWUt2Nk5rSFZTSU5yZlRiWXFiOUw4OVZ0RHNsZkE1WFVxcExDaWo0Q1dzQlRCRkpSNm4zVFBEekRiYXZEbk9PcGJsS2tIRlNIQUVFd3pkNklqMmNTY2dzNEN0LVE2NGJTVDhEdGtjR2QwNjEzUFVOSQ?oc=5",
+      "published": "Fri, 27 Nov 2026 10:00:00 GMT",
+      "source": "WSJ"
     },
     {
-      "title": "‘I Don’t Feel Bad About Selling Gifts for Extra Cash’ - The Cut",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54dWhTT1BHZGhuYnJYZS1GUlVTbnlDSDhPdm1TS1JWYXhDRWY4aS1vTHN1S3l6dzg5NzJWelI2RUFBTWlZTnd1eFNkbVhNdGQwb0gzNXFuQnd3NTJyWWZ5V0lveUhyM0U3UFVadF9RdmdRdVRaSXFsUDA5b05EVjg?oc=5",
-      "published": "Thu, 26 Nov 2026 13:00:29 GMT",
-      "source": "The Cut"
+      "title": "Holiday budgeting tips to help keep spending on track this season - wbbjtv.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYm42cDdlMjBpRjNLMWZqM04tc1VqQU9wOWVnX2x3WDhEOGZ0N1FnQjFZMDI3cDFmTml0WDB5M0FGVXNFN3Jrd3l0d2tfbTR4OTg5Wm9MekZqSGd0dTAxdk5WamlKamFjSGYza3U4OE9ISjlKcVFmcWZkeFBIZUxoWUEza2FGTEtkblJhNnI5OEhkbkFBYjZrQVhVUmlDRXhtTWc?oc=5",
+      "published": "Fri, 27 Nov 2026 02:08:00 GMT",
+      "source": "wbbjtv.com"
     },
     {
-      "title": "Ranked: The World’s Best Places to Retire in 2026 - Visual Capitalist",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUmJGaVhaQi1PQXhVLV9LR3ZiVk9XQkdpcnJMUXdkMTk1X043WVdlNW5GSGFnN0dNc0VVeTdpQnJEUUxLZ1ktYmVKS0VmYkE1YVZNaFRvV3ZqcXlhOFpVWWtUQVhxSjB6amxza05Na0lRcV90TDJWOWpoanRnZXpadUlKMXdHazZjOEViOXh1REhQN3RO?oc=5",
-      "published": "Mon, 23 Nov 2026 11:18:57 GMT",
-      "source": "Visual Capitalist"
-    },
-    {
-      "title": "Average 401(k), IRA balances fall as more workers tap their accounts, Fidelity says - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUVnpJc3J1TzJQYXNBa0ptMkhQb0lUTW9UMmtUWVZ3VnAtc2ZPT3BKQjF0Z1hnVVZmMWlMV1d1N29xTDlNYThoS09UajZiejBCRkVNRjlyUUM4VTBhYmZQR2J4ODFTZno5TTUybU9zY0JhSkI5LVhXVTlyQdIBgAFBVV95cUxQZXc1V29QcUgwMkFaTFItaU04V0pqUXE1TFQwSWFPa1YzQUFOWjRfaXQ0TzBhUUpON1QzZHdVMWszRlN3N05US25QOVBVN3N3andUbUdkN3V4U2NWZElSQVZTUWNacEMwell6ZzdyRjdLMkdPTVpteVBueTlWNi1xeg?oc=5",
-      "published": "Mon, 23 Nov 2026 17:48:58 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "How you can prepare in case of another bank outage - The Week",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMG1pdXpobHVMaVV0QnM3NUQwb1RQdUJ0Ml9UNUxkQ19sRUNpV1hJY0cyUXhKTmJ5QTJrbUttVVIyVzhyam51dWt2djZ4bjJFZFBoRlV1Wkw1THotamE4VWlMakJiMTlub0dIbzNJZ2dBcmcwa21EeDhGeHhoVG84UUJBRjI2VkJ3NUYzYkZITnI?oc=5",
-      "published": "Thu, 26 Nov 2026 07:00:00 GMT",
-      "source": "The Week"
-    },
-    {
-      "title": "Buy now, pay later is popular on Black Friday. Here’s how to use it responsibly - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3lGY0R6V0dFMXZteVNvalhxV01oTXpER0dnNXVKcUQ2VlZ5dE13c29CRTRJeFkySC1Sd0lHbmtyX1FpQlM4RVRHMEdMVUtuT2s0dEZ1VlY2VEFyejVhUDZMaV9TREVsMWNmOVhFcDkwcl80OUdMZU1hc1dGd09MSW8wZENPVURZSkxHeXprbU5pWmlqZ0R3?oc=5",
-      "published": "Thu, 26 Nov 2026 14:02:49 GMT",
-      "source": "San Francisco Chronicle"
-    },
-    {
-      "title": "Holiday budgeting tips to help keep spending on track this season - WBBJ-TV",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM19aSkhKOXkwNDB6cWtpc2JIOFhCUURPNzdSamNhQ3c2enBvMzl1em9uMHgxZWZxZXpKZERpQ1E2ME1mM1ZubUsxcGdwelRWWnBMYVd5N2FTR2g0WFJVVzJqRjIzMk1LN3BiWW5qZjR2VjdVTjhzUkdsMFYwNXNVcHFsSEVYcG14YWhPN0s0RFoxTFQzUDdWY0h30gGuAUFVX3lxTE9uUmxfMkM5cU9zRGVIU29PSF9GNUliSnFyeDl5TDdKYW9sQklqWklSQ3pvN0JsaXNVV1VzZFhaUnhPY212WU1qZ2JZbnZadE5kcDNfaEZyclZ1cHBVd1pIRWpOYlkya1pud0VDT3NmSnE0eThHTDR6a1BSazVoWG92cUFlX2xQWHlSeE1PZkhDUnMySS1sT3U0ZkpBX2lWX1dFa2NjTkZZd25TYjNzQQ?oc=5",
-      "published": "Thu, 26 Nov 2026 12:00:00 GMT",
-      "source": "WBBJ-TV"
-    },
-    {
-      "title": "15 Budgeting Tips for Beginners to Manage Your Money Better - Ramsey Solutions",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YSTFYbmhsNm45QkV6d1ZJVTdKZGt5SU4xNkJrdjUwdW1rQXJBcGtTSXRaZXJNZlZVUHNnakpnVm1HMTBzSjlDLTFzQ0dObFNYY2M1bUFGUV9neC1hYXJFd2R2c2l5ZDBRRURXLVAwWl8wTzNKOUE?oc=5",
-      "published": "Wed, 18 Nov 2026 08:00:00 GMT",
-      "source": "Ramsey Solutions"
+      "title": "Financial expert shares tips for avoiding holiday shopping debt - WSMV",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYTJ4d1cxTXVMMkM4elB2Ni0tV3lEelJiYUI2ZVhqYjUwekpVS01xUkgyOWpJeXdkUlRyQnRjM0U5b2Vtci1obzlUVjZuM0lYLW94OWNHeGh1cWkxLVpudWJxd2ZjUDV4a3pQb2REWW50U1F2TjRETExmcEdWZDl2M1R4M2szbmlfZUl4VzRyREI3cHlBb2hj?oc=5",
+      "published": "Thu, 26 Nov 2026 22:47:00 GMT",
+      "source": "WSMV"
     },
     {
       "title": "Will gas prices continue going down? Colorado expert speaks on budgeting tips for the holidays - KKTV",
@@ -132,26 +132,31 @@
       "source": "LiveNOW from FOX"
     },
     {
-      "title": "Second-hand shopping for the holidays | Tips for gifting on a budget - WUSA9",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVV9va0ZoYmwwWlczWF9KWWtKT2xpLV9qN1JFTWlkTktXbWF0N1hGc2xpZEZJWTdoVGJwSkg0UzlRdm9Sam8yalA3RW42cHV1Qy1Eenh6a2Jpbm9ySVZKOXlRNER2VGNSdUVRQUxrRkhwYmFVZllsQlRRU2pOdmU1YUhEZm9qN0tacVR1QUFuZXVIWF84RUZleVc5VzVQMjZRRjZIVjhHaVBuZ3ZvZ3VxQUNYbWhacGt4cGdkR0dMTzFrUQ?oc=5",
-      "published": "Tue, 24 Nov 2026 13:53:00 GMT",
-      "source": "WUSA9"
-    },
-    {
-      "title": "Best Budgeting Apps Of 2026: Tested And Ranked - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5",
-      "published": "Mon, 23 Nov 2026 13:53:00 GMT",
-      "source": "Forbes"
+      "title": "Holiday budgeting tips to help keep spending on track this season - WBBJ-TV",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM19aSkhKOXkwNDB6cWtpc2JIOFhCUURPNzdSamNhQ3c2enBvMzl1em9uMHgxZWZxZXpKZERpQ1E2ME1mM1ZubUsxcGdwelRWWnBMYVd5N2FTR2g0WFJVVzJqRjIzMk1LN3BiWW5qZjR2VjdVTjhzUkdsMFYwNXNVcHFsSEVYcG14YWhPN0s0RFoxTFQzUDdWY0h30gGuAUFVX3lxTE9uUmxfMkM5cU9zRGVIU29PSF9GNUliSnFyeDl5TDdKYW9sQklqWklSQ3pvN0JsaXNVV1VzZFhaUnhPY212WU1qZ2JZbnZadE5kcDNfaEZyclZ1cHBVd1pIRWpOYlkya1pud0VDT3NmSnE0eThHTDR6a1BSazVoWG92cUFlX2xQWHlSeE1PZkhDUnMySS1sT3U0ZkpBX2lWX1dFa2NjTkZZd25TYjNzQQ?oc=5",
+      "published": "Thu, 26 Nov 2026 12:00:00 GMT",
+      "source": "WBBJ-TV"
     },
     {
       "title": "How to Save Money: 28 Ways - NerdWallet",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfRmx2UEk3TFNIeXRHdWJaOHNkTkg5QWFmY1g1aUpSNkNONzZyRk1lczZoRUxBaXB2RXdkeE0yVHUydzMwTkpPUkxsSlBSU1V2ZGoydWRfNTQxeGd6d1EwSVdMR0dNY0xJcnc?oc=5",
       "published": "Wed, 18 Nov 2026 08:00:00 GMT",
       "source": "NerdWallet"
+    },
+    {
+      "title": "Watch Planning and budgeting tips for holiday shopping - LiveNow - FOX One",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOekl0c3ducGtfYXc0d1ppeE03YzJDb3Fjdk94aS1qWWJDWU11emhwR25aN2RKdFpDVnN0cDhTejlqTU1vVlRXTFlNUlpOc2lqc1FXd2Q5WGNuSDg2bnVLLTg1VkIxMmlpZXhhcndxU3p6TDhpdDJJRFVhQlFVRnljVy1aa0JETTFacjJkZDI2bnhqMnRjbWxsZXNiZGpMSVlQRVE?oc=5",
+      "published": "Sun, 22 Nov 2026 08:00:00 GMT",
+      "source": "FOX One"
     }
   ],
   "hn_stories": [],
-  "trending_searches": [],
+  "trending_searches": [
+    {
+      "term": "mstr stock",
+      "source": "Google Trends US"
+    }
+  ],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",
     "reddit r/financialindependence: HTTP Error 403: Blocked"
