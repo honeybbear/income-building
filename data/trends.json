@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-27T15:59:32Z",
+  "fetched_at": "2026-11-28T14:56:15Z",
   "sources": [
     "Reddit r/personalfinance + r/financialindependence (public JSON)",
     "Google News RSS (personal finance searches)",
@@ -9,55 +9,63 @@
   "topics": [
     {
       "keyword": "tips",
-      "mentions": 8
+      "mentions": 10
     },
     {
       "keyword": "money",
-      "mentions": 7
+      "mentions": 9
+    },
+    {
+      "keyword": "news",
+      "mentions": 6
+    },
+    {
+      "keyword": "holiday",
+      "mentions": 6
     },
     {
       "keyword": "budgeting",
       "mentions": 6
     },
     {
-      "keyword": "holiday",
-      "mentions": 5
-    },
-    {
-      "keyword": "save",
-      "mentions": 5
-    },
-    {
       "keyword": "saving",
-      "mentions": 4
-    },
-    {
-      "keyword": "his",
-      "mentions": 3
-    },
-    {
-      "keyword": "planning",
-      "mentions": 3
+      "mentions": 5
     },
     {
       "keyword": "shopping",
+      "mentions": 4
+    },
+    {
+      "keyword": "thanksgiving",
       "mentions": 3
     },
     {
-      "keyword": "retirement",
-      "mentions": 2
+      "keyword": "keep",
+      "mentions": 3
     },
     {
-      "keyword": "retires",
-      "mentions": 2
+      "keyword": "help",
+      "mentions": 3
     },
     {
-      "keyword": "shares",
-      "mentions": 2
+      "keyword": "spending",
+      "mentions": 3
+    },
+    {
+      "keyword": "season",
+      "mentions": 3
     }
   ],
   "questions": [],
-  "discussion_highlights": [],
+  "discussion_highlights": [
+    {
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "source": "Hacker News",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "score": 565,
+      "comments": 309
+    }
+  ],
   "news": [
     {
       "title": "The 'magic number' for a comfortable retirement got bigger - USA Today",
@@ -66,70 +74,58 @@
       "source": "USA Today"
     },
     {
-      "title": "The Wealthy Barber retires and shares his final top 3 personal finance tips and mistakes - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPODQ2Y1F2dnF1ci00a1hyMFNQb29rdVZSbUZyUXp3Z29sNHJtcUZVQnA5WGR0ZlRlTUFJOEJZemRIdUJzRHFhTV85Y1JVa29GWWhFN3JsbkJKeGlaZzVUZXJaS2Zac1BvbUZSTU5QSzl0SzlzbjRkRlAyS0l1X1hqeEhhY3hiV0dNaUdrcQ?oc=5",
-      "published": "Thu, 26 Nov 2026 18:15:24 GMT",
-      "source": "Yahoo! Finance Canada"
-    },
-    {
-      "title": "Use Trump Accounts to Teach Your Kids Investing - Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNGIwTGVuN3VFcjUtcDlhQWF3MmphMTdndjdHQ1AxcGp6OF93R1BHMUFlMUZBZ2U5b0JVN1NlaXVzcHNnYkJNQWhZN3NiclJwT0hWeDV3VXI1TjJTdXVIS292SWdPbHE5Y3NWeERyMDdoZFVCemNiMk45WERXdUtOMFYtekZab0k1SC0w?oc=5",
-      "published": "Fri, 27 Nov 2026 14:00:00 GMT",
+      "title": "7 Good Things in Life to Be Thankful for as We Celebrate Thanksgiving - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbkVTY25xa2Q0cVVNSzZCQTY1bkw4WFhVV2czSDBVN2VIeTVJSHl4QTZ5ekwyNklmeDF4OEJxUExVNlNWTnBpZk5TUXctTUFmSlJkSEtaMHZia2JQdmRXZWQ2WkFKcUotYTdYUkFRTXdmR0JtSGltVVJsczkzQk1rZUFIMEFMNmZsb2RFTA?oc=5",
+      "published": "Thu, 26 Nov 2026 15:00:00 GMT",
       "source": "Kiplinger"
     },
     {
-      "title": "Retirement Researchers Call Delaying Social Security the Cheapest Annuity You Can Buy. A 62-Year-Old With $700,000 Will Get It by Waiting Until 70 - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPQ2l5c2Y4YUplaEpuUVo0SmhEV3MtVDlIckd4OGxLS1NuS2Y0d01LV3pMSzA5TG50WGcxWHptLU94TzhSeU9LYTVidTc1SzlmNnZEOUJBSDNDLWQ1cF93R0ZBWGxET3R4UW43M2h1SGNvZmlNb1ByNlQwbDRJYnhneTBnaFFuUHRYa0pvd0JJM0RpTjV4LVkzQlhHejM3NjBUZUx0VU43VU1YQ0w1em05UDhic01YX3NVc3FiOVNVa21JekhfUGVsQ2dDMkJBVTdjWEVrdTE4dTh0a3F6cmNTME1wbkJLSUFPWXJNZ0g5Z0tZVFY0Y2RUUGdlREIxU2lXbHpEYUowMGlVVkZBNEwtU08wWTVQXzV5SFBSWVgzSQ?oc=5",
-      "published": "Fri, 27 Nov 2026 13:03:00 GMT",
+      "title": "New car prices are at a record high. Here's where to look for deals - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11cWx1TDNOU09JS25TcGtOZm9GYTFSSm1TTldHajN6RnUtN0xUNWMzaFlUWmNvbE4xYnhQb1VDRkF3aXlQWkpmbXZtRlRyUE1pWGhWeTVTQmZBU1ZTNDdkMTd4eUNVcVliMFFuV3JIMnhuZzRuOUgzNdIBfkFVX3lxTFBQZ01pQkh4TTlWMFBlVERFSDRJM0dCRUNmQ0xmcWlfbzFYSGdaeDVzQk9seHNKdElDZGwxTUk0SVo4cGhVc1UtYVhtVkUtRlpJa2hyd2ZKdmxTU2FsalJTcElUT0d1NXJ5U29vODBkUHdvN3hzSTNJeU8za2d5Zw?oc=5",
+      "published": "Fri, 27 Nov 2026 13:15:01 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "This Is Exactly How Much Cash You Should Keep at Home (and in Your Wallet) - MONEY",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wYWI3YU9URGlNMjFYV2NISlRCRkhVcmtmVmw3WmVDY2lvY0RQTFp2Y3dMX29ERmUydUJvZnlDejlYbkpDanZtbmlDQk4yZ0NwTEFubDdHYnF5MzRZ?oc=5",
+      "published": "Fri, 27 Nov 2026 13:18:00 GMT",
+      "source": "MONEY"
+    },
+    {
+      "title": "How moneymaxxing can help you manage your finances - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQmY4OGt3ZXdfTzl2LW4tWmQxT3lzdUhqV2ZGS3Ric0s3cWtZY3FYcVdhbnBsV285bC1Ib0RjWi1DQWJoY2xHOE1aWnBfRlJpNG03TFFYZE9PSTdSUDBacE92WjVqaElmT1dqTmRrSjBVRHMwOUtOQUpOcHNvYVVHRmJiZw?oc=5",
+      "published": "Sat, 28 Nov 2026 10:54:36 GMT",
+      "source": "ABC News - Breaking News, Latest News and Videos"
+    },
+    {
+      "title": "‘I Don’t Feel Bad About Selling Gifts for Extra Cash’ - The Cut",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54dWhTT1BHZGhuYnJYZS1GUlVTbnlDSDhPdm1TS1JWYXhDRWY4aS1vTHN1S3l6dzg5NzJWelI2RUFBTWlZTnd1eFNkbVhNdGQwb0gzNXFuQnd3NTJyWWZ5V0lveUhyM0U3UFVadF9RdmdRdVRaSXFsUDA5b05EVjg?oc=5",
+      "published": "Thu, 26 Nov 2026 13:00:29 GMT",
+      "source": "The Cut"
+    },
+    {
+      "title": "'He Doesn't Have Integrity': Suze Orman Says Jensen Huang Should 'Never, Ever, Ever Come Back' but Won't Sell a Single Nvidia Share - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQcDJ1SVJaT2JUejg4NllBZDg5aGU5Q3RqTVFnSS1uUlFxc2dBVFRVUnlnUU5iV2hoMmdKYmVKek5nSGpGWE5SS0tvWEs0WkNWUTVmVGIzdmExV0lQdjk2cUxXUEp4ZUY3dlV4X2g5MnUwUjlFRVhjYTJ4SG5lSW8xdGZlMUlMZ2JYX21mZjdUSk81c2Nscy1neVd0MWZRSktGRURwbFd2Mkp5SW8tZkVYbUh0cmpVMGRqbHNLR2RHcFpXbUltSW9DX21CUFlFakxBVUJRLXRmVFBtYUJqZVNacHNfTUtsSUJ1RlltczNTUjAyUU9hYnpYaXZodUtpWmR5OW4w?oc=5",
+      "published": "Sat, 28 Nov 2026 09:16:00 GMT",
       "source": "24/7 Wall St."
     },
     {
-      "title": "Burned Out After 40 Years of 60-Hour Weeks, He Retires at 62 and Claims a $2,380 Social Security Check. Sick Within Months, He Qualifies for Disability, Restoring Most of His Full $3,400 Check: About $300,000 Over 25 Years - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPbFVqVktYTGdsNkU3aDI2WVRROWtIRGQwNUhDR1BiWVNrc0tIQ1pueHJOUGRLYXlUU1pNdy1XaXVfWW5hYnJpVVN1ckd6cXJqcVRYbmtzRTRXb2hzSHdkY2ZGT0NEOHFpaFNoY1BGZVJSYzFINWpxOVI3ZXVwM1VQYTFDQzMxMTBmazZmM2pSWV91UUFST1FmWklieEdvQjhFSWVRVDRYM2dhMThXcC1sNWJiajVPZktzMnRLcWdpWDlfT1FSbm9fTmo4cmZ6VjFMdWs1SmdiUjlLdnY1dkJlRzRWWHpYMXhQcGctUUFaRHFRTzhlZ1VVZlhyNVQtQ3czdU1CQndhdk5DcTFrVzJjNjZ2cEpNZ0ZsS240Y3VKNXNqUVlpdERVcWZhdElKSDJEUDdTR04wSDBzaUhsY1JTalJLT1N0blpnemxER0RBTDhEWmxDZzZZNEpqTW1QNnplLVRXUEM1bEFITW50OWpNUmhUOA?oc=5",
-      "published": "Fri, 27 Nov 2026 00:03:00 GMT",
-      "source": "24/7 Wall St."
+      "title": "High earners are feeling the pain of wealth creep—and it’s leading to a new tradeoff in their spending - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOVZXY3FYb0c0ejNlaFZBS0hiUXc3aE1tejJQbXVPTldZTUZvb0pJcXBNR3dVLWgwbkpDRkJWTW1FRUgzRzRyVkpDQ01FRVByc004Z2JrYkY0ZlRmckJ6Z2pBNk01MkFZUXBkMDc0dHRNdlg4UVg2SDZNT2hzMkZnZFQ1cGRsdzNiU3V3?oc=5",
+      "published": "Sat, 28 Nov 2026 12:40:00 GMT",
+      "source": "Fortune"
     },
     {
-      "title": "Essay | I Tried to Figure Out the Right Age to Retire. Now I Have to Work Forever. - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSnI1U1NWQmE4aElGWEFCd2tDV25FVGMtMjhQRV9PNmc3bk55OXVjYTh6eTlYLUdyUHpmR2tOT2lMRFJFWVBVN3dzYzl6X2Joa0tjSkY4SU14aV9Cb2lvWjBFQk5lTmJLdV9ZdFp5SXliN2JEMjZLcmFleTA4UGllYQ?oc=5",
-      "published": "Thu, 26 Nov 2026 16:00:00 GMT",
-      "source": "WSJ"
+      "title": "Ohio Dept. of Commerce's tips for holiday budgeting - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOczR1VGY2UVRFUUdEaDItZVRDWFpyNkJiZ1NKZjVuQjVBdTRvWlBqam1Vb09uenVhc2tEc0wyTXI4a2EzUnpWaGxTYVNtbjF1TkRKdHgtVl8wZXNRT0l4YTI4Tnpic0tYWWhOcFZoTmJab3MtM2dFeTluWmNzVmZvdk9sR0toaFJoU2RzeG9hUkFkZ1dHcnRMSVBkVjJiZEVhUmhTS2VrYTNiN1pvSS1HZzVVU01pZw?oc=5",
+      "published": "Fri, 27 Nov 2026 18:30:00 GMT",
+      "source": "Spectrum News"
     },
     {
-      "title": "How New Tax Rules Could Change How You Give This Giving Tuesday - Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOUFjRmtCSG1PZ1NSTjRYV3BCeGhJb29zdmlhcW5NUk1ZaW4wQzNkemhTTWNyckVmVEsyYldIeGUzOGduTzZHNFNPejBqNmlXSjRWT0JLWWhvTGswX3VQUWMwQ2dhS1NUY0cxaEVCLU5vNjVJZkU5ZEtrRFloel83bkE5QnVsV1BnQVhDTmJiSGoycGhl?oc=5",
-      "published": "Fri, 27 Nov 2026 14:00:00 GMT",
-      "source": "Kiplinger"
-    },
-    {
-      "title": "He Lost His Wife—Then Devised an Estate-Planning Fix Anyone Can Do - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rc0lxWUt2Nk5rSFZTSU5yZlRiWXFiOUw4OVZ0RHNsZkE1WFVxcExDaWo0Q1dzQlRCRkpSNm4zVFBEekRiYXZEbk9PcGJsS2tIRlNIQUVFd3pkNklqMmNTY2dzNEN0LVE2NGJTVDhEdGtjR2QwNjEzUFVOSQ?oc=5",
-      "published": "Fri, 27 Nov 2026 10:00:00 GMT",
-      "source": "WSJ"
-    },
-    {
-      "title": "Holiday budgeting tips to help keep spending on track this season - wbbjtv.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYm42cDdlMjBpRjNLMWZqM04tc1VqQU9wOWVnX2x3WDhEOGZ0N1FnQjFZMDI3cDFmTml0WDB5M0FGVXNFN3Jrd3l0d2tfbTR4OTg5Wm9MekZqSGd0dTAxdk5WamlKamFjSGYza3U4OE9ISjlKcVFmcWZkeFBIZUxoWUEza2FGTEtkblJhNnI5OEhkbkFBYjZrQVhVUmlDRXhtTWc?oc=5",
-      "published": "Fri, 27 Nov 2026 02:08:00 GMT",
-      "source": "wbbjtv.com"
-    },
-    {
-      "title": "Financial expert shares tips for avoiding holiday shopping debt - WSMV",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYTJ4d1cxTXVMMkM4elB2Ni0tV3lEelJiYUI2ZVhqYjUwekpVS01xUkgyOWpJeXdkUlRyQnRjM0U5b2Vtci1obzlUVjZuM0lYLW94OWNHeGh1cWkxLVpudWJxd2ZjUDV4a3pQb2REWW50U1F2TjRETExmcEdWZDl2M1R4M2szbmlfZUl4VzRyREI3cHlBb2hj?oc=5",
-      "published": "Thu, 26 Nov 2026 22:47:00 GMT",
-      "source": "WSMV"
-    },
-    {
-      "title": "Will gas prices continue going down? Colorado expert speaks on budgeting tips for the holidays - KKTV",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSzZBUC1mRnFHM1ptcTlsdnp5UXZma1VVNnc1NWFUUENEbDNRUl90ZXFRZDBISkt5UU40bDZtREFJREFUMThQMVhBX2tkQVpaY3NXa25lUEpMQU93WXRsUHBtZFZWN0NieEFwVFlZVXdMWkV0SUtTbUEybDl2NHhPQUJrQXkxWDE0NXdOWGZnVkdGTUxqcEpDS0NxTkdSTXpUNkVFdzk1b01aT1VIOFpxdng3dVhaUdIBygFBVV95cUxOakpLcHU3elZ2Q0lFNWhCekNvWFI3M0hURGpBd1FiLUYwUXY2Z2JYUTFhdmpJWkVIemxIVkFKcEZrQW5MTGF2UHo2S2JCcWNSR1l3V2VYcE80Tmxab25LODJqb3FnWVVxblg4Q0xId2twVHlEOXFKWTNkdF8xdGRNS1B0QWlXQk53VENyVnAwUDlQdldjUWJUbmNqUjlIdHZxZlV6T0VXc2xDWDJxV2dOYkZjNzB6VjU0aFpzZFMwZGw0ZEx0bXU3QXpR?oc=5",
-      "published": "Wed, 25 Nov 2026 05:19:00 GMT",
-      "source": "KKTV"
-    },
-    {
-      "title": "Planning and budgeting tips for holiday shopping - LiveNOW from FOX",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xTDhUeDJueWZ0TG4zeHNHZE9NR1NoQWtfdnhNOEY4WW01OXV2NXZJQVpmX1Rwc2VqTUx5NTNybVIyUGwxa1RLV0E1VzZGUDAzZXY3ams3NnNUUFRSY1laUS1kUdIBaEFVX3lxTFA2ci04ekhYUzBGZ3BGZGVmRl9Cb3RnclEyZGtON055NXFlaHg5Y0RRdlBWWlNBSWc3czVfdkE4OElpLUZScTJvT2xvcGZCN09MYkxSWkZnYmRXYUlaSU9BdjVGNEVUQzRF?oc=5",
-      "published": "Sun, 22 Nov 2026 14:07:25 GMT",
-      "source": "LiveNOW from FOX"
+      "title": "15 Budgeting Tips for Beginners to Manage Your Money Better - Ramsey Solutions",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YSTFYbmhsNm45QkV6d1ZJVTdKZGt5SU4xNkJrdjUwdW1rQXJBcGtTSXRaZXJNZlZVUHNnakpnVm1HMTBzSjlDLTFzQ0dObFNYY2M1bUFGUV9neC1hYXJFd2R2c2l5ZDBRRURXLVAwWl8wTzNKOUE?oc=5",
+      "published": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "source": "Ramsey Solutions"
     },
     {
       "title": "Holiday budgeting tips to help keep spending on track this season - WBBJ-TV",
@@ -138,25 +134,40 @@
       "source": "WBBJ-TV"
     },
     {
-      "title": "How to Save Money: 28 Ways - NerdWallet",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfRmx2UEk3TFNIeXRHdWJaOHNkTkg5QWFmY1g1aUpSNkNONzZyRk1lczZoRUxBaXB2RXdkeE0yVHUydzMwTkpPUkxsSlBSU1V2ZGoydWRfNTQxeGd6d1EwSVdMR0dNY0xJcnc?oc=5",
-      "published": "Wed, 18 Nov 2026 08:00:00 GMT",
-      "source": "NerdWallet"
+      "title": "Keep holiday spending under control with practical budgeting tips - Farm and Dairy",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSnU0dmNkV2lxSUFVb2pTWE1zMzk3WldDcU8wMXZuQ2NCU2lmOE1YS3BEUkdPNS1QRmFhcF9JLWVZd1ZLNFhTN2p5YkVTd3Q1SkM0UUF6VGVPS1FaYzAyVC1XNzlTRnV6YTV5aUQxVDEwY0lpSTRPNzltT1RDa3kxQml6dzlvdk0tSUdrVDFEU0hnMk5VRWtMT2N4RzBQQlBBNFpHZF9yWGplN3RCWDFLWA?oc=5",
+      "published": "Fri, 27 Nov 2026 16:26:59 GMT",
+      "source": "Farm and Dairy"
     },
     {
-      "title": "Watch Planning and budgeting tips for holiday shopping - LiveNow - FOX One",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOekl0c3ducGtfYXc0d1ppeE03YzJDb3Fjdk94aS1qWWJDWU11emhwR25aN2RKdFpDVnN0cDhTejlqTU1vVlRXTFlNUlpOc2lqc1FXd2Q5WGNuSDg2bnVLLTg1VkIxMmlpZXhhcndxU3p6TDhpdDJJRFVhQlFVRnljVy1aa0JETTFacjJkZDI2bnhqMnRjbWxsZXNiZGpMSVlQRVE?oc=5",
-      "published": "Sun, 22 Nov 2026 08:00:00 GMT",
-      "source": "FOX One"
-    }
-  ],
-  "hn_stories": [],
-  "trending_searches": [
+      "title": "Tips to give back this Thanksgiving without straining your budget - KATU",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZ1ZTSDlQYTAzZ01YaFZhWTQzbVNUNldEUHpFTGZTVml1S0FRMkJrQ3ZpVHV3VzdOR2xCa2NfY1VtUWd3a19DNlV1azF4b2V4UEhiX3BLV2MtekZxcmp3dkh5emVueEljNEowQV9qVFI2b3lZdEhjYUlEcmRTTWNUYkIzS0RJMkNsWDg0QV9rXzdTMjRiX19xWk1OaUh5d0hiWGNBS0w3bnRYTk1wQnhOX3lfM215eFFtMGZGMURJajl3c1ZNY2FuWElDNUQtSUZKNzFtbG5obnUtVkhoazFoUUhhNHZZdURRajNsSGFxTnQ1aGxGRDVyUTNLbFU2cHgtX3c?oc=5",
+      "published": "Fri, 27 Nov 2026 17:11:37 GMT",
+      "source": "KATU"
+    },
     {
-      "term": "mstr stock",
-      "source": "Google Trends US"
+      "title": "WalletHub Expert Gives Holiday Budgeting Advice for Black Friday - WFIR News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcUc4bTJrQTNGa1BJMG1NMlVkR2NPUkhtSm1ISHRrU29wN09LXy01eklBQl9KNkRvYkZaQTkwNGFoTk54QkQ4N05uNnoxeld4SEk4UVR6ODhwZTl5WENsNlNzSkk4SGJZaE9rTEJOZFdJNjVpM3ZTeEZQczNxQ1F5bThIRXpDOXR0a1VkZDZob3RtU1Bq?oc=5",
+      "published": "Fri, 27 Nov 2026 17:30:24 GMT",
+      "source": "WFIR News"
+    },
+    {
+      "title": "Will gas prices continue going down? Colorado expert speaks on budgeting tips for the holidays - KKTV",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSzZBUC1mRnFHM1ptcTlsdnp5UXZma1VVNnc1NWFUUENEbDNRUl90ZXFRZDBISkt5UU40bDZtREFJREFUMThQMVhBX2tkQVpaY3NXa25lUEpMQU93WXRsUHBtZFZWN0NieEFwVFlZVXdMWkV0SUtTbUEybDl2NHhPQUJrQXkxWDE0NXdOWGZnVkdGTUxqcEpDS0NxTkdSTXpUNkVFdzk1b01aT1VIOFpxdng3dVhaUdIBygFBVV95cUxOakpLcHU3elZ2Q0lFNWhCekNvWFI3M0hURGpBd1FiLUYwUXY2Z2JYUTFhdmpJWkVIemxIVkFKcEZrQW5MTGF2UHo2S2JCcWNSR1l3V2VYcE80Tmxab25LODJqb3FnWVVxblg4Q0xId2twVHlEOXFKWTNkdF8xdGRNS1B0QWlXQk53VENyVnAwUDlQdldjUWJUbmNqUjlIdHZxZlV6T0VXc2xDWDJxV2dOYkZjNzB6VjU0aFpzZFMwZGw0ZEx0bXU3QXpR?oc=5",
+      "published": "Wed, 25 Nov 2026 05:19:00 GMT",
+      "source": "KKTV"
     }
   ],
+  "hn_stories": [
+    {
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "score": 565,
+      "comments": 309,
+      "source": "Hacker News"
+    }
+  ],
+  "trending_searches": [],
   "errors": [
     "reddit r/personalfinance: HTTP Error 403: Blocked",
     "reddit r/financialindependence: HTTP Error 403: Blocked"
